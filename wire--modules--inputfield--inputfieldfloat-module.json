@@ -1,1 +1,9 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldFloat.module","textdomain":"wire--modules--inputfield--inputfieldfloat-module","translations":{"22ae0e2b89e5e3d477f988cc36d3272b":{"text":"Desimaaliluku"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFloat.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfloat-module",
+    "translations": {
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Desimaaliluku"
+        }
+    }
+}

@@ -1,1 +1,54 @@
-{"file":"wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module","textdomain":"wire--modules--process--processpagelist--processpagelist-module","translations":{"f4ec5f57bd4d31b803312d873be40da9":{"text":"Muuta"},"ea4788705e6873b424c65e91c2846b19":{"text":"Peruuta"},"e0626222614bdee31951d84c64e5e9ff":{"text":"Valitse"},"46b816f573557a53c93ac78bbcfa9493":{"text":"Poista valinta"},"d3da97e2d9aee5c8fbe03156ad051c99":{"text":"Lis\u00e4\u00e4"},"d95deddfb80310ff0d1d63013611777c":{"text":"Siirr\u00e4 raahaamalla"},"7dce122004969d56ae2e0245cb754d35":{"text":"Muokkaa"},"4351cfebe4b61d8aa5efa1d020710005":{"text":"Katso"},"03c2e7e41ffc181a4e84080b4710e81e":{"text":"Uusi"},"6bc362dbf494c61ea117fe3c71ca48a5":{"text":"Siirr\u00e4"},"ce2c8aed9c2fa0cfbed56cbda4d8bf07":{"text":"Tyhjenn\u00e4"},"f413b7eb4ef50a382b0fe0cfe04fdc30":{"text":"Roskakori auki: raahaa sivut alapuolelle poistaaksesi ne"},"de306d89ec101aba6fb73c6879710e6c":{"text":"Sivua ei l\u00f6ytynyt"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Yll\u00e4pito"},"a7e253cd8dd95da3e20daf45519a8dc2":{"text":"Roskakori"},"8cf04a9734132302f96da8e113e80ce5":{"text":"Koti"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Muuta"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Peruuta"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Valitse"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Poista valinta"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Lis\u00e4\u00e4"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Siirr\u00e4 raahaamalla"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Muokkaa"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Katso"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Uusi"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "Siirr\u00e4"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Tyhjenn\u00e4"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Roskakori auki: raahaa sivut alapuolelle poistaaksesi ne"
+        },
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "Sivua ei l\u00f6ytynyt"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Yll\u00e4pito"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Roskakori"
+        },
+        "8cf04a9734132302f96da8e113e80ce5": {
+            "text": "Koti"
+        }
+    }
+}

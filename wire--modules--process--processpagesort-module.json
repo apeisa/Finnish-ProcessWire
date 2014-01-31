@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/Process\/ProcessPageSort.module","textdomain":"wire--modules--process--processpagesort-module","translations":{"96f477ed9c2b2d81e6fc9c3cd2193529":{"text":"Sinulla ei ole oikeuksia siirt\u00e4\u00e4 sivuja t\u00e4m\u00e4n sivun alla"},"1c43008d48eb0ff1df5fc9087a7ccb8c":{"text":"Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun alla olevien sivujen j\u00e4rjestyst\u00e4"},"a11ef76ec43453f86021db2c2e1b2960":{"text":"Sivun siirtoa ei tallennettu, koska sivut j\u00e4rjestet\u00e4\u00e4n automaattisesti kent\u00e4n %s perusteella."}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageSort.module",
+    "textdomain": "wire--modules--process--processpagesort-module",
+    "translations": {
+        "96f477ed9c2b2d81e6fc9c3cd2193529": {
+            "text": "Sinulla ei ole oikeuksia siirt\u00e4\u00e4 sivuja t\u00e4m\u00e4n sivun alla"
+        },
+        "1c43008d48eb0ff1df5fc9087a7ccb8c": {
+            "text": "Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun alla olevien sivujen j\u00e4rjestyst\u00e4"
+        },
+        "a11ef76ec43453f86021db2c2e1b2960": {
+            "text": "Sivun siirtoa ei tallennettu, koska sivut j\u00e4rjestet\u00e4\u00e4n automaattisesti kent\u00e4n %s perusteella."
+        }
+    }
+}

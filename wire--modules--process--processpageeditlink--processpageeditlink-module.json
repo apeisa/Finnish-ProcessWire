@@ -1,1 +1,30 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module","textdomain":"wire--modules--process--processpageeditlink--processpageeditlink-module","translations":{"0f1d07df1a82d22e187c72bacabc1117":{"text":"Valitse sivu"},"ddb0ec6745aefbc02b9c9eb0dfb2e796":{"text":"Sy\u00f6t\u00e4 osoite, valitse sivu tai tiedosto johon linkit\u00e4t:"},"f6f7f0f8aa1ef94fdf01a81f1cb24e7a":{"text":"Linkit\u00e4 osoitteeseen"},"d0371b1908138f8cd5be5356ef5a46ab":{"text":"Linkit\u00e4 sivuun"},"629ea6ac7fee06a764a49cb39bd356d9":{"text":"Avaa linkki uudessa ikkunassa?"},"1f3e9bfe3126acfe0af746ec6ed2db68":{"text":"Mik\u00e4li valittu, linkki avataan uudessa ikkunassa tai v\u00e4lilehdess\u00e4."},"149a978aed458d66e08de0460cdbf65e":{"text":"Linkit\u00e4 tiedostoon"},"27c6c65717076df3e127c24bee401fa7":{"text":"Valitaksesi tiedoston toiselta sivulta, klikkaa \"Linkita sivuun\" ja valitse sivu jolla haluamasi tiedosto sijaitsee."}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Valitse sivu"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Sy\u00f6t\u00e4 osoite, valitse sivu tai tiedosto johon linkit\u00e4t:"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Linkit\u00e4 osoitteeseen"
+        },
+        "d0371b1908138f8cd5be5356ef5a46ab": {
+            "text": "Linkit\u00e4 sivuun"
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Avaa linkki uudessa ikkunassa?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Mik\u00e4li valittu, linkki avataan uudessa ikkunassa tai v\u00e4lilehdess\u00e4."
+        },
+        "149a978aed458d66e08de0460cdbf65e": {
+            "text": "Linkit\u00e4 tiedostoon"
+        },
+        "27c6c65717076df3e127c24bee401fa7": {
+            "text": "Valitaksesi tiedoston toiselta sivulta, klikkaa \"Linkita sivuun\" ja valitse sivu jolla haluamasi tiedosto sijaitsee."
+        }
+    }
+}

@@ -1,1 +1,36 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldText.module","textdomain":"wire--modules--inputfield--inputfieldtext-module","translations":{"9dffbf69ffba8bc38bc4e01abf4b1675":{"text":"Tekstikentt\u00e4 (1 rivi)"},"6f6cb72d544962fa333e2e34ce64f719":{"text":"Kent\u00e4n leveys"},"7fcc26bcb0e9d85b555592f97cde9539":{"text":"Kent\u00e4n n\u00e4ytett\u00e4v\u00e4 leveys. Aseta 0, mik\u00e4li haluat t\u00e4yden leveyden."},"2eb8badec738786d01bb81d0ee6ab3c0":{"text":"Merkkien m\u00e4\u00e4r\u00e4rajoitus"},"a4965347ff8523a66897b92fec81e04e":{"text":"Suurin sallittu merkkim\u00e4\u00e4r\u00e4."},"6485c7641245873388f0170f472183c6":{"text":"Esimerkkiteksti"},"dc08a8f73b667ceb56b5a22449e41d3e":{"text":"Valinnainen esimerkkiteksti, joka n\u00e4ytet\u00e4\u00e4n kent\u00e4ss\u00e4. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 ohjeistamaan k\u00e4ytt\u00e4j\u00e4\u00e4 oikeaan muotoon."},"68adfe27201a615848e5da595ae9f690":{"text":"Esit\u00e4ytetty arvo"},"c3924ea34ee91e9de3ff80493fce8527":{"text":"Valinnainen esit\u00e4ytetty arvo kent\u00e4lle."},"03272093fac940815539048b032444ea":{"text":"Yksi rivi teksti\u00e4"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext-module",
+    "translations": {
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekstikentt\u00e4 (1 rivi)"
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Kent\u00e4n leveys"
+        },
+        "7fcc26bcb0e9d85b555592f97cde9539": {
+            "text": "Kent\u00e4n n\u00e4ytett\u00e4v\u00e4 leveys. Aseta 0, mik\u00e4li haluat t\u00e4yden leveyden."
+        },
+        "2eb8badec738786d01bb81d0ee6ab3c0": {
+            "text": "Merkkien m\u00e4\u00e4r\u00e4rajoitus"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "Suurin sallittu merkkim\u00e4\u00e4r\u00e4."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Esimerkkiteksti"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Valinnainen esimerkkiteksti, joka n\u00e4ytet\u00e4\u00e4n kent\u00e4ss\u00e4. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 ohjeistamaan k\u00e4ytt\u00e4j\u00e4\u00e4 oikeaan muotoon."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Esit\u00e4ytetty arvo"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Valinnainen esit\u00e4ytetty arvo kent\u00e4lle."
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Yksi rivi teksti\u00e4"
+        }
+    }
+}

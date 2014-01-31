@@ -1,1 +1,42 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module","textdomain":"wire--modules--process--processpageeditimageselect--processpageeditimageselect-module","translations":{"5d13ae1a65403891ac0fe044f3acc865":{"text":"T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse toinen sivu, jolta valitset kuvia."},"64a201e91bd521f5640318d844920b31":{"text":"T\u00e4ll\u00e4 sivulla ei ole kuvia. Sulje ikkuna ja lis\u00e4\u00e4 kuvia tai valitse kuvat toiselta sivulta."},"83ea3ed3245ed2ce30aabecdc6b4d354":{"text":"Kuvat t\u00e4ll\u00e4 sivulla:"},"48448404ecc9e95975b334dbe421c0bd":{"text":"Mik\u00e4li haluat valita kuvia toiselta sivulta, valitse sivu alapuolelta."},"48ccf48dcf2218a413ce473262f21a0c":{"text":"Leveys:"},"e933dc24fb245d863a43b4fefe9b45f5":{"text":"Korkeus:"},"9178792605ed21e1641c9b2a2e16a721":{"text":"Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuvan kokoa vet\u00e4m\u00e4ll\u00e4 sit\u00e4 oikeasta alakulmasta."},"e853a6aca1b442d161c2642e88346bf9":{"text":"Ei tasausta"},"811398cb1e49b4f45851cc25fcc6501f":{"text":"Tasaa kuva vasemmalle"},"ad68675da1db2fb44a8d1cabcbbbb65e":{"text":"Tasaa kuva oikealle"},"e36098607b9dd3b6d7107a449b6a25bd":{"text":"Keskit\u00e4 kuva"},"d7e02762cdb4621a77388689b2ee53c0":{"text":"Linkit\u00e4 kuvan alkuper\u00e4isversioon?"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse toinen sivu, jolta valitset kuvia."
+        },
+        "64a201e91bd521f5640318d844920b31": {
+            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvia. Sulje ikkuna ja lis\u00e4\u00e4 kuvia tai valitse kuvat toiselta sivulta."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Kuvat t\u00e4ll\u00e4 sivulla:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Mik\u00e4li haluat valita kuvia toiselta sivulta, valitse sivu alapuolelta."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Leveys:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Korkeus:"
+        },
+        "9178792605ed21e1641c9b2a2e16a721": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuvan kokoa vet\u00e4m\u00e4ll\u00e4 sit\u00e4 oikeasta alakulmasta."
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Ei tasausta"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Tasaa kuva vasemmalle"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Tasaa kuva oikealle"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Keskit\u00e4 kuva"
+        },
+        "d7e02762cdb4621a77388689b2ee53c0": {
+            "text": "Linkit\u00e4 kuvan alkuper\u00e4isversioon?"
+        }
+    }
+}

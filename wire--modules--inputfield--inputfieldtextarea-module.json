@@ -1,1 +1,9 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldTextarea.module","textdomain":"wire--modules--inputfield--inputfieldtextarea-module","translations":{"b5d4d25fe3fa9f8263b5f279a372b709":{"text":"Tekstikentt\u00e4 (iso)"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextarea.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtextarea-module",
+    "translations": {
+        "b5d4d25fe3fa9f8263b5f279a372b709": {
+            "text": "Tekstikentt\u00e4 (iso)"
+        }
+    }
+}

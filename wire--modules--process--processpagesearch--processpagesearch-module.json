@@ -1,1 +1,84 @@
-{"file":"wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module","textdomain":"wire--modules--Process--ProcessPageSearch--ProcessPageSearch-module","translations":{"dc87414810d43e27f63b89feabadc943":{"text":"L\u00f6ytyi %1$d sivua seuraavalla haulla: %2$s"},"2c44229630ad7e2758a89bd14435a31b":{"text":"Ei hakua m\u00e4\u00e4ritelty"},"75ecaaafd1f677d07360709be6528768":{"text":"Etsi:"},"f802f85dd1eb6a1b3fb0591c682807e9":{"text":"Etsi kentist\u00e4:"},"9e230fa5487a0172264f31c0a1b08b61":{"text":"Rajoita seuraaviin sivupohjiin:"},"52b9d143876d2754dd01be52587b1de8":{"text":"Haun tyyppi:"},"1e9c565e43a1f652a2718003bbad887e":{"text":"N\u00e4ytett\u00e4v\u00e4t kent\u00e4t:"},"6f9d01a14011f05fffe48559583fc609":{"text":"J\u00e4rjest\u00e4:"},"fa4e2f0cea3ceef82c840df64fecb9e4":{"text":"K\u00e4\u00e4nteinen j\u00e4rjestys?"},"b4805a9af05d82889758dda70003cfc6":{"text":"Hakuvalinnat"},"9b6545e4cea9b4ad4979d41bb9170e2b":{"text":"Tarkennettu haku"},"de95b43bceeb4b998aed4aed5cef1ae7":{"text":"muokkaa"},"0ccb67e7eaae09d9e4078d161eeca100":{"text":"Yht\u00e4 kuin"},"3255c386f4276b5c66f12d216ec71906":{"text":"Eri kuin"},"05824b7be006782aaefd1fdb97c71e06":{"text":"Suurempi kuin"},"798fe01fcb2754a295b6937ed885a69a":{"text":"Suurempi tai yht\u00e4suuri kuin"},"ad647e4ae904c7ed54ee93040d8298c7":{"text":"Pienempi kuin"},"28d1141142e2cbb29e657b69a044ddf4":{"text":"Pienempi tai yht\u00e4suuri kuin"},"45fc43a01c15bc63159695441dfacd63":{"text":"Sis\u00e4lt\u00e4\u00e4 sanoja tai osittaisen sanan"},"e44edbd140708c448e991cde9d8dc0b2":{"text":"Sis\u00e4lt\u00e4\u00e4 sanoja k\u00e4ytt\u00e4en LIKE-hakua"},"593e63d42f95f6ad96cf700f80c2fe2c":{"text":"Sis\u00e4lt\u00e4\u00e4 kaikki sanat"},"29e9d8e295b1d5b3002d2d3d5baa4c37":{"text":"Oikopolut"},"4ecb0055aa1e66535afeaf6093585618":{"text":"Hae"},"d27c07f4c0dd15e39cedd91c19cb279f":{"text":"Hae"},"4b315bff8c7b70281de8ffffbd150708":{"text":"Hae"},"1da914fe3f639d8b3d977a006d2b0c69":{"text":"L\u00f6ytyi %1$d sivu seuraavalla haulla: %2$s"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--Process--ProcessPageSearch--ProcessPageSearch-module",
+    "translations": {
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "L\u00f6ytyi %1$d sivua seuraavalla haulla: %2$s"
+        },
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Ei hakua m\u00e4\u00e4ritelty"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Etsi:"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Etsi kentist\u00e4:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Rajoita seuraaviin sivupohjiin:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Haun tyyppi:"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "N\u00e4ytett\u00e4v\u00e4t kent\u00e4t:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "J\u00e4rjest\u00e4:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "K\u00e4\u00e4nteinen j\u00e4rjestys?"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Hakuvalinnat"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Tarkennettu haku"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "muokkaa"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Yht\u00e4 kuin"
+        },
+        "3255c386f4276b5c66f12d216ec71906": {
+            "text": "Eri kuin"
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "Suurempi kuin"
+        },
+        "798fe01fcb2754a295b6937ed885a69a": {
+            "text": "Suurempi tai yht\u00e4suuri kuin"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Pienempi kuin"
+        },
+        "28d1141142e2cbb29e657b69a044ddf4": {
+            "text": "Pienempi tai yht\u00e4suuri kuin"
+        },
+        "45fc43a01c15bc63159695441dfacd63": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 sanoja tai osittaisen sanan"
+        },
+        "e44edbd140708c448e991cde9d8dc0b2": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 sanoja k\u00e4ytt\u00e4en LIKE-hakua"
+        },
+        "593e63d42f95f6ad96cf700f80c2fe2c": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Oikopolut"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Hae"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Hae"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Hae"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "L\u00f6ytyi %1$d sivu seuraavalla haulla: %2$s"
+        }
+    }
+}
