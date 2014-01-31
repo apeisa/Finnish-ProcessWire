@@ -2,12 +2,6 @@
     "file": "wire\/templates-admin\/default.php",
     "textdomain": "wire--templates-admin--default-php",
     "translations": {
-        "7d97481b1fe66f4b51db90da7e794d9f": {
-            "text": "Omat tiedot"
-        },
-        "4236a440a662cc8253d7536e5aa17942": {
-            "text": "Kirjaudu ulos"
-        },
         "453aceb005ceaf54a47da15fee8b2a26": {
             "text": "Sivut"
         },
@@ -28,6 +22,18 @@
         },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
             "text": "Sivusto"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Omat tiedot"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Kirjaudu ulos"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Katso sivustoa"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
         }
     }
 }

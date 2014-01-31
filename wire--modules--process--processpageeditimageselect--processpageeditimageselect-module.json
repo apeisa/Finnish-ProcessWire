@@ -20,9 +20,6 @@
         "e933dc24fb245d863a43b4fefe9b45f5": {
             "text": "Korkeus:"
         },
-        "9178792605ed21e1641c9b2a2e16a721": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuvan kokoa vet\u00e4m\u00e4ll\u00e4 sit\u00e4 oikeasta alakulmasta."
-        },
         "e853a6aca1b442d161c2642e88346bf9": {
             "text": "Ei tasausta"
         },
@@ -37,6 +34,12 @@
         },
         "d7e02762cdb4621a77388689b2ee53c0": {
             "text": "Linkit\u00e4 kuvan alkuper\u00e4isversioon?"
+        },
+        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuvan kokoa vet\u00e4m\u00e4ll\u00e4 sit\u00e4 oikeasta alakulmasta."
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Kuvaus"
         }
     }
 }
