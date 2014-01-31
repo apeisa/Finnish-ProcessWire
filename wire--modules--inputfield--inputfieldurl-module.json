@@ -1,1 +1,18 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldURL.module","textdomain":"wire--modules--inputfield--inputfieldurl-module","translations":{"961a0e7330169a0918a85c1086c4ff3a":{"text":"Sy\u00f6t\u00e4 verkkosivujen osoite muodossa: http:\/\/www.sivusto.fi\/osoite\/"},"34b4cb36f08c1d976a2e58d37d81ce49":{"text":"Aloita paikalliset osoitteet \"\/\" merkill\u00e4 ja j\u00e4t\u00e4 pois \"%s\" osa."},"31d3da8cb2ee3f26243a6157ce0e5634":{"text":"Virhe l\u00f6ydetty. Tarkista verkkosivujen osoitteen muoto."},"db04dc8c39e8a426d723ba1c6f8a2cd4":{"text":"http:\/\/ lis\u00e4ttiin verkkosivun osoitteeseen."}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
+    "textdomain": "wire--modules--inputfield--inputfieldurl-module",
+    "translations": {
+        "961a0e7330169a0918a85c1086c4ff3a": {
+            "text": "Sy\u00f6t\u00e4 verkkosivujen osoite muodossa: http:\/\/www.sivusto.fi\/osoite\/"
+        },
+        "34b4cb36f08c1d976a2e58d37d81ce49": {
+            "text": "Aloita paikalliset osoitteet \"\/\" merkill\u00e4 ja j\u00e4t\u00e4 pois \"%s\" osa."
+        },
+        "31d3da8cb2ee3f26243a6157ce0e5634": {
+            "text": "Virhe l\u00f6ydetty. Tarkista verkkosivujen osoitteen muoto."
+        },
+        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
+            "text": "http:\/\/ lis\u00e4ttiin verkkosivun osoitteeseen."
+        }
+    }
+}

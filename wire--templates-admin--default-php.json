@@ -1,1 +1,39 @@
-{"file":"wire\/templates-admin\/default.php","textdomain":"wire--templates-admin--default-php","translations":{"7d97481b1fe66f4b51db90da7e794d9f":{"text":"Omat tiedot"},"4236a440a662cc8253d7536e5aa17942":{"text":"Kirjaudu ulos"},"453aceb005ceaf54a47da15fee8b2a26":{"text":"Sivut"},"ad2376beebecdcf7846ba973fa1a005b":{"text":"Asetukset"},"bf17ac149e2e7a530c677e9bd51d3fd2":{"text":"Moduulit"},"bf733d8a933c1601697f364223fc7ecb":{"text":"K\u00e4ytt\u00e4j\u00e4hallinta"},"9cfefed8fb9497baa5cd519d7d2bb5d7":{"text":"fi"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Yll\u00e4pito"},"a7d6475ec8993b7224d6facc8cb0ead6":{"text":"Sivusto"}}}
+{
+    "file": "wire\/templates-admin\/default.php",
+    "textdomain": "wire--templates-admin--default-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Sivut"
+        },
+        "ad2376beebecdcf7846ba973fa1a005b": {
+            "text": "Asetukset"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduulit"
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "K\u00e4ytt\u00e4j\u00e4hallinta"
+        },
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "fi"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Yll\u00e4pito"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "Sivusto"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Omat tiedot"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Kirjaudu ulos"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Katso sivustoa"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        }
+    }
+}

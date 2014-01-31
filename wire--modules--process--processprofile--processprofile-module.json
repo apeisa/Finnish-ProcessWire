@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module","textdomain":"wire--modules--process--processprofile--processprofile-module","translations":{"9fbf3617c6172a75648e9ac0a864bb56":{"text":"Omat tiedot"},"f9e0ddbbff17d789d7844835e71e789f":{"text":"Omia tietoja ei tallennettu"},"f29de224c874ad891ea1c3627aa468be":{"text":"Omat tiedot tallennettu"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Omat tiedot"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Omia tietoja ei tallennettu"
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Omat tiedot tallennettu"
+        }
+    }
+}

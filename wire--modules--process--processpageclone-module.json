@@ -1,1 +1,48 @@
-{"file":"wire\/modules\/Process\/ProcessPageClone.module","textdomain":"wire--modules--process--processpageclone-module","translations":{"5fb63579fc981698f97d55bfecb213ea":{"text":"Kopioi"},"779e23d04b68b9515ffc345454994895":{"text":"Kopioi sivu"},"0ac579c02e8d96b65a4bff917771b245":{"text":"Sivun lataaminen ei onnistunut"},"3311bb66a5349309e01c99050e744f0b":{"text":"T\u00e4m\u00e4 tekee kopion sivusta &s"},"59eeb47edc78526e0e13dc0dfa8f6b07":{"text":"Uuden sivun nimi"},"415d40999f28fef452f65616dabfc7a0":{"text":"Pid\u00e4 uusi sivu julkaisemattomana (piilossa ja p\u00e4\u00e4sy estetty)"},"2627956e008c08b8affd8608d7980ff4":{"text":"Jos valittu, niin kopioitu sivu pysyy julkaisemattomana ja on t\u00e4ten piilossa kaikilta selaajilta."},"5061c76f17ce15eb2a6092a51cb22aa3":{"text":"Kopioi my\u00f6s alasivut?"},"a6c4c88eb6c7d256bf2e4aa56df4430f":{"text":"Jos valittu, niin kaikki alasivut kopioidaan my\u00f6s. T\u00e4m\u00e4 tekee siis t\u00e4ydellisen kopion koko sivuhaarasta."},"06170efdb0d3840cd32dea984d32067a":{"text":"Varoitus: mik\u00e4li sivuhaara on kovin suuri, t\u00e4m\u00e4 voi vied\u00e4 paljon aikaa tai olla jopa mahdoton toteuttaa."},"6a26ee7a6d1234006bf3806ee697f7d0":{"text":"Sivun %s kopiointi ei onnistunut."},"a53383ccbc1435fbbe9b2454dd11deb8":{"text":"Nimi '%s' on jo k\u00e4yt\u00f6ss\u00e4. Sivun nimettiin automaattisesti uudelleen."},"7e263f9f6a65e1126c6a599ea015a27c":{"text":"Kopioittiin sivu \"%1$s\" sivuksi \"%2$s\""},"0a198ede7ab46185f2e9fb2a3628419b":{"text":"(kopio)"},"884ba0e5457b084e152567fd52b66f6c":{"text":"(kopio %d)"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopioi"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Kopioi sivu"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Sivun lataaminen ei onnistunut"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "T\u00e4m\u00e4 tekee kopion sivusta &s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Uuden sivun nimi"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Pid\u00e4 uusi sivu julkaisemattomana (piilossa ja p\u00e4\u00e4sy estetty)"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Jos valittu, niin kopioitu sivu pysyy julkaisemattomana ja on t\u00e4ten piilossa kaikilta selaajilta."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Kopioi my\u00f6s alasivut?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Jos valittu, niin kaikki alasivut kopioidaan my\u00f6s. T\u00e4m\u00e4 tekee siis t\u00e4ydellisen kopion koko sivuhaarasta."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Varoitus: mik\u00e4li sivuhaara on kovin suuri, t\u00e4m\u00e4 voi vied\u00e4 paljon aikaa tai olla jopa mahdoton toteuttaa."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Sivun %s kopiointi ei onnistunut."
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Kopioittiin sivu \"%1$s\" sivuksi \"%2$s\""
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopio)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(kopio %d)"
+        }
+    }
+}
