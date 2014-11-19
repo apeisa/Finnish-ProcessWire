@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotifications.module",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
+    "translations": {
+        "3228f89d6d7bef8bf9c32fa47cbb82b0": {
+            "text": "404 virhe: %s"
+        },
+        "f1aac9258ac4fde43df9a1c10945c133": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 kirjautui sis\u00e4\u00e4n: %s"
+        },
+        "6749d5c7c5998b79513c6257606ffedc": {
+            "text": "Kirjautuminen ep\u00e4onnistui: %s"
+        },
+        "cb44f59c366c2adb4a35ef342be91163": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 kirjautui ulos: %s"
+        },
+        "0914afe426319fe974cef0952de1ed3b": {
+            "text": "% uusi viesti"
+        },
+        "c92bdbaba42dc068673bfa173e7be426": {
+            "text": "%d uutta viesti\u00e4"
+        },
+        "6ab40b9da8f74c8299cdb3afba46eda6": {
+            "text": "%d uusi varoitus"
+        },
+        "164d23ca0285a3061ee20f166343f068": {
+            "text": "%d uutta varoitusta"
+        },
+        "246262550fe3b31379bb81b656e4d64f": {
+            "text": "%d uusi virhe"
+        },
+        "f476d7ef955355a5633a914abbe1f3c1": {
+            "text": "%d uutta virhett\u00e4"
+        },
+        "2009e6e3b0f694f86c2f98728c22b053": {
+            "text": "%d aktiivinen prosessi"
+        },
+        "1a4d810a18e54ec6648c1b3c99b84cd9": {
+            "text": "%d aktiivista prosessia"
+        }
+    }
+}
