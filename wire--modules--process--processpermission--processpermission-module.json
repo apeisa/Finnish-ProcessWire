@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Oikeudet"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Hallitse j\u00e4rjestelm\u00e4n k\u00e4ytt\u00f6oikeuksia"
+        }
+    }
+}
