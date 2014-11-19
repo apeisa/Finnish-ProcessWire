@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Process.php",
+    "textdomain": "wire--core--process-php",
+    "translations": {
+        "bc9f744abfdf0bc1b077c89e04c5cae3": {
+            "text": "Luotiin sivu: %s"
+        },
+        "c4fd0f5e619f884597a0c81ab468001f": {
+            "text": "Sivu %s siirrettiin roskakoriin"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        }
+    }
+}

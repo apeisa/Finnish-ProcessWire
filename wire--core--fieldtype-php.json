@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Automaattinen liitos"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Jos valittu, t\u00e4m\u00e4n kent\u00e4n sis\u00e4lt\u00e4m\u00e4 tieto ladataan aina sit\u00e4 k\u00e4ytt\u00e4v\u00e4n sivun yhteydess\u00e4, riippumatta siit\u00e4 k\u00e4ytet\u00e4\u00e4nk\u00f6 kent\u00e4n sis\u00e4lt\u00f6\u00e4. Jos t\u00e4t\u00e4 ei valita, kent\u00e4n tieto ladataan tarpeen mukaan."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globaali"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Jos valittu, KAIKKIEN sivujen on pakko sis\u00e4lt\u00e4\u00e4 t\u00e4m\u00e4 kentt\u00e4. Kentt\u00e4 lis\u00e4t\u00e4\u00e4n automaattisesti kaikkiin kentt\u00e4ryhmiin ja sivupohjiin, joissa sit\u00e4 ei viel\u00e4 ole. Kent\u00e4lle ei kuitenkaan vaadita arvoa."
+        }
+    }
+}
