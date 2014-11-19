@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Taulukossa n\u00e4ytett\u00e4v\u00e4t kent\u00e4t"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Kirjoita kenttien nimet (1 rivi\u00e4 kohden), jotka haluat n\u00e4kyv\u00e4n taulukon sarakkeina. Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 leveyden sarakkeelle, m\u00e4\u00e4rit\u00e4 se muodossa \"kentt\u00e4=30\", jossa \"30\" on sarakkeen leveys prosentteina. Jos m\u00e4\u00e4rit\u00e4t sarakkeille leveyksi\u00e4, varmista ett\u00e4 niiden yhteenlaskettu leveys on 100. "
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 mink\u00e4 tahansa kent\u00e4n. Voit my\u00f6s m\u00e4\u00e4ritt\u00e4\u00e4 alikentti\u00e4 (kentt\u00e4.alikentt\u00e4) sellaisten kenttien kohdalla, jotka sis\u00e4lt\u00e4v\u00e4t niit\u00e4, kuten sivuviittaukset."
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Valitse kent\u00e4lle k\u00e4ytt\u00f6\u00f6n sivupohjat ennen kent\u00e4n k\u00e4ytt\u00f6\u00e4."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Lis\u00e4\u00e4 yksi tai useampi sarake kent\u00e4n asetuksiin ennen kent\u00e4n k\u00e4ytt\u00f6\u00e4."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Taulukkoon on liitett\u00e4viss\u00e4 yksi tai useampi alasivu. Rastita ne alasivut, jotka haluat liitt\u00e4\u00e4 taulukkoon."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Valitse kaikki"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "j.n.Y H:i"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[tyhj\u00e4]"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Lis\u00e4ttiin %s sivu(a) taulukkoon"
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Valittuihin sivupohjiin liitetyt kent\u00e4t:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "P\u00e4ivitt\u00e4\u00e4ksesi listan kentist\u00e4, valitse sivupohja k\u00e4ytt\u00f6\u00f6n \"Asetukset\"-v\u00e4lilehdell\u00e4 ja tallenna."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Automaattinen sivun nimen muotoilu"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Jos t\u00e4m\u00e4 on k\u00e4yt\u00f6ss\u00e4, uudet sivut nimet\u00e4\u00e4n automaattisesti kun k\u00e4ytt\u00e4j\u00e4 klikkaa \"Lis\u00e4\u00e4 uusi\".  Jos t\u00e4m\u00e4 j\u00e4tet\u00e4\u00e4n tyhj\u00e4ksi, k\u00e4ytt\u00e4j\u00e4lt\u00e4 kysyt\u00e4\u00e4n sivun nimi ennen sen lis\u00e4\u00e4mist\u00e4."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Jos muotoilu sis\u00e4lt\u00e4\u00e4 ei-alfanumeerisen merkin, se tunnistetaan [PHP:n p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4ksi](http:\/\/www.php.net\/manual\/en\/function.date.php). Jos muotoilu sis\u00e4lt\u00e4\u00e4 vain alfanumeerisia merkkej\u00e4, sit\u00e4 k\u00e4ytet\u00e4\u00e4n sellaisenaan ja sen loppuun lis\u00e4t\u00e4\u00e4n tarpeen mukaan numero, jotta sivujen nimet pysyv\u00e4t yksil\u00f6llisin\u00e4."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Esim. **Ymd:His** on hyv\u00e4 muotoilu p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n ja kellonaikaan pohjautuville sivujen nimille."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Modaali-ikkunan k\u00e4ytt\u00e4ytyminen"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Sulje automaattisesti tallennettaessa (oletus)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Pid\u00e4 ikkuna auki, sulje k\u00e4sin"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nimi"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Luotu"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Muokattu"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Muokannut"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Luonut"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Polku"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Sivupohja"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Yl\u00e4sivu"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Alasivut"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Tila"
+        }
+    }
+}

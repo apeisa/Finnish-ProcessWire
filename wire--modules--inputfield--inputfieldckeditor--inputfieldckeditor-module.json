@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Peruuta"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Lis\u00e4\u00e4 linkki"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Valitse kuva"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Muokkaa kuvaa"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Kuvan tallentaminen"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Lis\u00e4\u00e4 t\u00e4m\u00e4 kuva"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Lis\u00e4\u00e4 toinen kuva"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "CKEditorin upotettu tila vaatii MarkupHTMLPurifier-moduulin. Normaali tila on k\u00e4yt\u00f6ss\u00e4."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Kyll\u00e4"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ei"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Esimerkki:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "CKEditorin asetukset"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditorin ty\u00f6kalupalkki"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Erota kukin ty\u00f6kalupalkin painike pilkulla. Ryhmittele painikkeita kirjoittamalla ne samalle riville ja lis\u00e4\u00e4m\u00e4ll\u00e4 tavuviivan \"-\" kohtaan, johon haluat erotinmerkin tulevan. Jos haluat enemm\u00e4n kuin yhden rivin ty\u00f6kalupalkkiin, erota rivit toisistaan tyhj\u00e4ll\u00e4 rivivaihdolla."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Editorin tila"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "Tavallinen"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Upotettu"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Jos upotettu tila on k\u00e4yt\u00f6ss\u00e4, editoria ei ladata ennen kuin klikkaat tekstikentt\u00e4\u00e4n. T\u00e4m\u00e4 nopeuttaa lataamista silloin kun sivulla on useita CKEditor -kentti\u00e4. Jotkut ominaisuudet saattavat puuttua editorin upotetusta tilasta."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*Upotettu tila vaatii, ett\u00e4 HTML Purifier -moduuli on asennettu (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*Vaadittu HTML Purifier -moduuli on asennettu."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "VAROITUS: Moduulia ei ole asennettu. Asenna moduuli ennen upotetun tilan k\u00e4ytt\u00f6\u00f6nottoa."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "K\u00e4yt\u00e4 ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Jos valittu, CKEditorin Advanced Content Filter (ACF) on k\u00e4yt\u00f6ss\u00e4. T\u00e4m\u00e4 suodatin poistaa HTML-merkkauksesta tunnistamattoman merkkauksen ja attribuutit. On suositeltavaa ottaa t\u00e4m\u00e4 k\u00e4ytt\u00f6\u00f6n."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "K\u00e4yt\u00e4 HTML Purifieria?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Jos valittu, sy\u00f6te ajetaan [HTML Purifierin](http:\/\/htmlpurifier.org\/) l\u00e4pi. T\u00e4m\u00e4n k\u00e4ytt\u00f6\u00e4 suositellaan jos CKEditoria k\u00e4ytet\u00e4\u00e4n upotetussa tilassa tai julkisessa k\u00e4yt\u00f6ss\u00e4."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Merkkauksen siivoaminen"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Muunna div-tagit tekstikappaletageiksi"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Poista tyhj\u00e4t tekstikappaleet"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Poista pakotetut v\u00e4lily\u00f6nnit"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "N\u00e4m\u00e4 ovat ylim\u00e4\u00e4r\u00e4isi\u00e4 merkkauksen siivoustoimintoja (ACF:n ja HTML Purifierin lis\u00e4ksi), jotka ovat hy\u00f6dyllisi\u00e4 monissa tilanteissa. Ne tehd\u00e4\u00e4n sivun tallennuksen yhteydess\u00e4. Kaikkien n\u00e4iden valitseminen on suositeltavaa, ellei ole tarvetta sallia niiden poistamaa merkkausta."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Muotoiluvalikon tagit"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Puolipisteell\u00e4 eroteltu lista valittavista tageista, jotka n\u00e4ytet\u00e4\u00e4n muotoiluvalikossa."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Oletustagit:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Muu sallittu sis\u00e4lt\u00f6"
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Polut tulee olla suhteellisia ProcessWiren asennuskansioon n\u00e4hden. (esim. jos sivusto sijaitsee alihakemistossa, \u00e4l\u00e4 sis\u00e4llyt\u00e4 alikansiota polkuun)"
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "T\u00e4m\u00e4n avulla voit muokata editorissa n\u00e4kyv\u00e4n sis\u00e4ll\u00f6n ulkoasua. M\u00e4\u00e4ritykset kattavat vain hallintapaneelin editorin ulkoasun, ei mahdollisesti sivustolla olevien editorien ulkoasua."
+        },
+        "9728a8f280cf7e8b0b89b52749f7e800": {
+            "text": "Katso [k\u00e4ytt\u00f6ohje](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file)."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Editorissa k\u00e4ytett\u00e4v\u00e4 CSS-tiedosto (tavallinen tila)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Editorissa k\u00e4ytett\u00e4v\u00e4 CSS-tiedosto (upotettu tila)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Editorissa k\u00e4ytett\u00e4v\u00e4 JS-tiedosto"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "T\u00e4m\u00e4n avulla voit m\u00e4\u00e4ritt\u00e4\u00e4 editorissa k\u00e4ytett\u00e4v\u00e4t tyylit. Ty\u00f6kalupalkin asetuksissa tulee olla k\u00e4yt\u00f6ss\u00e4 \"Styles\" -valikko."
+        },
+        "63ba0561c6027fed354e6c5af252a77b": {
+            "text": "Katso [k\u00e4ytt\u00f6ohje](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set)."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Kirjoita yksi s\u00e4\u00e4nt\u00f6 rivi\u00e4 kohden muodossa **avain: arvo** tai k\u00e4yt\u00e4 JSON-muotoa."
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Liit\u00e4nn\u00e4iset"
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "fi"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "fi"
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Lis\u00e4asetukset"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Jos joillekin tarvittaville asetuksille ei ole valintaa t\u00e4ll\u00e4 sivulla, voit tehd\u00e4 niiden m\u00e4\u00e4rityksen t\u00e4h\u00e4n kentt\u00e4\u00e4n."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Lis\u00e4asetusten JSON ei ole kelvollisessa muodossa."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Asetukset voidaan m\u00e4\u00e4ritt\u00e4\u00e4 my\u00f6s seuraavissa tiedostoissa:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "kaikille CKEditor-kentille"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "vain t\u00e4lle CKEditor-kent\u00e4lle"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Liit\u00e4nn\u00e4iset"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Seuraavat liit\u00e4nn\u00e4iset l\u00f6ydettiin. Rastita luettelosta k\u00e4ytett\u00e4v\u00e4t liit\u00e4nn\u00e4iset."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Asentaaksesi lis\u00e4\u00e4 liit\u00e4nn\u00e4isi\u00e4, kopioi tiedostot hakemistoon **\/site\/modules\/InputfieldCKEditor\/plugins\/[nimi]\/**, jossa **[nimi]** on liit\u00e4nn\u00e4isen nimi."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "suositeltu"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s asetukset"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "\"%s\" -liit\u00e4nn\u00e4isen asetukset eiv\u00e4t ole kelvollisessa JSON-muodossa."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Pilkulla eroteltu lista CKEditorin liit\u00e4nn\u00e4isist\u00e4."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Esimerkki: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Poista liit\u00e4nn\u00e4iset k\u00e4yt\u00f6st\u00e4"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Pilkulla eroteltu lista k\u00e4yt\u00f6st\u00e4 poistettavista liit\u00e4nn\u00e4isist\u00e4."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor-sis\u00e4lt\u00f6editori."
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "S\u00e4\u00e4nn\u00f6t CKEditorin [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent) -valinnalle. S\u00e4\u00e4nn\u00f6t otetaan k\u00e4ytt\u00f6\u00f6n vain jos ACF on k\u00e4yt\u00f6ss\u00e4."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Voit kirjoittaa useita s\u00e4\u00e4nt\u00f6j\u00e4 erottamalla ne toisistaan rivivaihdolla."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "Yll\u00e4 oleva esimerkki sallii alt-, src-, width- ja height-attribuutit img-tageille. Src-attribuutti on vaadittu."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Katso [k\u00e4ytt\u00f6ohje](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2)"
+        }
+    }
+}

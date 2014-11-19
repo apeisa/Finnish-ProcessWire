@@ -15,7 +15,7 @@
             "text": "Etsi kentist\u00e4:"
         },
         "9e230fa5487a0172264f31c0a1b08b61": {
-            "text": "Rajoita seuraaviin sivupohjiin:"
+            "text": "Rajoita haku seuraaviin sivupohjiin:"
         },
         "52b9d143876d2754dd01be52587b1de8": {
             "text": "Haun tyyppi:"
@@ -69,16 +69,49 @@
             "text": "Oikopolut"
         },
         "4ecb0055aa1e66535afeaf6093585618": {
-            "text": "Hae"
+            "text": "Etsi"
         },
         "d27c07f4c0dd15e39cedd91c19cb279f": {
-            "text": "Hae"
+            "text": "Etsi"
         },
         "4b315bff8c7b70281de8ffffbd150708": {
             "text": "Hae"
         },
         "1da914fe3f639d8b3d977a006d2b0c69": {
             "text": "L\u00f6ytyi %1$d sivu seuraavalla haulla: %2$s"
+        },
+        "c488b358fae501da3848f9faeb83dd35": {
+            "text": "Kent\u00e4t"
+        },
+        "736f3e2669c68c02be0fb19d1e70622f": {
+            "text": "Sivupohjat"
+        },
+        "c26ba1dd54d52630a0aedf779e5926af": {
+            "text": "Moduulit"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Sivut"
+        },
+        "d60c090c3c99aaae5f57da3eb85fe008": {
+            "text": "Oletuskent\u00e4t joista etsit\u00e4\u00e4n"
+        },
+        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
+            "text": "Kirjoita yksi tai useampi tekstikent\u00e4n nimi v\u00e4lily\u00f6nnill\u00e4 eroteltuina."
+        },
+        "6278e5dbbd21048091f612f55185257e": {
+            "text": "Kentt\u00e4\/kent\u00e4t joista haetaan hallintapaneelin hakutoiminnolla (ajax)"
+        },
+        "cc10d38a176ad7cde1228d2e22f1122b": {
+            "text": "On suositeltavaa rajoittaa kenttien m\u00e4\u00e4r\u00e4 yhteen tai kahteen, koska tulokset n\u00e4ytet\u00e4\u00e4n hakusanaa kirjoitettaessa. Yleens\u00e4 haku kohdistuu sivun otsikkokentt\u00e4\u00e4n."
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Oletuskent\u00e4t, jotka n\u00e4ytet\u00e4\u00e4n hakutuloksissa"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Jos kirjoitat useita kentti\u00e4, erota nimet toisistaan v\u00e4lily\u00f6nnill\u00e4."
+        },
+        "51e1d489ac4198969f8daf52b7cdfaf6": {
+            "text": "Oletus hakuoperaattori"
         }
     }
 }

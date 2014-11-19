@@ -7,6 +7,15 @@
         },
         "152cfcb2150e04c8533d86e9d7642b11": {
             "text": "N\u00e4ytet\u00e4\u00e4n selaimen osoiterivill\u00e4. Yhdistelm\u00e4 kirjaimia (a-z), numeroita (0-9), v\u00e4liviivoja tai alaviivoja (ei v\u00e4lily\u00f6ntej\u00e4)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Merkkien korvaaminen"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Kirjoita korvauss\u00e4\u00e4nn\u00f6t, jotka huomioidaan kun k\u00e4ytt\u00e4j\u00e4 kirjoittaa nimikentt\u00e4\u00e4n. Kirjoita yksi s\u00e4\u00e4nt\u00f6 rivi\u00e4 kohden muodossa avain=arvo, jossa avain on korvattava merkki ja arvo on merkki jolla korvataan."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Merkki johon korvataan, tulee olla yksi tai useampi seuraavista: a-z, 0-9, tavuviiva, alaviiva, piste."
         }
     }
 }

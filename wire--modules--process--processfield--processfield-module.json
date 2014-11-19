@@ -1,0 +1,276 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Tallenna"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Tuo"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Vie"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "N\u00e4yt\u00e4 kaikki"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Suodattimet"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Suodata sivupohjan mukaan"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Jos valittu, vain m\u00e4\u00e4ritetyn sivunpohjan kent\u00e4t n\u00e4ytet\u00e4\u00e4n. My\u00f6s j\u00e4rjestelm\u00e4n oletuskent\u00e4t n\u00e4ytet\u00e4\u00e4n. J\u00e4rjestelm\u00e4sivupohjat ovat merkitty t\u00e4htimerkill\u00e4 (*)."
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "N\u00e4ytet\u00e4\u00e4n kent\u00e4t sivupohjasta: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Kent\u00e4t sivupohjan mukaan"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Suodata kentt\u00e4tyypin mukaan"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Jos valittu, vain m\u00e4\u00e4ritetyn tyyppiset kent\u00e4t n\u00e4ytet\u00e4\u00e4n. My\u00f6s J\u00e4rjestelm\u00e4n oletuskent\u00e4t n\u00e4ytet\u00e4\u00e4n."
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "N\u00e4ytet\u00e4\u00e4n kent\u00e4t, jotka ovat tyyppi\u00e4: %s"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "N\u00e4yt\u00e4 j\u00e4rjestelm\u00e4n oletuskent\u00e4t?"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Jos valittu, j\u00e4rjestelm\u00e4n oletuskent\u00e4t n\u00e4ytet\u00e4\u00e4n. N\u00e4m\u00e4 kent\u00e4t ovat pakollisia j\u00e4rjestelm\u00e4n toimivuuden kannalta, eik\u00e4 niit\u00e4 voida poistaa tai nimet\u00e4 uudelleen. Osa kentist\u00e4 on sidottu kiinte\u00e4sti sivupohjiin."
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "N\u00e4ytet\u00e4\u00e4n kaikki kent\u00e4t, mukaan lukien j\u00e4rjestelm\u00e4n oletuskent\u00e4t ja kiinte\u00e4t kent\u00e4t."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Ei tageja"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Yksik\u00e4\u00e4n kentt\u00e4 ei vastannut suodatinta"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...jne..."
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Lis\u00e4\u00e4 uusi kentt\u00e4"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "automaattinen liitos"
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "globaali"
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "j\u00e4rjestelm\u00e4"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "kiinte\u00e4"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "vaadittu"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "n\u00e4yt\u00e4 jos..."
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Muokkaa kentt\u00e4\u00e4: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Lis\u00e4\u00e4 uusi kentt\u00e4"
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "Ei mit\u00e4\u00e4n (oletus)"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Peruuta"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Poista"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Perustiedot"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "Tyyppi"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Nimike"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Kuvaus"
+        },
+        "450424710b0286d62947973d7263eb21": {
+            "text": "Sivupohja"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Lis\u00e4asetukset"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Nimi"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Nimike"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Tyyppi"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Sivupohjat"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "H\u00e4lytys"
+        },
+        "ad4e206408c1c59bfb8a057ba7857446": {
+            "text": "Konteksti"
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Poista kentt\u00e4"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4k\u00e4\u00e4n sivupohjassa, joten se voidaan poistaa."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "T\u00e4t\u00e4 kentt\u00e4\u00e4 ei voida poistaa, koska se on k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4 tai useammassa sivupohjassa."
+        },
+        "e7ec3883e42efde03a4932115fb807eb": {
+            "text": "Asetukset sivupohjalle: %s"
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Kent\u00e4n perusasetukset"
+        },
+        "5efc010f527cdfeaa2ef63b1c6898fb5": {
+            "text": "Yhdistelm\u00e4 kirjaimia [a-z], numeroita [0-9] ja alaviivoja (ei tavuviivoja tai v\u00e4lily\u00f6ntej\u00e4)."
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "Kentt\u00e4tyypin valinnan ja tallennuksen j\u00e4lkeen voit m\u00e4\u00e4ritt\u00e4\u00e4 valittuun kentt\u00e4tyyppiin liittyvi\u00e4 lis\u00e4asetuksia."
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "Kirjoita kent\u00e4lle vapaavalintainen nimike. Jos nimikett\u00e4 ei m\u00e4\u00e4ritet\u00e4, k\u00e4ytet\u00e4\u00e4n kent\u00e4n nime\u00e4."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Kirjoita kent\u00e4lle lis\u00e4tietoja, kuten ohjeet sis\u00e4ll\u00f6n sy\u00f6tt\u00f6\u00f6n."
+        },
+        "1b5681f696c34da0c10d98c5666f22ca": {
+            "text": "Tiedot"
+        },
+        "90a7d24b2f57968c1090adc8eb1cedff": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 on k\u00e4yt\u00f6ss\u00e4 seuraavissa sivupohjissa:"
+        },
+        "e846a7b9b780397947329058d6856fe4": {
+            "text": "Muokkaa kentt\u00e4\u00e4 kontekstissa"
+        },
+        "da15cd97dba363b29a8a06c76d4c4c7d": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4k\u00e4\u00e4n sivupohjassa."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Luo kopio kent\u00e4st\u00e4"
+        },
+        "c073843a55498e809c4dd95be0721831": {
+            "text": "Valitse t\u00e4m\u00e4, jos haluat luoda kopion kent\u00e4st\u00e4. Kopio luodaan kun tallennat sivun."
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Lis\u00e4asetukset"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Kuvake"
+        },
+        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
+            "text": "Jos haluat liitt\u00e4\u00e4 kentt\u00e4\u00e4n kuvakkeen, kirjoita [kuvakkeen nimi](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) t\u00e4h\u00e4n."
+        },
+        "41fb8fe20e74e99ab359cecc48be97d5": {
+            "text": "Esimerkki: beer"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagit"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Jos haluat lajitella kent\u00e4n omaan osioonsa kentt\u00e4listauksessa, kirjoita t\u00e4h\u00e4n tagi (1 sana). Voit kirjoittaa saman tagin muihin kenttiin, jolloin ne lajitellaan saman osion alle. Voit kirjoittaa useita tageja erottamalla ne toisistaan v\u00e4lily\u00f6nnill\u00e4. Tagien k\u00e4ytt\u00f6 voi olla hy\u00f6dyllist\u00e4 jos sivustolla on k\u00e4yt\u00f6ss\u00e4 suuri m\u00e4\u00e4r\u00e4 kentti\u00e4."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Jokainen tagi tulee koostua yhdest\u00e4 sanasta (tavuviivan k\u00e4ytt\u00f6 on sallittua)."
+        },
+        "78bd709db99c927f3a59a1983f18c237": {
+            "text": "Jos haluat osion olevan suljettu kentt\u00e4listalla, lis\u00e4\u00e4 tagin eteen tavuviiva. Esim. -osio"
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Poistettiin kentt\u00e4"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Kent\u00e4n nimi on pakollinen tieto"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Kent\u00e4n tyyppi on pakollinen tieto"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "Lis\u00e4ttiin kentt\u00e4"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Poistettiin k\u00e4ytt\u00e4m\u00e4t\u00f6n ominaisuus: %s"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Tallennettiin kentt\u00e4"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Kopioitiin kentt\u00e4"
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Kent\u00e4n kopion luonnissa tapahtui virhe"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Kent\u00e4n %s tyyppi vaihdettiin"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Kent\u00e4n tyyppi vaihdettiin: \"%1$s\" -> \"%2$s\""
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Vahvista kent\u00e4n tyypin vaihto"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Jos haluat vaihtaa kent\u00e4n tyypin, rastita alla oleva ruutu ja tallenna."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "S\u00e4ilyt\u00e4 kent\u00e4n asetukset?"
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Kent\u00e4n tyypin vaihto peruutettiin"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Kent\u00e4n tyyppi vaihdettiin"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Kent\u00e4t"
+        },
+        "588f35f32f53430bfc4199ef15c424db": {
+            "text": "N\u00e4yt\u00e4 suodattimet kentt\u00e4listalla?"
+        },
+        "887c58e4743e8c789e4ebea161c6fdfe": {
+            "text": "T\u00e4m\u00e4 lis\u00e4\u00e4 kentt\u00e4listalle kaksi pudotusvalikkoa, joiden avulla voit suodattaa n\u00e4kym\u00e4\u00e4 sivupohjan tai kentt\u00e4tyypin mukaan."
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Palaa takaisin kentt\u00e4listaan kun kentt\u00e4 tallennetaan?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Oletuksena kent\u00e4n tallennuksen j\u00e4lkeen kent\u00e4n asetussivu ladataan uudelleen. Jos haluat tallennuksen j\u00e4lkeen palata automaattisesti kentt\u00e4listaan, valitse t\u00e4m\u00e4."
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "J\u00e4rjestelm\u00e4kentt\u00e4"
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "Testaa asetukset kent\u00e4lle %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Ongelmia ei l\u00f6ytynyt kent\u00e4st\u00e4 %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Tuntemattomat ominaisuudet"
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Mahdollisia tuntemattomia ominaisuuksia l\u00f6ytyi t\u00e4lle kent\u00e4lle. Tarkista \"H\u00e4lytys\" -v\u00e4lilehti."
+        }
+    }
+}

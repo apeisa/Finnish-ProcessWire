@@ -46,6 +46,24 @@
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Roskakori"
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Voit halutessasi yliajaa t\u00e4m\u00e4n asetuksen sivupohjakohtaisesti kunkin sivupohjan \"lis\u00e4asetukset\" -v\u00e4lilehdell\u00e4."
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Animaation pituus (millisekunteina)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "M\u00e4\u00e4rit\u00e4 sivukartan animoinnin nopeus. Mit\u00e4 pienempi luku, sit\u00e4 nopeampi animaatio. Jos et halua animointia, m\u00e4\u00e4rit\u00e4 arvoksi 0."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "N\u00e4ytett\u00e4vien sivujen m\u00e4\u00e4r\u00e4 ennen sivunumeroiden k\u00e4ytt\u00f6\u00f6nottoa"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "N\u00e4ytett\u00e4v\u00e4n kent\u00e4n nimi"
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Sivulistassa jokainen sivu tunnistetaan omalla nimell\u00e4\u00e4n, joka on tyypillisesti otsikko. Voit m\u00e4\u00e4ritt\u00e4\u00e4 mit\u00e4 kentt\u00e4\u00e4 listauksessa k\u00e4ytet\u00e4\u00e4n. Valitaksesi useita kentti\u00e4, erota kenttien nimet v\u00e4lily\u00f6nnill\u00e4. Jos kentt\u00e4 sis\u00e4lt\u00e4\u00e4 viittauksen objektiin (kuten toiseen sivuun), m\u00e4\u00e4rit\u00e4 lis\u00e4ksi ominaisuus pisteell\u00e4, esim. toinensivu.title. Huomaa, ett\u00e4 jos m\u00e4\u00e4ritelty kentt\u00e4 on tyhj\u00e4, ProcessWire k\u00e4ytt\u00e4\u00e4 \"name\"-kentt\u00e4\u00e4."
         }
     }
 }

@@ -1,0 +1,66 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Osoite"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Leveyspiiri"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "Pituuspiiri"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "Geokoodaus?"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Oletusosoite"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "T\u00e4m\u00e4 geokoodataan kartan aloituspaikaksi"
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Oletusleveyspiiri"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Oletuspituuspiiri"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Karttatyypin oletusarvo"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "Hybridi"
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Tiekartta"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Satelliittikartta"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Kartan korkeus (pikselein\u00e4)"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Oletuszoomaus"
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Kirjoita arvo v\u00e4lill\u00e4 1\u201323. Korkein zoomausarvo on tyypillisesti v\u00e4lill\u00e4 19\u201323, riippuen zoomattavasta sijainnista ja siit\u00e4, kuinka paljon Googlella on tietoa kyseisest\u00e4 sijainnista."
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "Jos muokkaat oletusosoitetta, j\u00e4t\u00e4 leveys- ja pituuspiirikent\u00e4t tyhjiksi, jolloin niiden sis\u00e4ll\u00f6t geokoodataan kirjoitetusta osoitteesta."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Oletusosoite geokoodattiin. Tallenna viel\u00e4 kerran, jotta leveys- ja pituuspiirien asetukset tallentuvat."
+        },
+        "87f83506dee160df49b8d3ca189246af": {
+            "text": "API-huomautukset"
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Voit k\u00e4ytt\u00e4\u00e4 kent\u00e4n yksitt\u00e4isi\u00e4 arvoja sivupohjatiedostoissa seuraavasti:"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "Zoom"
+        }
+    }
+}

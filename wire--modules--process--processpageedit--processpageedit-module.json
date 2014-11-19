@@ -156,7 +156,7 @@
             "text": "Tuntematon sivu"
         },
         "b8e75fd085c6615286cee6fdc4e880ec": {
-            "text": "T\u00e4m\u00e4 sivu on lukittu, eik\u00e4 t\u00e4ten muokattavissa"
+            "text": "T\u00e4m\u00e4 sivu on lukittu, eik\u00e4 se ole muokattavissa"
         },
         "386397f000925f7d90c87a913a678eed": {
             "text": "Sinulla ei ole oikeuksia muokata"
@@ -184,6 +184,24 @@
         },
         "4e5878c0e4b4e901ee96c19e7fd05914": {
             "text": "%d muutosta"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Muokkaa sivua: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Sivun osoite vaihdettiin muotoon \"%s\", koska pyydetty nimi oli jo k\u00e4yt\u00f6ss\u00e4."
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Sivua ei voida julkaista, ennen kuin virheet ovat korjattu"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Alasivut lajitellaan kent\u00e4n \"%s\" mukaan. M\u00e4\u00e4ritelty sivupohjan asetuksissa."
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Luonut k\u00e4ytt\u00e4j\u00e4"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Vahvista"
         }
     }
 }

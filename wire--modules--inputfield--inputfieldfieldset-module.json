@@ -3,7 +3,10 @@
     "textdomain": "wire--modules--inputfield--inputfieldfieldset-module",
     "translations": {
         "5b3a50aadfa94048d38820473b25ec57": {
-            "text": "Kentt\u00e4nippu (fieldset)"
+            "text": "Kentt\u00e4ryhm\u00e4 (fieldset)"
+        },
+        "80b64fcc30458532fff6446e92e98c54": {
+            "text": "Ryhmittelee yhden tai useamman kent\u00e4n"
         }
     }
 }

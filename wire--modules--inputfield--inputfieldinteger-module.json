@@ -4,6 +4,45 @@
     "translations": {
         "a0faef0851b4294c06f2b94bb1cb2044": {
             "text": "Kokonaisluku"
+        },
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "Minimi: %d"
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "Maksimi: %d"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Numeerinen sy\u00f6te"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Teksti"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "Numero (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "Jos valitset tyypin \"Numero\", selainpohjainen sy\u00f6tteen tarkistus otetaan k\u00e4ytt\u00f6\u00f6n niiss\u00e4 selaimissa jotka tukevat sit\u00e4."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Minimiarvo"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "Pienin sallittu arvo t\u00e4lle kent\u00e4lle. Jos et halua m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4t\u00e4, j\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Maksimiarvo"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "Suurin sallittu arvo t\u00e4lle kent\u00e4lle. Jos et halua m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4t\u00e4, j\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi."
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Positiivinen ja negatiivinen kokonaisluku"
+        },
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "mik\u00e4 tahansa"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "M\u00e4\u00e4ritetty arvo %3$s poistettiin, koska se ei vastaa kent\u00e4lle asetettuja s\u00e4\u00e4nt\u00f6j\u00e4 (min=%1$s, max=%2$s)"
         }
     }
 }

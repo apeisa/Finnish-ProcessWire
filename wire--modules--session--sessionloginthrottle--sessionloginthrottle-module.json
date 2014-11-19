@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Odota %d sekuntia ennen uutta kirjautumisyrityst\u00e4."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Est\u00e4 kirjautuminen IP-osoitteen mukaan?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Oletuksena kirjautumisen est\u00e4minen tapahtuu k\u00e4ytt\u00e4j\u00e4nimen mukaan. Jos valitset t\u00e4m\u00e4n, kirjautuminen estet\u00e4\u00e4n IP-osoitteen mukaan. T\u00e4m\u00e4n valitsemista suositellaan, jos k\u00e4ytt\u00e4j\u00e4t eiv\u00e4t tule jaetusta IP-osoitteesta."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Sekuntien m\u00e4\u00e4r\u00e4 joka k\u00e4ytt\u00e4j\u00e4n on odotettava ep\u00e4onnistuneen kirjautumisen j\u00e4lkeen"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "M\u00e4\u00e4r\u00e4 kertautuu ep\u00e4onnistuneiden kirjautumisten mukaan, joten jokainen ep\u00e4onnistunut kirjautuminen kasvattaa aikaa eksponentiaalisesti. Kiinnit\u00e4 huomiota, ettet aseta t\u00e4t\u00e4 asetusta liian korkeaksi."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "Suurin sallittu sekuntien m\u00e4\u00e4r\u00e4 joka k\u00e4ytt\u00e4j\u00e4n on odotettava ep\u00e4onnistuneen kirjautumisen j\u00e4lkeen"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Koska m\u00e4\u00e4r\u00e4 kasvaa eksponentiaalisesti jokaisen ep\u00e4onnistuneen kirjautumisen mukaan, voit m\u00e4\u00e4ritt\u00e4\u00e4 suurimman sallitun sekuntim\u00e4\u00e4r\u00e4n, jonka k\u00e4ytt\u00e4j\u00e4n on odotettava. On suositeltavaa asettaa t\u00e4m\u00e4 melko korkeaksi."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60 = 1 minuutti, 300 = 5 minuuttia, 600 = 10 minuuttia, 3600 = 1 tunti, 86400 = 1 p\u00e4iv\u00e4"
+        }
+    }
+}

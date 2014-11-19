@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Tekstin muotoilut"
+        },
+        "965a2e6ce23bd9e9ca5122fb9862be60": {
+            "text": "Voit valita t\u00e4ss\u00e4 yhden tai useamman automaattisen muotoilun kent\u00e4n tulosteelle. Jos valitset useamman kuin yhden, voit valita niiden k\u00e4ytt\u00f6j\u00e4rjestyksen vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        }
+    }
+}

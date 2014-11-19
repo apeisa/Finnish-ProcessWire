@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "J\u00e4rjestelm\u00e4n p\u00e4ivitys"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Hallitse j\u00e4rjestelm\u00e4n versioita ja p\u00e4ivityksi\u00e4."
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "J\u00e4rjestelm\u00e4n p\u00e4ivitysloki"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "J\u00e4rjestelm\u00e4n versio"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "Voit ajaa j\u00e4rjestelm\u00e4n p\u00e4ivityksen uudelleen pienent\u00e4m\u00e4ll\u00e4 versionumeroa."
+        }
+    }
+}

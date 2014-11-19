@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Valitse sivuille yksi tai useampi sivupohja"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Kent\u00e4n kautta lis\u00e4tyt sivut k\u00e4ytt\u00e4v\u00e4t n\u00e4it\u00e4 sivupohjia. Voit my\u00f6s luoda uuden sivupohjan pelk\u00e4st\u00e4\u00e4n t\u00e4t\u00e4 kentt\u00e4\u00e4 varten."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Valitse yl\u00e4sivu"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Kaikki t\u00e4m\u00e4n kent\u00e4n kautta lis\u00e4tyt sivut sijaitsevat t\u00e4ss\u00e4 m\u00e4\u00e4ritelt\u00e4v\u00e4n sivun alla."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Jos yl\u00e4sivua ei ole m\u00e4\u00e4ritelty, sivut asetetaan muokattavan sivun alasivuiksi."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Siirr\u00e4 poistetut sivut roskakoriin?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Jos valittu, poistettavat sivut siirret\u00e4\u00e4n roskakoriin. Jos t\u00e4t\u00e4 ei valita, sivut s\u00e4ilytet\u00e4\u00e4n yll\u00e4 valitun sivun alasivuina."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Tallenna kent\u00e4n asetukset sivupohjan valinnan j\u00e4lkeen, jolloin \"Sy\u00f6te\" -v\u00e4lilehdell\u00e4 olevat asetukset p\u00e4ivittyv\u00e4t vastaamaan valittuja sivupohjia."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Sivujen k\u00e4ytt\u00e4ytyminen"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Ei mit\u00e4\u00e4n"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Siirr\u00e4 sivut roskakoriin"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Poista sivut"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Poista sivujen julkaisu k\u00e4yt\u00f6st\u00e4"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Piilota sivut"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Poistaminen"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Mit\u00e4 haluat kent\u00e4ss\u00e4 \"%s\" oleville sivuille tapahtuvan, kun kentt\u00e4\u00e4 k\u00e4ytt\u00e4v\u00e4 sivu poistetaan?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Roskakoriin siirt\u00e4minen"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Mit\u00e4 haluat kent\u00e4ss\u00e4 \"%s\" oleville sivuille tapahtuvan, kun kentt\u00e4\u00e4 k\u00e4ytt\u00e4v\u00e4 sivu siirret\u00e4\u00e4n roskakoriin?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Julkaisun poistaminen"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Mit\u00e4 haluat kent\u00e4ss\u00e4 \"%s\" oleville sivuille tapahtuvan, kun kentt\u00e4\u00e4 k\u00e4ytt\u00e4v\u00e4n sivun julkaisu poistetaan?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Lajittele kent\u00e4t"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Kirjoita kent\u00e4n nimi, jonka mukaan haluat lajitella taulukon. Jos haluat k\u00e4\u00e4nteisen j\u00e4rjestyksen, kirjoita kent\u00e4n nimen eteen tavuviiva. Esim. -date"
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 useita kentti\u00e4 erottamalla ne toisistaan pilkulla. Esim. \"etunimi, sukunimi, -syntym\u00e4p\u00e4iv\u00e4\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jos haluat j\u00e4rjestell\u00e4 rivit vet\u00e4m\u00e4ll\u00e4 ja pudottamalla (oletus)."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "T\u00e4m\u00e4 asetus p\u00e4tee vain jos olet valinnut k\u00e4ytt\u00f6\u00f6n yl\u00e4sivun."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTitle\/InputfieldPageTitle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetitle--inputfieldpagetitle-module",
+    "translations": {
+        "2864512e4161ae21b145798e32938abf": {
+            "text": "Sivun otsikko"
+        },
+        "dc643f0a55e724a742f7bcc43fa5b84e": {
+            "text": "Hallitsee sivun otsikon sy\u00f6tt\u00e4misen ja sivun nimen automaattisen luonnin (jos nimi on tyhj\u00e4)"
+        }
+    }
+}
