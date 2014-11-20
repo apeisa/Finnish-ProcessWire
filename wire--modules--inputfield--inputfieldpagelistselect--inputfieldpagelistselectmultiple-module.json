@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Lis\u00e4\u00e4"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Peruuta"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Valitse"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Poista valinta"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Lis\u00e4\u00e4"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Kentt\u00e4\u00e4 ei voitu tulostaa, koska sille ei ole valittu yl\u00e4sivua."
+        },
+        "fae5139ea4669e57a1e1d43da734b60d": {
+            "text": "Useiden sivujen valinta (Page List Select Multiple)"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "Useiden sivujen valinta ProcessWiren sivukartasta"
+        }
+    }
+}
