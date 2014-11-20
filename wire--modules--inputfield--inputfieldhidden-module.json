@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldHidden.module",
+    "textdomain": "wire--modules--inputfield--inputfieldhidden-module",
+    "translations": {
+        "689202409e48743b914713f96d93947c": {
+            "text": "Arvo"
+        },
+        "1758cb96bcb06c04bd244697d51ed7dd": {
+            "text": "Kirjoita arvo, jonka piilotettu kentt\u00e4 sis\u00e4lt\u00e4\u00e4"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Piilotettu kentt\u00e4"
+        },
+        "82a84988fe9847b174ab13ccd822f53c": {
+            "text": "Lomakkeen piilotettu kentt\u00e4"
+        }
+    }
+}

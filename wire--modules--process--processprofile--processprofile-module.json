@@ -10,6 +10,18 @@
         },
         "f29de224c874ad891ea1c3627aa468be": {
             "text": "Omat tiedot tallennettu"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "S\u00e4hk\u00f6postiosoite \"%s\" on jo toisen k\u00e4ytt\u00e4j\u00e4n k\u00e4yt\u00f6ss\u00e4."
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n omat tiedot"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Sallii k\u00e4ytt\u00e4j\u00e4n vaihtaa salasanansa, s\u00e4hk\u00f6postiosoitteensa ja muita m\u00e4\u00e4rittelemi\u00e4si asetuksia."
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Mit\u00e4 kentti\u00e4 k\u00e4ytt\u00e4j\u00e4 voi muokata omissa tiedoissaan?"
         }
     }
 }

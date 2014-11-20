@@ -60,7 +60,7 @@
             "text": "Yl\u00e4puolella oleva sivu"
         },
         "278c491bdd8a53618c149c4ac790da34": {
-            "text": "Sivutyyppi"
+            "text": "Sivupohja"
         },
         "4059b0251f66a18cb56f544728796875": {
             "text": "Tiedot"
@@ -105,13 +105,13 @@
             "text": "(kaikki)"
         },
         "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Oikeudet on annettu t\u00e4ss\u00e4 sivutyypiss\u00e4: %s"
+            "text": "Oikeudet on m\u00e4\u00e4ritetty t\u00e4m\u00e4n sivun sivupohjassa: %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
-            "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty t\u00e4ss\u00e4 sivutyypiss\u00e4: %2$s"
+            "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty t\u00e4ss\u00e4 sivupohjassa: %2$s"
         },
         "17f8097b4af11ef352554fc7dd416c34": {
-            "text": "Sivutyyppi '%s' ei ole sallittu"
+            "text": "Sivupohja '%s' ei ole sallittu"
         },
         "c4101b17a6f3bb8ffbe40eb9edef2347": {
             "text": "T\u00e4t\u00e4 sivua ei voida poistaa"
@@ -126,13 +126,13 @@
             "text": "Sivua ei voitu siirt\u00e4\u00e4 roskakoriin"
         },
         "11daf8e4f72e87c440ed3e0cac443157": {
-            "text": "Varmista sivutyypin vaihto"
+            "text": "Varmista sivupohjan vaihto"
         },
         "8f1db4fbdd736bfc472e99f61be9e56f": {
-            "text": "Vaihda sivutyyppi \"%1$s\" sivutyyppiin \"%2$s\""
+            "text": "Vaihda sivupohja \"%1$s\" sivupohjaan \"%2$s\""
         },
         "48af63aeec834982fcf91e325aaea998": {
-            "text": "Varoitus, sivutyypin vaihtaminen poistaa seuraavat kent\u00e4t:"
+            "text": "Varoitus, sivupohjan vaihtaminen poistaa seuraavat kent\u00e4t:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
             "text": "Oletko varma?"
@@ -141,13 +141,13 @@
             "text": "Varmista, ett\u00e4 ymm\u00e4rr\u00e4t yll\u00e4olevan laittamalla rastin ruutuun."
         },
         "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun sivutyyppi\u00e4"
+            "text": "Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun sivupohjaa"
         },
         "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Sivutyyppi ei ole sallittu"
+            "text": "Sivupohja ei ole sallittu"
         },
         "d4ad7f8661990f191def1fb3a6accbd9": {
-            "text": "Sivutyyppi vaihdettu '%s'"
+            "text": "Sivupohja vaihdettu '%s'"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
             "text": "Valitse kentt\u00e4 alapuolelta, mik\u00e4li haluat kaikki nykyiset ja tulevat alasivut automaattiseen j\u00e4rjestykseen valitun kent\u00e4n perusteella. J\u00e4t\u00e4 kokonaan tyhj\u00e4ksi, mik\u00e4li haluat j\u00e4rjest\u00e4\u00e4 sivujen j\u00e4rjestyksen raahaamalla."
@@ -156,7 +156,7 @@
             "text": "Tuntematon sivu"
         },
         "b8e75fd085c6615286cee6fdc4e880ec": {
-            "text": "T\u00e4m\u00e4 sivu on lukittu, eik\u00e4 t\u00e4ten muokattavissa"
+            "text": "T\u00e4m\u00e4 sivu on lukittu, eik\u00e4 se ole muokattavissa"
         },
         "386397f000925f7d90c87a913a678eed": {
             "text": "Sinulla ei ole oikeuksia muokata"
@@ -184,6 +184,24 @@
         },
         "4e5878c0e4b4e901ee96c19e7fd05914": {
             "text": "%d muutosta"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Muokkaa sivua: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Sivun osoite vaihdettiin muotoon \"%s\", koska pyydetty nimi oli jo k\u00e4yt\u00f6ss\u00e4."
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Sivua ei voida julkaista, ennen kuin virheet ovat korjattu"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Alasivut lajitellaan kent\u00e4n \"%s\" mukaan. M\u00e4\u00e4ritelty sivupohjan asetuksissa."
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Luonut k\u00e4ytt\u00e4j\u00e4"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Vahvista"
         }
     }
 }

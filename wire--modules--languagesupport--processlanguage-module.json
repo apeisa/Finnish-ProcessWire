@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d vanhentunutta"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d tyhj\u00e4\u00e4"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Kielet"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Hallitse j\u00e4rjestelm\u00e4\u00e4n asennettuja kieli\u00e4"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Muokkaa"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d lause"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d lausetta"
+        },
+        "4b58cc72fab0b5fb596e9f02091ec0fe": {
+            "text": "K\u00e4\u00e4nn\u00e4 tiedosto"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "Lataa ZIP-pakettina"
+        }
+    }
+}

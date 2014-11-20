@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Varmista ett\u00e4 \/site\/assets\/cache\/ -hakemisto on kirjoitustilassa."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Varmista ett\u00e4 sivuston moduulihakemisto (\/site\/modules\/) on kirjoitustilassa."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "Vaadittu PHP:n ZipArchive-luokka ei ole k\u00e4ytett\u00e4viss\u00e4."
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "Moduulitiedostoja ei l\u00f6ytynyt"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Tiedostot kopioitiin uuteen hakemistoon:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "Tiedostojen kopiointi ei onnistunut hakemistoon:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Hakemiston luonti ei onnistunut:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "Moduulin tiedostojen kopiointi ei onnistunut:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "Moduulin hakemistoa ei voitu poistaa:"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Huomioi, ett\u00e4 %s oli symbolinen linkki, ja se muunnettiin tavalliseksi hakemistoksi"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Varmuuskopioitiin: %s"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "Palautettiin varmuuskopio: %s"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "Tiedoston lataus palvelimelle ei onnistunut"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Latauksia ei l\u00f6ytynyt"
+        },
+        "c8e5b4f1bb72c62949a522f6925e80c8": {
+            "text": "Tiedoston lataaminen palvelimelta ei onnistunut"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Virheellinen lataus-URL"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Ladattiin ZIP-tiedosto: %s (%d tavua)"
+        }
+    }
+}

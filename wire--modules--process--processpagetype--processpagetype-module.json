@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Suodata sivupohjan mukaan"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "N\u00e4yt\u00e4 kaikki"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Sivun tyyppi"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Mitk\u00e4 kent\u00e4t n\u00e4ytet\u00e4\u00e4n sivulistauksessa?"
+        },
+        "9f8f70e6d54311627f02da284603db7a": {
+            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 kohteita."
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Listaa, muokkaa ja lis\u00e4\u00e4 eri tyyppisi\u00e4 sivuja"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "Yhdistelm\u00e4 kirjaimia (a-z), numeroita (0-9) ja alaviivoja (ei v\u00e4lily\u00f6ntej\u00e4)."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Tekstimuotoinen sy\u00f6te ProcessWiren nimimuodossa."
+        }
+    }
+}

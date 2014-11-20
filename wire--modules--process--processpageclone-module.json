@@ -12,7 +12,7 @@
             "text": "Sivun lataaminen ei onnistunut"
         },
         "3311bb66a5349309e01c99050e744f0b": {
-            "text": "T\u00e4m\u00e4 tekee kopion sivusta &s"
+            "text": "T\u00e4m\u00e4 tekee kopion sivusta %s"
         },
         "59eeb47edc78526e0e13dc0dfa8f6b07": {
             "text": "Uuden sivun nimi"
@@ -43,6 +43,12 @@
         },
         "884ba0e5457b084e152567fd52b66f6c": {
             "text": "(kopio %d)"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Sivun kopiointi"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Mahdollistaa sivujen kopioinnin hallintapaneelissa. Lis\u00e4\u00e4 \"kopioi\" -toiminnon sivukarttaan."
         }
     }
 }

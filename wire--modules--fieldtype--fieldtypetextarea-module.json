@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Kent\u00e4n tyyppi"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Valitse kentt\u00e4tyyppi, jota k\u00e4ytet\u00e4\u00e4n sis\u00e4ll\u00f6n sy\u00f6tt\u00e4miseen (Oletus: textarea). Huomaa, ett\u00e4 jos muutat t\u00e4t\u00e4 ja tallennat, \"Kentt\u00e4\"-v\u00e4lilehdell\u00e4 olevat valinnat saattavat muuttua."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Sis\u00e4ll\u00f6n tyyppi"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Tuntematon"
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Merkkaus\/HTML"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "Merkkaus\/HTML -valinta lis\u00e4\u00e4 kent\u00e4lle lis\u00e4suodatuksia, ja sit\u00e4 suositellaan \"Rich text\"-editoreille, kuten TinyMCE:lle ja CKEditorille ja muille kentille, joiden on tarkoitus sis\u00e4lt\u00e4\u00e4 HTML-merkkausta."
+        }
+    }
+}

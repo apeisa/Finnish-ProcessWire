@@ -11,9 +11,6 @@
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Lis\u00e4\u00e4 uusi"
         },
-        "5d1b7adfdc7ca6d81d9ddbfa22b443af": {
-            "text": "Olet lis\u00e4\u00e4m\u00e4ss\u00e4 sivua k\u00e4ytt\u00e4en sivupohjaa '%s'"
-        },
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Pakollinen tieto \"nimi osoitepalkissa\" puuttuu"
         },
@@ -25,6 +22,45 @@
         },
         "e1622ba9f41f5b695bddc69e3ceaa204": {
             "text": "Lis\u00e4\u00e4 uusi sivu"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Minne haluat lis\u00e4t\u00e4 uuden sivun k\u00e4ytt\u00e4en sivupohjaa %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Valitse yl\u00e4sivu"
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Sivupohjaa \"%s\" ei ole sallittu."
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Tallenna + Julkaise"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Varoitus: Valittu nimi \"%1$s\" oli jo k\u00e4yt\u00f6ss\u00e4 ja vaihdettiin muotoon \"%2$s\"."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Poista automaattinen julkaisu k\u00e4yt\u00f6st\u00e4"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Oletuksena sivut jotka sis\u00e4lt\u00e4v\u00e4t vain globaaleja kentti\u00e4 (tavallisesti \"title\"), julkaistaan automaattisesti lis\u00e4yksen yhteydess\u00e4. Valitsemalla t\u00e4m\u00e4n voit est\u00e4\u00e4 sivun automaattisen julkaisun."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "On jo k\u00e4yt\u00f6ss\u00e4"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Ok"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Valittu nimi on jo k\u00e4yt\u00f6ss\u00e4. Jos et muokkaa sit\u00e4, se muokataan yksil\u00f6lliseksi tallennuksen j\u00e4lkeen."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Yht\u00e4k\u00e4\u00e4n sivupohjaa ei ole sallittu t\u00e4nne."
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "K\u00e4ytt\u00e4m\u00e4t\u00f6n v\u00e4liaikainen sivu"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Sivun lis\u00e4\u00e4minen"
         }
     }
 }

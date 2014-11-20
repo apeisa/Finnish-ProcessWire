@@ -2,8 +2,38 @@
     "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldselect-module",
     "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Oletusarvo"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Valitaksesi yhden useamman oletusarvon, kirjoita arvot (1 rivi\u00e4 kohden). Jos arvo sis\u00e4lt\u00e4\u00e4 viittauksen johonkin sivuun, k\u00e4yt\u00e4 sivun ID-tunnistetta."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Oletusarvot ovat valittavissa, koska kentt\u00e4 on merkitty pakolliseksi."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Valinnat"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Kirjoita valinnat, yksi rivi\u00e4 kohden"
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Lis\u00e4t\u00e4ksesi listan alkuun tyhj\u00e4n valinnan, kirjoita ensimm\u00e4iseksi valinnaksi \"=\"."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Merkit\u00e4ksesi jonkin valinnan oletusarvoksi, lis\u00e4\u00e4 sen eteen plus-merkki. Esim +Oma valinta"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 valinnalle arvon ja nimikkeen erikseen erottamalla ne toisistaan yht\u00e4suuruusmerkill\u00e4. Esim. arvo=Oma valinta"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Ryhmitell\u00e4ksesi valintoja (option group), lis\u00e4\u00e4 ryhm\u00e4\u00e4n kuuluvien valintojen eteen 3 tai useampi v\u00e4lily\u00f6nti."
+        },
         "e0626222614bdee31951d84c64e5e9ff": {
-            "text": "Vetovalikko (select)"
+            "text": "Pudotusvalikko (select)"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Yksitt\u00e4isen arvon valinta pudotusvalikosta"
         }
     }
 }

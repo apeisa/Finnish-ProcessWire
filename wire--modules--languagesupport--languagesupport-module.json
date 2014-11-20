@@ -4,6 +4,18 @@
     "translations": {
         "0d61f8370cad1d412f80b84d143e1257": {
             "text": "fi_FI"
+        },
+        "4994a8ffeba4ac3140beb89e8d41f174": {
+            "text": "Kieli"
+        },
+        "185d23ff9526ad93077a1c9ad5ed26a2": {
+            "text": "S\u00e4hk\u00f6posti"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Otsikko"
+        },
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "j.n.Y H:i:s"
         }
     }
 }

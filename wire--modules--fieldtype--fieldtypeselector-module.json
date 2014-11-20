@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Kent\u00e4n l\u00e4ht\u00f6arvo"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Kirjoita valitsin, jota k\u00e4ytet\u00e4\u00e4n l\u00e4ht\u00f6arvona kaikille kent\u00e4n kautta luoduille valitsimille. K\u00e4ytt\u00e4j\u00e4 ei voi muuttaa l\u00e4ht\u00f6arvoa ja kaikki k\u00e4ytt\u00e4j\u00e4n tekem\u00e4t lis\u00e4ykset valitsimeen pohjaavat l\u00e4ht\u00f6arvoon."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Esimerkki: sivupohja=tuote"
+        }
+    }
+}

@@ -4,6 +4,27 @@
     "translations": {
         "ce8ae9da5b7cd6c3df2929543a9af92d": {
             "text": "S\u00e4hk\u00f6posti"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Vahvista"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "S\u00e4hk\u00f6postiosoite"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Kirjoita kelvollinen s\u00e4hk\u00f6postiosoite"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Kirjoittamasi s\u00e4hk\u00f6postiosoitteet eiv\u00e4t t\u00e4sm\u00e4\u00e4. Yrit\u00e4 uudelleen."
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Vahvista s\u00e4hk\u00f6postiosoite?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Jos valittu, n\u00e4ytet\u00e4\u00e4n kaksi s\u00e4hk\u00f6postiosoitekentt\u00e4\u00e4 ja k\u00e4ytt\u00e4j\u00e4n tulee kirjoittaa s\u00e4hk\u00f6postiosoitteensa kahdesti vahvistaakseen sen. T\u00e4m\u00e4 v\u00e4hent\u00e4\u00e4 kirjoitusvirheiden mahdollisuutta."
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "S\u00e4hk\u00f6postiosoite kelvollisessa muodossa"
         }
     }
 }

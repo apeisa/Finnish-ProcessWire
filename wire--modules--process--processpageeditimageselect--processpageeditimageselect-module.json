@@ -9,10 +9,10 @@
             "text": "T\u00e4ll\u00e4 sivulla ei ole kuvia. Sulje ikkuna ja lis\u00e4\u00e4 kuvia tai valitse kuvat toiselta sivulta."
         },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
-            "text": "Kuvat t\u00e4ll\u00e4 sivulla:"
+            "text": "T\u00e4m\u00e4n sivun kuvat:"
         },
         "48448404ecc9e95975b334dbe421c0bd": {
-            "text": "Mik\u00e4li haluat valita kuvia toiselta sivulta, valitse sivu alapuolelta."
+            "text": "Jos haluat valita kuvia toiselta sivulta, valitse sivu alapuolelta."
         },
         "48ccf48dcf2218a413ce473262f21a0c": {
             "text": "Leveys:"
@@ -30,16 +30,37 @@
             "text": "Tasaa kuva oikealle"
         },
         "e36098607b9dd3b6d7107a449b6a25bd": {
-            "text": "Keskit\u00e4 kuva"
+            "text": "Tasaa keskelle"
         },
         "d7e02762cdb4621a77388689b2ee53c0": {
             "text": "Linkit\u00e4 kuvan alkuper\u00e4isversioon?"
         },
         "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuvan kokoa vet\u00e4m\u00e4ll\u00e4 sit\u00e4 oikeasta alakulmasta."
+            "text": "Voit my\u00f6s muuttaa kuvan kokoa vet\u00e4m\u00e4ll\u00e4 oikeasta alakulmasta."
         },
         "b5a7adde1af5c87d7fd797b6245c2a39": {
             "text": "Kuvaus"
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Kent\u00e4t, joista ei voi valita kuvia"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Kirjoita kenttien nimet (v\u00e4lily\u00f6nnill\u00e4 eroteltuina), joista ei voida valita kuvia."
+        },
+        "63c7dee42e04e2757472031aa7164d81": {
+            "text": "\u00c4l\u00e4 kirjoita leveys- ja korkeusattribuutteja kuvatagiin?"
+        },
+        "5a8f9d5840811602e6806392ffef0523": {
+            "text": "Oletuksena moduuli kirjoittaa leveys- ja korkeusattribuutit <img> -tagiin. Jos k\u00e4yt\u00e4t sivustolla responsiivisia kuvia, kytke t\u00e4m\u00e4 pois p\u00e4\u00e4lt\u00e4."
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "\"Tasaa vasemmalle\" -luokkanimi"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "\"Tasaa oikealle\" -luokkanimi"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "\"Tasaa keskelle\" -luokkanimi"
         }
     }
 }

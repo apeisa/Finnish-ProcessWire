@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.module",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-module",
+    "translations": {
+        "04b18c0ac7afa894014866938bd856d4": {
+            "text": "P\u00e4ivitys ProcessWireen on saatavilla"
+        },
+        "393de78bf85a95a53886232d99820a1c": {
+            "text": "ProcessWire on ajan tasalla"
+        },
+        "7497711b88af126d4b9c4af232b9edb0": {
+            "text": "P\u00e4ivitys on saatavilla (%s)"
+        },
+        "c846f7ac91ff68daa1c144c84bd2e5b3": {
+            "text": "Moduulit ovat ajan tasalla"
+        },
+        "9b44a8c5e5876b8400e951550c089f31": {
+            "text": "Moduulien tiedon lataaminen hakemistosta ei onnistunut"
+        }
+    }
+}

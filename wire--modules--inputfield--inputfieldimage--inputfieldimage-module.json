@@ -6,25 +6,70 @@
             "text": "Kuva automaattisesti pienennetty suurimpaan sallittuun kokoon"
         },
         "95dde9286ff11d93e5f5ce0c832b9f2c": {
-            "text": "K\u00e4yt\u00e4 editorissa pieni\u00e4 kuvia?"
+            "text": "N\u00e4yt\u00e4 editorissa pienet kuvat?"
         },
         "183cf71ab1252b747070605a2aa370c2": {
-            "text": "Pienet kuvat viev\u00e4t v\u00e4hemm\u00e4n tilaa ja tekev\u00e4t kuvien j\u00e4rjest\u00e4misen helpommaksi. Jos et valitse t\u00e4t\u00e4, k\u00e4ytet\u00e4\u00e4n originaaleja t\u00e4ysikokoisia kuvia editorissa."
+            "text": "Pienet kuvat viev\u00e4t v\u00e4hemm\u00e4n tilaa ja tekev\u00e4t kuvien j\u00e4rjest\u00e4misen helpommaksi. Jos et valitse t\u00e4t\u00e4, editorissa n\u00e4ytet\u00e4\u00e4n alkuper\u00e4iset kuvat."
         },
         "7f0785e56befa113ce8fca2316a12a2e": {
-            "text": "Kuvan maksimikoot"
+            "text": "Kuvan maksimimitat"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Halutessasi voit m\u00e4\u00e4ritell\u00e4 kuvan maksimi leveyden ja\/tai korkeudeun. Mik\u00e4li n\u00e4m\u00e4 ylittyv\u00e4t, kuva pienennet\u00e4\u00e4n lis\u00e4ysvaiheessa. T\u00e4m\u00e4 ei siis vaikuta jo lis\u00e4ttyihin kuviin."
+            "text": "Voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 ladattavien kuvien maksimileveyden ja\/tai -korkeuden. Mik\u00e4li n\u00e4m\u00e4 ylittyv\u00e4t, kuva pienennet\u00e4\u00e4n lis\u00e4ysvaiheessa. T\u00e4m\u00e4 ei vaikuta olemassa oleviin kuviin, eik\u00e4 kuviin jotka lis\u00e4t\u00e4\u00e4n API:n kautta."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Kuvien maksimileveys"
         },
-        "21a08974171e7c2affbea041f9311318": {
-            "text": "Anna arvo pikselein\u00e4 tai j\u00e4t\u00e4 tyhj\u00e4ksi jos et halua rajoittaa korkeutta."
-        },
         "c58e466902d0ff945d0677114e41682b": {
             "text": "Kuvien maksimikorkeus"
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Kuvatiedosto ei kelpaa"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Kuva %s ei t\u00e4yt\u00e4 kokovaatimuksia"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Poista"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Siirr\u00e4 alimmaiseksi"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Siirr\u00e4 ylimm\u00e4iseksi"
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Oletusn\u00e4kym\u00e4"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Rivit"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Ruudukko"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "N\u00e4kym\u00e4\u00e4 voidaan vaihtaa kent\u00e4ss\u00e4 olevan painikkeen avulla. T\u00e4m\u00e4 m\u00e4\u00e4ritt\u00e4\u00e4 oletuksena k\u00e4ytett\u00e4v\u00e4n n\u00e4kym\u00e4n. Rivin\u00e4kym\u00e4\u00e4 suositellaan oletukseksi."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Kirjoita pikseleiden lukum\u00e4\u00e4r\u00e4 tai j\u00e4t\u00e4 tyhj\u00e4ksi, jos et halua rajoitusta."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Kuvien v\u00e4himm\u00e4ismitat"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 ladattavien kuvien minimileveyden- ja\/tai korkeuden. Mik\u00e4li n\u00e4m\u00e4 alittuvat, kuvaa ei ladata palvelimelle."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Kuvien minimileveys"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Kuvien minimikorkeus"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Kuvat"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Yksi tai useampi kuva (lajiteltavissa)"
         }
     }
 }

@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "90e829a463f2e23bdd11a7d8dddabe7e": {
+            "text": "Roskakori tyhjennettiin"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "Roskakori on tyhj\u00e4"
+        },
+        "b93325ff37316801eaf36f95c25a75e3": {
+            "text": "Seuraavat sivut ovat roskakorissa"
+        },
+        "206c3d86254559ad3cd3b88e8e002113": {
+            "text": "Tyhjenn\u00e4 roskakori"
+        },
+        "80a9994143f3ef28a7ba4fd1dd67436a": {
+            "text": "Vahvista roskakorin tyhjennys"
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Jos roskakorissa on liikaa sivuja, saatat joutua tyhjent\u00e4m\u00e4\u00e4n sen useasti."
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Sivujen roskakori"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "Roskakorin tyhjennys"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldButton.module",
+    "textdomain": "wire--modules--inputfield--inputfieldbutton-module",
+    "translations": {
+        "87b7760f14fbff78d8819291f36ab9a0": {
+            "text": "Painike (button)"
+        },
+        "3691c9189afe50505955f4ef8181ae3c": {
+            "text": "Lomakkeen painike-elementti, jolle voit vapaaehtoisesti m\u00e4\u00e4ritt\u00e4\u00e4 href-attribuutin."
+        }
+    }
+}

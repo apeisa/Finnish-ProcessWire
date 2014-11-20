@@ -3,7 +3,16 @@
     "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
     "translations": {
         "c425f296c6b905c91fb3f6da1a1702b6": {
-            "text": "Valintakent\u00e4t (checkbox)"
+            "text": "Rastitettavat ruudut (checkbox)"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Useita rastitettavia ruutuja"
+        },
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Kenttien palstoitus"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Jos haluat kent\u00e4t n\u00e4ytett\u00e4v\u00e4ksi palstoina (p\u00e4\u00e4llekk\u00e4in listauksen sijaan), kirjoita palstojen m\u00e4\u00e4r\u00e4 (korkeintaan 10). N\u00e4ytt\u00e4\u00e4ksesi kent\u00e4t per\u00e4kk\u00e4in, kirjoita 1."
         }
     }
 }

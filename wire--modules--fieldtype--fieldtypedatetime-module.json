@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n tulostusmuoto"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Valitse muotoilu p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n tulostukselle."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Katso my\u00f6s \"Ajan tulostusmuoto\""
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ei mit\u00e4\u00e4n"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix-aikaleima)"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Ajan tulostusmuoto"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Jos haluat tulostaa ajan p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n lis\u00e4ksi, valitse k\u00e4ytett\u00e4v\u00e4 muoto. T\u00e4m\u00e4 muotoilu yhdistet\u00e4\u00e4n p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muotoiluun."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/ajan muotoilukoodi"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\/aika tulostetaan alla olevassa muodossa. T\u00e4m\u00e4n kent\u00e4n sis\u00e4lt\u00f6 koostuu edell\u00e4 valituista p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ja ajan muotoiluvalinnoista ja voit halutessasi tarkentaa muotoilua t\u00e4ss\u00e4."
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Katso [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) -funktion dokumentaatiosta lis\u00e4tietoja muotoilun kirjoittamiseksi. Voit vaihtoehtoisesti k\u00e4ytt\u00e4\u00e4 [PHP:n strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) -muotoa eri kieliversioita varten."
+        }
+    }
+}

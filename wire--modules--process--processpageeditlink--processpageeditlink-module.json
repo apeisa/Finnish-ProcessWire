@@ -6,7 +6,7 @@
             "text": "Valitse sivu"
         },
         "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Sy\u00f6t\u00e4 osoite, valitse sivu tai tiedosto johon linkit\u00e4t:"
+            "text": "Sy\u00f6t\u00e4 osoite, valitse sivu tai valitse tiedosto johon linkitet\u00e4\u00e4n:"
         },
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Linkit\u00e4 osoitteeseen"
@@ -18,13 +18,28 @@
             "text": "Avaa linkki uudessa ikkunassa?"
         },
         "1f3e9bfe3126acfe0af746ec6ed2db68": {
-            "text": "Mik\u00e4li valittu, linkki avataan uudessa ikkunassa tai v\u00e4lilehdess\u00e4."
+            "text": "Jos valittu, linkki avataan uudessa ikkunassa tai v\u00e4lilehdess\u00e4."
         },
         "149a978aed458d66e08de0460cdbf65e": {
             "text": "Linkit\u00e4 tiedostoon"
         },
         "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Valitaksesi tiedoston toiselta sivulta, klikkaa \"Linkita sivuun\" ja valitse sivu jolla haluamasi tiedosto sijaitsee."
+            "text": "Valitaksesi tiedoston toiselta sivulta, klikkaa \"Linkit\u00e4 sivuun\" ja valitse sivu jolla haluamasi tiedosto sijaitsee."
+        },
+        "7ac547b42cb510a9564daab982ac839a": {
+            "text": "Linkit\u00e4 alasivuun"
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "URL-tyyppi sivun linkeille"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absoluuttinen (oletus)"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "* Kokeellinen ominaisuus"
+        },
+        "d6610e6929ce3f2c5d432efd8cb96097": {
+            "text": "T\u00e4m\u00e4 toiminto on samankaltainen kuin yll\u00e4 oleva \"Linkit\u00e4 sivuun\", mutta listaa vain avoinna olevan sivun alasivut."
         }
     }
 }
