@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Fieldgroups.php",
+    "textdomain": "wire--core--fieldgroups-php",
+    "translations": {
+        "abce719a5ff28157e0e92337d8dcf8bd": {
+            "text": "Kentt\u00e4\u00e4 \"%s\" ei l\u00f6ytynyt"
+        },
+        "f1d3c736f589a82f1519c711fd4123c0": {
+            "text": "Kentt\u00e4\u00e4 \"%s\" ei l\u00f6ytynyt kontekstin asettamiseksi"
+        },
+        "fdd1e49a5de74a22586acf7420fcbd8d": {
+            "text": "Varoitus, kaikki tieto n\u00e4iss\u00e4 kentiss\u00e4 poistetaan lopullisesti (vahvista): %s"
+        }
+    }
+}

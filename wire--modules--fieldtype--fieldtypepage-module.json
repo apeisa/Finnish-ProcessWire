@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "K\u00e4sittelytapa API:ssa"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Jos kentt\u00e4 sis\u00e4lt\u00e4\u00e4 useita sivuja, valitse ensimm\u00e4inen valinta (PageArray). Jos kent\u00e4n tulee sis\u00e4lt\u00e4\u00e4 vain yksi sivu, valitse jokin valinta yksitt\u00e4iselle sivulle (jos et ole varma, valitse viimeinen vaihtoehto)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Useita sivuja (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Yksitt\u00e4inen sivu (Page) tai ep\u00e4tosi (boolean false) jos kentt\u00e4 on tyhj\u00e4"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Yksitt\u00e4inen sivu (Page) tai tyhj\u00e4 sivu (NullPage) jos kentt\u00e4 on tyhj\u00e4"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Salli julkaisemattomat sivut?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Jos valittu, julkaisemattomat sivut sallitaan valittavaksi kentt\u00e4\u00e4n. Julkaisemattomat sivut n\u00e4kyv\u00e4t sivustolla vain niille, joilla on sivuihin muokkausoikeus. "
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Sivua ei l\u00f6ytynyt"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Sivupohjaa ei l\u00f6ytynyt"
+        }
+    }
+}
