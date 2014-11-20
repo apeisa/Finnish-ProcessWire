@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Process\/ProcessList.module",
+    "textdomain": "wire--modules--process--processlist-module",
+    "translations": {
+        "5b4883d0e89e3d445d1cd1ccad668cf1": {
+            "text": "T\u00e4h\u00e4n sivuun liitetty\u00e4 prosessimoduulia ei ole asennettu."
+        },
+        "9040adb9c035d31a6f59c34259371121": {
+            "text": "Ei kuvausta"
+        },
+        "4ee29ca12c7d126654bd0e5275de6135": {
+            "text": "Lista"
+        },
+        "11edaf952ae49a89083e2f6ed973c774": {
+            "text": "Listaa avoinna olevan sivun alasivuihin liitetyt prosessit"
+        }
+    }
+}
