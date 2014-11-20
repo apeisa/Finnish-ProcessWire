@@ -94,6 +94,12 @@
         },
         "aa2e4d260721b3a7e2776b8cb9c19fdf": {
             "text": "3. Nimikekentt\u00e4 tulee olla asetettu \"title (oletus)\""
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Kentt\u00e4moduulit, joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Valitse kentt\u00e4moduulit joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan. Useimmiten kent\u00e4n tulisi olla sellainen, joka sallii yhden tai useamman valinnan."
         }
     }
 }

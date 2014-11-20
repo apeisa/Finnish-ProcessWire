@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFloat.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefloat-module",
+    "translations": {
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Desimaalien m\u00e4\u00e4r\u00e4, johon py\u00f6ristet\u00e4\u00e4n"
+        },
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Liukuluku (desimaali)"
+        },
+        "ba16f38e77b1ed0fffd53a9ba0a63aab": {
+            "text": "Kentt\u00e4 joka sis\u00e4lt\u00e4\u00e4 liukuluvun"
+        }
+    }
+}
