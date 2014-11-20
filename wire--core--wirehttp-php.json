@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Lataus-URL:n tulee alkaa http:\/\/ tai https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "fopen-virhe tiedostolle:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Tiedostoa ei voitu ladata"
+        }
+    }
+}
