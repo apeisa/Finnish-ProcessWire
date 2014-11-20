@@ -1,0 +1,102 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Luotu"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Muokattu"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Muokannut"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Luonut"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sivupohja"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Tila"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Yl\u00e4sivu"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Alasivujen m\u00e4\u00e4r\u00e4"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Piilotettu"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Ei julkaistu"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Lukittu"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Roskakorissa"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Suodattimet"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Lis\u00e4\u00e4 suodatin"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Oletussarakkeet"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Valitse ja lajittele sarakkeet, jotka n\u00e4ytet\u00e4\u00e4n sivutaulukossa."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 voi m\u00e4\u00e4ritt\u00e4\u00e4 n\u00e4ytett\u00e4v\u00e4t sarakkeet. T\u00e4ss\u00e4 listatut sarakkeet ovat oletusarvoja."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "T\u00e4h\u00e4n teht\u00e4v\u00e4t muutokset n\u00e4kyv\u00e4t v\u00e4litt\u00f6m\u00e4sti alla olevassa sivutaulukossa."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Tuloksissa n\u00e4ytett\u00e4v\u00e4t sarakkeet"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "N\u00e4ytett\u00e4v\u00e4t sivut"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Tyhj\u00e4"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "muokkaa"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "katso"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "uusi"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d\u2013%2$d \/ %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Ei tuloksia."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "valittu"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Kaikki asetukset nollattiin"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Sarakkeet"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Kirjanmerkki\u00e4 ei tunnistettu, tai se ei ole en\u00e4\u00e4 aktiivinen"
+        }
+    }
+}
