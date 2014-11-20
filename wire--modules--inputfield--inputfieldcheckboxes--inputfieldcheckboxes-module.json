@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
     "translations": {
         "c425f296c6b905c91fb3f6da1a1702b6": {
-            "text": "Rastitettavat kent\u00e4t (checkbox)"
+            "text": "Rastitettavat ruudut (checkbox)"
         },
         "632ae34b804c1914c3a51af327a3379d": {
-            "text": "Useita rastitettavia kentti\u00e4"
+            "text": "Useita rastitettavia ruutuja"
         },
         "d3f3236393ce7a48198cde99acaed365": {
             "text": "Kenttien palstoitus"
