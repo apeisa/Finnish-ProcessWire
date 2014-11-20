@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRecentPages\/ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 sivuja (viel\u00e4)"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "T\u00e4m\u00e4 ominaisuus vaatii \"page-lister\"-oikeuden"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n %s \u00e4skett\u00e4in luomat sivut"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "\u00c4skett\u00e4in luodut sivut"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n %s \u00e4skett\u00e4in muokkaamat sivut"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "\u00c4skett\u00e4in muokatut sivut"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "Lis\u00e4\u00e4 toinen"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Valitse mik\u00e4 tahansa sivu luodaksesi uuden samantyyppisen"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "Itse muokatut"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "Itse luodut"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "Sivu"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Yl\u00e4sivu"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Sivupohja"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Muokatut"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Uudet"
+        },
+        "0d52952360bedad458af277a8f2aeb1e": {
+            "text": "kohteessa %s"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Luotu"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Muokattu"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "Viimeksi luotu"
+        }
+    }
+}
