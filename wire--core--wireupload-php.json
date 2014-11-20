@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Tiedostolataus palvelimelle onnistui"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Ladattavan tiedoston koko on suurempi kuin php.ini -tiedostossa m\u00e4\u00e4ritetty upload_max_filesize"
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Ladattavan tiedoston koko on suurempi kuin HTML-lomakkeella m\u00e4\u00e4ritetty MAX_FILE_SIZE"
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Tiedosto ladattiin palvelimelle vain osittain"
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Tiedostoa ei ladattu palvelimelle"
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "V\u00e4liaikaishakemisto puuttuu"
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Tiedoston kirjoitus levylle ei onnistunut"
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Tiedoston lataus palvelimelle keskeytettiin tiedostop\u00e4\u00e4tteen vuoksi."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Tiedostom\u00e4\u00e4r\u00e4n rajoitus on t\u00e4yttynyt"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Virheellinen tiedostop\u00e4\u00e4te, k\u00e4yt\u00e4 jotakin seuraavista:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Ylitt\u00e4\u00e4 suurimman sallitun tiedostokoon"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "ZIP-paketti ei sis\u00e4lt\u00e4nyt tiedostoja"
+        }
+    }
+}

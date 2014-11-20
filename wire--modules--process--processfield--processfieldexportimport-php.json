@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Valitse kent\u00e4t jotka haluat vied\u00e4"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NIMI"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "NIMIKE"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "TYYPPI"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+klikkaus valitsee usean kent\u00e4n jonon. Ctrl+klikkaus (tai Cmd+klikkaus) valitsee useita yksitt\u00e4isi\u00e4 kentti\u00e4. Ctrl+A (tai Cmd+A) valitsee kaikki kent\u00e4t."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Viennin data"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Kopioi ja liit\u00e4 t\u00e4m\u00e4 toisen ProcessWiren asennuksen \"Tuo\"-kentt\u00e4\u00e4n."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Klikkaa t\u00e4h\u00e4n kentt\u00e4\u00e4n valitaksesi kaiken. Kun valinta on tehty, kopioi data painamalla Ctrl+C tai Cmd+C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Liit\u00e4 kentt\u00e4\u00e4n viennin data."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kopioi viennin data toisesta ProcessWiren asennuksesta ja liit\u00e4 ne t\u00e4h\u00e4n kentt\u00e4\u00e4n painamalla Ctrl+V tai Cmd+V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Esikatsele"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "uusi"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Muutokset"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Ominaisuus"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Vanha arvo"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Uusi arvo"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Suosittelemme vaihtamaan k\u00e4sin t\u00e4m\u00e4n kent\u00e4n tyypiksi \"%s\" ja palaamaan takaisin hyv\u00e4ksym\u00e4\u00e4n loput muutokset."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Ei odottavia muutoksia."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Muokkaa t\u00e4t\u00e4 kentt\u00e4\u00e4?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Luo t\u00e4m\u00e4 kentt\u00e4?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "klikkaa \"kyll\u00e4\" n\u00e4hd\u00e4ksesi muutokset"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Joissakin tapauksessa muutosten hyv\u00e4ksyminen vaaditaan kahdesti. Tarkista alta odottavat muutokset ja hyv\u00e4ksy ne."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Tarkista alla olevat muutokset ja kun ne ovat valmiita, hyv\u00e4ksy ne. Jos listalla on muutoksia, joita et halua tehd\u00e4, poista valinta niiden muutoksen kohdalta."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Tee muutokset"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Muutokset tehty!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Muutoksia ei l\u00f6ytynyt"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Tallennettiin:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Lis\u00e4ttiin kentt\u00e4"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Muokattiin kentt\u00e4\u00e4"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Vie"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "Ok"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Tuo"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Kyll\u00e4"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Ei"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d virhe"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d virhett\u00e4"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "L\u00f6ydettiin %d ominaisuus."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "L\u00f6ydettiin %d ominaisuutta."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "%d kent\u00e4st\u00e4 l\u00f6ydettiin virhe"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "%d kent\u00e4st\u00e4 l\u00f6ydettiin virhe"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "L\u00f6ydettiin %d lis\u00e4tt\u00e4v\u00e4 kentt\u00e4"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "L\u00f6ydettiin %d lis\u00e4tt\u00e4v\u00e4\u00e4 kentt\u00e4\u00e4"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "L\u00f6ydettiin %d p\u00e4ivitett\u00e4v\u00e4 kentt\u00e4"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "L\u00f6ydettiin %d p\u00e4ivitett\u00e4v\u00e4\u00e4 kentt\u00e4\u00e4"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "Lis\u00e4ttiin %d kentt\u00e4"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "Lis\u00e4ttiin %d kentt\u00e4\u00e4"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Muokattiin %d kentt\u00e4\u00e4"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Muokattiin %d kentt\u00e4\u00e4"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "Ohitettiin %d kentt\u00e4"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "Ohitettiin %d kentt\u00e4\u00e4"
+        }
+    }
+}
