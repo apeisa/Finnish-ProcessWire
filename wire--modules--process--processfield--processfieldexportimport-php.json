@@ -30,7 +30,7 @@
             "text": "Liit\u00e4 kentt\u00e4\u00e4n viennin data."
         },
         "139ef19d3b2f902827257b2ebc33d708": {
-            "text": "Kopioi viennin data toisesta ProcessWiren asennuksesta ja liit\u00e4 ne t\u00e4h\u00e4n kentt\u00e4\u00e4n painamalla Ctrl+V tai Cmd+V."
+            "text": "Kopioi viennin data toisesta ProcessWiren asennuksesta ja liit\u00e4 se t\u00e4h\u00e4n kentt\u00e4\u00e4n painamalla Ctrl+V tai Cmd+V."
         },
         "31fde7b05ac8952dacf4af8a704074ec": {
             "text": "Esikatsele"
@@ -91,9 +91,6 @@
         },
         "19b7fb53a85de3c8ba85672a91a7398b": {
             "text": "Vie"
-        },
-        "722034114c47bfa859a1be8200469fcf": {
-            "text": "Ok"
         },
         "e37dfad06455f0c5d79778a5020d946d": {
             "text": "Tuo"
