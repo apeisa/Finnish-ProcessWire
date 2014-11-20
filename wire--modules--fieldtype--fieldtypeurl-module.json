@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "\"HTML Entity Encoder\" -tekstimuotoilua suositellaan k\u00e4ytt\u00f6\u00f6n URL-kentille."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Salli suhteelliset\/paikalliset URL:t ilman \"http:\/\/\"-etuliitett\u00e4?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "Paikalliset\/suhteelliset URL:t eiv\u00e4t sis\u00e4ll\u00e4 skeemaa tai domainia."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Lis\u00e4\u00e4 sivuston juuripolku paikallisiin\/suhteellisiin URL-osoitteisiin?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "T\u00e4m\u00e4 toiminto lis\u00e4\u00e4 automaattisesti sivun juuripolun kaikkien sellaisten URL-osoitteiden alkuun, jotka alkavat kauttaviivalla, kuten \/jokin\/polku\/. Toiminto on hy\u00f6dyllinen, jos sivusto sijaitsee alihakemistossa, koska alihakemistoa ei tarvitse itse lis\u00e4t\u00e4 osoitteiden alkuun. Jos my\u00f6hemmin siirr\u00e4t sivuston domainin juureen (tai toiseen alihakemistoon), URL:t pysyv\u00e4t ehjin\u00e4. Jos t\u00e4m\u00e4 toiminto on p\u00e4\u00e4ll\u00e4, kirjoita URL:t aina ilman alihakemistoa, huolimatta siit\u00e4 sijaitseeko sivusto alihakemistossa vai ei. Kehitt\u00e4jille: huomaa ett\u00e4 t\u00e4m\u00e4 toiminto on k\u00e4yt\u00f6ss\u00e4 vain, jos sivulla on outputFormatting k\u00e4yt\u00f6ss\u00e4."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Varmistaa, ett\u00e4 URL:t eiv\u00e4t rikkoudu kun sivusto siirret\u00e4\u00e4n alihakemistosta juureen (tavallisin tilanne)."
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Kentt\u00e4, joka sis\u00e4lt\u00e4\u00e4 URL-osoitteen"
+        }
+    }
+}
