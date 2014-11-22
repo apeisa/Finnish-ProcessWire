@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/InputfieldCommentsAdmin.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Poista"
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "Spam-kommentit poistetaan automaattisesti kent\u00e4n asetuksissa m\u00e4\u00e4ritetyn ajan j\u00e4lkeen."
+        },
+        "193a4762fa2301d6e5d9fac2730dbe71": {
+            "text": "T\u00e4m\u00e4 kommentti odottaa hyv\u00e4ksynt\u00e4\u00e4 tai poistamista."
+        },
+        "95742f3daaebcf075ad53961b11fc0dd": {
+            "text": "Kommentti #%1$d, L\u00e4hetetty %2$s, %3$s"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Lainaa"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "S\u00e4hk\u00f6posti"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "Verkkosivusto"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Teksti"
+        },
+        "ece9015e4facb7c419ce80abecfd6852": {
+            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 kohteita."
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "Poistettiin kommentti #%d"
+        },
+        "58b6f822b062991647cf2e70b0140352": {
+            "text": "P\u00e4ivitettiin %s kommentille #%d"
+        },
+        "4da50726e74180c03ab1cfe637bb590b": {
+            "text": "Kommenttien hallinta"
+        },
+        "9e1775dd11710f1858dc1f9c21174ec8": {
+            "text": "K\u00e4ytt\u00f6liittym\u00e4 kommenttien hallintaan"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "Hyv\u00e4ksytty"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "Odottaa"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "Spam"
+        }
+    }
+}
