@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Moduulityypit"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Valitse moduulityypit jotka ovat valittavissa t\u00e4ss\u00e4 kent\u00e4ss\u00e4"
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Luo kent\u00e4n arvosta valitun moduulin instanssi?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Jos valittu, kent\u00e4n arvo palautetaan valitun moduulin instanssina. Jos t\u00e4t\u00e4 ei valita, arvona palautetaan merkkijono, joka sis\u00e4lt\u00e4\u00e4 valitun moduulin luokkanimen."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Valintojen nimike"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Moduulin luokkanimi"
+        },
+        "335fdfd0673e7e457d51384f686b00dc": {
+            "text": "Moduulin nimi"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Kent\u00e4n tyyppi"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Pudotusvalikko (select)"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "Valintapainikkeet (radio)"
+        }
+    }
+}

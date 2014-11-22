@@ -6,10 +6,10 @@
             "text": "Muutettu: %s"
         },
         "c0df350b3d4fe22546834d74cdc77023": {
-            "text": "Sivu julkaistu: %s"
+            "text": "Julkaistiin sivu: %s"
         },
         "9ce0bc0d85071636f750e39ea86f86c0": {
-            "text": "Sivu tallennettu: %s"
+            "text": "Tallennettiin sivu: %s"
         },
         "f15c1cae7882448b3fb0404682e17e61": {
             "text": "Sis\u00e4lt\u00f6"
@@ -42,7 +42,7 @@
             "text": "Lis\u00e4\u00e4 uusi sivu t\u00e4h\u00e4n"
         },
         "7e92f49c92e3f91ed88f03063fc34748": {
-            "text": "Alasivujen j\u00e4rjestys"
+            "text": "J\u00e4rjestelyasetukset"
         },
         "591acadb8502cd6db313b718df45a6f4": {
             "text": "Oletuskent\u00e4t"
@@ -51,7 +51,7 @@
             "text": "Lis\u00e4tyt kent\u00e4t"
         },
         "d49042595c2674084c92d561b714d522": {
-            "text": "K\u00e4\u00e4nteinen j\u00e4rjestys"
+            "text": "K\u00e4\u00e4nteinen j\u00e4rjestys?"
         },
         "f4f70727dc34561dfde1a3c529b6205c": {
             "text": "Asetukset"
@@ -66,13 +66,13 @@
             "text": "Tiedot"
         },
         "cacab211629daeffac10e13574e49d9e": {
-            "text": "Piilotettu: ei n\u00e4ytet\u00e4 listoissa eik\u00e4 hauissa"
+            "text": "Piilotettu: Ei n\u00e4ytet\u00e4 listoissa eik\u00e4 hauissa"
         },
         "ab4b835121255016ef73bea7f4ea45a7": {
-            "text": "Lukittu: sivun muokkaaminen estetty"
+            "text": "Lukittu: Sivun muokkaaminen estetty"
         },
         "0fdd10ee950975e58b122abb2de3a49b": {
-            "text": "Ei julkaistu: piilossa ja estetty"
+            "text": "Ei julkaistu: Piilossa ja estetty"
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "Tila"
@@ -87,13 +87,13 @@
             "text": "Siirr\u00e4 roskakoriin"
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
-            "text": "Laita rasti ruutuun, mik\u00e4li haluat varmasti jatkaa"
+            "text": "Laita rasti ruutuun, jos haluat jatkaa"
         },
         "6e2e3de95055596f315a073f771342e3": {
-            "text": "Sivua ei voida t\u00e4ll\u00e4 hetkell\u00e4 poistaa"
+            "text": "Sivua ei ole t\u00e4ll\u00e4 hetkell\u00e4 poistettavissa"
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Katso"
+            "text": "N\u00e4yt\u00e4"
         },
         "d2387a51d9f67d60dfc2cbb23bd04af2": {
             "text": "Kenell\u00e4 on p\u00e4\u00e4sy t\u00e4h\u00e4n sivuun"
@@ -111,16 +111,16 @@
             "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty t\u00e4ss\u00e4 sivupohjassa: %2$s"
         },
         "17f8097b4af11ef352554fc7dd416c34": {
-            "text": "Sivupohja '%s' ei ole sallittu"
+            "text": "Sivupohja \"%s\" ei ole sallittu"
         },
         "c4101b17a6f3bb8ffbe40eb9edef2347": {
             "text": "T\u00e4t\u00e4 sivua ei voida poistaa"
         },
         "827884bd1b673b7e58def7d09bf59b8b": {
-            "text": "Poistettu sivu: %s"
+            "text": "Poistettiin sivu: %s"
         },
         "a419fb9d9fe259c36eb1e4a99462bd1f": {
-            "text": "Sivu siirretty roskakoriin: %s"
+            "text": "Sivu siirrettiin roskakoriin: %s"
         },
         "6c86eb040dbb20b1c6e1e891774b27ac": {
             "text": "Sivua ei voitu siirt\u00e4\u00e4 roskakoriin"
@@ -132,25 +132,25 @@
             "text": "Vaihda sivupohja \"%1$s\" sivupohjaan \"%2$s\""
         },
         "48af63aeec834982fcf91e325aaea998": {
-            "text": "Varoitus, sivupohjan vaihtaminen poistaa seuraavat kent\u00e4t:"
+            "text": "Varoitus, sivupohjan vaihtaminen poistaa sivulta seuraavat kent\u00e4t:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
             "text": "Oletko varma?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Varmista, ett\u00e4 ymm\u00e4rr\u00e4t yll\u00e4olevan laittamalla rastin ruutuun."
+            "text": "Varmista, ett\u00e4 ymm\u00e4rr\u00e4t yll\u00e4 olevan laittamalla rasti ruutuun."
         },
         "6b102e11bd33fb8f4be6a6cecf2c491b": {
             "text": "Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun sivupohjaa"
         },
         "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Sivupohja ei ole sallittu"
+            "text": "Valittu sivupohja ei ole sallittu"
         },
         "d4ad7f8661990f191def1fb3a6accbd9": {
-            "text": "Sivupohja vaihdettu '%s'"
+            "text": "Sivupohja vaihdettiin: \"%s\""
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Valitse kentt\u00e4 alapuolelta, mik\u00e4li haluat kaikki nykyiset ja tulevat alasivut automaattiseen j\u00e4rjestykseen valitun kent\u00e4n perusteella. J\u00e4t\u00e4 kokonaan tyhj\u00e4ksi, mik\u00e4li haluat j\u00e4rjest\u00e4\u00e4 sivujen j\u00e4rjestyksen raahaamalla."
+            "text": "Valitse kentt\u00e4, jonka mukaan haluat j\u00e4rjestell\u00e4 kaikki nykyiset ja tulevat alasivut. J\u00e4t\u00e4 tyhj\u00e4ksi, jos haluat j\u00e4rjestell\u00e4 sivut vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
         },
         "7ba9fe21b073af37b16f989e23112967": {
             "text": "Tuntematon sivu"
@@ -171,7 +171,7 @@
             "text": "Viimeksi muokattu: %1$s, %2$s"
         },
         "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Alasivut on j\u00e4rjestetty"
+            "text": "J\u00e4rjest\u00e4 alasivut kent\u00e4n mukaan"
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Ei mit\u00e4\u00e4n"
@@ -189,13 +189,13 @@
             "text": "Muokkaa sivua: %s"
         },
         "30b78fb546fe9686f84a740a5e5524a3": {
-            "text": "Sivun osoite vaihdettiin muotoon \"%s\", koska pyydetty nimi oli jo k\u00e4yt\u00f6ss\u00e4."
+            "text": "Sivun URL-osoite vaihdettiin muotoon \"%s\", koska pyydetty nimi oli jo k\u00e4yt\u00f6ss\u00e4."
         },
         "421318b075c43ddcd5426197f778c43c": {
             "text": "Sivua ei voida julkaista, ennen kuin virheet ovat korjattu"
         },
         "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Alasivut lajitellaan kent\u00e4n \"%s\" mukaan. M\u00e4\u00e4ritelty sivupohjan asetuksissa."
+            "text": "Alasivut ovat j\u00e4rjestelty kent\u00e4n \"%s\" mukaan. M\u00e4\u00e4ritelty sivupohjan asetuksissa."
         },
         "1ad359c38781f8fc924a380559d60c42": {
             "text": "Luonut k\u00e4ytt\u00e4j\u00e4"

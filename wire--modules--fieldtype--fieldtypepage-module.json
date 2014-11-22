@@ -28,6 +28,18 @@
         },
         "34a56e6d474c258bb9f4553aae0c7b81": {
             "text": "Sivupohjaa ei l\u00f6ytynyt"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Etsi ja poista viittaukset sivuihin, joita ei ole"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "T\u00e4m\u00e4 toiminto korjaa vanhemmissa ProcessWiren versioissa olleen ongelman, jonka seurauksena kentt\u00e4\u00e4n saattaa j\u00e4\u00e4d\u00e4 viittauksia poistettuihin sivuihin. Suorita t\u00e4m\u00e4 toiminto, jos sivuhauissa ilmenee ep\u00e4tarkkoja tuloksia (etenkin sellaisten valitsimien kohdalla, joissa k\u00e4ytet\u00e4\u00e4n pageref.count)."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Varoitus: Suosittelemme tietokannan varmuuskopiointia ennen t\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6\u00e4."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Etsi ja poista"
         }
     }
 }

@@ -271,6 +271,48 @@
         },
         "b2ab31c6f8fbc066d4840baa6c081821": {
             "text": "Mahdollisia tuntemattomia ominaisuuksia l\u00f6ytyi t\u00e4lle kent\u00e4lle. Tarkista \"H\u00e4lytys\" -v\u00e4lilehti."
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Kent\u00e4n tarkistus:"
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Tarkista kent\u00e4n data"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Toiminto optimoi kent\u00e4n ja poistaa kent\u00e4n k\u00e4ytt\u00e4m\u00e4tt\u00f6m\u00e4n datan. Jos ongelmia l\u00f6ytyy, voit tallennuksen j\u00e4lkeen korjata ne \"H\u00e4lytys\"-v\u00e4lilehdell\u00e4."
+        },
+        "0b99d251c68ee30c7f38cefe42d5fbdc": {
+            "text": "Tiedot kent\u00e4n k\u00e4yt\u00f6st\u00e4"
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Huomaa, ett\u00e4 kent\u00e4n tyypin vaihtaminen muokkaa tietokannan skeemaa. Jos uusi kentt\u00e4tyyppi ei ole yhteensopiva vanhan kanssa, tai se k\u00e4ytt\u00e4\u00e4 merkitt\u00e4v\u00e4sti poikkeavaa skeemaa, kentt\u00e4\u00e4n liittyv\u00e4\u00e4 tietoa voi kadota. Suosittemme tietokannan varmuuskopiointa ennen kent\u00e4n tyypin vaihtoa."
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "Tietokantataulusta l\u00f6ytyi %d orporivi\u00e4"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "L\u00f6ydettiin seuraavat ominaisuudet, joita ei k\u00e4ytetty kent\u00e4n asetuksia m\u00e4\u00e4ritett\u00e4ess\u00e4. Joskus t\u00e4m\u00e4 voi tarkoittaa sit\u00e4, ett\u00e4 n\u00e4m\u00e4 ominaisuudet eiv\u00e4t ole en\u00e4\u00e4 k\u00e4yt\u00f6ss\u00e4. Valitse ominaisuudet, jotka haluat poistaa. Jos et ole varma, ominaisuuksien s\u00e4ilytt\u00e4misest\u00e4 ei ole haittaa."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Poista %d tietokantataulun orporivi\u00e4?"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Tietokantataulusta l\u00f6ytyi rivej\u00e4, jotka eiv\u00e4t t\u00e4sm\u00e4\u00e4 yhteenk\u00e4\u00e4n sivuun."
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "*Kentt\u00e4 yliajaa oletusarvon. T\u00e4ss\u00e4 m\u00e4\u00e4ritett\u00e4v\u00e4t asetukset yliajavat oletusarvot vain kun k\u00e4ytet\u00e4\u00e4n sivupohjaa \"%s\"."
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "Poistettiin %d tietokantataulun orporivi\u00e4"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Valitse t\u00e4m\u00e4, jos haluat s\u00e4ilytt\u00e4\u00e4 kent\u00e4n asetukset (\"Asetukset\"- ja \"Kentt\u00e4\"-v\u00e4lilehdilt\u00e4). T\u00e4m\u00e4 voi olla tarpeellista jos vanhan ja uuden kentt\u00e4tyypin asetukset ovat samat tai samankaltaiset. Toiminto kuitenkin saattaa j\u00e4tt\u00e4\u00e4 kentt\u00e4\u00e4n tarpeettomia asetuksia. Voit analysoida tuloksia valitsemalla Lis\u00e4asetukset > Tarkista kent\u00e4n data."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Ok"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Muokkaa yksitt\u00e4isi\u00e4 kentti\u00e4, jotka sis\u00e4lt\u00e4v\u00e4t sivuun liittyv\u00e4\u00e4 dataa"
         }
     }
 }

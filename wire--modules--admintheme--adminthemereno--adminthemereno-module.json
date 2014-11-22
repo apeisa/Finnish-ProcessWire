@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "eea889e927448a79d84da81851f9d9cb": {
+            "text": "Kirjoita hakusana"
+        },
+        "b3d00bda3ff5e34c61a7fa73267eb75c": {
+            "text": "Hallintapaneelin teema ProcessWiren versiolle 2.5. Tekij\u00e4: Tom Reno (Renobird)"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "V\u00e4riteema"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "Reno"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klassinen"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Sininen"
+        },
+        "cf64a1df05b0b5640322820b1b705605": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n kuvakentt\u00e4"
+        },
+        "d076186eb326fac94ae60de5b71755d7": {
+            "text": "K\u00e4ytt\u00e4\u00e4ksesi t\u00e4t\u00e4 ominaisuutta, \"user\"-sivupohjan tulee sis\u00e4lt\u00e4\u00e4 kuvakentt\u00e4. Jos kuvakentt\u00e4\u00e4 ei ole, k\u00e4ytt\u00e4j\u00e4n kuvana k\u00e4ytet\u00e4\u00e4n kuvaketta. Lis\u00e4t\u00e4ksesi kuvakent\u00e4n sivupohjaan, valitse Asetukset > Sivupohjat > Suodattimet (N\u00e4yt\u00e4 j\u00e4rjestelm\u00e4sivupohjat). \"User\"-sivupohja n\u00e4kyy t\u00e4m\u00e4n j\u00e4lkeen listalla."
+        },
+        "32b92d181457ef3ee601718c6717d21f": {
+            "text": "\"User\"-sivupohjassa ei ole kuvakentti\u00e4"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Lis\u00e4ttiin kentt\u00e4 \"%s\" k\u00e4ytt\u00e4j\u00e4n muokattavaksi profiilin kautta."
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Kuvakkeet"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "M\u00e4\u00e4rit\u00e4 kuvakkeet valikon kohteille"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Yl\u00e4valikko: N\u00e4yt\u00e4 aloitussivu"
+        },
+        "13884a61afb0a46fc63ee2694d21d16e": {
+            "text": "Yl\u00e4valikko: Kirjaudu ulos"
+        }
+    }
+}

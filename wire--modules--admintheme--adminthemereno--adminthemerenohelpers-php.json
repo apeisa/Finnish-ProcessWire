@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiili"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Kirjaudu ulos"
+        }
+    }
+}

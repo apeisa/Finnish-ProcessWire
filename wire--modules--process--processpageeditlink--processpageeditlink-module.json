@@ -6,10 +6,10 @@
             "text": "Valitse sivu"
         },
         "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Sy\u00f6t\u00e4 osoite, valitse sivu tai valitse tiedosto johon linkitet\u00e4\u00e4n:"
+            "text": "Sy\u00f6t\u00e4 URL-osoite, valitse sivu tai valitse tiedosto johon linkitet\u00e4\u00e4n:"
         },
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
-            "text": "Linkit\u00e4 osoitteeseen"
+            "text": "Linkit\u00e4 URL-osoitteeseen"
         },
         "d0371b1908138f8cd5be5356ef5a46ab": {
             "text": "Linkit\u00e4 sivuun"
@@ -40,6 +40,12 @@
         },
         "d6610e6929ce3f2c5d432efd8cb96097": {
             "text": "T\u00e4m\u00e4 toiminto on samankaltainen kuin yll\u00e4 oleva \"Linkit\u00e4 sivuun\", mutta listaa vain avoinna olevan sivun alasivut."
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Suhteelliset URL:t vain saman linkitett\u00e4ess\u00e4 samassa sivuhaarassa olevaan sivuun"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Aina suhteelliset URL:t"
         }
     }
 }

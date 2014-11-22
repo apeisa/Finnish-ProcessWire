@@ -784,6 +784,15 @@
         },
         "297401f75a53c46e41a44c9d91738f1e": {
             "text": "Olet pyyt\u00e4nyt yhden tai useamman kent\u00e4n poistamista sivupohjasta. T\u00e4m\u00e4 toiminto poistaa kenttiin sy\u00f6tetyn tiedon lopullisesti. Jos poistettavissa kentiss\u00e4 on paljon tietoa, toiminnon suorittaminen voi kest\u00e4\u00e4 jonkin aikaa. Jos haluat jatkaa, rastita alla oleva kentt\u00e4 ja klikkaa \"Poista kent\u00e4t\". "
+        },
+        "7a91f878f0e4c02c502a8d0583b0c6be": {
+            "text": "Vapaaehtoiset asetukset sivun k\u00e4yt\u00f6lle ja asettelulle sivukartassa"
+        },
+        "501dba7089bbfb45c7c1a733477bcdc5": {
+            "text": "Vapaaehtoiset asetukset t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen URL-osoitteille"
+        },
+        "cac7796ca8e88c31d8b23733cb7aaf03": {
+            "text": "*Suorituskyvyn maksimoimiseksi, v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
         }
     }
 }

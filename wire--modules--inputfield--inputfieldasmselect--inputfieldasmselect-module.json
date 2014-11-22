@@ -4,6 +4,9 @@
     "translations": {
         "74c0ecf830d7e594ea8491c932418590": {
             "text": "Useita valintoja, laajennus \"select multiple\"-kentt\u00e4\u00e4n"
+        },
+        "0c4cf3dd938578951cefc0c5503f4939": {
+            "text": "asmSelect"
         }
     }
 }

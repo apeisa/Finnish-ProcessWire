@@ -30,31 +30,31 @@
             "text": "(oletus)"
         },
         "962f1366aaa6f1c636d3214e12322362": {
-            "text": "Valittavat sivut"
+            "text": "Valittavissa olevat sivut"
         },
         "21348aafc8733099a5b3c20e4a90e7b4": {
-            "text": "Valittavien sivujen yl\u00e4sivu"
+            "text": "Valittavissa olevien sivujen yl\u00e4sivu"
         },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
             "text": "Valitse valittavissa olevien sivujen yl\u00e4sivu"
         },
         "dceea0994df5640514b906a18a43810f": {
-            "text": "Valittavien sivujen sivupohja"
+            "text": "Valittavissa olevien sivujen sivupohja"
         },
         "9f80067ff42d8e69d0c3a24b67ef4c85": {
-            "text": "Valitse t\u00e4ss\u00e4 kent\u00e4ss\u00e4 valittavien sivujen sivupohja. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
+            "text": "Valitse t\u00e4ss\u00e4 kent\u00e4ss\u00e4 valittavissa olevien sivujen sivupohja. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
         },
         "53158583a607fba6e71f0f18d73a910b": {
-            "text": "Valitsin, jota k\u00e4ytet\u00e4\u00e4n valittavien sivujen etsimiseen"
+            "text": "Valitsin, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
         },
         "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 ProcessWiren valitsinta yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita t\u00e4h\u00e4n valitsin. T\u00e4ll\u00f6in kent\u00e4n valittavissa olevat sivut haetaan $pages->find(\"valitsin\"); -lausekkeen avulla. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
+            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavissa olevat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 ProcessWiren valitsinta yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita t\u00e4h\u00e4n valitsin. T\u00e4ll\u00f6in kent\u00e4n valittavissa olevat sivut haetaan $pages->find(\"valitsin\"); -lausekkeen avulla. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
         },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/tuotteet\/, template=tuote, sort=name"
         },
         "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "PHP-koodi, jota k\u00e4ytet\u00e4\u00e4n valittavien sivujen etsimiseen"
+            "text": "PHP-koodi, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
         },
         "5b2e8722316eee4b8e200d6d07b51915": {
             "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 PHP-koodia yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita koodi t\u00e4h\u00e4n. Koodilla on p\u00e4\u00e4sy $page- ja $pages -objekteihin, joissa $page viittaa muokkaushetkell\u00e4 avoinna olevaan sivuun. Koodin tulee palauttaa joko PageArray tai NULL. T\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6 korvaa yll\u00e4 olevissa yl\u00e4sivu\/sivupohja\/valitsin -kentiss\u00e4 m\u00e4\u00e4ritetyt tiedot ja sen k\u00e4ytt\u00f6 on vapaaehtoista. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect- tai Autocomplete -kentt\u00e4tyyppien kanssa. "

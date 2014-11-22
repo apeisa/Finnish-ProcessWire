@@ -9,19 +9,19 @@
             "text": "Taulukossa n\u00e4ytett\u00e4v\u00e4t kent\u00e4t"
         },
         "420fb882b998481add0d526522ffff81": {
-            "text": "Kirjoita kenttien nimet (1 rivi\u00e4 kohden), jotka haluat n\u00e4kyv\u00e4n taulukon sarakkeina. Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 leveyden sarakkeelle, m\u00e4\u00e4rit\u00e4 se muodossa \"kentt\u00e4=30\", jossa \"30\" on sarakkeen leveys prosentteina. Jos m\u00e4\u00e4rit\u00e4t sarakkeille leveyksi\u00e4, varmista ett\u00e4 niiden yhteenlaskettu leveys on 100. "
+            "text": "Kirjoita kenttien nimet (1 rivi\u00e4 kohden), jotka haluat n\u00e4kyv\u00e4n taulukon sarakkeina. Jos haluat asettaa sarakkeelle leveyden, tee m\u00e4\u00e4ritys muodossa \"kentt\u00e4=30\", jossa \"30\" on sarakkeen leveys prosentteina. Jos m\u00e4\u00e4rit\u00e4t sarakkeille leveyksi\u00e4, varmista ett\u00e4 niiden yhteenlaskettu leveys on 100. "
         },
         "290cc1b749092b6f62035343a4e4f9eb": {
             "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 mink\u00e4 tahansa kent\u00e4n. Voit my\u00f6s m\u00e4\u00e4ritt\u00e4\u00e4 alikentti\u00e4 (kentt\u00e4.alikentt\u00e4) sellaisten kenttien kohdalla, jotka sis\u00e4lt\u00e4v\u00e4t niit\u00e4, kuten sivuviittaukset."
         },
         "140092f149378fe66bcd1b7e472cde79": {
-            "text": "Valitse kent\u00e4lle k\u00e4ytt\u00f6\u00f6n sivupohjat ennen kent\u00e4n k\u00e4ytt\u00f6\u00e4."
+            "text": "Valitse kent\u00e4lle k\u00e4ytt\u00f6\u00f6n ainakin yksi sivupohja ennen kent\u00e4n k\u00e4ytt\u00f6\u00e4."
         },
         "541d5efe9732bde27704a4d578691629": {
             "text": "Lis\u00e4\u00e4 yksi tai useampi sarake kent\u00e4n asetuksiin ennen kent\u00e4n k\u00e4ytt\u00f6\u00e4."
         },
         "ff63ad7fe05686c64e062c5c034ad04f": {
-            "text": "Taulukkoon on liitett\u00e4viss\u00e4 yksi tai useampi alasivu. Rastita ne alasivut, jotka haluat liitt\u00e4\u00e4 taulukkoon."
+            "text": "Taulukkoon on liitett\u00e4viss\u00e4 yksi tai useampi alasivu. Valitse alasivut, jotka haluat liitt\u00e4\u00e4 taulukkoon."
         },
         "4c41e0bd957698b58100a5c687d757d9": {
             "text": "Valitse kaikki"
@@ -91,6 +91,18 @@
         },
         "8e1c1f71742a04abf811af399e149b72": {
             "text": "Tila"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Sivutaulukko"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Kentt\u00e4 joka toimii yhdess\u00e4 FieldtypePageTable -kentt\u00e4tyypin kanssa"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "ID"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "URL"
         }
     }
 }

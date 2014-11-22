@@ -42,7 +42,7 @@
             "text": "mik\u00e4 tahansa"
         },
         "004d36e4fa95eec8357b066aa20e9d8d": {
-            "text": "M\u00e4\u00e4ritetty arvo %3$s poistettiin, koska se ei vastaa kent\u00e4lle asetettuja s\u00e4\u00e4nt\u00f6j\u00e4 (min=%1$s, max=%2$s)"
+            "text": "M\u00e4\u00e4ritetty arvo %3$s poistettiin, koska se ei vastaa arvolle asetettuja s\u00e4\u00e4nt\u00f6j\u00e4 (min=%1$s, max=%2$s)"
         }
     }
 }

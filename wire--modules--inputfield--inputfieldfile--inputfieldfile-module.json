@@ -57,13 +57,13 @@
             "text": "Poista k\u00e4yt\u00f6st\u00e4 monikieliset kuvaustekstit?"
         },
         "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Kuvaustekstit ovat monikielisi\u00e4 jos Language Support -moduuli on asennettu. Jos haluat monikieliset kuvaustekstit pois k\u00e4yt\u00f6st\u00e4, valitse t\u00e4m\u00e4."
+            "text": "Kuvaustekstit ovat monikielisi\u00e4 jos Language Support -moduuli on asennettu. Valitse t\u00e4m\u00e4, jos haluat monikieliset kuvaustekstit pois k\u00e4yt\u00f6st\u00e4."
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Tiedostot"
         },
         "fbf221ff984c277d7fea5d290e817767": {
-            "text": "Yksi tai useampi tiedostolataus (lajiteltavissa)"
+            "text": "Yksi tai useampi tiedostolataus (tiedostot lajiteltavissa)"
         }
     }
 }

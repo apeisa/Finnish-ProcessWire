@@ -165,7 +165,7 @@
             "text": "Kirjoita..."
         },
         "719cb425116d7d1c8b0c62c7064aaf9b": {
-            "text": "Rastita ruutu jos haluat t\u00e4m\u00e4n rivin k\u00e4ytt\u00e4v\u00e4n OR-ehtoa AND-ehdon sijaan"
+            "text": "Rastita ruutu jos haluat t\u00e4m\u00e4n rivin k\u00e4ytt\u00e4v\u00e4n TAI-ehtoa JA-ehdon sijaan"
         },
         "c3bd2ae49552f0fe2dd5927024fea5db": {
             "text": "Muokkaukset"
@@ -196,6 +196,24 @@
         },
         "d1a7ff19fe990b9467a4a64f01a09f4e": {
             "text": "Yl\u00e4sivu"
+        },
+        "7acce3193127d4b71a6c2b140c22dc95": {
+            "text": "(1)"
+        },
+        "1388e1432a93282ab487548dce4847d4": {
+            "text": "H:i"
+        },
+        "a5dc4a847828895f72a94ab5debe5c00": {
+            "text": "hh:mm"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "ID"
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Valitsimessa kent\u00e4n tulee vastata annettua arvoa jokaisen rivin osalta, eli ne ovat JA-ehtoja. Jos samaa kentt\u00e4\u00e4 tai samaa arvoa k\u00e4ytet\u00e4\u00e4n useammalla kuin yhdell\u00e4 rivill\u00e4, on mahdollista k\u00e4ytt\u00e4\u00e4 TAI-ehtoa, jolloin rivin loppuun ilmestyy rastitettava ruutu. Rastita ruutu, jos haluat k\u00e4sitell\u00e4 rivin TAI-ehtona JA-ehdon sijaan."
+        },
+        "997bf93bdd0a990a751b4b33749fb171": {
+            "text": "Kent\u00e4t jotka t\u00e4sm\u00e4\u00e4v\u00e4t samaan (1) kohteeseen"
         }
     }
 }

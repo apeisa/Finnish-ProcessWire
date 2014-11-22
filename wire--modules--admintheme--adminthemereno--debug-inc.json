@@ -1,6 +1,6 @@
 {
-    "file": "wire\/templates-admin\/debug.inc",
-    "textdomain": "wire--templates-admin--debug-inc",
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
     "translations": {
         "7421d68c70dfc346497573bf4e08acc5": {
             "text": "Debug-ty\u00f6kalut"
@@ -23,6 +23,9 @@
         "5e9171024adf23f0e7e7f298f251a935": {
             "text": "%d ei ladattua"
         },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "Kiinnitykset"
+        },
         "62483fbc1d13ed84612061e24f6e72fb": {
             "text": "PDO-kyselyt ($database)"
         },
@@ -43,9 +46,6 @@
         },
         "e386ede4750a227397715b73b7727273": {
             "text": "Nykyiset k\u00e4ytt\u00e4j\u00e4n oikeudet t\u00e4h\u00e4n sivuun"
-        },
-        "35ad48797a780091740cbcf14ebc094d": {
-            "text": "Kiinnitykset"
         }
     }
 }

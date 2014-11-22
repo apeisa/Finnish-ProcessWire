@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "Minuuttien m\u00e4\u00e4r\u00e4"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Aika"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "K\u00e4ytt\u00e4j\u00e4"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Sivu"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "IP-osoite"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Selain (User Agent)"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "Ei aktiivisia istuntoja"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "P\u00e4ivit\u00e4"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Istunnot"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Mahdollistaa tietokantaan lis\u00e4ttyjen aktiivisten istuntojen selaamisen"
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Aktiiviset istunnot viimeisen minuutin ajalta"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Aktiiviset istunnot viimeisen %d minuutin ajalta"
+        }
+    }
+}

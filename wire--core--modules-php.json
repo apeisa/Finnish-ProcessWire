@@ -6,7 +6,7 @@
             "text": "Varoitus: Moduulin \"%s\" tiedostoista on olemassa kopio."
         },
         "01d68b9ea1b4ff3238768d9a30bcfa33": {
-            "text": "Poista kopio hakemistosta \/site\/modules\/, ellei tiedostoja tarvita siell\u00e4."
+            "text": "Ellei moduulin kopiolle ole tarvetta, poista se hakemistosta \/site\/modules\/."
         },
         "3919fe955716c54c409b522a1003f3e0": {
             "text": "Sinulla ei ole tarvittavia oikeuksia ajaa t\u00e4t\u00e4 moduulia"
@@ -15,7 +15,7 @@
             "text": "Vaaditun moduulin asentaminen ei onnistunut"
         },
         "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
-            "text": "K\u00e4ytt\u00f6oikeus lis\u00e4tty: %s"
+            "text": "Lis\u00e4ttiin k\u00e4ytt\u00f6oikeus: %s"
         },
         "e349b4d55d1eb71f3b313924149aa242": {
             "text": "Virhe lis\u00e4tt\u00e4ess\u00e4 k\u00e4ytt\u00f6oikeutta: %s"
@@ -24,10 +24,10 @@
             "text": "Moduulin automaattinen asennus"
         },
         "2ccb0669e8a2f6a3117f340bb36e8d4b": {
-            "text": "Moduulin automaattinen poistaminen"
+            "text": "Moduulin asennuksen automaattinen poistaminen"
         },
         "37ab3f591b07274ff3b4c891af63e4d1": {
-            "text": "K\u00e4ytt\u00f6oikeus poistettu: %s"
+            "text": "Poistettiin k\u00e4ytt\u00f6oikeus: %s"
         },
         "7dd5a577bde82df3631263cfd04a07bb": {
             "text": "Virhe poistettaessa k\u00e4ytt\u00f6oikeutta. %s"
