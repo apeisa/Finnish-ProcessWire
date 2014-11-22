@@ -27,10 +27,10 @@
             "text": "Palstan leveys (%d%%)"
         },
         "0eb0b305235144ffe99e247b24200b09": {
-            "text": "Kent\u00e4n leveys (10%\u2013100%). Per\u00e4kk\u00e4in asetetut kent\u00e4t esitet\u00e4\u00e4n rinnakkain jos niiden yhteenlaskettu leveys on 100% tai v\u00e4hemm\u00e4n."
+            "text": "Kent\u00e4n leveys (10 %\u2013100 %). Per\u00e4kk\u00e4in listatut kent\u00e4t esitet\u00e4\u00e4n rinnakkain jos niiden yhteenlaskettu leveys on 100 % tai v\u00e4hemm\u00e4n."
         },
         "8387772e28e9c2b81fa8cb674e569663": {
-            "text": "Kaikki kent\u00e4t eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi oikein kaikilla leveyksill\u00e4, joten testaa aina lomaketta muutoksen j\u00e4lkeen."
+            "text": "Kaikki kent\u00e4t eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi oikein pienill\u00e4 leveyksill\u00e4, joten testaa sivun muokkausta aina muutoksen j\u00e4lkeen."
         },
         "6e18e908568ef24580d93bfd3e0f40d7": {
             "text": "Pakollinen?"
@@ -60,7 +60,7 @@
             "text": "Kirjoita ehdot, joiden t\u00e4yttyess\u00e4 t\u00e4lle kent\u00e4lle vaaditaan arvo."
         },
         "3c5df14c7c43b1d43c41b15476154474": {
-            "text": "Aina kutistettu, ei muokattavissa (lukittu)"
+            "text": "Aina suljettu, ei muokattavissa (lukittu)"
         },
         "5b6a6f08f86510a9580df3bb8b31bb2a": {
             "text": "Avoinna jos ei ole tyhj\u00e4, ei muokattavissa (lukittu)"
