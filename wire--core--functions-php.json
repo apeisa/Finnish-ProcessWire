@@ -17,9 +17,6 @@
         "97bc592b27a9ada2d9a4bb418ed0ebed": {
             "text": "nyt"
         },
-        "03c7c0ace395d80182db07ae2c30f034": {
-            "text": "s"
-        },
         "6f8f57715090da2632453988d9a1501b": {
             "text": "min"
         },
@@ -55,9 +52,6 @@
         },
         "74459ca3cf85a81df90da95ff6e7a207": {
             "text": "s"
-        },
-        "d8bd79cc131920d5de426f914d17405a": {
-            "text": "min"
         },
         "628b7db04235f228d40adc671413a8c8": {
             "text": "p\u00e4iv\u00e4"
@@ -109,6 +103,9 @@
         },
         "73cdddd7730abfc13a55efb9f5685a3b": {
             "text": "tuntia"
+        },
+        "03c7c0ace395d80182db07ae2c30f034": {
+            "text": "s"
         },
         "b7d838b2422049639db6fb2bb6ba04bf": {
             "text": "Q P T"
