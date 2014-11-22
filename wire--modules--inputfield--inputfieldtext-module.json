@@ -9,10 +9,10 @@
             "text": "Kent\u00e4n leveys"
         },
         "7fcc26bcb0e9d85b555592f97cde9539": {
-            "text": "Kent\u00e4n n\u00e4ytett\u00e4v\u00e4 leveys. Aseta 0, mik\u00e4li haluat t\u00e4yden leveyden."
+            "text": "Kent\u00e4n n\u00e4ytett\u00e4v\u00e4 leveys. Jos haluat t\u00e4yden leveyden, kirjoita 0."
         },
         "2eb8badec738786d01bb81d0ee6ab3c0": {
-            "text": "Merkkien m\u00e4\u00e4r\u00e4rajoitus"
+            "text": "Merkkien maksimim\u00e4\u00e4r\u00e4"
         },
         "a4965347ff8523a66897b92fec81e04e": {
             "text": "Suurin sallittu merkkim\u00e4\u00e4r\u00e4."
@@ -27,7 +27,7 @@
             "text": "Esit\u00e4ytetty arvo"
         },
         "c3924ea34ee91e9de3ff80493fce8527": {
-            "text": "Valinnainen esit\u00e4ytetty arvo kent\u00e4lle."
+            "text": "Vapaaehtoinen esit\u00e4ytetty arvo kent\u00e4lle."
         },
         "03272093fac940815539048b032444ea": {
             "text": "Yksi rivi teksti\u00e4"
@@ -48,7 +48,7 @@
             "text": "Muotoilu (pattern)"
         },
         "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
-            "text": "Vaihtoehtoinen s\u00e4\u00e4nn\u00f6llinen lauseke, jonka tulee toteutua sy\u00f6tteelle. T\u00e4t\u00e4 k\u00e4ytet\u00e4\u00e4n sek\u00e4 selaimen HTML5-attribuuttina, ett\u00e4 palvelinp\u00e4\u00e4n validointiin. On suositeltavaa, ett\u00e4 annat esimerkin oikeaoppisesta muotoilusta kent\u00e4n kuvaustekstiss\u00e4."
+            "text": "Vapaaehtoinen s\u00e4\u00e4nn\u00f6llinen lauseke, jonka tulee toteutua sy\u00f6tteelle. T\u00e4t\u00e4 k\u00e4ytet\u00e4\u00e4n palvelimella tapahtuvan tarkistuksen lis\u00e4ksi selaimen HTML5-attribuuttina. On suositeltavaa, ett\u00e4 annat esimerkin oikeaoppisesta muotoilusta kent\u00e4n kuvaustekstiss\u00e4."
         },
         "27615527f65d7d865a330397568fe263": {
             "text": "Katso [html5pattern.com](http:\/\/html5pattern.com\/) -osoitteesta esimerkkej\u00e4 lausekkeista joita voit k\u00e4ytt\u00e4\u00e4."
