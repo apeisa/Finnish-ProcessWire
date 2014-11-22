@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
     "translations": {
         "5d13ae1a65403891ac0fe044f3acc865": {
-            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse toinen sivu, jolta valitset kuvia."
+            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse jokin toinen sivu, jolta valitset kuvia."
         },
         "64a201e91bd521f5640318d844920b31": {
             "text": "T\u00e4ll\u00e4 sivulla ei ole kuvia. Sulje ikkuna ja lis\u00e4\u00e4 kuvia tai valitse kuvat toiselta sivulta."
@@ -42,16 +42,16 @@
             "text": "Kuvaus"
         },
         "36171be725b020fde0f22b3ceb047280": {
-            "text": "Kent\u00e4t, joista ei voi valita kuvia"
+            "text": "Kent\u00e4t joista ei voi valita kuvia"
         },
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Kirjoita kenttien nimet (v\u00e4lily\u00f6nnill\u00e4 eroteltuina), joista ei voida valita kuvia."
         },
         "63c7dee42e04e2757472031aa7164d81": {
-            "text": "\u00c4l\u00e4 kirjoita leveys- ja korkeusattribuutteja kuvatagiin?"
+            "text": "\u00c4l\u00e4 lis\u00e4\u00e4 leveys- ja korkeusattribuutteja kuvatageihin?"
         },
         "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Oletuksena moduuli kirjoittaa leveys- ja korkeusattribuutit <img> -tagiin. Jos k\u00e4yt\u00e4t sivustolla responsiivisia kuvia, kytke t\u00e4m\u00e4 pois p\u00e4\u00e4lt\u00e4."
+            "text": "Oletuksena moduuli lis\u00e4\u00e4 leveys- ja korkeusattribuutit <img> -tagiin. Jos k\u00e4yt\u00e4t sivustolla responsiivisia kuvia, kytke t\u00e4m\u00e4 pois p\u00e4\u00e4lt\u00e4."
         },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "\"Tasaa vasemmalle\" -luokkanimi"
@@ -61,6 +61,12 @@
         },
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "\"Tasaa keskelle\" -luokkanimi"
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "\u00c4l\u00e4 luo pikkukuvia"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Jos valittu, kuvan valintaikkunassa n\u00e4ytet\u00e4\u00e4n t\u00e4ysikokoiset kuvat pikkukuvien sijaan."
         }
     }
 }
