@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "HTML-entiteettikoodain (htmlspecialchars)"
+        },
+        "f34604edab8aa5bdc9e452d3e4693952": {
+            "text": "Korvaa et-merkit, lainausmerkit, suurempi ja pienempi kuin -merkit niit\u00e4 vastaavilla entiteeteill\u00e4 k\u00e4ytt\u00e4en htmlspecialchars(str, ENT_QUOTES) -funktiota. T\u00e4m\u00e4n k\u00e4ytt\u00f6 on suositeltavaa kaikille tekstikentille, paitsi niille joissa on k\u00e4yt\u00f6ss\u00e4 jokin \"rich text\"-editori, kuten TinyMCE tai CKEditor, tai kentille jotka sis\u00e4lt\u00e4v\u00e4t \"Markdown\"-merkkausta.\r\n"
+        }
+    }
+}
