@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "N\u00e4yt\u00e4 sivusto"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiili"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Kirjaudu ulos"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        }
+    }
+}
