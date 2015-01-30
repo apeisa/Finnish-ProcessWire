@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "jQuery Wire Tabs -liit\u00e4nn\u00e4inen"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "jQuery-liit\u00e4nn\u00e4inen, jolla luodaan v\u00e4lilehdet ProcessWiren k\u00e4ytt\u00f6\u00f6n."
+        },
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Muista valittu v\u00e4lilehti sivulatausten v\u00e4lill\u00e4?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Ei koskaan"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "Vain lomakkeen l\u00e4hetyksen j\u00e4lkeen"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Aina"
+        }
+    }
+}

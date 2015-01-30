@@ -17,8 +17,14 @@
         "5d85f44b69f9d7e86c7f3f473f97f771": {
             "text": "Merkkaus\/HTML"
         },
-        "1991cfd60d0287cfb130420da34fcbef": {
-            "text": "Merkkaus\/HTML -valinta lis\u00e4\u00e4 kent\u00e4lle lis\u00e4suodatuksia, ja sit\u00e4 suositellaan \"Rich text\"-editoreille, kuten TinyMCE:lle ja CKEditorille ja muille kentille, joiden on tarkoitus sis\u00e4lt\u00e4\u00e4 HTML-merkkausta."
+        "f0a7350231680497c534e592203a3b7b": {
+            "text": "Merkkaus\/HTML kuvanhallintaominaisuuksilla"
+        },
+        "6579c1fdbe94982347736ad47f0949cb": {
+            "text": "Merkkaus\/HTML -valintaa suositellaan kentille, joissa on k\u00e4yt\u00f6ss\u00e4 sis\u00e4lt\u00f6editori (TinyMCE, CKEditor tms.), tai kentille jotka sis\u00e4lt\u00e4v\u00e4t HTML-merkkausta. Toiminto ottaa k\u00e4ytt\u00f6\u00f6n suodattimia merkkauksen eheyden varmistamiseksi."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "[Lue lis\u00e4\u00e4](%s) yll\u00e4 olevista valinnoista."
         }
     }
 }

@@ -21,7 +21,7 @@
             "text": "Salli julkaisemattomat sivut?"
         },
         "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Jos valittu, julkaisemattomat sivut sallitaan valittavaksi kentt\u00e4\u00e4n. Julkaisemattomat sivut n\u00e4kyv\u00e4t sivustolla vain niille, joilla on sivuihin muokkausoikeus. "
+            "text": "Jos valittu, julkaisemattomat sivut sallitaan valittavaksi kentt\u00e4\u00e4n. Julkaisemattomat sivut n\u00e4kyv\u00e4t sivustolla vain niille, joilla on sivuihin muokkausoikeus."
         },
         "393e717c8215abdbe581b21180abfa2b": {
             "text": "Sivua ei l\u00f6ytynyt"
@@ -40,6 +40,9 @@
         },
         "081c14de091c8761b82f930fd59c8f16": {
             "text": "Etsi ja poista"
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "M\u00e4\u00e4r\u00e4"
         }
     }
 }

@@ -179,12 +179,6 @@
         "817434295a673aed431435658b65d9a7": {
             "text": "Kuvake"
         },
-        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
-            "text": "Jos haluat liitt\u00e4\u00e4 kentt\u00e4\u00e4n kuvakkeen, kirjoita [kuvakkeen nimi](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) t\u00e4h\u00e4n."
-        },
-        "41fb8fe20e74e99ab359cecc48be97d5": {
-            "text": "Esimerkki: beer"
-        },
         "189f63f277cd73395561651753563065": {
             "text": "Tagit"
         },
@@ -308,11 +302,14 @@
         "7d912a6056deaad44add9eda5494d120": {
             "text": "Valitse t\u00e4m\u00e4, jos haluat s\u00e4ilytt\u00e4\u00e4 kent\u00e4n asetukset (\"Asetukset\"- ja \"Kentt\u00e4\"-v\u00e4lilehdilt\u00e4). T\u00e4m\u00e4 voi olla tarpeellista jos vanhan ja uuden kentt\u00e4tyypin asetukset ovat samat tai samankaltaiset. Toiminto kuitenkin saattaa j\u00e4tt\u00e4\u00e4 kentt\u00e4\u00e4n tarpeettomia asetuksia. Voit analysoida tuloksia valitsemalla Lis\u00e4asetukset > Tarkista kent\u00e4n data."
         },
-        "a60852f204ed8028c1c58808b746d115": {
-            "text": "Ok"
-        },
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "Muokkaa yksitt\u00e4isi\u00e4 kentti\u00e4, jotka sis\u00e4lt\u00e4v\u00e4t sivuun liittyv\u00e4\u00e4 dataa"
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Voit valita kentt\u00e4\u00e4n liitett\u00e4v\u00e4n kuvakkeen. Klikkaa \"N\u00e4yt\u00e4 kaikki kuvakkeet\" valitaksesi kuvakkeen ruudukosta."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Ok"
         }
     }
 }
