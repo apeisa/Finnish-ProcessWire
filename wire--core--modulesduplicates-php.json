@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Moduulin \"%s\" tiedostoista on olemassa kopio."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Valitse k\u00e4ytett\u00e4v\u00e4t tiedostot moduulille:"
+        }
+    }
+}

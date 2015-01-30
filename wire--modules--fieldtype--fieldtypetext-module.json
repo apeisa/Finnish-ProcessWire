@@ -7,6 +7,9 @@
         },
         "965a2e6ce23bd9e9ca5122fb9862be60": {
             "text": "Voit valita yhden tai useamman automaattisen muotoilun kent\u00e4n tulosteelle. Jos valitset useamman kuin yhden, voit valita niiden k\u00e4ytt\u00f6j\u00e4rjestyksen raahaamalla."
+        },
+        "ed0f8be4615cf14dc76c1bb2629edf41": {
+            "text": "Sellaisille kentille, jotka eiv\u00e4t sis\u00e4ll\u00e4 HTML:\u00e4\u00e4 tai muuta merkkausta, suosittelemme ottamaan k\u00e4ytt\u00f6\u00f6n **HTML-entiteettikoodaimen**"
         }
     }
 }

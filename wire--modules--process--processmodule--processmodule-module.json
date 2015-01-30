@@ -60,7 +60,7 @@
             "text": "Selaa moduulihakemistoa osoitteessa %s"
         },
         "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Poistaaksesi moduulin, muokkaa sit\u00e4, rastita \"Poista asennus\"-ruutu ja tallenna. Kun asennus on poistettu moduulin tiedosto(t) voidaan poistaa hakemistosta \/site\/modules\/. Jos moduuli n\u00e4kyy poistamisen j\u00e4lkeenkin listalla, p\u00e4ivit\u00e4 lista klikkaamalla \"Tarkista uudet moduulit\". "
+            "text": "Poistaaksesi moduulin, muokkaa sit\u00e4, rastita \"Poista asennus\"-ruutu ja tallenna. Kun asennus on poistettu moduulin tiedosto(t) voidaan poistaa hakemistosta \/site\/modules\/. Jos moduuli n\u00e4kyy poistamisen j\u00e4lkeenkin listalla, p\u00e4ivit\u00e4 lista klikkaamalla \"Tarkista uudet moduulit\"."
         },
         "401aeb1b99895a172d78edfa183114e7": {
             "text": "\/wire\/modules\/ - ProcessWiren ytimen moduulit"
@@ -347,11 +347,23 @@
         "da50401ad6d0a7e3ec13844538e10864": {
             "text": "Moduulin tiedot"
         },
-        "7f05cd7d695e4a911a436478a8f0cdfc": {
-            "text": "ID"
-        },
         "76ff1156be021b9f8cc2597febd46133": {
             "text": "Kiinnittyy"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "Moduulilla \"%s\" on useita tiedostoja (lihavoitu tiedosto on k\u00e4yt\u00f6ss\u00e4)."
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Klikkaa valitaksesi k\u00e4ytett\u00e4v\u00e4n tiedoston"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "K\u00e4ytett\u00e4v\u00e4 moduulitiedosto"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "J\u00e4rjestelm\u00e4ss\u00e4 on useita kopioita t\u00e4st\u00e4 moduulista. Valitse moduulitiedosto, jota haluat k\u00e4ytt\u00e4\u00e4."
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "ID"
         }
     }
 }

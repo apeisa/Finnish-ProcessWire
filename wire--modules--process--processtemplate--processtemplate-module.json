@@ -113,9 +113,6 @@
         "bef497d3a07d13fedba143fc543e606d": {
             "text": "Tuo kent\u00e4t toisesta sivupohjasta"
         },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4t t\u00e4lle sivupohjalle. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Perustiedot"
         },
@@ -216,7 +213,7 @@
             "text": "Lista t\u00e4m\u00e4n sivupohjan k\u00e4ytt\u00e4mist\u00e4 kentist\u00e4. T\u00e4m\u00e4 sivupohjan k\u00e4ytt\u00e4m\u00e4t kent\u00e4t on m\u00e4\u00e4ritetty sivupohjassa '%s'."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "M\u00e4\u00e4rit\u00e4 t\u00e4m\u00e4n sivupohjan v\u00e4limuistin voimassaoloaika sekunteina. V\u00e4limuistitus voi nopeuttaa huomattavasti sivujen tulostusaikaa etenkin runsaasti resursseja k\u00e4ytt\u00e4vill\u00e4 sivuilla. V\u00e4limuistitusta ei kuitenkaan tulisi k\u00e4ytt\u00e4\u00e4 sivupohjissa, joiden tulee k\u00e4sitell\u00e4 jatkuvasti muuttuvaa tietoa, kuten lomakkeita tai session-tietoa. Huomaa, ett\u00e4 URL-segmentit ovat v\u00e4limuistitettavissa, mutta GET- ja POST -muuttujat eiv\u00e4t ole. "
+            "text": "M\u00e4\u00e4rit\u00e4 t\u00e4m\u00e4n sivupohjan v\u00e4limuistin voimassaoloaika sekunteina. V\u00e4limuistitus voi nopeuttaa huomattavasti sivujen tulostusaikaa etenkin runsaasti resursseja k\u00e4ytt\u00e4vill\u00e4 sivuilla. V\u00e4limuistitusta ei kuitenkaan tulisi k\u00e4ytt\u00e4\u00e4 sivupohjissa, joiden tulee k\u00e4sitell\u00e4 jatkuvasti muuttuvaa tietoa, kuten lomakkeita tai session-tietoa. Huomaa, ett\u00e4 URL-segmentit ovat v\u00e4limuistitettavissa, mutta GET- ja POST -muuttujat eiv\u00e4t ole."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Esim. 60 = 1 minuutti, 600 = 10 minuuttia, 3600 = 1 tunti, 86400 = 1 p\u00e4iv\u00e4, 604800 = 1 viikko, 2419200 = 1 kuukausi."
@@ -387,7 +384,7 @@
             "text": "Sivunumerot"
         },
         "0daea515bb26aec31f4e6ebbee953cd7": {
-            "text": "Perhe"
+            "text": "S\u00e4\u00e4nn\u00f6t"
         },
         "d40a1614c5e9e10db2d5d9f94a0482bb": {
             "text": "Nime\u00e4 sivupohja \"%1$s\" uudelleen nimell\u00e4 \"%2$s\""
@@ -552,13 +549,13 @@
             "text": "Valitse sivupohja(t), joita k\u00e4ytt\u00e4v\u00e4t sivut sallitaan alasivuiksi t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4ville sivuille. K\u00e4yt\u00e4 t\u00e4t\u00e4 toimintoa vain jos haluat rajoittaa t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen sijaintia sivukartassa."
         },
         "9927f70231db8b53612513d00b934a7c": {
-            "text": "Jos sivupohjia ei valita, kaikki sivupohjat ovat sallittuja (riippuen k\u00e4ytt\u00e4j\u00e4n oikeuksista). Esim. \"uutislistaus\" -sivupohja voidaan m\u00e4\u00e4ritt\u00e4\u00e4 hyv\u00e4ksym\u00e4\u00e4n alasivuiksi vain \"uutinen\"- ja \"lehdist\u00f6tiedote\"-sivupohjia k\u00e4ytt\u00e4v\u00e4t sivut. "
+            "text": "Jos sivupohjia ei valita, kaikki sivupohjat ovat sallittuja (riippuen k\u00e4ytt\u00e4j\u00e4n oikeuksista). Esim. \"uutislistaus\" -sivupohja voidaan m\u00e4\u00e4ritt\u00e4\u00e4 hyv\u00e4ksym\u00e4\u00e4n alasivuiksi vain \"uutinen\"- ja \"lehdist\u00f6tiedote\"-sivupohjia k\u00e4ytt\u00e4v\u00e4t sivut."
         },
         "8d3a827d5474c79dc3434e5e29f7a80f": {
             "text": "Valitse sivupohja(t), joita k\u00e4ytt\u00e4v\u00e4t sivut sallitaan yl\u00e4sivuiksi t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4ville sivuille. K\u00e4yt\u00e4 t\u00e4t\u00e4 toimintoa vain jos haluat rajoittaa t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen sijaintia sivukartassa."
         },
         "dc70febc65985c326b6d7a85502ddc0a": {
-            "text": "Jos sivupohjia ei valita, kaikki sivupohjat ovat sallittuja (riippuen k\u00e4ytt\u00e4j\u00e4n oikeuksista). Esim. \"ty\u00f6ntekij\u00e4\" -sivupohja voidaan m\u00e4\u00e4ritt\u00e4\u00e4 hyv\u00e4ksym\u00e4\u00e4n yl\u00e4sivuiksi vain \"yritys\"-sivupohjia k\u00e4ytt\u00e4v\u00e4t sivut. "
+            "text": "Jos sivupohjia ei valita, kaikki sivupohjat ovat sallittuja (riippuen k\u00e4ytt\u00e4j\u00e4n oikeuksista). Esim. \"ty\u00f6ntekij\u00e4\" -sivupohja voidaan m\u00e4\u00e4ritt\u00e4\u00e4 hyv\u00e4ksym\u00e4\u00e4n yl\u00e4sivuiksi vain \"yritys\"-sivupohjia k\u00e4ytt\u00e4v\u00e4t sivut."
         },
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
             "text": "Alasivujen nimien muotoilu"
@@ -594,37 +591,19 @@
             "text": "Alasivujen j\u00e4rjestely"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Valitse kentt\u00e4, jonka mukaan haluat j\u00e4rjestell\u00e4 alasivut. Valitse \"Ei mit\u00e4\u00e4n\" jos haluat valita j\u00e4rjestelyn sivukohtaisesti. T\u00e4m\u00e4 yliajaa sivukohtaisen asetuksen j\u00e4rjestelylle, joten jos valitset jonkin muun kuin \"Ei mit\u00e4\u00e4n\", j\u00e4rjestelyasetusta ei n\u00e4ytet\u00e4 t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vi\u00e4 sivuja muokatessa. "
+            "text": "Valitse kentt\u00e4, jonka mukaan haluat j\u00e4rjestell\u00e4 alasivut. Valitse \"Ei mit\u00e4\u00e4n\" jos haluat valita j\u00e4rjestelyn sivukohtaisesti. T\u00e4m\u00e4 yliajaa sivukohtaisen asetuksen j\u00e4rjestelylle, joten jos valitset jonkin muun kuin \"Ei mit\u00e4\u00e4n\", j\u00e4rjestelyasetusta ei n\u00e4ytet\u00e4 t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vi\u00e4 sivuja muokatessa."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Salli sivunumerot?"
         },
-        "8bda693211f46eb289c8bdadedaf54ae": {
-            "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut sallivat sivunumeroinnin URL-segmenttein\u00e4 muodossa \"sivu123\", jossa 123 on mik\u00e4 tahansa kokonaisluku. Esim. URL \"\/tuotteet\/sivu3\" m\u00e4\u00e4ritt\u00e4\u00e4 automaattisesti  $input->pageNum arvoksi 3. T\u00e4t\u00e4 k\u00e4ytet\u00e4\u00e4n sivutukseen ja sit\u00e4 tulee k\u00e4ytt\u00e4\u00e4 vain sellaisissa sivupohjissa, joiden on tarkoitus tukea sit\u00e4. Huomaa, ett\u00e4 sivunumerot alkavat numerosta 1 (ei 0). Jos sivunumerointia k\u00e4ytet\u00e4\u00e4n yhdess\u00e4 URL-segmenttien kanssa, tulee sivunumeron olla viimeinen osa URL-osoitetta."
-        },
-        "69b2806a857d0fb5778a31c1f88f59a0": {
-            "text": "Voit noutaa nykyisen sivunumeron sivupohjassa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->pageNum;"
-        },
         "3a426f05b968cc7c6022ac1388e7d8e7": {
             "text": "Salli URL-segmentit?"
-        },
-        "edf7d3cbbda60af5148285cec1cd7569": {
-            "text": "Voit hyv\u00e4ksy\u00e4 URL-segmentit niill\u00e4 sivuilla jotka k\u00e4ytt\u00e4v\u00e4t t\u00e4t\u00e4 sivupohjaa. Esim. voit sallia \/polku\/sivulle\/ -sivun k\u00e4sitell\u00e4 my\u00f6s pyynn\u00f6t \/polku\/sivulle\/segment1\/ tai \/polku\/sivulle\/segment2\/. Oletuksena ProcessWire tulostaa \"404 Sivua ei l\u00f6ydy\" -virheen t\u00e4llaisten osoitteiden kohdalla. Valitsemalla t\u00e4m\u00e4n ProcessWire tulostaa sivun sis\u00e4ll\u00f6n 404-sivun sijaan. Voit t\u00e4m\u00e4n j\u00e4lkeen hallita tulostusta URL-segmenttien mukaan sivupohjan tiedostossa."
-        },
-        "8c8b0529510e126bc81359c5a2ae3482": {
-            "text": "Korkeintaan 3 URL-segmentti\u00e4 ovat tuettuja sivun URL-osoitteen j\u00e4lkeen. Segmenttien nimet voivat olla yhdistelm\u00e4 pieni\u00e4 kirjaimia (a-z), numeroita (0-9), tavuviivoja ja alaviivoja. Voit k\u00e4ytt\u00e4\u00e4 URL-segmenttej\u00e4 sivupohjassa k\u00e4ytt\u00e4m\u00e4ll\u00e4 API:n funktioita $input->urlSegment(n) tai $input->urlSegment[n] (joissa [n] on 1, 2, tai 3)."
-        },
-        "3f7071fb2ff5f5a0218c696722986007": {
-            "text": "Esim. osoitteessa \/polku\/sivuun\/a\/b\/c\/, jossa \/polku\/sivuun\/ on itse sivun polku ja \/a\/b\/c\/ ovat segmenttej\u00e4: $input->urlSegment1 on \"a\", $input->urlSegment2 on \"b\", ja $input->urlSegment3 on \"c\". Jos sivupohja vastaanottaa tuntemattomia URL-segmenttej\u00e4, on t\u00e4rke\u00e4\u00e4 tulostaa 404-virhe seuraavasti: throw new Wire404Exception();"
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
             "text": "Tuleeko sivujen URL:n p\u00e4\u00e4tty\u00e4 kauttaviivaan?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
             "text": "Jos \"Kyll\u00e4\" on valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien URL:t pakotetaan p\u00e4\u00e4ttym\u00e4\u00e4n aina kauttaviivaan \"\/\". T\u00e4ll\u00f6in jos sivu ladataan URL:lla, jossa kauttaviivaa ei ole, uudelleenohjataan automaattisesti kauttaviivalliseen osoitteeseen. Jos \"Ei\" on valittu, pakotetaan k\u00e4ytt\u00f6\u00f6n URL ilman kauttaviivaa. Huomaa, ett\u00e4 t\u00e4m\u00e4 toiminto ei koske URL-segmenttej\u00e4 tai sivunumeroita sis\u00e4lt\u00e4vi\u00e4 URL-osoitteita. Valinta \"Kyll\u00e4\" on suositeltu."
-        },
-        "115162847e362551c1dcaff31e64fa80": {
-            "text": "Skeema\/Protokolla"
         },
         "249e45d525f325778f98cdd90eaf0b32": {
             "text": "HTTP tai HTTPS"
@@ -717,7 +696,7 @@
             "text": "Ei - Sivut EIV\u00c4T voi n\u00e4ky\u00e4 hauissa\/listauksissa, ellei k\u00e4ytt\u00e4j\u00e4ll\u00e4 ole oikeuksia katsoa niit\u00e4"
         },
         "724da4546b6908025f8a9fa99885297f": {
-            "text": "API-huomautus: T\u00e4m\u00e4 asetus vaikuttaa $pages->find(), $page->children() ja muiden funktioiden tuloksiin, jotka palauttavat PageArray-objekteja. "
+            "text": "API-huomautus: T\u00e4m\u00e4 asetus vaikuttaa $pages->find(), $page->children() ja muiden funktioiden tuloksiin, jotka palauttavat PageArray-objekteja."
         },
         "e91c9dce55b792f0254aeb69ba314f17": {
             "text": "Roolit jotka saavat k\u00e4ytt\u00f6oikeuden t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4ville sivuille (ja niille sivupohjille, jotka periv\u00e4t n\u00e4m\u00e4 asetukset)?"
@@ -783,7 +762,7 @@
             "text": "Vahvista, ett\u00e4 haluat vaihtaa kentt\u00e4ryhm\u00e4n ryhm\u00e4st\u00e4 \"%1$s\" ryhm\u00e4\u00e4n \"%2$s\""
         },
         "297401f75a53c46e41a44c9d91738f1e": {
-            "text": "Olet pyyt\u00e4nyt yhden tai useamman kent\u00e4n poistamista sivupohjasta. T\u00e4m\u00e4 toiminto poistaa kenttiin sy\u00f6tetyn tiedon lopullisesti. Jos poistettavissa kentiss\u00e4 on paljon tietoa, toiminnon suorittaminen voi kest\u00e4\u00e4 jonkin aikaa. Jos haluat jatkaa, rastita alla oleva kentt\u00e4 ja klikkaa \"Poista kent\u00e4t\". "
+            "text": "Olet pyyt\u00e4nyt yhden tai useamman kent\u00e4n poistamista sivupohjasta. T\u00e4m\u00e4 toiminto poistaa kenttiin sy\u00f6tetyn tiedon lopullisesti. Jos poistettavissa kentiss\u00e4 on paljon tietoa, toiminnon suorittaminen voi kest\u00e4\u00e4 jonkin aikaa. Jos haluat jatkaa, rastita alla oleva kentt\u00e4 ja klikkaa \"Poista kent\u00e4t\"."
         },
         "7a91f878f0e4c02c502a8d0583b0c6be": {
             "text": "Vapaaehtoiset asetukset sivun k\u00e4yt\u00f6lle ja asettelulle sivukartassa"
@@ -793,6 +772,45 @@
         },
         "cac7796ca8e88c31d8b23733cb7aaf03": {
             "text": "*Suorituskyvyn maksimoimiseksi, v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Mit\u00e4 URL-segmentit ovat sallittuja?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Kirjoita yksi sallittu segmentti, segmenttipolku tai s\u00e4\u00e4nn\u00f6llinen lauseke rivi\u00e4 kohden, tai j\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jolloin kaikki segmentit sallitaan."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Rakenne\/Protokolla"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4t, jotka otetaan k\u00e4ytt\u00f6\u00f6n t\u00e4lle sivupohjalle. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla. [Luo uusi kentt\u00e4](..\/field\/add)."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Kuvake"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Valitse kuvake, joka liitet\u00e4\u00e4n sivupohjaan ja sit\u00e4 k\u00e4ytt\u00e4viin sivuihin (hallintapaneelissa)."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Lis\u00e4\u00e4"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut tukevat sivunumerointia."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Voit noutaa nykyisen sivunumeron sivupohjatiedostossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->pageNum."
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut tukevat URL-segmenttej\u00e4 sivun URL-osoitteen j\u00e4lkeen."
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Sivupohjan nime\u00e4minen uudelleen ohitettiin"
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Jos k\u00e4yt\u00e4t [ProCache-moduulia](%s), v\u00e4limuistin asetuksia ei tarvitse m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4ss\u00e4."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Voit noutaa nykyiset URL-segmentit sivupohjatiedostossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->urlSegmentStr."
         }
     }
 }

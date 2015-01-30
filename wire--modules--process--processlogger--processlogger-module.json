@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Voit lis\u00e4t\u00e4 lokitiedostoon uuden merkinn\u00e4n API-funktiolla:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Poistettiin loki: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Siivottiin lokitiedosto \"%s\" (tiedosto sis\u00e4lt\u00e4\u00e4 nyt %d merkint\u00e4\u00e4)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Tallennettiin uusi lokimerkint\u00e4 tiedostoon \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "Lokimerkinn\u00e4n teksti oli tyhj\u00e4"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Ty\u00f6kalut"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Kirjoita hakusana"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Alkaen p\u00e4iv\u00e4st\u00e4"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "P\u00e4\u00e4ttyen p\u00e4iv\u00e4\u00e4n"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Toiminnot"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "Valitse k\u00e4ytett\u00e4v\u00e4 toiminto."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Lataa lokitiedosto"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Lis\u00e4\u00e4 uusi merkint\u00e4"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Poista lokitiedosto"
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Uusi lokimerkint\u00e4"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Poista lokitiedosto"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Lis\u00e4\u00e4 merkint\u00e4"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Lataa lokitiedosto"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nimi"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Muokattu"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Merkint\u00f6j\u00e4"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Koko"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Pvm\/klo"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "K\u00e4ytt\u00e4j\u00e4"
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Teksti"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d lokitiedosto"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d lokitiedostoa"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Uusi lokimerkint\u00e4 sivulla 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "Uusia lokimerkint\u00f6j\u00e4 sivulla 1"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "Haulla ei l\u00f6ytynyt lokimerkint\u00f6j\u00e4"
+        }
+    }
+}

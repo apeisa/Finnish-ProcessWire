@@ -2,12 +2,6 @@
     "file": "wire\/core\/Modules.php",
     "textdomain": "wire--core--modules-php",
     "translations": {
-        "336fe202866724eda0e075643f972571": {
-            "text": "Varoitus: Moduulin \"%s\" tiedostoista on olemassa kopio."
-        },
-        "01d68b9ea1b4ff3238768d9a30bcfa33": {
-            "text": "Ellei moduulin kopiolle ole tarvetta, poista se hakemistosta \/site\/modules\/."
-        },
         "3919fe955716c54c409b522a1003f3e0": {
             "text": "Sinulla ei ole tarvittavia oikeuksia ajaa t\u00e4t\u00e4 moduulia"
         },

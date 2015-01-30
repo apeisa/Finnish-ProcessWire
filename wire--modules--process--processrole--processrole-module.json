@@ -8,9 +8,6 @@
         "abf1be1c76c0620d1a220871b1ba0da1": {
             "text": "Merkityt oikeudet sis\u00e4lt\u00e4v\u00e4t lis\u00e4asetuksia, jotka n\u00e4ytet\u00e4\u00e4n kun rastitat oikeuden ja tallennat sivun."
         },
-        "55713ee9cd76b3704908899aaa30b5e5": {
-            "text": "*Huomaa, ett\u00e4 \"page-edit\"-oikeuden valitseminen t\u00e4ss\u00e4 ainoastaan mahdollistaa t\u00e4m\u00e4n roolin valitsemisen jonkin sivupohjan k\u00e4ytt\u00f6oikeuslistalla. \"Page-edit\"-k\u00e4ytt\u00f6oikeuden valitseminen k\u00e4ytt\u00f6\u00f6n t\u00e4ss\u00e4 ei siis anna k\u00e4ytt\u00e4j\u00e4lle oikeuksia sivupohjaan, ellei roolille anneta oikeuksia my\u00f6s itse sivupohjan asetuksissa."
-        },
         "2ac1fce951ddece70a50dfb03bd386b2": {
             "text": "nimi|otsikko"
         },
@@ -22,6 +19,9 @@
         },
         "e5e77ccf470959bc6be60127730908b5": {
             "text": "Hallitse k\u00e4ytt\u00e4j\u00e4rooleja ja niihin kytkett\u00e4vi\u00e4 oikeuksia"
+        },
+        "8a74d66f5b9d96c4eee8c0388f9536d9": {
+            "text": "*Huomaa, ett\u00e4 page-edit -oikeuden valitseminen k\u00e4ytt\u00f6\u00f6n t\u00e4ss\u00e4 mahdollistaa roolin muokkausoikeuksien t\u00e4sment\u00e4misen sivupohjatasolla. Page-edit -oikeuden ottaminen k\u00e4ytt\u00f6\u00f6n t\u00e4ss\u00e4 EI anna roolille muokkausoikeuksia, ennen kuin oikeudet annetaan sivupohjan asetuksissa."
         }
     }
 }
