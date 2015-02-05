@@ -37,6 +37,12 @@
         },
         "4ba03014e35e3b0b49352b059fb7309e": {
             "text": "Aktiiviset istunnot viimeisen %d minuutin ajalta"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d aktiivinen istunto"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d aktiivista istuntoa"
         }
     }
 }
