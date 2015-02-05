@@ -25,6 +25,21 @@
         },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
             "text": "[Lue lis\u00e4\u00e4](%s) yll\u00e4 olevista valinnoista."
+        },
+        "3e7a86573c428ffd2bf3145cea18514b": {
+            "text": "Valitse \"Merkkaus\/HTML kuvanhallintaominaisuuksilla\" ottaaksesi k\u00e4ytt\u00f6\u00f6n seuraavat ajonaikaiset tarkistukset:"
+        },
+        "2bc17a9602fb3fd33f9a6561c7b36177": {
+            "text": "1. Lis\u00e4\u00e4 tiedoston kuvausteksti kuvan alt-attribuuttiin - Muutokset tiedoston kuvaustekstiin p\u00e4ivittyv\u00e4t <img>-tagin alt-attribuuttiin automaattisesti."
+        },
+        "5c84d65097148d9fa9a1be01e38c8f27": {
+            "text": "2. Luo uudelleen automaattisesti kuvien puuttuvat kokovariaatiot."
+        },
+        "0899ba8ac053ddbc869eac2bf0c9f458": {
+            "text": "3. Poista <img>-tagit, jotka osoittavat puuttuviin tiedostoihin."
+        },
+        "a171deaa8f82c6e29796e95126fbd644": {
+            "text": "4. Kirjoita \"markup-qa-errors\"-lokitiedostoon merkint\u00e4 puuttuvista kuvista ja l\u00e4het\u00e4 ilmoitus admin-k\u00e4ytt\u00e4j\u00e4lle."
         }
     }
 }
