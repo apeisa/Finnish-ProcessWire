@@ -2,8 +2,11 @@
     "file": "wire\/core\/Fields.php",
     "textdomain": "wire--core--fields-php",
     "translations": {
-        "af612cfedc5c2ba10ff82e4ccf69e936": {
-            "text": "Poistettiin kent\u00e4n \"%s\" tieto %d sivulta."
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Poistettiin kentt\u00e4\u00e4n \"%1$s\" liittyv\u00e4\u00e4 tietoa %2$d rivi(\u00e4) %3$d sivulta."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Kentt\u00e4\u00e4n \"%1$s\" liittyv\u00e4n tiedon poistaminen ei onnistunut, %2$d rivi(\u00e4) %3$d sivulla."
         }
     }
 }

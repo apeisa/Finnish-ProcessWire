@@ -47,12 +47,6 @@
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
             "text": "Kirjoita kenttien nimet (v\u00e4lily\u00f6nnill\u00e4 eroteltuina), joista ei voida valita kuvia."
         },
-        "63c7dee42e04e2757472031aa7164d81": {
-            "text": "\u00c4l\u00e4 lis\u00e4\u00e4 leveys- ja korkeusattribuutteja kuvatageihin?"
-        },
-        "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Oletuksena moduuli lis\u00e4\u00e4 leveys- ja korkeusattribuutit <img> -tagiin. Jos k\u00e4yt\u00e4t sivustolla responsiivisia kuvia, kytke t\u00e4m\u00e4 pois p\u00e4\u00e4lt\u00e4."
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "\"Tasaa vasemmalle\" -luokkanimi"
         },
@@ -67,6 +61,63 @@
         },
         "a60c49010df18fff7f99db0d0d5a1522": {
             "text": "Jos valittu, kuvan valintaikkunassa n\u00e4ytet\u00e4\u00e4n t\u00e4ysikokoiset kuvat pikkukuvien sijaan."
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Poistettiin kuvavariaatio"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Kuvavariaation poistamisessa tapahtui virhe"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Poista valitut"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Sulje"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina k\u00e4yt\u00f6ss\u00e4 oletuksena?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Valitse t\u00e4m\u00e4, jos haluat HiDPI\/Retina-valinnan olevan oletuksena k\u00e4yt\u00f6ss\u00e4 lis\u00e4tt\u00e4ville kuville."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "\u00c4l\u00e4 kirjoita leveysattribuutteja kuvatageille?"
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Oletuksena moduuli kirjoittaa leveysattribuutit <img>-tagille. T\u00e4m\u00e4n poistaminen voi olla hy\u00f6dyllist\u00e4, jos kuvien tulee olla responsiivisia. Valitse t\u00e4m\u00e4 ottaaksesi leveys- ja korkeusattribuutit pois k\u00e4yt\u00f6st\u00e4."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "T\u00e4m\u00e4n toiminnon poistaminen k\u00e4yt\u00f6st\u00e4 ei ole suositeltavaa, koska jotkin ominaisuudet (kuten HiDPI\/retina -kuvat) eiv\u00e4t t\u00e4ll\u00f6in toimi."
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Suositeltu arvo:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Kuva"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Tiedosto"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Koko"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Merkinn\u00e4t"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Luotu tekstieditorissa"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Hallintapaneelin luoma pikkukuva"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "API:n kautta luotu variaatio"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d variaatio kuvasta %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d variaatiota kuvasta %2$s"
         }
     }
 }
