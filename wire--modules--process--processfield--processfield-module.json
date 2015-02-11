@@ -104,9 +104,6 @@
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Kuvaus"
         },
-        "450424710b0286d62947973d7263eb21": {
-            "text": "Sivupohja"
-        },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Lis\u00e4asetukset"
         },
@@ -155,23 +152,8 @@
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Kirjoita kent\u00e4lle lis\u00e4tietoja, kuten ohjeet sis\u00e4ll\u00f6n sy\u00f6tt\u00f6\u00f6n."
         },
-        "1b5681f696c34da0c10d98c5666f22ca": {
-            "text": "Tiedot"
-        },
-        "90a7d24b2f57968c1090adc8eb1cedff": {
-            "text": "T\u00e4m\u00e4 kentt\u00e4 on k\u00e4yt\u00f6ss\u00e4 seuraavissa sivupohjissa:"
-        },
-        "e846a7b9b780397947329058d6856fe4": {
-            "text": "Muokkaa kentt\u00e4\u00e4 kontekstissa"
-        },
-        "da15cd97dba363b29a8a06c76d4c4c7d": {
-            "text": "T\u00e4m\u00e4 kentt\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4k\u00e4\u00e4n sivupohjassa."
-        },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Luo kopio kent\u00e4st\u00e4"
-        },
-        "c073843a55498e809c4dd95be0721831": {
-            "text": "Valitse t\u00e4m\u00e4, jos haluat luoda kopion kent\u00e4st\u00e4. Kopio luodaan kun tallennat sivun."
         },
         "ee2d3754b6e7f57898d9d8670f78ae71": {
             "text": "Lis\u00e4asetukset"
@@ -275,9 +257,6 @@
         "494bfa7cbe1a6aaf0e24e92c54664859": {
             "text": "Toiminto optimoi kent\u00e4n ja poistaa kent\u00e4n k\u00e4ytt\u00e4m\u00e4tt\u00f6m\u00e4n datan. Jos ongelmia l\u00f6ytyy, voit tallennuksen j\u00e4lkeen korjata ne \"H\u00e4lytys\"-v\u00e4lilehdell\u00e4."
         },
-        "0b99d251c68ee30c7f38cefe42d5fbdc": {
-            "text": "Tiedot kent\u00e4n k\u00e4yt\u00f6st\u00e4"
-        },
         "7d04592612713885f95f51cca38d5708": {
             "text": "Huomaa, ett\u00e4 kent\u00e4n tyypin vaihtaminen muokkaa tietokannan skeemaa. Jos uusi kentt\u00e4tyyppi ei ole yhteensopiva vanhan kanssa, tai se k\u00e4ytt\u00e4\u00e4 merkitt\u00e4v\u00e4sti poikkeavaa skeemaa, kentt\u00e4\u00e4n liittyv\u00e4\u00e4 tietoa voi kadota. Suosittemme tietokannan varmuuskopiointa ennen kent\u00e4n tyypin vaihtoa."
         },
@@ -308,8 +287,71 @@
         "ee9fe18e631383755ce658daed18b15e": {
             "text": "Voit valita kentt\u00e4\u00e4n liitett\u00e4v\u00e4n kuvakkeen. Klikkaa \"N\u00e4yt\u00e4 kaikki kuvakkeet\" valitaksesi kuvakkeen ruudukosta."
         },
-        "a60852f204ed8028c1c58808b746d115": {
-            "text": "Ok"
+        "52b3df82bba1adac4344ca363e3f6d71": {
+            "text": "Ota kentt\u00e4 k\u00e4ytt\u00f6\u00f6n sivupohjissa"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 on k\u00e4yt\u00f6ss\u00e4 alla olevissa rastitetuissa sivupohjissa."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4k\u00e4\u00e4n sivupohjassa."
+        },
+        "ddc13565ec92ef7dac85130c86a698ad": {
+            "text": "Voit ottaa kent\u00e4n k\u00e4ytt\u00f6\u00f6n jollekin sivupohjalle rastittamalla halutun sivupohjan ja klikkaamalla \"Tallenna\"."
+        },
+        "d46899e0c75fb8c61bbc4bc67b0bbd67": {
+            "text": "Kent\u00e4n sijainti sivupohjassa valitaan tallennuksen j\u00e4lkeen."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d j\u00e4rjestelm\u00e4sivupohjaa ei n\u00e4ytet\u00e4, koska kehitystila ei ole k\u00e4yt\u00f6ss\u00e4."
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Luodaksesi kopion t\u00e4st\u00e4 kent\u00e4st\u00e4, kirjoita kopion nimi."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Huomaa, ett\u00e4 kopion luomisen j\u00e4lkeen siirryt\u00e4\u00e4n muokkaamaan kopioitua kentt\u00e4\u00e4."
+        },
+        "95523fea14a18800a635536624e982a8": {
+            "text": "Kent\u00e4n kopiointi ei onnistunut, koska nimi \"%s\" on jo k\u00e4yt\u00f6ss\u00e4, tai sen k\u00e4ytt\u00f6 ei ole sallittua."
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopio)"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Muokkaat nyt kopioitua kentt\u00e4\u00e4."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Sivupohja: %s"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Ennen kentt\u00e4\u00e4: %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "J\u00e4lkeen kent\u00e4n: %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "\u00c4l\u00e4 lis\u00e4\u00e4"
+        },
+        "4c5538b9792f2560253bcab98f04feff": {
+            "text": "Lis\u00e4\u00e4 sivupohjiin"
+        },
+        "d3f1c45959bb20de015eecfc7df90096": {
+            "text": "Mihin haluat lis\u00e4t\u00e4 kent\u00e4n %s?"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" sivupohjaan \"%2$s\", ennen kentt\u00e4\u00e4 \"%3$s\""
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" sivupohjaan \"%2$s\", j\u00e4lkeen kent\u00e4n \"%3$s\""
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Toiminnot"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "Nimi"
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "Nimike"
         }
     }
 }
