@@ -71,11 +71,8 @@
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Yksi tai useampi kuva (lajiteltavissa)"
         },
-        "17c3a6a4c6a8f5d19ada867d57e24685": {
-            "text": "%d variaatio"
-        },
-        "26b1adbf2adf2aab2e85565980ed057b": {
-            "text": "%d variaatiota"
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Variaatiot kuvasta %s"
         }
     }
 }
