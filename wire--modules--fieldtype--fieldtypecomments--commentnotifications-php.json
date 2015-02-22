@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "Odottaa hyv\u00e4ksynt\u00e4\u00e4"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Hyv\u00e4ksy"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Hyv\u00e4ksytty"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Merkitse roskapostiksi"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "Roskapostia - poistetaan automaattisesti %d p\u00e4iv\u00e4n kuluttua"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "Ei roskapostia: Hyv\u00e4ksy nyt"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Kommentti lis\u00e4tty kohteeseen: %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Muokkaa"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Sinulle ei en\u00e4\u00e4 l\u00e4hetet\u00e4 ilmoituksia t\u00e4m\u00e4n sivun kommenteista."
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Saat ilmoitukset t\u00e4m\u00e4n sivun kommenteista."
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Uusi kommentti:"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "L\u00e4hetetty:"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "L\u00e4hett\u00e4j\u00e4:"
+        },
+        "c835168989fcff535a5d12f1fe9a9d51": {
+            "text": "Poista ilmoitukset k\u00e4yt\u00f6st\u00e4"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "Vahvista ilmoitusten l\u00e4hett\u00e4minen"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Olet pyyt\u00e4nyt s\u00e4hk\u00f6posti-ilmoituksten l\u00e4hett\u00e4mist\u00e4 vastauksista kommenttiisi sivulla %s. Voit vahvistaa ilmoitusten l\u00e4hett\u00e4misen klikkaamalla alla olevaa linkki\u00e4."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Vahvista ilmoitusten l\u00e4hett\u00e4minen"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Sivu"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "L\u00e4hett\u00e4j\u00e4"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "S\u00e4hk\u00f6posti"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Verkkosivusto"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Tila"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "Toiminto"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Teksti"
+        }
+    }
+}
