@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "787d5f05953ec39b108869dfdd7733e6": {
+            "text": "hyv\u00e4ksytty"
+        },
+        "7c6c2e5d48ab37a007cbf70d3ea25fa4": {
+            "text": "odottaa"
+        },
+        "099af53f601532dbd31e0ea99ffdeb64": {
+            "text": "poista"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Kommenttikentt\u00e4\u00e4 ei ole asennettu"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Valitse kommenttikentt\u00e4"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Kommenttikentt\u00e4\u00e4 ei ole m\u00e4\u00e4ritetty URL-osoitteessa"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Tunnistamaton kentt\u00e4"
+        },
+        "e302685bde11296ef10be4a0cb825612": {
+            "text": "Tunnistamaton tila (urlSegment3)"
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Vastaus kommenttiin:"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "poista suodatin"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Poistettiin kommentti #%d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "P\u00e4ivitettiin kommentti #%d"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "muokkaa"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Sivu"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Kirjoittaja"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "S\u00e4hk\u00f6posti"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tyyppi"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "Verkkosivusto"
+        },
+        "7f319b8ccad7e92033b9492ddbc4b522": {
+            "text": "\u00c4\u00e4nest\u00e4"
+        },
+        "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
+            "text": "Vastaus kommenttiin %s"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Kaikki"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "\/ %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 kohteita"
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d vastaus"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d vastausta"
+        }
+    }
+}

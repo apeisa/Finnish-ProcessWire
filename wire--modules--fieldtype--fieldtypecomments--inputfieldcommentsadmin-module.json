@@ -15,7 +15,7 @@
             "text": "Kommentti #%1$d, L\u00e4hetetty %2$s, %3$s"
         },
         "6f9e04c43332fd4945f2c933c8eea611": {
-            "text": "Lainaa"
+            "text": "Kirjoittaja"
         },
         "082e55a73f10496681c84231dc1c88f7": {
             "text": "S\u00e4hk\u00f6posti"
@@ -63,13 +63,10 @@
             "text": "Tila"
         },
         "84c4dfc8fccf9350a9610e366ae769a5": {
-            "text": "Vastaa"
+            "text": "Vastaus kommenttiin"
         },
         "8922ee2d287d6d1cad3fd33f6341f512": {
             "text": "S\u00e4hk\u00f6posti-ilmoitukset:"
-        },
-        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
-            "text": "Spam"
         }
     }
 }
