@@ -1,0 +1,198 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Pois k\u00e4yt\u00f6st\u00e4"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "K\u00e4ytt\u00e4ytyminen"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4 - Kommentit julkaistaan n\u00e4kyville v\u00e4litt\u00f6m\u00e4sti"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Kaikki - K\u00e4ytt\u00e4j\u00e4n jolla on muokkausoikeus tulee hyv\u00e4ksy\u00e4 kommentit ennen julkaisua"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Vain uudet kommentit - Kommentit jotka ovat sellaisen k\u00e4ytt\u00e4j\u00e4n l\u00e4hett\u00e4mi\u00e4, jolla ei ole aikaisempia hyv\u00e4ksyttyj\u00e4 kommentteja, vaativat hyv\u00e4ksynn\u00e4n"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Kommenttien moderointi"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "T\u00e4m\u00e4n toiminnon avulla voit m\u00e4\u00e4ritt\u00e4\u00e4 uusien kommenttien tarkistuksen"
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Uudelleenohjaa kommentin l\u00e4hetyksen j\u00e4lkeen?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Jos valittu, ProcessWire tekee uudelleenohjauksen kommentin l\u00e4hett\u00e4misen j\u00e4lkeen. Toiminnon tarkoitus on est\u00e4\u00e4 saman kommentin l\u00e4hett\u00e4minen useaan kertaan. T\u00e4m\u00e4n ottaminen k\u00e4ytt\u00f6\u00f6n on suositeltavaa."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Hiljainen tallennus?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Jos valittu, sivun muokkausaikaa ja tietoa viimeksi muokanneesta k\u00e4ytt\u00e4j\u00e4st\u00e4 ei p\u00e4ivitet\u00e4 kommentin lis\u00e4yksen j\u00e4lkeen."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Ilmoitusten l\u00e4hett\u00e4minen"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "\u00c4l\u00e4 l\u00e4het\u00e4 ilmoituksia"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "L\u00e4het\u00e4 ilmoitukset m\u00e4\u00e4ritettyyn s\u00e4hk\u00f6postiosoitteeseen"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "L\u00e4het\u00e4 ilmoitukset sivun luoneelle k\u00e4ytt\u00e4j\u00e4lle"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "L\u00e4het\u00e4 ilmoitukset m\u00e4\u00e4ritettylle k\u00e4ytt\u00e4j\u00e4lle"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Ilmoitukset"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Yll\u00e4pit\u00e4j\u00e4n s\u00e4hk\u00f6postiosoite, johon ilmoitukset l\u00e4hetet\u00e4\u00e4n"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "Kirjoita s\u00e4hk\u00f6postiosoite, johon ilmoitukset uusista kommenteista l\u00e4hetet\u00e4\u00e4n. Erota useat s\u00e4hk\u00f6postiosoitteet toisistaan pilkuilla tai v\u00e4lily\u00f6nneill\u00e4."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "K\u00e4ytt\u00e4j\u00e4t jotka vastaanottavat t\u00e4m\u00e4n s\u00e4hk\u00f6postin, voivat hyv\u00e4ksy\u00e4 tai hyl\u00e4t\u00e4 kommentteja viestiss\u00e4 olevien linkkien avulla."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 s\u00e4hk\u00f6postiosoitteen lis\u00e4ksi (tai sen sijaan) yhden tai useamman seuraavista:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Kirjoita **user:pekka** l\u00e4hett\u00e4\u00e4ksesi s\u00e4hk\u00f6postin tietylle k\u00e4ytt\u00e4j\u00e4lle. Korvaa \"pekka\" olemassa olevalla k\u00e4ytt\u00e4j\u00e4nimell\u00e4."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Kirjoita **field:email** k\u00e4ytt\u00e4\u00e4ksesi kentt\u00e4\u00e4n kirjoitettua s\u00e4hk\u00f6postiosoitetta. Korvaa \"email\" kent\u00e4n nimell\u00e4, joka sis\u00e4lt\u00e4\u00e4 s\u00e4hk\u00f6postiosoitteen."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Kirjoita **123:email** k\u00e4ytt\u00e4\u00e4ksesi kentt\u00e4\u00e4n kirjoitettua s\u00e4hk\u00f6postiosoitetta joltakin tietylt\u00e4 sivulta. Korvaa \"123\" sivun tunnisteella ja \"email\" kent\u00e4n nimell\u00e4, joka sis\u00e4lt\u00e4\u00e4 s\u00e4hk\u00f6postiosoitteen."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Kirjoita **\/polku\/sivuun:email** k\u00e4ytt\u00e4\u00e4ksesi kentt\u00e4n kirjoitettua s\u00e4hk\u00f6postiosoitetta joltakin tietylt\u00e4 sivulta. Korvaa \"polku\/sivuun\" sivun polulla ja \"email\" kent\u00e4n nimell\u00e4, joka sis\u00e4lt\u00e4\u00e4 s\u00e4hk\u00f6postiosoitteen."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "S\u00e4hk\u00f6posti-ilmoitusten l\u00e4hett\u00e4j\u00e4n osoite"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Vapaaehtoinen s\u00e4hk\u00f6postiosoite, joka n\u00e4ytet\u00e4\u00e4n ilmoitusten l\u00e4hett\u00e4j\u00e4n\u00e4. J\u00e4t\u00e4 tyhj\u00e4ksi, jos haluat k\u00e4ytt\u00e4\u00e4 palvelimen asetuksissa m\u00e4\u00e4ritetty\u00e4 s\u00e4hk\u00f6postiosoitetta."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "L\u00e4het\u00e4 s\u00e4hk\u00f6posti-ilmoitus spam-kommenteista?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Jos valittu, ProcessWire l\u00e4hett\u00e4\u00e4 s\u00e4hk\u00f6posti-ilmoitukset silloinkin, jos kommentti on tunnistettu spamiksi."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "Salli kommentoijan tilata s\u00e4hk\u00f6posti-ilmoitukset?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "T\u00e4m\u00e4n toiminnon avulla kommentoija voi tilata s\u00e4hk\u00f6postiinsa ilmoitukset uusista kommenteista."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "K\u00e4ytt\u00e4j\u00e4t voivat vastaanottaa ilmoitukset vain vastauksista omiin kommentteihinsa"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "K\u00e4ytt\u00e4j\u00e4t voivat vastaanottaa ilmoitukset kaikista sivun uusista kommenteista"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "K\u00e4yt\u00e4 Akismet Spam Filter -suodatusta?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "T\u00e4m\u00e4 suodatus tunnistaa suurimman osan spam-kommenteista. Ennen k\u00e4ytt\u00f6\u00e4 varmista, ett\u00e4 olet sy\u00f6tt\u00e4nyt Akismet API-avaimen moduulin asetuksiin: Moduulit > Comment Filter: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "P\u00e4ivien m\u00e4\u00e4r\u00e4, joiden kuluttua spam-kommentit poistetaan"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Kirjoita p\u00e4ivien m\u00e4\u00e4r\u00e4, joiden kuluttua spam-kommentit poistetaan automaattisesti."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Tulostus"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Vastausketjun syvyys"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Kirjoita 0, jos haluat kommenttien tulostuvat kronologisessa j\u00e4rjestyksess\u00e4. Jos haluat ottaa vastausketjut k\u00e4ytt\u00f6\u00f6n (vastaukset n\u00e4ytet\u00e4\u00e4n jonona sellaisen kommentin alla, johon vastaus kohdistuu), m\u00e4\u00e4rit\u00e4 suurin sallittu syvyys (arvo v\u00e4lilt\u00e4 0\u20134 on suositeltu arvo)."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "J\u00e4rjest\u00e4 uusimmasta vanhimpaan?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Oletuksena kommentit lajitellaan kronologisesti (vanhimmasta uusimpaan). Voit k\u00e4\u00e4nt\u00e4\u00e4 j\u00e4rjestyksen rastittamalla t\u00e4m\u00e4n."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "N\u00e4yt\u00e4 kommenttilomakkeella kentt\u00e4 verkkosivulle?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Jos valittu, kommenttilomake sis\u00e4lt\u00e4\u00e4 my\u00f6s kent\u00e4n verkkosivulle."
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/ajan muotoilu (kommenttilistalla)"
+        },
+        "ea706988dcb6ea169518eb97da49df9d": {
+            "text": "Kirjoita p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/ajan muotoilu, jota haluat k\u00e4ytt\u00e4\u00e4 kommenttien tulostuksessa. K\u00e4yt\u00e4 PHP:n [date](http:\/\/php.net\/manual\/en\/function.date.php) tai [strftime](http:\/\/php.net\/manual\/en\/function.strftime.php) -muotoilua. Voit m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4h\u00e4n my\u00f6s suhteellisen muotoilun."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Salli kommenttien \u00e4\u00e4nest\u00e4minen?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "T\u00e4m\u00e4n toiminnon avulla voit sallia k\u00e4ytt\u00e4jien \u00e4\u00e4nest\u00e4\u00e4 kommentteja (tykk\u00e4\u00e4 \/ en tykk\u00e4\u00e4). \u00c4\u00e4nien m\u00e4\u00e4r\u00e4 n\u00e4ytet\u00e4\u00e4n kunkin kommentin yhteydess\u00e4. K\u00e4ytt\u00e4j\u00e4 saa \u00e4\u00e4nest\u00e4\u00e4 kutakin kommenttia kerran tunnissa \/ IP-osoite."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "\u00c4\u00e4nestys pois k\u00e4yt\u00f6st\u00e4"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Salli \"tykk\u00e4\u00e4\""
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Salli \"tykk\u00e4\u00e4\" ja \"en tykk\u00e4\u00e4\""
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "K\u00e4yt\u00e4 Gravataria?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "T\u00e4m\u00e4 palvelu liitt\u00e4\u00e4 kommentin yhteyteen avatar-kuvan kommentin l\u00e4hett\u00e4neest\u00e4 k\u00e4ytt\u00e4j\u00e4st\u00e4 (tunnistus s\u00e4hk\u00f6postiosoitteella). Ottaaksesi t\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6\u00f6n, valitse suurin sallittu gravatar-luokitus. Samat luokitukset ovat k\u00e4yt\u00f6ss\u00e4 elokuvaluokituksissa. G on perheyst\u00e4v\u00e4llisin ja X ei."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Luokitukset tarjoaa [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/)"
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "K\u00e4ytt\u00f6\u00f6notto"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "T\u00e4m\u00e4n osion tietojen avulla p\u00e4\u00e4set alkuun kommenttien tulostamiseksi sivustollasi."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Jos k\u00e4yt\u00e4t v\u00e4limuistitusta sivun tulostukselle, muokkaa v\u00e4limuistituksen s\u00e4\u00e4nt\u00f6j\u00e4 niin, ett\u00e4 v\u00e4limuisti ohitetaan kun GET-muuttuja \"comment_success\" on m\u00e4\u00e4ritetty."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP-koodi kommenttien tulostamiseksi"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS-tyylit kommenttien tulostukselle"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS kommenttien tulostukselle"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Olet jo \u00e4\u00e4nest\u00e4nyt t\u00e4t\u00e4 kommenttia"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Kommentin \u00e4\u00e4nestyksen tallentaminen ei onnistunut"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Kommentit"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Kentt\u00e4 johon tallennetaan k\u00e4ytt\u00e4jien l\u00e4hett\u00e4m\u00e4t kommentit"
+        }
+    }
+}
