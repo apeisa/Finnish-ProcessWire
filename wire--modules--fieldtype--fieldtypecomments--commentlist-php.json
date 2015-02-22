@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Kommentit"
+        },
+        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
+            "text": "j.n.Y \\k\\l\\o H:i"
+        },
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "Staattinen linkki (permalink)"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Vastaa"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "Tykk\u00e4\u00e4 t\u00e4st\u00e4 kommentista"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "\u00c4l\u00e4 tykk\u00e4\u00e4 t\u00e4st\u00e4 kommentista"
+        }
+    }
+}
