@@ -6,7 +6,7 @@
             "text": "Kuvaus"
         },
         "5e176961ecb3a67e9c653e60de703fdb": {
-            "text": "Raahaa ja pudota tiedostot suoraan ty\u00f6p\u00f6yd\u00e4lt\u00e4si"
+            "text": "Ved\u00e4 ja pudota tiedostot suoraan ty\u00f6p\u00f6yd\u00e4lt\u00e4si"
         },
         "1a6d5576222d1a16320dda443f43b1fa": {
             "text": "Lis\u00e4ttiin tiedosto:"
@@ -21,7 +21,7 @@
             "text": "Tagit"
         },
         "004a10c5de4a2eea5fc8f15e97a8030c": {
-            "text": "T\u00e4lle kent\u00e4lle ei ole m\u00e4\u00e4ritetty k\u00e4ytett\u00e4vi\u00e4 tiedostop\u00e4\u00e4tteit\u00e4."
+            "text": "T\u00e4lle kent\u00e4lle ei ole m\u00e4\u00e4ritetty sallittuja tiedostop\u00e4\u00e4tteit\u00e4."
         },
         "5d28dcd09c5073bb0e454aee16d9b349": {
             "text": "Tiedosto %s hyl\u00e4ttiin, koska se on jo olemassa tiedostoj\u00e4rjestelm\u00e4ss\u00e4 ja on toisen kent\u00e4n k\u00e4yt\u00f6ss\u00e4."
@@ -36,13 +36,13 @@
             "text": "Pura ZIP-paketit?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "ZIP-paketit puretaan ja kaikki kent\u00e4n tukemat tiedostot ladataan palvelimelle (jos palvelin tukee ominaisuutta). Jotta ZIP-lataukset toimivat, kent\u00e4n tiedostom\u00e4\u00e4r\u00e4n rajoitus tulee poistaa k\u00e4yt\u00f6st\u00e4."
+            "text": "Jos valittu, ZIP-paketit puretaan ja kaikki kent\u00e4n tukemat tiedostot ladataan palvelimelle (jos palvelin tukee t\u00e4t\u00e4 ominaisuutta). Jotta ZIP-lataukset toimivat, kent\u00e4n tiedostom\u00e4\u00e4r\u00e4n rajoitus tulee poistaa k\u00e4yt\u00f6st\u00e4."
         },
         "4839f7d2588943e6763c3c91cbd8d7f2": {
             "text": "Korvaa olemassa olevat tiedostot?"
         },
         "35a96944722fb825db8bf04ab791c209": {
-            "text": "Ladattava tiedosto korvaa palvelimella olevan samannimisen tiedoston (kuvaus- ja tagikent\u00e4t s\u00e4ilytet\u00e4\u00e4n). Jos t\u00e4m\u00e4 ei ole valittu, palvelimelle ladattavat tiedostot nimet\u00e4\u00e4n yksil\u00f6llisiksi."
+            "text": "Ladattava tiedosto korvaa palvelimella olevan samannimisen tiedoston (kuvaus- ja tagitiedot s\u00e4ilytet\u00e4\u00e4n). Jos t\u00e4m\u00e4 ei ole valittu, palvelimelle ladattavat tiedostot nimet\u00e4\u00e4n tarvittaessa yksil\u00f6llisiksi."
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
             "text": "Huomaa, ett\u00e4 jos t\u00e4m\u00e4 on valittu, AJAX:n kautta ladattavat tiedostot tallentuvat sivuun v\u00e4litt\u00f6m\u00e4sti latauksen j\u00e4lkeen. Oletusarvoisesti tiedostot tallennetaan sivun tallennuksen yhteydess\u00e4."

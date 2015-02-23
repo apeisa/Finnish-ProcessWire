@@ -39,7 +39,7 @@
             "text": "Jos valittu, kent\u00e4n t\u00e4ytt\u00e4minen on vaadittu."
         },
         "efdf8051d64766330e13627274b01787": {
-            "text": "Ehdot m\u00e4\u00e4ritet\u00e4\u00e4n valitsimella \"kentt\u00e4=arvo\". Jos ehtoja on useita, erota ne toisistaan pilkulla."
+            "text": "Ehdot m\u00e4\u00e4ritet\u00e4\u00e4n valitsimella \"kentt\u00e4=arvo\". Erota useat ehdot toisistaan pilkulla."
         },
         "2d7ff3fa8a1a844b270d96878d358762": {
             "text": "Lue [k\u00e4ytt\u00f6ohjeet](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."

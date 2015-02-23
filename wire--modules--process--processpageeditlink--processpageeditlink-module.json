@@ -42,10 +42,10 @@
             "text": "T\u00e4m\u00e4 toiminto on samankaltainen kuin yll\u00e4 oleva \"Linkit\u00e4 sivuun\", mutta listaa vain avoinna olevan sivun alasivut."
         },
         "2c8a0fad581fd58be051633bfdaa53d0": {
-            "text": "Suhteelliset URL:t vain saman linkitett\u00e4ess\u00e4 samassa sivuhaarassa olevaan sivuun"
+            "text": "Suhteelliset URL:t k\u00e4yt\u00f6ss\u00e4 vain silloin, kun linkitet\u00e4\u00e4n samassa sivuhaarassa olevaan sivuun"
         },
         "4750338c560d44be6d53bd75e386a966": {
-            "text": "Aina suhteelliset URL:t"
+            "text": "Suhteelliset URL:t aina k\u00e4yt\u00f6ss\u00e4"
         }
     }
 }
