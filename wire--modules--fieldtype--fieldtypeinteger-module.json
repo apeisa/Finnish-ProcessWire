@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Tarkoittavatko tyhj\u00e4 arvo ja 0 samaa?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "T\u00e4m\u00e4 vaikuttaa siihen, kuinka ProcessWire l\u00f6yt\u00e4\u00e4 sivuja tietokantahauilla."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Jos 0 ja tyhj\u00e4 arvo tarkoittavat samaa, haku **kentta=0** ja **kentta=\"\"** tuottavat saman hakutuloksen."
+        },
+        "33865caeae8ea654a7fef819270e40b3": {
+            "text": "Jos 0 ja tyhj\u00e4 arvo eiv\u00e4t tarkoita samaa, haku **kentta=0** t\u00e4sm\u00e4\u00e4 vain sellaisiin sivuihin, joissa kentt\u00e4 sis\u00e4lt\u00e4\u00e4 arvon 0, ja haku **kentta=\"\"** t\u00e4sm\u00e4\u00e4 vain sivuihin, joissa kentt\u00e4 on tyhj\u00e4."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Esim. jos \"Kyll\u00e4\" on valittu, haku **kentta<1** t\u00e4sm\u00e4\u00e4 sivuihin, joissa kent\u00e4n arvo on 0 tai tyhj\u00e4, ja jos \"Ei\" on valittu, haku l\u00f6yt\u00e4\u00e4 vain sivut joissa kent\u00e4n arvo on 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Kyll\u00e4 - Tyhj\u00e4 arvo ja 0 tarkoittavat samaa"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Ei - Tyhj\u00e4 arvo ja 0 eiv\u00e4t tarkoita samaa"
+        }
+    }
+}
