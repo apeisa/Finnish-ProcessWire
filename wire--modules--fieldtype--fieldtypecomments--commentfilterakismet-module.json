@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Kommenttisuodatin: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "K\u00e4ytt\u00e4\u00e4 Akismet-palvelua spam-kommenttien tunnistamiseksi. Lis\u00e4osa kommenttikent\u00e4lle."
+        },
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Akismet-avain"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Voit k\u00e4ytt\u00e4\u00e4 Akismet-palvelua spam-kommenttien tunnistamiseksi. Jotta palvelu toimisi oikein, sinun tulee sy\u00f6tt\u00e4\u00e4 Akismet API-avain, jonka voit hankkia osoitteesta akismet.com. Palvelun k\u00e4ytt\u00f6 on vapaaehtoista, mutta suositeltavaa."
+        }
+    }
+}
