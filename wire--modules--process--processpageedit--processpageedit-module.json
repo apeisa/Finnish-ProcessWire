@@ -87,7 +87,7 @@
             "text": "Siirr\u00e4 roskakoriin"
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
-            "text": "Laita rasti ruutuun, jos haluat jatkaa"
+            "text": "Rastita ruutu, jos haluat jatkaa"
         },
         "6e2e3de95055596f315a073f771342e3": {
             "text": "Sivua ei ole t\u00e4ll\u00e4 hetkell\u00e4 poistettavissa"
@@ -108,10 +108,10 @@
             "text": "Oikeudet on m\u00e4\u00e4ritetty t\u00e4m\u00e4n sivun sivupohjassa: %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
-            "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty t\u00e4ss\u00e4 sivupohjassa: %2$s"
+            "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty sivupohjassa %2$s"
         },
         "17f8097b4af11ef352554fc7dd416c34": {
-            "text": "Sivupohja \"%s\" ei ole sallittu"
+            "text": "Sivupohja '%s' ei ole sallittu"
         },
         "c4101b17a6f3bb8ffbe40eb9edef2347": {
             "text": "T\u00e4t\u00e4 sivua ei voida poistaa"
@@ -138,7 +138,7 @@
             "text": "Oletko varma?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Varmista, ett\u00e4 ymm\u00e4rr\u00e4t yll\u00e4 olevan laittamalla rasti ruutuun."
+            "text": "Vahvista, ett\u00e4 ymm\u00e4rr\u00e4t yll\u00e4 olevan laittamalla rasti ruutuun."
         },
         "6b102e11bd33fb8f4be6a6cecf2c491b": {
             "text": "Sinulla ei ole oikeuksia vaihtaa t\u00e4m\u00e4n sivun sivupohjaa"

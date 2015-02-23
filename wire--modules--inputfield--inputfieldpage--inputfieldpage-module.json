@@ -21,7 +21,7 @@
             "text": "Lis\u00e4ttiin sivu %s"
         },
         "29b43e0c70cb336d03f04f3f06a8789d": {
-            "text": "Sivua %s ei voitu lis\u00e4t\u00e4"
+            "text": "Sivun \"%s\" lis\u00e4\u00e4minen ei onnistunut"
         },
         "81eeab9506186e2dca8faefa78d54067": {
             "text": "Esimerkki:"
@@ -57,7 +57,7 @@
             "text": "PHP-koodi, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
         },
         "5b2e8722316eee4b8e200d6d07b51915": {
-            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 PHP-koodia yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita koodi t\u00e4h\u00e4n. Koodilla on p\u00e4\u00e4sy $page- ja $pages -objekteihin, joissa $page viittaa muokkaushetkell\u00e4 avoinna olevaan sivuun. Koodin tulee palauttaa joko PageArray tai NULL. T\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6 korvaa yll\u00e4 olevissa yl\u00e4sivu\/sivupohja\/valitsin -kentiss\u00e4 m\u00e4\u00e4ritetyt tiedot ja sen k\u00e4ytt\u00f6 on vapaaehtoista. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect- tai Autocomplete -kentt\u00e4tyyppien kanssa. "
+            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 PHP-koodia yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita koodi t\u00e4h\u00e4n. Koodilla on p\u00e4\u00e4sy $page- ja $pages -objekteihin, joissa $page viittaa muokkaushetkell\u00e4 avoinna olevaan sivuun. Koodin tulee palauttaa joko PageArray tai NULL. T\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6 korvaa yll\u00e4 olevissa yl\u00e4sivu\/sivupohja\/valitsin -kentiss\u00e4 m\u00e4\u00e4ritetyt tiedot ja sen k\u00e4ytt\u00f6 on vapaaehtoista. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect- tai Autocomplete -kentt\u00e4tyyppien kanssa."
         },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "return $page->parent->parent->children(\"name=sijainnit\")->first()->children();"
@@ -99,7 +99,7 @@
             "text": "Kentt\u00e4moduulit, joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan"
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
-            "text": "Valitse kentt\u00e4moduulit joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan. Useimmiten kent\u00e4n tulisi olla sellainen, joka sallii yhden tai useamman valinnan."
+            "text": "Valitse kentt\u00e4moduulit joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan. Yleisesti kent\u00e4n tulee olla sellainen, joka sallii yhden tai useamman valinnan."
         }
     }
 }
