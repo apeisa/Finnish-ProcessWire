@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Yksitt\u00e4inen arvo"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Useita arvoja"
+        },
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Vahvista valintojen poistaminen"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "POISTETAAN:"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Valinnan tyyppi"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Valinnan tyypist\u00e4 riippuen k\u00e4ytt\u00e4j\u00e4 voi valita yksitt\u00e4isen arvon tai useita arvoja. Jotkin tyypeist\u00e4 (kuten AsmSelect) tukevat lajiteltavissa olevia valintoja. Jotkin tyypeist\u00e4 tuovat n\u00e4kyville lis\u00e4asetuksia *Kentt\u00e4*-v\u00e4lilehdelle tallennuksen j\u00e4lkeen."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Kent\u00e4ss\u00e4 n\u00e4kyv\u00e4t valinnat"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "M\u00e4\u00e4rit\u00e4 yksi valinta rivi\u00e4 kohden. Tallennuksen j\u00e4lkeen jokaiseen valintaan liitet\u00e4\u00e4n yksil\u00f6llinen ID-tunniste, esim. 123=valinta. [Katso kent\u00e4n k\u00e4ytt\u00f6ohjeet](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Tietoa monikielisyystuesta: m\u00e4\u00e4rit\u00e4 valinnat ensin oletuskielelle ja tallenna. Tallennuksen j\u00e4lkeen voit tehd\u00e4 valintojen k\u00e4\u00e4nn\u00f6kset muille kielille."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Mitk\u00e4 arvot tulee olla esivalittuina?"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Alla n\u00e4et esikatselun valintatyypist\u00e4 (%s) ja valittavissa olevista arvoista."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Huom: t\u00e4ss\u00e4 teht\u00e4v\u00e4t valinnat eiv\u00e4t ole voimassa, koska kent\u00e4lle ei ole asetettu arvoa pakolliseksi. Katso \"Pakollinen\"-valinta Kentt\u00e4-v\u00e4lilehdell\u00e4."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "T\u00e4ss\u00e4 teht\u00e4v\u00e4t valinnat ovat voimassa, koska kent\u00e4lle on asetettu pakollinen arvo."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Poista t\u00e4m\u00e4 valinta"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Poista n\u00e4m\u00e4 valinnat"
+        }
+    }
+}
