@@ -23,9 +23,6 @@
         "4f85d037300d5f7efcf7fdc3f973db7f": {
             "text": "Tunnistamaton kentt\u00e4"
         },
-        "e302685bde11296ef10be4a0cb825612": {
-            "text": "Tunnistamaton tila (urlSegment3)"
-        },
         "6a65e2235642194467bf83001d23639d": {
             "text": "Vastaus kommenttiin:"
         },
@@ -79,6 +76,15 @@
         },
         "af617b357692e5cded9ff1dd859080b3": {
             "text": "%d vastausta"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Hyv\u00e4ksytty"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Odottaa"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Spam"
         }
     }
 }

@@ -323,9 +323,6 @@
         "c40f632e4b3c69bbd1af89f5c5f5c617": {
             "text": "\u00c4l\u00e4 lis\u00e4\u00e4"
         },
-        "4c5538b9792f2560253bcab98f04feff": {
-            "text": "Lis\u00e4\u00e4 sivupohjiin"
-        },
         "368f6a2142a5d1f203ccd1a9bd8d974f": {
             "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" sivupohjaan \"%2$s\", ennen kentt\u00e4\u00e4 \"%3$s\""
         },
@@ -393,6 +390,9 @@
             "text": "Kent\u00e4n lis\u00e4\u00e4minen tai poistaminen vahvistetaan tallennuksen j\u00e4lkeen."
         },
         "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Lis\u00e4\u00e4 tai poista kentt\u00e4 sivupohjasta"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
             "text": "Lis\u00e4\u00e4 tai poista kentt\u00e4 sivupohjasta"
         }
     }
