@@ -11,23 +11,11 @@
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Linkit\u00e4 URL-osoitteeseen"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Linkit\u00e4 sivuun"
-        },
         "629ea6ac7fee06a764a49cb39bd356d9": {
             "text": "Avaa linkki uudessa ikkunassa?"
         },
         "1f3e9bfe3126acfe0af746ec6ed2db68": {
             "text": "Jos valittu, linkki avataan uudessa ikkunassa tai v\u00e4lilehdess\u00e4."
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Linkit\u00e4 tiedostoon"
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Valitaksesi tiedoston toiselta sivulta, klikkaa \"Linkit\u00e4 sivuun\" ja valitse sivu jolla haluamasi tiedosto sijaitsee."
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Linkit\u00e4 alasivuun"
         },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "URL-tyyppi sivun linkeille"
@@ -38,14 +26,104 @@
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "* Kokeellinen ominaisuus"
         },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "T\u00e4m\u00e4 toiminto on samankaltainen kuin yll\u00e4 oleva \"Linkit\u00e4 sivuun\", mutta listaa vain avoinna olevan sivun alasivut."
-        },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "Suhteelliset URL:t k\u00e4yt\u00f6ss\u00e4 vain silloin, kun linkitet\u00e4\u00e4n samassa sivuhaarassa olevaan sivuun"
         },
         "4750338c560d44be6d53bd75e386a966": {
             "text": "Suhteelliset URL:t aina k\u00e4yt\u00f6ss\u00e4"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Linkki"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Kirjoita URL, s\u00e4hk\u00f6postiosoite, ankkuri, tai kirjoita hakusana l\u00f6yt\u00e4\u00e4ksesi sivun."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Valitse ankkuri"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Muokattavasta tekstist\u00e4 l\u00f6ytyneet ankkurit."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Valitse sivu"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Valitse alasivu"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "T\u00e4m\u00e4 toiminto on samankaltainen kuin yll\u00e4 oleva \"Valitse sivu\", mutta sis\u00e4lt\u00e4\u00e4 vain nykyisen sivun alasivut."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attribuutit"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Otsikko (title)"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Kirjoita linkki\u00e4 kuvaava otsikko."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Kohde (target)"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Valitse tapa, jolla linkki avataan."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "Yhteys (rel)"
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Linkin yhteys\/suhde dokumenttiin."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Luokka"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Linkkitagiin liitett\u00e4v\u00e4t luokkanimet."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Voit muokata k\u00e4ytett\u00e4viss\u00e4 olevia attribuuttien valintoja %s -moduulin asetuksissa."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ei mit\u00e4\u00e4n"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "avaa uudessa ikkunassa"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "hakukoneiden ei tulisi seurata t\u00e4t\u00e4 linkki\u00e4"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Valitse tiedosto"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "N\u00e4ytet\u00e4\u00e4n tiedostot sivulta:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Valitse tiedosto t\u00e4lt\u00e4 sivulta, johon haluat linkitt\u00e4\u00e4."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Voit my\u00f6s valita tiedoston joltakin toiselta sivulta klikkaamalla 'Valitse sivu'."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Attribuuttien valinnat"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Kirjoita yksi arvo rivi\u00e4 kohden. K\u00e4ytt\u00e4j\u00e4 voi lis\u00e4t\u00e4 jonkin n\u00e4ist\u00e4 valinnoista attribuutin arvoksi linkki\u00e4 lis\u00e4tt\u00e4ess\u00e4. Asettaaksesi jonkin arvon oletusarvoksi (uusille linkeille), lis\u00e4\u00e4 arvon eteen plus-merkki \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Ulosp\u00e4in johtavien linkkien attribuutit"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 attribuutit, jotka otetaan automaattisesti k\u00e4ytt\u00f6\u00f6n jollekin toiselle sivustolle johtaville linkeille."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "T\u00e4ss\u00e4 m\u00e4\u00e4ritett\u00e4v\u00e4t arvot tulee m\u00e4\u00e4ritell\u00e4 my\u00f6s yll\u00e4 oleviin kenttiin."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Esimerkki: Arvo **nofollow** antaa hakukoneille ohjeistuksen: \"\u00e4l\u00e4 seuraa t\u00e4t\u00e4 linkki\u00e4\"."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Esimerkki: Arvo **_blank** m\u00e4\u00e4ritt\u00e4\u00e4 linkit avattavaksi uuteen v\u00e4lilehteen."
         }
     }
 }
