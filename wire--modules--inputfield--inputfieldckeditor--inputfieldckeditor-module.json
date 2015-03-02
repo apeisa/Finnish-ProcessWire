@@ -171,7 +171,7 @@
             "text": "suositeltu"
         },
         "7ae98f3a4b96e522d75992c305a4ec2b": {
-            "text": "%s asetukset"
+            "text": "%s -asetukset"
         },
         "ced89926ebd1c95b56710b6a873b1e93": {
             "text": "\"%s\" -liit\u00e4nn\u00e4isen asetukset eiv\u00e4t ole kelvollisessa JSON-muodossa."
@@ -202,6 +202,9 @@
         },
         "86981868980ec998b671432713a7b65b": {
             "text": "Katso [k\u00e4ytt\u00f6ohje](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2)"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Muokkaa linkki\u00e4"
         }
     }
 }
