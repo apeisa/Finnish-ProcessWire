@@ -3,10 +3,7 @@
     "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
     "translations": {
         "5d13ae1a65403891ac0fe044f3acc865": {
-            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse jokin toinen sivu, jolta valitset kuvia."
-        },
-        "64a201e91bd521f5640318d844920b31": {
-            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvia. Sulje ikkuna ja lis\u00e4\u00e4 kuvia tai valitse kuvat toiselta sivulta."
+            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvakentti\u00e4. Valitse kuvia joltakin toiselta sivulta."
         },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "T\u00e4m\u00e4n sivun kuvat:"
@@ -31,9 +28,6 @@
         },
         "e36098607b9dd3b6d7107a449b6a25bd": {
             "text": "Tasaa keskelle"
-        },
-        "b5a7adde1af5c87d7fd797b6245c2a39": {
-            "text": "Kuvaus"
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Kent\u00e4t joista ei voi valita kuvia"
@@ -179,8 +173,35 @@
         "872db811a5e431cc819ba322361af380": {
             "text": "Muokattu"
         },
-        "f586a5b42bcd327bea09641d0ac4a06a": {
-            "text": "HiDPI\/Retina"
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Kuvaus (alt-attribuutti)"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Kuvateksti?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Voit muokata kuvateksti\u00e4 editorissa kuvan lis\u00e4\u00e4misen j\u00e4lkeen."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Kuvatekstin paikka"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "K\u00e4\u00e4nn\u00e4 oikealle"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "K\u00e4\u00e4nn\u00e4 vasemmalle"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Peilaa vaakasuunnassa"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Peilaa pystysuunnassa"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "T\u00e4ll\u00e4 sivulla ei ole kuvia. Lataa kuva palvelimelle tai valitse kuva toiselta sivulta."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Lataa kuva palvelimelle"
         }
     }
 }
