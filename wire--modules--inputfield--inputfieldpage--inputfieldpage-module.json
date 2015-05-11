@@ -56,9 +56,6 @@
         "d04c6c77608855a3ff0fb3ee32a2cd53": {
             "text": "PHP-koodi, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
         },
-        "5b2e8722316eee4b8e200d6d07b51915": {
-            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 PHP-koodia yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita koodi t\u00e4h\u00e4n. Koodilla on p\u00e4\u00e4sy $page- ja $pages -objekteihin, joissa $page viittaa muokkaushetkell\u00e4 avoinna olevaan sivuun. Koodin tulee palauttaa joko PageArray tai NULL. T\u00e4m\u00e4n toiminnon k\u00e4ytt\u00f6 korvaa yll\u00e4 olevissa yl\u00e4sivu\/sivupohja\/valitsin -kentiss\u00e4 m\u00e4\u00e4ritetyt tiedot ja sen k\u00e4ytt\u00f6 on vapaaehtoista. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect- tai Autocomplete -kentt\u00e4tyyppien kanssa."
-        },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "return $page->parent->parent->children(\"name=sijainnit\")->first()->children();"
         },
@@ -100,6 +97,18 @@
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "Valitse kentt\u00e4moduulit joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan. Yleisesti kent\u00e4n tulee olla sellainen, joka sallii yhden tai useamman valinnan."
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 PHP-koodia yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita koodi t\u00e4h\u00e4n. Koodilla on p\u00e4\u00e4sy $page ja $pages -objekteihin, jossa $page viittaa sill\u00e4 hetkell\u00e4 editoitavaan sivuun."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Koodin tulisi palauttaa joko PageArray, Page tai NULL. Jos koodi palauttaa objektin Page, kyseisen sivun alasivut n\u00e4ytet\u00e4\u00e4n valittavina sivuina. T\u00e4m\u00e4n k\u00e4ytt\u00f6 on vapaaehtoista ja se yliajaa yll\u00e4 olevat m\u00e4\u00e4ritykset."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "HUOM: Toiminto ei ole yhteensopiva PageListSelect tai Autocomplete -kentt\u00e4tyyppien kanssa."
+        },
+        "3d9e8a4318894ce247ba920c7961d5da": {
+            "text": "Vaikka toiminto yliajaa yll\u00e4 olevat m\u00e4\u00e4ritykset yl\u00e4sivulle ja sivupohjalle, niiden valintoja k\u00e4ytet\u00e4\u00e4n kent\u00e4n sy\u00f6tteen tarkitukseen (poista valinnat jos et halua kent\u00e4n k\u00e4ytt\u00e4ytyv\u00e4n n\u00e4in)."
         }
     }
 }

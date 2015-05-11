@@ -302,9 +302,6 @@
         "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
             "text": "Huomaa, ett\u00e4 kopion luomisen j\u00e4lkeen siirryt\u00e4\u00e4n muokkaamaan kopioitua kentt\u00e4\u00e4."
         },
-        "95523fea14a18800a635536624e982a8": {
-            "text": "Kent\u00e4n kopiointi ei onnistunut, koska nimi \"%s\" on jo k\u00e4yt\u00f6ss\u00e4, tai sen k\u00e4ytt\u00f6 ei ole sallittua."
-        },
         "0a198ede7ab46185f2e9fb2a3628419b": {
             "text": "(kopio)"
         },
@@ -394,6 +391,33 @@
         },
         "7c88547fdcfb8db979ff8e01a8af3cab": {
             "text": "Lis\u00e4\u00e4 tai poista kentt\u00e4 sivupohjasta"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Kopioi olemassa oleva kentt\u00e4"
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Kirjoita kent\u00e4lle k\u00e4ytt\u00f6ohjeet tai lis\u00e4tiedot, jotka n\u00e4ytet\u00e4\u00e4n kent\u00e4n alla."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Esimerkki huomautuksesta."
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Huomautukset"
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "Kent\u00e4n nimi on tyhj\u00e4"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Kent\u00e4n nimi voi sis\u00e4lt\u00e4\u00e4 vain ASCII-merkkej\u00e4, numeroita ja alaviivoja."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Kent\u00e4n nimi \"%s\" on jo k\u00e4yt\u00f6ss\u00e4"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Kent\u00e4n nimi \"%s\" on varattu muuhun k\u00e4ytt\u00f6\u00f6n j\u00e4rjestelm\u00e4ss\u00e4"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Kent\u00e4n nimi ei voi alkaa alaviivalla tai numerolla"
         }
     }
 }

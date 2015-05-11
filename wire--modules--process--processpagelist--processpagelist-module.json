@@ -64,6 +64,12 @@
         },
         "ae9945c00ae261445f0277fbae516179": {
             "text": "Sivulistassa jokainen sivu tunnistetaan omalla nimell\u00e4\u00e4n, joka on tyypillisesti otsikko. Voit m\u00e4\u00e4ritt\u00e4\u00e4 mit\u00e4 kentt\u00e4\u00e4 listauksessa k\u00e4ytet\u00e4\u00e4n. Valitaksesi useita kentti\u00e4, erota kenttien nimet v\u00e4lily\u00f6nnill\u00e4. Jos kentt\u00e4 sis\u00e4lt\u00e4\u00e4 viittauksen objektiin (kuten toiseen sivuun), m\u00e4\u00e4rit\u00e4 lis\u00e4ksi ominaisuus pisteell\u00e4, esim. toinensivu.title. Huomaa, ett\u00e4 jos m\u00e4\u00e4ritelty kentt\u00e4 on tyhj\u00e4, ProcessWire k\u00e4ytt\u00e4\u00e4 \"name\"-kentt\u00e4\u00e4."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Yhteysvirhe. Yrit\u00e4 my\u00f6hemmin uudelleen."
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Tuntematon virhe. Yrit\u00e4 my\u00f6hemmin uudelleen."
         }
     }
 }

@@ -73,6 +73,15 @@
         },
         "840ad8821e0c1db717493f17a054bd18": {
             "text": "Variaatiot kuvasta %s"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Kuvan %s tiedostokoko ylitt\u00e4\u00e4 sallitun rajoituksen"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Hylk\u00e4\u00e4 kuvat jotka ylitt\u00e4v\u00e4t maksimimitat?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Jos valittu, palvelimelle ei ladata kuvia jotka ylitt\u00e4v\u00e4t maksimileveyden tai -korkeuden."
         }
     }
 }
