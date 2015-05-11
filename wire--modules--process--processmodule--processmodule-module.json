@@ -362,8 +362,14 @@
         "fc93b2cc57529c815c8810364ec885ea": {
             "text": "J\u00e4rjestelm\u00e4ss\u00e4 on useita kopioita t\u00e4st\u00e4 moduulista. Valitse moduulitiedosto, jota haluat k\u00e4ytt\u00e4\u00e4."
         },
-        "7f05cd7d695e4a911a436478a8f0cdfc": {
-            "text": "ID"
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "Moduulien v\u00e4limuisti p\u00e4ivitettiin (%d moduulia)"
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "Poista Autoload k\u00e4yt\u00f6st\u00e4?"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "K\u00e4yt\u00e4 toimintoa varoen. T\u00e4m\u00e4n valitseminen voi est\u00e4\u00e4 moduulin toiminnan. K\u00e4yt\u00e4 vain v\u00e4liaikaiseen testaamiseen."
         }
     }
 }

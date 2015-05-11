@@ -234,7 +234,7 @@
             "text": "Tyhjenn\u00e4 tallennetun sivun ja sen yl\u00e4sivujen v\u00e4limuisti (mukaan lukien aloitussivu)"
         },
         "f841b3150a439220f669e77e12ea0bda": {
-            "text": "Tyhjenn\u00e4 tallennetun sivun, sek\u00e4 m\u00e4\u00e4ritett\u00e4vien muiden sivujen v\u00e4limuisti..."
+            "text": "Tyhjenn\u00e4 tallennetun sivun, sek\u00e4 m\u00e4\u00e4ritett\u00e4vien muiden sivujen v\u00e4limuistit..."
         },
         "cd88ce600576fcc630878b5e374835a5": {
             "text": "\u00c4l\u00e4 tee mit\u00e4\u00e4n"
@@ -771,7 +771,7 @@
             "text": "Vapaaehtoiset asetukset t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen URL-osoitteille"
         },
         "cac7796ca8e88c31d8b23733cb7aaf03": {
-            "text": "*Suorituskyvyn maksimoimiseksi, v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
+            "text": "*Suorituskyvyn maksimoimiseksi v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
         },
         "85eb71c20f7740fc3bdbf7dfdee2636b": {
             "text": "Mit\u00e4 URL-segmentit ovat sallittuja?"
@@ -811,6 +811,27 @@
         },
         "3f967ce93af0de3a0457071f3d743f14": {
             "text": "Voit noutaa nykyiset URL-segmentit sivupohjatiedostossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->urlSegmentStr."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Tyhjenn\u00e4 tallennettujen sivujen v\u00e4limuisti, sek\u00e4 v\u00e4limuistit muilta sivuilta, jotka vastaavat valitsinta..."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Valitsin jota k\u00e4ytet\u00e4\u00e4n etsim\u00e4\u00e4n sivut, joilta v\u00e4limuisti tyhjennet\u00e4\u00e4n."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Tallenna sivupohja, jonka j\u00e4lkeen voit muokata valitsinta."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Valitsin v\u00e4limuistin tyhjent\u00e4miselle"
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "Sis\u00e4ll\u00f6n tyyppi (Content-Type)"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Valitse sis\u00e4ll\u00f6n tyypin merkint\u00e4 (Header), joka l\u00e4hetet\u00e4\u00e4n sivupohjaa tulostettaessa. Jos mit\u00e4\u00e4n ei ole valittu, ProcessWire ei l\u00e4het\u00e4 Header-merkint\u00e4\u00e4. Sis\u00e4ll\u00f6n tyyppi suositellaan valittavaksi silloin kun tuloste on tyypilt\u00e4\u00e4n jotakin muuta kuin HTML-merkkausta."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Lis\u00e4t\u00e4ksesi uusia sis\u00e4lt\u00f6tyyppej\u00e4, katso kohta contentTypes \/wire\/config.php -tiedostosta ja lis\u00e4\u00e4 uudet sis\u00e4lt\u00f6tyypit tiedostoon \/site\/config.php."
         }
     }
 }

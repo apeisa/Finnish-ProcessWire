@@ -32,12 +32,6 @@
         "f476d7ef955355a5633a914abbe1f3c1": {
             "text": "%d uutta virhett\u00e4"
         },
-        "2009e6e3b0f694f86c2f98728c22b053": {
-            "text": "%d aktiivinen prosessi"
-        },
-        "1a4d810a18e54ec6648c1b3c99b84cd9": {
-            "text": "%d aktiivista prosessia"
-        },
         "09bcb72d61c0d6d1eff5336da6881557": {
             "text": "er\u00e4\u00e4ntyy"
         },
@@ -73,6 +67,12 @@
         },
         "6d0a578ca2f2c0e792fc923002fccbe3": {
             "text": "sitten"
+        },
+        "3ea680550091f52ef7d4f2120a9a0032": {
+            "text": "Varoitus: muokkaat t\u00e4t\u00e4 sivua samanaikaisesti toisessa ikkunassa (muokkaus aloitettu %s)"
+        },
+        "187b4dd25b5e8329dfacc1528ac55028": {
+            "text": "Varoitus: k\u00e4ytt\u00e4j\u00e4 \"%s\" muokkaa t\u00e4ll\u00e4 hetkell\u00e4 t\u00e4t\u00e4 sivua (muokkaus aloitettu %s)"
         }
     }
 }
