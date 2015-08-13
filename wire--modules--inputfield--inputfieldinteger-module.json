@@ -43,6 +43,12 @@
         },
         "004d36e4fa95eec8357b066aa20e9d8d": {
             "text": "M\u00e4\u00e4ritetty arvo %3$s poistettiin, koska se ei vastaa arvolle asetettuja s\u00e4\u00e4nt\u00f6j\u00e4 (min=%1$s, max=%2$s)"
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Aloitusarvo"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Kent\u00e4lle esiasetettu arvo."
         }
     }
 }

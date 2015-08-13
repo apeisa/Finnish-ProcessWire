@@ -28,6 +28,24 @@
         },
         "141e30f2de96660020efd996cc916413": {
             "text": "Moduulin riippuvuusvirhe: %s vaatii %s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "otetaan k\u00e4ytt\u00f6\u00f6n seuraavalla kerralla kun kukin moduuli ladataan"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "P\u00e4ivitet\u00e4\u00e4n moduuli"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "L\u00f6ydettiin %d uusi moduuli: %s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "L\u00f6ydettiin %d uutta moduulia: %s"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "L\u00f6ydettiin %d moduulin versiomuutos"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "L\u00f6ydettiin %d moduulin versiomuutosta"
         }
     }
 }

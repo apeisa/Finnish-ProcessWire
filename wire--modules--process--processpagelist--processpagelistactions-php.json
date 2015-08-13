@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListActions.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistactions-php",
+    "translations": {
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Julkaistu"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Ei julkaistu"
+        },
+        "49db9a5bceddadc8512acb4b336c7464": {
+            "text": "Piilotettu"
+        },
+        "02ac38291d7be8fb1f41d85c0a428d11": {
+            "text": "Ei piilotettu"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Lukittu"
+        },
+        "c76fd517e45cc95709f4ac106efa4a94": {
+            "text": "Ei lukittu"
+        },
+        "e708704f405b4a6ec4d57cb147ea9b91": {
+            "text": "Roskakorissa"
+        },
+        "5de66daea41e791a26f6b495ad1fc3b0": {
+            "text": "Palautettiin kohteeseen: %s (lataa sivu uudelleen n\u00e4hd\u00e4ksesi muutoksen)"
+        },
+        "9e2e4fbd398b11af3aabb1866bbb3e25": {
+            "text": "Ty\u00f6kalut eiv\u00e4t ole k\u00e4yt\u00f6ss\u00e4 demo-tilassa"
+        }
+    }
+}

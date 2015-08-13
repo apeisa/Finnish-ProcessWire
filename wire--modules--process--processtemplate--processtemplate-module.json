@@ -185,9 +185,6 @@
         "0f12f2b440ad104a1ee7cb027aba8b18": {
             "text": "Lis\u00e4\u00e4 sivupohjia"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "1 sivu k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 sivupohjaa."
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "%d sivua k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 sivupohjaa."
         },
@@ -316,9 +313,6 @@
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
             "text": "Voit kirjoittaa yhden tai useamman seuraavista kentist\u00e4:"
-        },
-        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
-            "text": "Voit my\u00f6s kirjoittaa [kuvakkeen nimen](http:\/\/fontawesome.io\/cheatsheet\/), esim. icon-file tai fa-file (molemmat muodot toimivat)."
         },
         "8f0944546d02e3fd7de73e9418494b3b": {
             "text": "Sivupohjan lis\u00e4asetukset"
@@ -674,9 +668,6 @@
         "225237dc381e612f4bbf08dd75efdb71": {
             "text": "Uudelleenohjaa toiseen osoitteeseen"
         },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Kirjoita URL johon haluat uudelleenohjata jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei ole vaadittuja oikeuksia"
-        },
         "b12715241d6f9d36629e189651930f08": {
             "text": "T\u00e4m\u00e4 kentt\u00e4 huomioidaan vain jos valitset \"Uudelleenohjaa toiseen osoitteeseen\"."
         },
@@ -832,6 +823,78 @@
         },
         "6540057c786960e596930c3041771293": {
             "text": "Lis\u00e4t\u00e4ksesi uusia sis\u00e4lt\u00f6tyyppej\u00e4, katso kohta contentTypes \/wire\/config.php -tiedostosta ja lis\u00e4\u00e4 uudet sis\u00e4lt\u00f6tyypit tiedostoon \/site\/config.php."
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Kumpi tahansa \/ ei merkityst\u00e4"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Sivupohjan k\u00e4ytt\u00f6"
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "V\u00e4limuistin tila"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "K\u00e4yt\u00f6ss\u00e4 (sivupohjan v\u00e4limuistitus)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "K\u00e4yt\u00f6ss\u00e4 (ProCache, asetukset m\u00e4\u00e4ritetty t\u00e4ss\u00e4)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "ProCache v\u00e4limuistittaa t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut, mutta asetukset ovat m\u00e4\u00e4ritetty ProCachen asetuksissa. Voit m\u00e4\u00e4ritt\u00e4\u00e4 ProCachen asetukset vain t\u00e4m\u00e4n sivupohjan osalta."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Poistaaksesi v\u00e4limuistin k\u00e4yt\u00f6st\u00e4 silloin kun mik\u00e4 tahansa muuttujista on m\u00e4\u00e4ritetty, kirjoita t\u00e4htimerkki: * (suositellaan)"
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Voit vapaaehtoisesti m\u00e4\u00e4ritt\u00e4\u00e4 \"Nimi\"-kent\u00e4n nimikkeen."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Voit my\u00f6s m\u00e4\u00e4ritt\u00e4\u00e4 oman muotoilun, joka voi sis\u00e4lt\u00e4\u00e4 mit\u00e4 tahansa merkkej\u00e4. T\u00e4ll\u00f6in ymp\u00e4r\u00f6i kent\u00e4t aaltosulkeilla, esim. {name}, {kategoriat.title}, etc."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Tulostaaksesi jonkin kent\u00e4n arvon sis\u00e4lt\u00e4m\u00e4n ominaisuuden, ymp\u00e4r\u00f6i kent\u00e4n nimi aaltosulkeilla ja kirjoita {kentan_nimi.ominaisuus}, esim {kategoriat.title}."
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Vain yksi sivu"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "useampaa ei sallita"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "%s -merkinn\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat tulee m\u00e4\u00e4ritt\u00e4\u00e4 sallimaan t\u00e4m\u00e4 sivupohja yl\u00e4sivuksi. Voit klikata valittua sivupohjaa listalta ja m\u00e4\u00e4ritt\u00e4\u00e4 asetukset."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "%s -merkinn\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat ovat m\u00e4\u00e4ritetty sallimaan t\u00e4m\u00e4 sivupohja yl\u00e4sivuksi."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "%s -merkinn\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat tulee m\u00e4\u00e4ritt\u00e4\u00e4 sallimaan t\u00e4m\u00e4 sivupohja alasivuksi. Voit klikata valittua sivupohjaa ja m\u00e4\u00e4ritt\u00e4\u00e4 asetukset."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "%s -merkinn\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat ovat m\u00e4\u00e4ritetty sallimaan t\u00e4m\u00e4 sivupohja alasivuksi."
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Kirjoita URL tai sivun ID, johon haluat uudelleenohjata jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei ole k\u00e4ytt\u00f6oikeuksia"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Sivun \"Nimi\"-ominaisuuden nimike"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d sivu"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d sivua"
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Tuleeko sivunumeron sis\u00e4lt\u00e4v\u00e4t URL:t p\u00e4\u00e4tty\u00e4 kauttaviivaan?"
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Tuleeko URL-segmentin sis\u00e4lt\u00e4v\u00e4t URL:t p\u00e4\u00e4tty\u00e4 kauttaviivaan?"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "%d sivu k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 sivupohjaa"
         }
     }
 }
