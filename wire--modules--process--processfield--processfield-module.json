@@ -122,9 +122,6 @@
         "cb4e4304ce3fbf227cdae7fecc193fbf": {
             "text": "H\u00e4lytys"
         },
-        "ad4e206408c1c59bfb8a057ba7857446": {
-            "text": "Konteksti"
-        },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Poista kentt\u00e4"
         },
@@ -133,9 +130,6 @@
         },
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "T\u00e4t\u00e4 kentt\u00e4\u00e4 ei voida poistaa, koska se on k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4 tai useammassa sivupohjassa."
-        },
-        "e7ec3883e42efde03a4932115fb807eb": {
-            "text": "Asetukset sivupohjalle: %s"
         },
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Kent\u00e4n perusasetukset"
@@ -418,6 +412,144 @@
         },
         "65016ddfb236155b595fb479c695866b": {
             "text": "Kent\u00e4n nimi ei voi alkaa alaviivalla tai numerolla"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "kun k\u00e4yt\u00f6ss\u00e4 on sivupohja: %s"
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "Yliaja asetuksia sivupohjassa"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Yliajot"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "Seuraavat t\u00e4m\u00e4n kent\u00e4n asetukset yliajetaan n\u00e4iss\u00e4 sivupohjissa. Rastita ruutu jonkin sivupohjan kohdalta, jos haluat poistaa yliajon ja palauttaa alkuper\u00e4isen arvon."
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Asetusten yliajot sivupohjassa: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Asetusten yliajot sivupohjissa"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Muokataksesi yliajoa tai yliajaaksesi muita asetuksia, klikkaa sivupohjaa ja klikkaa kent\u00e4n nime\u00e4 kentt\u00e4listalla."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Haluatko m\u00e4\u00e4ritt\u00e4\u00e4 k\u00e4ytt\u00f6oikeudet t\u00e4lle kent\u00e4lle?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, voit m\u00e4\u00e4ritt\u00e4\u00e4 kent\u00e4lle katselu- ja muokkausoikeudet."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Mitk\u00e4 roolit voivat n\u00e4hd\u00e4 kent\u00e4n ja\/tai muokata sit\u00e4?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "K\u00e4ytt\u00e4j\u00e4lle tulee olla m\u00e4\u00e4ritetty katselu- tai muokkausoikeus kent\u00e4n sis\u00e4lt\u00e4v\u00e4lle sivulle, jotta n\u00e4m\u00e4 oikeudet otetaan k\u00e4ytt\u00f6\u00f6n."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Jos yht\u00e4k\u00e4\u00e4n ruutua ei ole rastitettu, vain superuser voi katsella\/muokata kent\u00e4n sis\u00e4lt\u00f6\u00e4."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(kuka tahansa)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "K\u00e4ytt\u00f6oikeuksien lis\u00e4asetukset"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "N\u00e4yt\u00e4 kentt\u00e4 muokkauslomakkeella, jos se on asetettu n\u00e4kyv\u00e4ksi mutta ei muokattavaksi (k\u00e4ytt\u00e4j\u00e4 n\u00e4kee kent\u00e4n, mutta ei voi muokata arvoa)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Tee kentt\u00e4 k\u00e4ytett\u00e4v\u00e4ksi API:n kautta, vaikka sit\u00e4 ei ole asetettu n\u00e4kyv\u00e4ksi (katso ohje alta)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Jos kentt\u00e4 ei ole asetettu n\u00e4kyv\u00e4ksi (sivustolla, tekstin muotoilut k\u00e4yt\u00f6ss\u00e4), $page->%s tulostaa tyhj\u00e4n arvon."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Valitsemalla t\u00e4m\u00e4n voit ohittaa t\u00e4m\u00e4n k\u00e4yt\u00e4nn\u00f6n. T\u00e4ll\u00f6in arvo on aina noudettavissa API:n kautta, mutta k\u00e4ytt\u00f6oikeuksia ei tarkisteta."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Voit tarkistaa kent\u00e4n katseluoikeuden API:n kautta seuraavasti:"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Kent\u00e4n nimi ei voi olla sama kuin k\u00e4yt\u00f6ss\u00e4 olevan kielen nimi"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Poistettiin yliajo kontekstissa"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "K\u00e4yt\u00f6ss\u00e4"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Kaikki"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[tyhj\u00e4]"
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Kent\u00e4n esitys\/n\u00e4kyvyys"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Roolit jotka voivat n\u00e4hd\u00e4 t\u00e4m\u00e4n kent\u00e4n"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Roolit jotka voivat muokata t\u00e4t\u00e4 kentt\u00e4\u00e4"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Ota k\u00e4ytt\u00f6\u00f6n k\u00e4ytt\u00f6oikeuksien hallinta"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Poista k\u00e4ytt\u00f6oikeuksien hallinta k\u00e4yt\u00f6st\u00e4"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Tee kentt\u00e4 k\u00e4ytett\u00e4v\u00e4ksi API:n kautta, vaikka sit\u00e4 ei ole asetettu n\u00e4kyv\u00e4ksi"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "\u00c4l\u00e4 tee kentt\u00e4\u00e4 k\u00e4ytett\u00e4v\u00e4ksi API:n kautta jos sit\u00e4 ei ole asetettu n\u00e4kyv\u00e4ksi"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "N\u00e4yt\u00e4 kentt\u00e4 lomakkeella, vaikka sit\u00e4 ei voi muokata"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "\u00c4l\u00e4 n\u00e4yt\u00e4 kentt\u00e4\u00e4 lomakkeella jos se ei ole asetettu muokattavaksi"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Sivupohja"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Asetus"
+        },
+        "7f8ceb624f94b152f89f7bfd06a2dff2": {
+            "text": "Alkuper\u00e4inen"
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "Yliajo"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Poista asetus"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "K\u00e4ytt\u00f6oikeudet"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Kyll\u00e4"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Ei"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rooli"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Katselu"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Muokkaus"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "k\u00e4ytt\u00f6oikeudet m\u00e4\u00e4ritetty"
         }
     }
 }

@@ -122,9 +122,6 @@
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Rajaa"
         },
-        "adf1ab3ee834260ba6338ab9c84345ce": {
-            "text": "Tallenna rajaus"
-        },
         "2c968d3065f948e7d3e6086c46fdcb68": {
             "text": "T\u00e4ysi leveys"
         },
@@ -202,6 +199,9 @@
         },
         "1f98842c354dc496970446bce14f4c50": {
             "text": "Lataa kuva palvelimelle"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "K\u00e4yt\u00e4"
         }
     }
 }

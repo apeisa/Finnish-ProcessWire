@@ -22,6 +22,12 @@
         },
         "dce91550511a9cfef6fe1bc4d2e93b1b": {
             "text": "Ei - Tyhj\u00e4 arvo ja 0 eiv\u00e4t tarkoita samaa"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Oletusarvo"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "T\u00e4m\u00e4 arvo asetetaan oletukseksi uutta sivua luodessa. Oletusarvoa ei aseteta aiemmin luoduille sivuille."
         }
     }
 }

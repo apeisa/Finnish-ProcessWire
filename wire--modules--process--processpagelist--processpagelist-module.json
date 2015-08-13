@@ -20,30 +20,6 @@
         "d95deddfb80310ff0d1d63013611777c": {
             "text": "Siirr\u00e4 raahaamalla"
         },
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Muokkaa"
-        },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Katso"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Uusi"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "Siirr\u00e4"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Tyhjenn\u00e4"
-        },
-        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
-            "text": "Roskakori auki: raahaa sivut alapuolelle poistaaksesi ne"
-        },
-        "de306d89ec101aba6fb73c6879710e6c": {
-            "text": "404 Sivua ei l\u00f6ytynyt"
-        },
-        "e3afed0047b08059d0fada10f400c1e5": {
-            "text": "Yll\u00e4pito"
-        },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Roskakori"
         },
@@ -62,14 +38,29 @@
         "157fa6b945671169a76bc677977f368d": {
             "text": "N\u00e4ytett\u00e4v\u00e4n kent\u00e4n nimi"
         },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Sivulistassa jokainen sivu tunnistetaan omalla nimell\u00e4\u00e4n, joka on tyypillisesti otsikko. Voit m\u00e4\u00e4ritt\u00e4\u00e4 mit\u00e4 kentt\u00e4\u00e4 listauksessa k\u00e4ytet\u00e4\u00e4n. Valitaksesi useita kentti\u00e4, erota kenttien nimet v\u00e4lily\u00f6nnill\u00e4. Jos kentt\u00e4 sis\u00e4lt\u00e4\u00e4 viittauksen objektiin (kuten toiseen sivuun), m\u00e4\u00e4rit\u00e4 lis\u00e4ksi ominaisuus pisteell\u00e4, esim. toinensivu.title. Huomaa, ett\u00e4 jos m\u00e4\u00e4ritelty kentt\u00e4 on tyhj\u00e4, ProcessWire k\u00e4ytt\u00e4\u00e4 \"name\"-kentt\u00e4\u00e4."
-        },
         "5ca370c3b4f85b5c8308b75ea46984cb": {
             "text": "Yhteysvirhe. Yrit\u00e4 my\u00f6hemmin uudelleen."
         },
         "024dae797f407f0f2bd724f6301999a1": {
             "text": "Tuntematon virhe. Yrit\u00e4 my\u00f6hemmin uudelleen."
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Sivulistauksessa jokaisen sivun kohdalla n\u00e4ytet\u00e4\u00e4n nimike, kuten sivun otsikkokent\u00e4n sis\u00e4lt\u00f6. Voit m\u00e4\u00e4ritt\u00e4\u00e4 kent\u00e4n jonka sis\u00e4lt\u00f6 n\u00e4ytet\u00e4\u00e4n nimikkeen\u00e4. Erota useat kent\u00e4t toisistaan v\u00e4lily\u00f6nnill\u00e4. Voit my\u00f6s muotoilla oman merkkijonon nimikkeelle. Ymp\u00e4r\u00f6i t\u00e4ll\u00f6in kent\u00e4t {aaltosulkeilla}. Jos kentt\u00e4 palauttaa objektin (kuten toisen sivun), m\u00e4\u00e4rit\u00e4 tulostettava ominaisuus pisteell\u00e4, esim. {toinensivu.title}. Jos t\u00e4h\u00e4n m\u00e4\u00e4ritett\u00e4v\u00e4 muotoilu palauttaa tyhj\u00e4n arvon, ProcessWire tulostaa nimikkeeksi sivun \"nimi\"-kent\u00e4n."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "N\u00e4yt\u00e4 ty\u00f6kalut kun hiiren osoitin on sivun kohdalla?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Oletuksena sivuun liittyv\u00e4t ty\u00f6kalut n\u00e4ytet\u00e4\u00e4n klikattaessa (oletusteemassa). Valitse t\u00e4m\u00e4 jos haluat ty\u00f6kalujen n\u00e4kyv\u00e4n kun hiiren osoitin on sivun kohdalla."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4h\u00e4n liittyvi\u00e4 lis\u00e4asetuksia kopioimalla $config->pageList -asetukset tiedostosta \/wire\/config.php tiedostoon \/site\/config.php."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Oletusarvo: %d"
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Jos t\u00e4m\u00e4 asetus on j\u00e4tetty oletusarvoksi, sen voi m\u00e4\u00e4ritt\u00e4\u00e4 my\u00f6s $config->pageList -taulukossa."
         }
     }
 }
