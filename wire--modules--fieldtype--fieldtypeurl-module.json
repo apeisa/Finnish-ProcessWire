@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
     "translations": {
         "b38bb5008cd8427aae4e9a8612183a6f": {
-            "text": "\"HTML Entity Encoder\" -tekstimuotoilua suositellaan k\u00e4ytt\u00f6\u00f6n URL-kentille."
+            "text": "\"HTML-entiteettikoodain\" -tekstimuotoilua suositellaan k\u00e4ytett\u00e4v\u00e4ksi URL-kentille."
         },
         "ab86e8efb5aa46bdab329fa44f7125fc": {
             "text": "Salli suhteelliset\/paikalliset URL:t ilman \"http:\/\/\"-etuliitett\u00e4?"
@@ -25,6 +25,9 @@
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "URL-osoite"
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Jos t\u00e4m\u00e4n kent\u00e4n sis\u00e4lt\u00e4m\u00e4\u00e4 URL-osoitetta on tarkoitus k\u00e4ytt\u00e4\u00e4 tulosteissa, on suositeltavaa ottaa k\u00e4ytt\u00f6\u00f6n \"HTML-entiteettikoodain\"-muotoilu \"Asetukset\"-v\u00e4lilehdell\u00e4."
         }
     }
 }
