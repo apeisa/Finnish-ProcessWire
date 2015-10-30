@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Kirjanmerkit"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Kirjanmerkki"
+        },
+        "25f8473f61fb614f277d48e8bf5be8d2": {
+            "text": "Valitsin"
+        },
+        "cd765bc6c6872048db5bb4cb9181392f": {
+            "text": "Sarakkeet"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "K\u00e4ytt\u00f6oikeus"
+        },
+        "16f46652aa3bae21e3e051daba507193": {
+            "text": "Toiminto"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "kaikki"
+        },
+        "fbfa318e948c32434209e9dec12f5342": {
+            "text": "Muokkaa"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Otsikko"
+        },
+        "369edfa695c186fc693c7cdfea26b6d2": {
+            "text": "Huomautus yll\u00e4pit\u00e4jille: muut k\u00e4ytt\u00e4j\u00e4t voivat k\u00e4ytt\u00e4\u00e4 kirjanmerkkej\u00e4, mutta eiv\u00e4t voi lis\u00e4t\u00e4 tai muokata niit\u00e4."
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Muokkaa kirjanmerkki\u00e4"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "Lis\u00e4\u00e4 uusi kirjanmerkki"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Luo uuden kirjanmerkin, joka vastaa k\u00e4yt\u00f6ss\u00e4 olevia suodattimia, sarakkeita ja j\u00e4rjestely\u00e4."
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Mitk\u00e4 roolit voivat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 kirjanmerkki\u00e4? Jos rooleja ei valita, kaikki roolit joilla on k\u00e4ytt\u00f6oikeus Lister-toimintoon, voivat k\u00e4ytt\u00e4\u00e4 kirjanmerkki\u00e4."
+        },
+        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
+            "text": "Kirjanmerkkien j\u00e4rjestys"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Poista kirjanmerkki?"
+        },
+        "33d64e5e020fcfcd6bf5b5edc3634211": {
+            "text": "Poistettiin kirjanmerkki: %s"
+        },
+        "d04ee192f5a72f20e89abe7acb7225f3": {
+            "text": "Tallennettiin kirjanmerkki: %s"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Mit\u00e4 sivuja kirjanmerkin tulee n\u00e4ytt\u00e4\u00e4?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Sarakkeet"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "K\u00e4ytt\u00f6oikeudet"
+        },
+        "5979876e287f07dc59597ec2139675c2": {
+            "text": "Poista"
+        }
+    }
+}
