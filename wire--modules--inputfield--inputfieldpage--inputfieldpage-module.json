@@ -59,9 +59,6 @@
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "return $page->parent->parent->children(\"name=sijainnit\")->first()->children();"
         },
-        "bb990f9776c28444dad4fa48fb2c946c": {
-            "text": "Nimikekentt\u00e4"
-        },
         "e5c1791ec6a73eed5d8a7002e2799470": {
             "text": "Valitse kentt\u00e4 jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen nimikkeen\u00e4."
         },
@@ -109,6 +106,27 @@
         },
         "3d9e8a4318894ce247ba920c7961d5da": {
             "text": "Vaikka toiminto yliajaa yll\u00e4 olevat m\u00e4\u00e4ritykset yl\u00e4sivulle ja sivupohjalle, niiden valintoja k\u00e4ytet\u00e4\u00e4n kent\u00e4n sy\u00f6tteen tarkitukseen (poista valinnat jos et halua kent\u00e4n k\u00e4ytt\u00e4ytyv\u00e4n n\u00e4in)."
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Nimike"
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Valitse \"Oma muotoilu\", jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 useita kentti\u00e4, tai sellaisia kentti\u00e4 joita ei ole yll\u00e4 olevalla listalla."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Oma muotoilu (useita kentti\u00e4)"
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Oma muotoilu sivujen nimikkeelle"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "M\u00e4\u00e4rit\u00e4 yksi tai useampi kent\u00e4n nimi ja ymp\u00e4r\u00f6i kent\u00e4n nimet {aaltosulkeilla}. Voit m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4h\u00e4n my\u00f6s mit\u00e4 tahansa muita merkkej\u00e4."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Esimerkki: {parent.title} - {title}, {date}"
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Osa kent\u00e4n tyypeist\u00e4 sis\u00e4lt\u00e4v\u00e4t lis\u00e4asetuksia. Tallennuksen j\u00e4lkeen lis\u00e4asetukset tuodaan n\u00e4kyville t\u00e4m\u00e4n osion alapuolelle."
         }
     }
 }

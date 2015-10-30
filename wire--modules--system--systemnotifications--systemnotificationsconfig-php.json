@@ -15,16 +15,16 @@
             "text": "Oikealla"
         },
         "64930416d9c5663de5d4ef880d8e0b0e": {
-            "text": "Notifikaatioiden tila"
+            "text": "Ilmoitusten tila"
         },
         "2e9cdb9adc7f7c13f750d7fe7ab46979": {
-            "text": "Jos t\u00e4m\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4, notifikaatioita ei tulosteta."
+            "text": "Jos t\u00e4m\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4, ilmoituksia ei tulosteta."
         },
         "51bcb0deba18f3c17526ac9589275a1b": {
-            "text": "Notifikaatioiden j\u00e4rjestys"
+            "text": "Ilmoitusten j\u00e4rjestys"
         },
         "452fe939bf3b82240e39d4e32402f191": {
-            "text": "Valitse notifikaatioiden tulostusj\u00e4rjestys"
+            "text": "Valitse ilmoitusten tulostusj\u00e4rjestys"
         },
         "dbc0773df87763dba658c0718cb23cbd": {
             "text": "Uusin ensin"
@@ -33,7 +33,7 @@
             "text": "Vanhin ensin"
         },
         "2871a976bc7a1ed674bc578c34af81ee": {
-            "text": "K\u00e4yt\u00f6ss\u00e4 olevat notifikaatioiden automaattiset kiinnitykset"
+            "text": "K\u00e4yt\u00f6ss\u00e4 olevat ilmoitusten automaattiset kiinnitykset"
         },
         "b106396b3992fc580dd88f36d98c32b5": {
             "text": "Jos jokin seuraavista tapahtumista toteutuu, yll\u00e4pit\u00e4j\u00e4lle l\u00e4hetet\u00e4\u00e4n tiedote."
@@ -48,19 +48,19 @@
             "text": "K\u00e4ytt\u00e4j\u00e4n kirjautuminen ulos"
         },
         "d9b71f69d8afdf5b522a5529ec7434f5": {
-            "text": "K\u00e4ytt\u00e4j\u00e4, joka vastaanottaa j\u00e4rjestelm\u00e4notifikaatioita"
+            "text": "K\u00e4ytt\u00e4j\u00e4 joka vastaanottaa j\u00e4rjestelm\u00e4ilmoituksia"
         },
         "2495a34a1379d1325ca518e3c0b2b098": {
             "text": "P\u00e4ivitystiheys"
         },
         "d4f7e0a594dd8d1eb92264b3d43c507d": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuinka usein uudet notifikaatiot tarkistetaan (millisekunteina). Esim. 5000 = 5 sekuntia."
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 kuinka usein uudet ilmoitukset tarkistetaan (millisekunteina). Esim. 5000 = 5 sekuntia."
         },
         "534fd46732986cba0efeda8701592427": {
             "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muotoilu"
         },
         "414f2eb480e8f38b6f93f41ca28279fb": {
-            "text": "M\u00e4\u00e4rit\u00e4 notifikaatioiden p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muotoilu. K\u00e4yt\u00e4 date()- tai strftime()-muotoilua. Kirjoita \"relative\" tulostaaksesi suhteellisen p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/ajan, tai kirjoita \"rel\" tulostaaksesi lyhennetyn p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan."
+            "text": "M\u00e4\u00e4rit\u00e4 ilmoitusten p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muotoilu. K\u00e4yt\u00e4 date()- tai strftime()-muotoilua. Kirjoita \"relative\" tulostaaksesi suhteellisen p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/ajan, tai kirjoita \"rel\" tulostaaksesi lyhennetyn p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan."
         },
         "64a87d656e89eca4f73f4ecda74480f5": {
             "text": "Kuvake viesteille"
@@ -84,22 +84,22 @@
             "text": "M\u00e4\u00e4rit\u00e4 esitt\u00e4misaika virheille (millisekunteina)"
         },
         "cc7148e90f03a6539cd11c343d8fdf8a": {
-            "text": "Notifikaatioiden peittoaste (opacity)"
+            "text": "Ilmoitusten peittoaste (opacity)"
         },
         "4f8b65fe69b4b13c2a02bf47648c9a34": {
-            "text": "M\u00e4\u00e4rit\u00e4 peittoaste notifikaatioille (0.1\u20131.0)"
+            "text": "M\u00e4\u00e4rit\u00e4 peittoaste ilmoituksille v\u00e4lilt\u00e4 0.1\u20131.0"
         },
         "333da8687b16a586812b92b6acda8674": {
-            "text": "Notifikaatioiden m\u00e4\u00e4r\u00e4n rajoitus"
+            "text": "Ilmoitusten m\u00e4\u00e4r\u00e4n rajoitus"
         },
         "8a1cf8cf2597193851e727307d3d3b31": {
             "text": "Jos m\u00e4\u00e4r\u00e4 ylittyy, n\u00e4ytet\u00e4\u00e4n tiivistelm\u00e4"
         },
         "a2736075ee5bcaeaad4650b9a1bb7d43": {
-            "text": "Notifikaatioiden animaation nopeus"
+            "text": "Ilmoitusten animaation nopeus"
         },
         "c4f9ba7565ccdd1b1ec3e06265ef4995": {
-            "text": "M\u00e4\u00e4rit\u00e4 nopeus notifikaatioiden animaatioille"
+            "text": "M\u00e4\u00e4rit\u00e4 nopeus ilmoitusten animaatioille"
         },
         "081b98759749efbb07052c62da920324": {
             "text": "Ei animaatiota"
@@ -114,19 +114,19 @@
             "text": "Hidas"
         },
         "4b3f62787ef2a663f5af7c2a25c0c617": {
-            "text": "Notifikaatioiden sijainti"
+            "text": "Ilmoitusten sijainti"
         },
         "22c3a11778dfb998611f45125023b39c": {
-            "text": "M\u00e4\u00e4rit\u00e4 paikka, jossa notifikaatiot esitet\u00e4\u00e4n."
+            "text": "M\u00e4\u00e4rit\u00e4 paikka, jossa ilmoitukset esitet\u00e4\u00e4n."
         },
         "d6e7bc4caa8b68af7f00ff457e4d3344": {
             "text": "Ajonaikaiset\/yksitt\u00e4iset huomautukset"
         },
         "a2e68070d70d39ee23fe1edf9767c11c": {
-            "text": "N\u00e4yt\u00e4 notifikaatioina"
+            "text": "N\u00e4yt\u00e4 ilmoituksina"
         },
         "9650b6be51970b497f28b3f079f7bf79": {
-            "text": "\u00c4l\u00e4 n\u00e4yt\u00e4 notifikaatioina"
+            "text": "\u00c4l\u00e4 n\u00e4yt\u00e4 ilmoituksina"
         },
         "1983cbef846882d5eb60db0f1af3cf4a": {
             "text": "Seuraa sivujen muokkausta?"

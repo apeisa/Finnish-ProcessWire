@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Kirjanmerkit"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Muokkaa kirjanmerkkej\u00e4"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "kaikki"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Kirjanmerkit roolille: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s kirjanmerkkien muokkaus"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Kirjanmerkkej\u00e4 ei ole m\u00e4\u00e4ritetty"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "kaikki roolit"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Huomaa, ett\u00e4 vain j\u00e4rjestelm\u00e4n yll\u00e4pit\u00e4j\u00e4t voivat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 editoria."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Lis\u00e4\u00e4 kirjanmerkki"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Valitse alla oleva \"Lis\u00e4\u00e4 kirjanmerkki\"-toiminto lis\u00e4ksesi sivuja kirjanmerkeiksi. Jos haluat kirjanmerkin n\u00e4kyv\u00e4n vain jollekin tietylle roolille, valitse rooli yl\u00e4puolelta."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Kirjanmerkit tallennettiin"
+        }
+    }
+}

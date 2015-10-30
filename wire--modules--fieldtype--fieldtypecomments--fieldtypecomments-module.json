@@ -193,6 +193,33 @@
         },
         "a27c92ebebda4931039636893b5c716d": {
             "text": "Kentt\u00e4 johon tallennetaan k\u00e4ytt\u00e4jien l\u00e4hett\u00e4m\u00e4t kommentit"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "K\u00e4yt\u00e4 t\u00e4htiarviointia?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "T\u00e4htiarviointi sallii kommentoijan arvostella kommentoitava kohde 1\u20135 t\u00e4hdell\u00e4."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Voit vaihtaa t\u00e4htimerkin oletustulostusta seuraavasti (HTML on sallittu):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Kyll\u00e4 (t\u00e4htiarviointi on vapaaehtoinen)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Kyll\u00e4 (t\u00e4htiarviointi on vaadittu)"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Tekstin muotoilut"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Voit valita yhden tai useamman automaattisen muotoilun kommenttien tulosteelle ja valita niiden k\u00e4ytt\u00f6j\u00e4rjestyksen raahaamalla. Jos yht\u00e4k\u00e4\u00e4n tekstin muotoilua ei valita, kaikki tekstin entiteetit koodataan, rivivaihdot muunnetaan <br> -tageiksi ja teksti ymp\u00e4r\u00f6id\u00e4\u00e4n <p> -tagilla."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Varoitus: valitse vain sellaiset tekstin muotoilut, jotka ovat turvallisia anonyymille sy\u00f6tteelle, kuten Entity Encoder (core) tai Textile Restricted (3. osapuolen). Jos et ole varma, \u00e4l\u00e4 valitse yht\u00e4k\u00e4\u00e4n muotoilua, koska valinta saattaa aiheuttaa tietoturvaongelman."
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
         }
     }
 }
