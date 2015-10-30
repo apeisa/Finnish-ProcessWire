@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Pudotusvalikossa n\u00e4ytett\u00e4vien k\u00e4ytt\u00e4jien m\u00e4\u00e4r\u00e4"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Jos m\u00e4\u00e4ritett\u00e4v\u00e4 arvo ylittyy, n\u00e4ytet\u00e4\u00e4n k\u00e4ytt\u00e4jien sijaan roolit ja niiden k\u00e4ytt\u00e4j\u00e4m\u00e4\u00e4r\u00e4t."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "M\u00e4\u00e4ri\u00e4 arvo v\u00e4lilt\u00e4 1\u2013100 (oletus: 25)"
+        }
+    }
+}
