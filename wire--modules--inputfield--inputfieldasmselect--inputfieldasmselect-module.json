@@ -5,8 +5,17 @@
         "74c0ecf830d7e594ea8491c932418590": {
             "text": "Useita valintoja, laajennus \"select multiple\"-kentt\u00e4\u00e4n"
         },
-        "0c4cf3dd938578951cefc0c5503f4939": {
-            "text": "asmSelect"
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Luo muokkauslinkit valittuihin sivuihin?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, valitun sivun nimike linkitt\u00e4\u00e4 sivun muokkaukseen."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ei"
+        },
+        "16de616a3ba1c1801d425dacdd28aff6": {
+            "text": "Kyll\u00e4 (ponnahdusikkunaan)"
         }
     }
 }
