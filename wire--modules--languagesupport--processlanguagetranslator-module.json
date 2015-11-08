@@ -1,0 +1,144 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguageTranslator.module",
+    "textdomain": "wire--modules--languagesupport--processlanguagetranslator-module",
+    "translations": {
+        "2df236e737fce3ea9b2aafd92aefabf8": {
+            "text": "Tuntematon\/ei-kelvollinen kieli"
+        },
+        "c739fa5cd3140c5f6d9c874c9f7f0c06": {
+            "text": "Sinulla ei ole oikeuksia muokata t\u00e4t\u00e4 kielt\u00e4"
+        },
+        "c5bd6d3cb3eba13bfb553d4f6cd34d84": {
+            "text": "Seuraavat k\u00e4yt\u00f6st\u00e4 poistetut k\u00e4\u00e4nn\u00f6kset l\u00f6ydettiin. T\u00e4m\u00e4 johtuu siit\u00e4, ett\u00e4 alkuper\u00e4inen teksti on joko muuttunut tai poistettu. On suositeltavaa poistaa k\u00e4yt\u00f6st\u00e4 poistuneet k\u00e4\u00e4nn\u00f6kset, ellei niit\u00e4 tarvita uuden k\u00e4\u00e4nn\u00f6ksen pohjaksi."
+        },
+        "1b296d99ce0be35a6e13ff0465794ea0": {
+            "text": "[tyhj\u00e4]"
+        },
+        "786a3ffbf64dbd32b887357bfb981ab3": {
+            "text": "Poista?"
+        },
+        "cea7ade6fb9d07ee7e46b6c003d3ea0a": {
+            "text": "Textdomainin lataaminen ei onnistunut"
+        },
+        "96847fc3fd81c6824a46038486c7a966": {
+            "text": "Tiedostoa ei l\u00f6ydy:"
+        },
+        "620c3d12b2ebf6fba6fc8ca8bd7d5f7e": {
+            "text": "(k\u00e4\u00e4nn\u00f6stiedostoa ei tarvita? textdomain: %s)"
+        },
+        "048378af50897cd55a4fba47686151da": {
+            "text": "K\u00e4\u00e4nn\u00e4 %1$s kielelle %2$s"
+        },
+        "1cadf174f70d643ae126661933c29496": {
+            "text": "T\u00e4lle kielelle ei ole tiedostoja kent\u00e4ss\u00e4: %s"
+        },
+        "cf9b6034d657b9e496cf2507c0ed54b2": {
+            "text": "Valitse tiedosto(t)"
+        },
+        "7f4f03f8ce0547dc27519ec6aaba5274": {
+            "text": "K\u00e4\u00e4nnett\u00e4v\u00e4t tiedostot kohteessa: %s"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Esimerkki:"
+        },
+        "9a7e6c43d5ae842c6aff819f4853ef76": {
+            "text": "P\u00e4ivit\u00e4 tiedostolista"
+        },
+        "b259a9c95331e8ade9dca22c5fb2062c": {
+            "text": "Lis\u00e4ttiin %s"
+        },
+        "d0a467da1b045cff8ba333833df858bd": {
+            "text": "L\u00f6ydettiin %s"
+        },
+        "56ebdb7fbca39f9ec77bf8e994b127ae": {
+            "text": "Tiedosto on jo olemassa tiedostoj\u00e4rjestelm\u00e4ss\u00e4"
+        },
+        "4ff5d8112871bb3d23262bb8611f507b": {
+            "text": "Tiedostossa ei ole k\u00e4\u00e4nnett\u00e4vi\u00e4 lauseita"
+        },
+        "e8edb193e1cb171a17efe2765d72af71": {
+            "text": "Tiedostoa ei l\u00f6ydy"
+        },
+        "cc3280a236d930bb719b4bbd4e60618b": {
+            "text": "Kirjoita k\u00e4\u00e4nn\u00f6kset allaoleviin tekstikenttiin."
+        },
+        "2373d8c961aba6c7a710d9e28796fc94": {
+            "text": "Kent\u00e4n yl\u00e4puolella on alkuper\u00e4inen teksti, joka tulisi k\u00e4\u00e4nt\u00e4\u00e4 kielelle %s."
+        },
+        "97b4a79a9a82063ffc66201622b97961": {
+            "text": "Luodaksesi uusia k\u00e4\u00e4nn\u00f6stiedostoja kielelle %s, valitse tiedosto (tai useita tiedostoja) ja klikkaa L\u00e4het\u00e4."
+        },
+        "2201c8e27207f315872b8dade43506d6": {
+            "text": "Jos j\u00e4t\u00e4t kent\u00e4n tyhj\u00e4ksi, tulosteessa k\u00e4ytet\u00e4\u00e4n alkuper\u00e4ist\u00e4 k\u00e4\u00e4nt\u00e4m\u00e4t\u00f6nt\u00e4 teksti\u00e4."
+        },
+        "28879280857d9ccc118fbd72fc972ad0": {
+            "text": "Jos k\u00e4\u00e4nn\u00f6s on sama kuin alkuper\u00e4inen teksti, voit kirjoittaa k\u00e4\u00e4nn\u00f6kseksi \"=\" (yht\u00e4l\u00e4isyysmerkki), jolloin teksti merkit\u00e4\u00e4n k\u00e4\u00e4nnetyksi."
+        },
+        "936fa205069d0afdfda6096184e8479d": {
+            "text": "N\u00e4yt\u00e4 vain tekstit, joita ei ole k\u00e4\u00e4nnetty"
+        },
+        "6f90a6f3d4f23a403a3ce6988c1ee05b": {
+            "text": "Tallennettiin %s"
+        },
+        "b817c7fc9a774b9a22172e59c228a9cb": {
+            "text": "Kohdetta %s ei ole, tai se ei ole kansio"
+        },
+        "9a00d24dd949ab47dbf3db516583c88f": {
+            "text": "="
+        },
+        "4e6dc4bdaf134f7fad78b433b1939a65": {
+            "text": "K\u00e4\u00e4nn\u00f6sty\u00f6kalu"
+        },
+        "1fee8873d9207b652a71dd813056be96": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 toiminnot ProcessWiren ytimen ja moduulien tekstien k\u00e4\u00e4nt\u00e4miselle."
+        },
+        "8c34ba0c56e244ea1276950be05e92a9": {
+            "text": "tiedosto"
+        },
+        "d701be1df4973dc762ea09d103d876e4": {
+            "text": "lauseet"
+        },
+        "2de802188057514240806136db489f15": {
+            "text": "viimeksi muokattu"
+        },
+        "efa359764bf5df35c0cf83f31bae2b03": {
+            "text": "Valitse tiedosto(t)"
+        },
+        "6cd01f187c7933a6cdd3999fa688c85e": {
+            "text": "K\u00e4\u00e4nn\u00e4 tiedosto"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Tallenna"
+        },
+        "35cce6ee9c7d52816335cd71a8cc8bdd": {
+            "text": "%d k\u00e4yt\u00f6st\u00e4 poistunut k\u00e4\u00e4nn\u00f6s"
+        },
+        "5f26b7cdb0df95ffde976ce9b5aa776c": {
+            "text": "%d k\u00e4yt\u00f6st\u00e4 poistunutta k\u00e4\u00e4nn\u00f6st\u00e4"
+        },
+        "1a8046c237a8b5598bdbe32fab01c78a": {
+            "text": "Muutettiin %d k\u00e4\u00e4nn\u00f6s"
+        },
+        "d551aba9d90e56853a0f2b1c19e57ad1": {
+            "text": "Muutettiin %d k\u00e4\u00e4nn\u00f6st\u00e4"
+        },
+        "958a564da0596b34819d36e7a4c27b0a": {
+            "text": "Poistettiin %d k\u00e4yt\u00f6st\u00e4 poistunut k\u00e4\u00e4nn\u00f6s"
+        },
+        "cdaca5c503d1eb7163af5ec57f2e5bc9": {
+            "text": "Poistettiin %d k\u00e4yt\u00f6st\u00e4 poistunutta k\u00e4\u00e4nn\u00f6st\u00e4"
+        },
+        "f6da161610e69fd47285a4fb73023161": {
+            "text": "Olemassa olevat k\u00e4\u00e4nn\u00f6stiedostot"
+        },
+        "9310f3093e8580c52cbbadc2e4298018": {
+            "text": "K\u00e4\u00e4nn\u00f6stiedostoja ei ole"
+        },
+        "2c1b934717b59076f55e53b7a097efbb": {
+            "text": "Kirjoita k\u00e4\u00e4nnett\u00e4v\u00e4n tiedoston nimi"
+        },
+        "ad5156526794edff80df65b5362dd4c1": {
+            "text": "Kirjoita polku ja tiedostonimi, jolle luodaan k\u00e4\u00e4nn\u00f6stiedosto. Polku on suhteellinen asennuksen juurikansioon."
+        }
+    }
+}
