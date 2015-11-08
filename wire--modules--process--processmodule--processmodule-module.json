@@ -59,9 +59,6 @@
         "19d1a8e075651f072ba0771e6cbc831b": {
             "text": "Selaa moduulihakemistoa osoitteessa %s"
         },
-        "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Poistaaksesi moduulin, muokkaa sit\u00e4, rastita \"Poista asennus\"-ruutu ja tallenna. Kun asennus on poistettu moduulin tiedosto(t) voidaan poistaa hakemistosta \/site\/modules\/. Jos moduuli n\u00e4kyy poistamisen j\u00e4lkeenkin listalla, p\u00e4ivit\u00e4 lista klikkaamalla \"Tarkista uudet moduulit\"."
-        },
         "401aeb1b99895a172d78edfa183114e7": {
             "text": "\/wire\/modules\/ - ProcessWiren ytimen moduulit"
         },
@@ -370,6 +367,15 @@
         },
         "0e7a5c8e978678d4124240dafccdc636": {
             "text": "K\u00e4yt\u00e4 toimintoa varoen. T\u00e4m\u00e4n valitseminen voi est\u00e4\u00e4 moduulin toiminnan. K\u00e4yt\u00e4 vain v\u00e4liaikaiseen testaamiseen."
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Poistaaksesi moduulin, muokkaa sit\u00e4, rastita \"Poista asennus\" ja tallenna. Kun asennus on poistettu, moduulin tiedosto(t) voidaan poistaa hakemistosta \/site\/modules\/. Jos moduuli n\u00e4kyy poistamisen j\u00e4lkeenkin listalla, p\u00e4ivit\u00e4 lista klikkaamalla \"Tarkista uudet moduulit\"."
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "="
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "="
         }
     }
 }

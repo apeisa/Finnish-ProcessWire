@@ -575,12 +575,6 @@
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Kentt\u00e4\u00e4n \"Sallitut sivupohjat yl\u00e4sivuille\" m\u00e4\u00e4ritetyn sivupohjan tulee sallia t\u00e4m\u00e4 sivupohja alasivukseen."
         },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. J\u00e4rjestelm\u00e4ss\u00e4 saa olla vain yksi sivu, joka k\u00e4ytt\u00e4\u00e4 kent\u00e4ss\u00e4 \"Sallitut sivupohjat yl\u00e4sivuille\" m\u00e4\u00e4ritetty\u00e4 sivupohjaa."
-        },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. Hallintapaneelin teeman tulee tukea t\u00e4t\u00e4 ominaisuutta."
-        },
         "67c0041f81951ac9b6b46dd2311fb9aa": {
             "text": "Alasivujen j\u00e4rjestely"
         },
@@ -895,6 +889,9 @@
         },
         "860024d803b29185e2cb90399cc73599": {
             "text": "%d sivu k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 sivupohjaa"
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
         }
     }
 }

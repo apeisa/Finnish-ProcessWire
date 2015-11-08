@@ -37,6 +37,24 @@
         },
         "c87aacf5673fada1108c9f809d354311": {
             "text": "Kirjaudu ulos"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "K\u00e4ytt\u00e4\u00e4ksesi t\u00e4t\u00e4 ominaisuutta, lis\u00e4\u00e4 kuvakentt\u00e4 \"User\"-sivupohjaan. Jos sivupohja ei sis\u00e4ll\u00e4 kuvakentt\u00e4\u00e4, k\u00e4ytt\u00e4j\u00e4n kuvana n\u00e4ytet\u00e4\u00e4n oletuskuvake. Lis\u00e4\u00e4ksesi kuvakent\u00e4n sivupohjaan, valitse Asetukset > Sivupohjat > Suodattimet > N\u00e4yt\u00e4 j\u00e4rjestelm\u00e4sivupohjat, jonka j\u00e4lkeen \"User\"-sivupohja n\u00e4kyy listalla. Jos olet luonut sivupohjan lis\u00e4ksi jonkin toisen k\u00e4ytt\u00e4j\u00e4lle tarkoitetun sivupohjan, lis\u00e4\u00e4 kuvakentt\u00e4 my\u00f6s t\u00e4lle sivupohjalle."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n kohdalla n\u00e4ytett\u00e4v\u00e4t kent\u00e4t"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Kirjoita kenttien nimet (esim. etunimi, sukunimi), jotka n\u00e4ytet\u00e4\u00e4n k\u00e4ytt\u00e4j\u00e4nimen tilalla hallintapaneelissa."
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4h\u00e4n vain tekstikentti\u00e4. Muut kentt\u00e4tyypit ohitetaan."
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Yl\u00e4valikko: Huomautukset"
         }
     }
 }
