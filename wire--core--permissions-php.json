@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Sivun piilotus\/n\u00e4kyville tuominen"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Sivun julkaiseminen\/julkaisun poisto tai julkaistujen sivujen muokkaus"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n itsens\u00e4 luomien sivujen muokkaus"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Julkaistujen sivujen (joihin k\u00e4ytt\u00e4j\u00e4ll\u00e4 on muokkausoikeus) nimen vaihtaminen"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "K\u00e4ytt\u00e4jien hallinnointi (mik\u00e4 tahansa rooli, paitsi superuser)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "K\u00e4ytt\u00e4jien hallinnointi (rooli: %s)"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Muokkaa monikielisi\u00e4 kentti\u00e4: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(vaaditaan jotta sivuja voidaan luoda tai poistaa)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Kielten ja k\u00e4\u00e4nn\u00f6stiedostojen hallinnointi"
+        }
+    }
+}
