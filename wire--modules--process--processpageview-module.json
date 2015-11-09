@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageView.module",
+    "textdomain": "wire--modules--process--processpageview-module",
+    "translations": {
+        "ba53c4481b0a7190fdf6407fd2e636d7": {
+            "text": "Sivun tulostus"
+        },
+        "a479e6c423ecad082c067f87a37c152a": {
+            "text": "Kaikki sivujen tulostukset v\u00e4litet\u00e4\u00e4n t\u00e4m\u00e4n prosessin kautta"
+        }
+    }
+}

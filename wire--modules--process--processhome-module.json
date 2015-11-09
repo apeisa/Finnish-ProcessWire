@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Hallintapaneelin aloitussivu"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Moduuli hallintapaneelin aloitussivulle."
+        }
+    }
+}

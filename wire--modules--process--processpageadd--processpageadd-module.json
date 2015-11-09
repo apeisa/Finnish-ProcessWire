@@ -64,6 +64,21 @@
         },
         "30269022e9d8f51beaabb52e5d0de2b7": {
             "text": "Yl\u00e4sivu"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "\"Lis\u00e4\u00e4 uusi\"-kohteita ei voida m\u00e4\u00e4ritt\u00e4\u00e4, koska yhdellek\u00e4\u00e4n sivupohjalle ei ole m\u00e4\u00e4ritetty tarvittavia yl\u00e4sivu- ja alasivuasetuksia. M\u00e4\u00e4ritt\u00e4\u00e4ksesi asetukset, muokkaa jotakin sivupohjaa (Asetukset > Sivupohjat) ja valitse \"S\u00e4\u00e4nn\u00f6t\"-v\u00e4lilehti."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "T\u00e4ss\u00e4 valittavat sivut toimivat kirjanmerkkein\u00e4 sellaisille sivuille, joille haluat lis\u00e4t\u00e4 alasivuja. Huomaa, ett\u00e4 jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei ole oikeuksia (riippuen oikeusasetuksista tai sivupohjan s\u00e4\u00e4nt\u00f6asetuksista) lis\u00e4t\u00e4 alasivuja jollekin sivulle, kirjanmerkki\u00e4 ei n\u00e4ytet\u00e4."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Pikavalintojen j\u00e4rjestys"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Voit muuttaa \"Lis\u00e4\u00e4 uusi\"-valikon pikavalintojen j\u00e4rjestyst\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Lis\u00e4t\u00e4ksesi tai poistaaksesi pikavalintoja, katso sivupohjan \"S\u00e4\u00e4nn\u00f6t\"-v\u00e4lilehti."
         }
     }
 }

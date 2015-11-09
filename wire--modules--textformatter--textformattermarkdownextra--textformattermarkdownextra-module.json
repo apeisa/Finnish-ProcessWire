@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterMarkdownExtra\/TextformatterMarkdownExtra.module",
+    "textdomain": "wire--modules--textformatter--textformattermarkdownextra--textformattermarkdownextra-module",
+    "translations": {
+        "b4f85b935dcf717fdd8df0117de0cdee": {
+            "text": "K\u00e4ytett\u00e4v\u00e4 Markdown-tyyppi"
+        }
+    }
+}

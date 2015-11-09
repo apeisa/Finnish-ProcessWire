@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "M\u00e4\u00e4ritetty\u00e4 esivalintaa ei ole otettu k\u00e4ytt\u00f6\u00f6n, koska kent\u00e4lle ei aina vaadita arvoa. Korjaa t\u00e4m\u00e4 kent\u00e4n asetuksissa."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Valintojen tuonti ei ole viel\u00e4 k\u00e4ytett\u00e4viss\u00e4. Valinnat voidaan kopioida toisen sivuston kent\u00e4n asetuksista."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Valinnat"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Kentt\u00e4 joka tallentaa yhden tai useamman valinnan."
+        }
+    }
+}
