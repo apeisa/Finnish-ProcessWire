@@ -28,6 +28,24 @@
         },
         "7a51839f06248c613d3b07007f4fc05d": {
             "text": "Jos t\u00e4m\u00e4n kent\u00e4n sis\u00e4lt\u00e4m\u00e4\u00e4 URL-osoitetta on tarkoitus k\u00e4ytt\u00e4\u00e4 tulosteissa, on suositeltavaa ottaa k\u00e4ytt\u00f6\u00f6n \"HTML-entiteettikoodain\"-muotoilu \"Asetukset\"-v\u00e4lilehdell\u00e4."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Kyll\u00e4"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ei"
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Salli kansainv\u00e4liset domain-nimet (IDN)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, muita kuin ASCII-merkkej\u00e4 sis\u00e4lt\u00e4v\u00e4t domain-nimet ovat sallittuja."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Salli yksin- ja kaksinkertaiset lainausmerkit URL-osoitteissa?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, merkkauksessa k\u00e4ytett\u00e4v\u00e4lle URL:lle tulee ehdottomasti k\u00e4ytt\u00e4\u00e4 entiteettikoodainta."
         }
     }
 }

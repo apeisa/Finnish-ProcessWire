@@ -557,9 +557,6 @@
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 muotoilun sivuille, jota k\u00e4ytet\u00e4\u00e4n uutta alasivua luodessa. T\u00e4m\u00e4 ohittaa \"Lis\u00e4\u00e4 uusi\" -osion uutta sivua luodessa. Jotta t\u00e4m\u00e4 ominaisuus toimisi, tulee jokin yksitt\u00e4inen (1) sivupohja valita yll\u00e4 olevaan \"Sallitut sivupohjat alasivuille\"-kentt\u00e4\u00e4n."
         },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "J\u00e4t\u00e4 tyhj\u00e4ksi poistaaksesi k\u00e4yt\u00f6st\u00e4. Kirjoita \"title\" (ilman lainausmerkkej\u00e4) luodaksesi nimen sivun \"title\"-kent\u00e4st\u00e4. T\u00e4h\u00e4n voidaan m\u00e4\u00e4ritt\u00e4\u00e4 my\u00f6s p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4. [Lis\u00e4\u00e4](http:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "de4914b2943f3cfce0232ae281a8b155": {
             "text": "N\u00e4yt\u00e4 \"Lis\u00e4\u00e4 uusi\"-valikossa?"
         },
