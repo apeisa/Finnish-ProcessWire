@@ -230,9 +230,6 @@
         "bcb2ce4355834a060bef50afb9127603": {
             "text": "J\u00e4rjestelm\u00e4kentt\u00e4"
         },
-        "a90c3a6bf539d90c6016413cddd2178c": {
-            "text": "Testaa asetukset kent\u00e4lle %s"
-        },
         "bd5aef6293f875aa908466a69c08a14a": {
             "text": "Ongelmia ei l\u00f6ytynyt kent\u00e4st\u00e4 %s"
         },
@@ -262,9 +259,6 @@
         },
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "Poista %d tietokantataulun orporivi\u00e4?"
-        },
-        "afb5272a55f7eb214fd004a5becf2bb7": {
-            "text": "Tietokantataulusta l\u00f6ytyi rivej\u00e4, jotka eiv\u00e4t t\u00e4sm\u00e4\u00e4 yhteenk\u00e4\u00e4n sivuun."
         },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
             "text": "*Kentt\u00e4 yliajaa oletusarvon. T\u00e4ss\u00e4 m\u00e4\u00e4ritett\u00e4v\u00e4t asetukset yliajavat oletusarvot vain kun k\u00e4ytet\u00e4\u00e4n sivupohjaa \"%s\"."
@@ -553,6 +547,12 @@
         },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "="
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "K\u00e4ynnist\u00e4 \"Toiminnot > Tarkista kent\u00e4n data\" -toiminto kent\u00e4lle %s"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Tietokantataulusta l\u00f6ytyi rivej\u00e4, jotka eiv\u00e4t t\u00e4sm\u00e4\u00e4 yhteenk\u00e4\u00e4n sivuun, tai t\u00e4sm\u00e4\u00e4v\u00e4t sellaisiin sivuihin, joilla ei ole t\u00e4t\u00e4 kentt\u00e4\u00e4 k\u00e4yt\u00f6ss\u00e4."
         }
     }
 }
