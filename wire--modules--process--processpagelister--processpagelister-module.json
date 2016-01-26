@@ -103,6 +103,15 @@
         },
         "7a69d6b27362b48011a2a09c56e04bce": {
             "text": "Kirjanmerkit"
+        },
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "="
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Kaikki m\u00e4\u00e4ritetyt sivupohjat eiv\u00e4t ole muokattavissa. Vain 'include=hidden' on sallittu"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Sivupohjia ei ole m\u00e4\u00e4ritetty, joten korkeintaan 'include=hidden' on sallittu"
         }
     }
 }

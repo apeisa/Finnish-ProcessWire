@@ -756,7 +756,7 @@
             "text": "*Suorituskyvyn maksimoimiseksi v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
         },
         "85eb71c20f7740fc3bdbf7dfdee2636b": {
-            "text": "Mit\u00e4 URL-segmentit ovat sallittuja?"
+            "text": "Mitk\u00e4 URL-segmentit ovat sallittuja?"
         },
         "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
             "text": "Kirjoita yksi sallittu segmentti, segmenttipolku tai s\u00e4\u00e4nn\u00f6llinen lauseke rivi\u00e4 kohden, tai j\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jolloin kaikki segmentit sallitaan."
@@ -889,6 +889,30 @@
         },
         "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
             "text": "="
+        },
+        "975bafff7904e0b6768fc9b2d0a11829": {
+            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi jos haluat t\u00e4m\u00e4n olevan pois k\u00e4yt\u00f6st\u00e4. Kirjoita \"title\" (ilman lainausmerkkej\u00e4) muodostaaksesi nimen sivun otsikosta. My\u00f6s muita muotoiluja, kuten p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4, on saatavilla. [Lue lis\u00e4\u00e4](https:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Muokkaaksesi sivupohjien j\u00e4rjestyst\u00e4 pikavalintojen valikossa, katso [PageAdd-moduulin asetukset](%s)."
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Salli muokkaukseen liittyvien oikeuksien periytyminen alasivuihin?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Oletuksena kaikki t\u00e4m\u00e4n sivupohjan k\u00e4ytt\u00f6oikeusasetukset periytyv\u00e4t alasivuille, ellei jonkin alasivun sivupohja yliaja k\u00e4ytt\u00f6oikeusasetuksia."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Valitse \"Ei\", jos haluat est\u00e4\u00e4 muokkaukseen liittyvien oikeuksien periytymisen alasivuille. Sivun katseluoikeudet periytyv\u00e4t joka tapauksessa."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Salli muokkaukseen liittyvien oikeuksien periytyminen sellaisille alasivuille, joilla ei ole omia oikeusasetuksia"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Muokkaukseen liittyv\u00e4t oikeudet koskevat vain t\u00e4t\u00e4 sivupohjaa"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Huomaa: muokkaus\/luonti\/lis\u00e4ys -valinnat ovat poissa k\u00e4yt\u00f6ss\u00e4 sellaisilta rooleilta, joilla ei ole \"page-edit\"-oikeutta."
         }
     }
 }
