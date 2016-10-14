@@ -31,6 +31,9 @@
         },
         "618400fc1b0f0b7a96f2d0c871bd2c6b": {
             "text": "Kuvaeditorin k\u00e4ytt\u00f6 kuvien muokkaukseen (rajaus, koon muuttaminen jne.)"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 voi siirt\u00e4\u00e4 luomansa sivun roskakoriin (ilman page-delete -oikeutta)."
         }
     }
 }

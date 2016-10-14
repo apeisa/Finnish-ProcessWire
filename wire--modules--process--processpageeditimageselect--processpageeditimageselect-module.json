@@ -68,12 +68,6 @@
         "3608b24ec08977c76c40c8514f3bcbd5": {
             "text": "Valitse t\u00e4m\u00e4, jos haluat HiDPI\/Retina-valinnan olevan oletuksena k\u00e4yt\u00f6ss\u00e4 lis\u00e4tt\u00e4ville kuville."
         },
-        "0bedb7a49466cc5abddacd2003be55b3": {
-            "text": "\u00c4l\u00e4 kirjoita leveysattribuutteja kuvatageille?"
-        },
-        "cf4a792de8b81c847ece5501f00def00": {
-            "text": "Oletuksena moduuli kirjoittaa leveysattribuutit <img>-tagille. T\u00e4m\u00e4n poistaminen voi olla hy\u00f6dyllist\u00e4, jos kuvien tulee olla responsiivisia. Valitse t\u00e4m\u00e4 ottaaksesi leveys- ja korkeusattribuutit pois k\u00e4yt\u00f6st\u00e4."
-        },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "T\u00e4m\u00e4n toiminnon poistaminen k\u00e4yt\u00f6st\u00e4 ei ole suositeltavaa, koska jotkin ominaisuudet (kuten HiDPI\/retina -kuvat) eiv\u00e4t t\u00e4ll\u00f6in toimi."
         },

@@ -17,9 +17,6 @@
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "T\u00e4m\u00e4 sivu on roskakorissa"
         },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "T\u00e4t\u00e4 sivua ei ole viel\u00e4 julkaistu"
-        },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Tallenna, mutta \u00e4l\u00e4 julkaise"
         },
@@ -208,6 +205,51 @@
         },
         "e76ea9d62d4a434a98238f3ec7932075": {
             "text": "kaikki k\u00e4ytt\u00f6oikeudet"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Poistu"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + N\u00e4yt\u00e4"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Lis\u00e4\u00e4 uusi"
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Palautettiin edellinen arvo"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Sivun julkaisu poistettiin, koska kentt\u00e4 \"%s\" on pakollinen"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Paneeli"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Modaali"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Uusi v\u00e4lilehti"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Poistu + Katso"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Seuraava"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Oletko varma? Tiedoston lataus on k\u00e4ynniss\u00e4 ja jos jatkat, se voidaan menett\u00e4\u00e4."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Muokattavissa olevaa seuraavaa sivua ei l\u00f6ytynyt."
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "\"N\u00e4yt\u00e4\"-toiminnon oletusarvo"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "M\u00e4\u00e4rit\u00e4 k\u00e4ytett\u00e4v\u00e4 oletustoiminto kun \"N\u00e4yt\u00e4\"-v\u00e4lilehte\u00e4 klikataan sivueditorissa."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Sivun katselu"
         }
     }
 }

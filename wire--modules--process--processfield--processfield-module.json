@@ -134,9 +134,6 @@
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Kent\u00e4n perusasetukset"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Yhdistelm\u00e4 kirjaimia [a-z], numeroita [0-9] ja alaviivoja (ei tavuviivoja tai v\u00e4lily\u00f6ntej\u00e4)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Kentt\u00e4tyypin valinnan ja tallennuksen j\u00e4lkeen voit m\u00e4\u00e4ritt\u00e4\u00e4 valittuun kentt\u00e4tyyppiin liittyvi\u00e4 lis\u00e4asetuksia."
         },
@@ -215,12 +212,6 @@
         "a4ca5edd20d0b5d502ebece575681f58": {
             "text": "Kent\u00e4t"
         },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "N\u00e4yt\u00e4 suodattimet kentt\u00e4listalla?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "T\u00e4m\u00e4 lis\u00e4\u00e4 kentt\u00e4listalle kaksi pudotusvalikkoa, joiden avulla voit suodattaa n\u00e4kym\u00e4\u00e4 sivupohjan tai kentt\u00e4tyypin mukaan."
-        },
         "7cdb55d0d84a64ee84c14621892d8e10": {
             "text": "Palaa takaisin kentt\u00e4listaan kun kentt\u00e4 tallennetaan?"
         },
@@ -282,7 +273,7 @@
             "text": "T\u00e4m\u00e4 kentt\u00e4 ei ole k\u00e4yt\u00f6ss\u00e4 yhdess\u00e4k\u00e4\u00e4n sivupohjassa."
         },
         "5920c0593225b73a0d667fe26c95d0f7": {
-            "text": "%d j\u00e4rjestelm\u00e4sivupohjaa ei n\u00e4ytet\u00e4, koska kehitystila ei ole k\u00e4yt\u00f6ss\u00e4."
+            "text": "%d j\u00e4rjestelm\u00e4sivupohjaa on piilotettu, koska kehitystila ei ole k\u00e4yt\u00f6ss\u00e4."
         },
         "4debafe5cde021385dce21b063054b59": {
             "text": "Luodaksesi kopion t\u00e4st\u00e4 kent\u00e4st\u00e4, kirjoita kopion nimi."
@@ -553,6 +544,21 @@
         },
         "d94836b689b2cd95f920084c5f27e770": {
             "text": "Tietokantataulusta l\u00f6ytyi rivej\u00e4, jotka eiv\u00e4t t\u00e4sm\u00e4\u00e4 yhteenk\u00e4\u00e4n sivuun, tai t\u00e4sm\u00e4\u00e4v\u00e4t sellaisiin sivuihin, joilla ei ole t\u00e4t\u00e4 kentt\u00e4\u00e4 k\u00e4yt\u00f6ss\u00e4."
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Muokkaus front-endist\u00e4"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Asenna"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Asenna front-end -editorimoduuli ottaaksesi k\u00e4ytt\u00f6\u00f6n kenttien front-end -muokkauksen. Asentamisen j\u00e4lkeen voit ladata t\u00e4m\u00e4n sivun uudelleen ja muokata asetuksia."
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "K\u00e4yt\u00e4 vain ASCII-kirjaimia (a-z, A-Z), numeroita (0-9) tai alaviivoja."
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Lis\u00e4\u00e4 ensimm\u00e4iseksi kent\u00e4ksi"
         }
     }
 }

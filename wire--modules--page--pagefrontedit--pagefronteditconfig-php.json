@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Tutustu [front-end -muokkauksen ohjeisiin](%s) ennen k\u00e4ytt\u00f6\u00e4."
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Front-end -muokkauksen k\u00e4ytt\u00f6\u00f6nottoon on muutama eri tapa. Huolimatta valitusta vaihtoehdosta, front-end -muokkaus on k\u00e4yt\u00f6ss\u00e4 vain sellaisille k\u00e4ytt\u00e4jille, joille on annettu sivun ja kent\u00e4n muokkaukseen liittyv\u00e4t oikeudet."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Upotetun editorin asetukset"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Vaihtoehto A: front-endiss\u00e4 muokattavat kent\u00e4t"
+        },
+        "97f5063cc7446aefa21ae4e7fb3cc146": {
+            "text": "Valitut tekstikent\u00e4t ovat muokattavissa suoraan sivulta."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(ei suositella)"
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Vaihtoehto A: Automaattinen muokkaus"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Kun kent\u00e4n arvo tulostetaan $page-objektin kautta, se tehd\u00e4\u00e4n muokattavaksi ilman tarvittavia muutoksia koodiin, olettaen ett\u00e4 k\u00e4ytt\u00e4j\u00e4ll\u00e4 on oikeudet muokata kent\u00e4n sis\u00e4lt\u00f6\u00e4."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Lue lis\u00e4\u00e4"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "T\u00e4m\u00e4 toiminto on t\u00e4ll\u00e4 hetkell\u00e4 K\u00c4YT\u00d6SS\u00c4 t\u00e4lle kent\u00e4lle."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Vaihtoehto B: K\u00e4yt\u00e4 API-metodia"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "K\u00e4yt\u00e4 $page->edit(\"%s\"); -metodia $page->%s; sijaan, kun haluat tulostaa kent\u00e4n arvon."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Mik\u00e4 tahansa seuraavista syntakseista on tuettu (valitse yksi). \"1001\" voi olla mik\u00e4 tahansa sivun ID tai polku, ja \"...\" voi olla merkkausta tai koodia, kuten kent\u00e4n sy\u00f6tteen tulostuskoodi."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Vaihtoehto C: Lis\u00e4\u00e4 HTML-merkkaukseen edit-tagi luodaksesi muokattavan alueen"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Vaihtoehto D: Lis\u00e4\u00e4 edit-attribuutti olemassa olevaan merkkauksen tagiin luodaksesi muokattavan alueen"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Alla esimerkki div-tagista, joka luo muokattavan alueen."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Huomaa, ett\u00e4 jos edit-attribuutti on k\u00e4yt\u00f6ss\u00e4, kent\u00e4n muokkaus tapahtuu modaali-ikkunassa. Kaikki muut vaihtoehdot k\u00e4ytt\u00e4v\u00e4t upotettua editoria, jos sen k\u00e4ytt\u00f6 on tuettu."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Ole varovainen jos k\u00e4yt\u00e4t t\u00e4t\u00e4 vaihtoehtoa:** Jos tulostat kent\u00e4n arvon useampaan kuin yhteen paikkaan samalla sivulla, sinun tulisi t\u00e4m\u00e4n sijaan k\u00e4ytt\u00e4\u00e4 vaihtoehtoa [Vaihtoehtoa B, C tai D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Vaihtoehto A: editorin ulottuvuus"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Kun yll\u00e4 valitun kent\u00e4n arvo tulostetaan, miss\u00e4 ne ovat muokattavissa?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Vain avoinna olevan sivun kent\u00e4t ovat muokattavissa (suositeltu)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Kent\u00e4t ovat muokattavissa riippumatta siit\u00e4, mink\u00e4 sivun kentti\u00e4 ne ovat"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Tallenna\/peruuta -napit"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Nappien sijainti"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automaattinen"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Ylh\u00e4\u00e4ll\u00e4 ja vasemmalla"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Ylh\u00e4\u00e4ll\u00e4 ja oikealla"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Alhaalla ja vasemmalla"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Alhaalla ja oikealla"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Nappien tyyppi"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Automaattinen (kuvake ja teksti ty\u00f6p\u00f6yt\u00e4selaimille, kuvakkeet kosketusn\u00e4yt\u00f6ille)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Kuvake ja teksti"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Vain teksti"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Vain kuvake"
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Vaaditut oikeudet ovat [page-edit](%s) ja [page-edit-front](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Kun kentt\u00e4 on muokattavissa, hiiren osoitin muuttuu kontekstiosoittimeksi sen kohdalla. Voit muokata kentt\u00e4\u00e4 front-endiss\u00e4 **kaksoisklikkaamalla** sit\u00e4."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "T\u00e4m\u00e4 vaihtoehto ei ole tuettuna t\u00e4lle kent\u00e4lle."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Muokkaa asetuksia"
+        }
+    }
+}

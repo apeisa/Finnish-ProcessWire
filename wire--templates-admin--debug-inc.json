@@ -49,6 +49,12 @@
         },
         "ab0cf104f39708eabd07b8cb67e149ba": {
             "text": "V\u00e4limuisti"
+        },
+        "3d7ce213fb1c2bec707c0fac7b1999e2": {
+            "text": "Automaattinen lataus"
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "\u00c4l\u00e4 j\u00e4t\u00e4 debug-tilaa k\u00e4ytt\u00f6\u00f6n tuotantok\u00e4yt\u00f6ss\u00e4 oleville sivustoille (katso $config->debug -asetus tiedostossa \/site\/config.php)."
         }
     }
 }

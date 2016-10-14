@@ -83,9 +83,6 @@
         "b817c7fc9a774b9a22172e59c228a9cb": {
             "text": "Kohdetta %s ei ole, tai se ei ole kansio"
         },
-        "9a00d24dd949ab47dbf3db516583c88f": {
-            "text": "="
-        },
         "4e6dc4bdaf134f7fad78b433b1939a65": {
             "text": "K\u00e4\u00e4nn\u00f6sty\u00f6kalu"
         },
@@ -139,6 +136,21 @@
         },
         "ad5156526794edff80df65b5362dd4c1": {
             "text": "Kirjoita polku ja tiedostonimi, jolle luodaan k\u00e4\u00e4nn\u00f6stiedosto. Polku on suhteellinen asennuksen juurikansioon."
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "Tallenna + Poistu"
+        },
+        "fbf51b23dec9d964dea27ac78b55f042": {
+            "text": "Tallenna + Seuraava"
+        },
+        "77ee287e7787dda03867ac2f9b312990": {
+            "text": "Seuraavaa muokattavaa tiedostoa ei l\u00f6ytynyt."
+        },
+        "c5e313f97cfed8076c6f3700a1ebb121": {
+            "text": "="
+        },
+        "569502b1966b126a6efe0caa41995ea1": {
+            "text": "Luo hakuindeksi"
         }
     }
 }

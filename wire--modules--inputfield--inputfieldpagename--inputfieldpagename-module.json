@@ -16,6 +16,9 @@
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
             "text": "Merkki johon korvataan, tulee olla yksi tai useampi seuraavista: a-z, 0-9, tavuviiva, alaviiva, piste."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Merkkien korvausasetukset ovat poissa k\u00e4yt\u00f6st\u00e4, koska $config->pageNameCharset on asetettu tilaan UTF8."
         }
     }
 }
