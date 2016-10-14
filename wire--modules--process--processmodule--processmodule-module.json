@@ -376,6 +376,39 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "="
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Moduulin asennus ei onnistunut"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Tyhjennettiin sivuk\u00e4\u00e4nt\u00e4j\u00e4n v\u00e4limuisti"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "Tyhjenn\u00e4 k\u00e4\u00e4nnetyt tiedostot"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Poistu"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(oletusnimiavaruus)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Ei mit\u00e4\u00e4n (juurinimiavaruus)"
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "ennen"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "j\u00e4lkeen"
+        },
+        "d9402453cf25d5a1ced0a12d96cc7f98": {
+            "text": "Nimiavaruus"
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Alla oleva nappi poistaa k\u00e4\u00e4nnetyt moduuli- ja sivupohjatiedostot. K\u00e4\u00e4nn\u00f6kset luodaan uudelleen seuraavalla kerralla kun tiedostoja k\u00e4ytet\u00e4\u00e4n. Huomaa, ett\u00e4 tiedostojen k\u00e4\u00e4nt\u00e4minen uudelleen saattaa aiheuttaa v\u00e4liaikaisen viiveen."
+        },
+        "cebc0576aea62c59ee4ab6b11793d0ab": {
+            "text": "Asentaminen saattaa aiheuttaa ongelmia. Haluatko varmasti asentaa?"
         }
     }
 }

@@ -127,6 +127,15 @@
         },
         "ebd9ef41cdc1369f55f58b151390de31": {
             "text": "Osa kent\u00e4n tyypeist\u00e4 sis\u00e4lt\u00e4v\u00e4t lis\u00e4asetuksia. Tallennuksen j\u00e4lkeen lis\u00e4asetukset tuodaan n\u00e4kyville t\u00e4m\u00e4n osion alapuolelle."
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "T\u00e4m\u00e4n kent\u00e4n asetukset tulee m\u00e4\u00e4ritt\u00e4\u00e4 ennen k\u00e4ytt\u00f6\u00e4."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "Sivua %1$s ei ole julkaistu, eik\u00e4 sit\u00e4 voida k\u00e4ytt\u00e4\u00e4 kent\u00e4ss\u00e4 \"%2$s\""
+        },
+        "1cc510dea04a978b3bb88514582eea6c": {
+            "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja valitse Lis\u00e4asetukset-v\u00e4lilehti."
         }
     }
 }

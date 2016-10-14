@@ -4,6 +4,33 @@
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
             "text": "m\u00e4\u00e4r\u00e4"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Lajittelu ja sivutus"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "N\u00e4m\u00e4 asetukset otetaan k\u00e4ytt\u00f6\u00f6n sek\u00e4 front-endiin (sivusto) ja back-endiin (hallintapaneeli)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(k\u00e4\u00e4nteinen)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automaattinen lajittelu"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Valitse yksi tai useampi kentt\u00e4, jonka mukaan lajitellaan. J\u00e4t\u00e4 t\u00e4m\u00e4 asetus tyhj\u00e4ksi jos haluat k\u00e4sin teht\u00e4v\u00e4n lajittelun."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Kohteiden m\u00e4\u00e4r\u00e4 yhdell\u00e4 sivulla"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "T\u00e4ll\u00e4 asetuksella voit rajoittaa ladattavien kohteiden m\u00e4\u00e4r\u00e4n sivua kohden. Arvo \"0\" poistaa rajoituksen (oletusarvo)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Sivutuksen k\u00e4ytt\u00f6\u00e4 suositellaan jos k\u00e4yt\u00f6ss\u00e4 on satoja tai tuhansia kohteita."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "T\u00e4t\u00e4 asetusta ei huomioida, ellei automaattista lajittelua ole m\u00e4\u00e4ritetty."
         }
     }
 }

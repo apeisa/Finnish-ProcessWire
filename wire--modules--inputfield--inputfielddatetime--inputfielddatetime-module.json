@@ -88,6 +88,27 @@
         },
         "d27357121209bd712604d8af46cd2460": {
             "text": "Kentt\u00e4 joka sis\u00e4lt\u00e4\u00e4 p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ja ajan"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-fi.js"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(suositus)"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(unix-aikaleima)"
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Ajan sy\u00f6tt\u00f6tapa"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 voi valita ajan liukus\u00e4\u00e4timill\u00e4 (oletusarvo) tai pudotusvalikosta."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Liukus\u00e4\u00e4timet"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Pudotusvalikko"
         }
     }
 }

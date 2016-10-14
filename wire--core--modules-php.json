@@ -46,6 +46,39 @@
         },
         "7cbf3b34133e54263a1242eb74a5008e": {
             "text": "L\u00f6ydettiin %d moduulin versiomuutosta"
+        },
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "Moduulin"
+        },
+        "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
+            "text": "Moduuli palautti virheen asennuksen aikana"
+        },
+        "46e2d06b80d816b2916f1f27492fbabd": {
+            "text": "Moduulin asentaminen ei onnistunut"
+        },
+        "5c4f3cc8a1cdcfa7759b4d0a199bcfa0": {
+            "text": "Moduulia ei ole asennettu"
+        },
+        "8ffefc63396ecaf77fdcafe5163f2bfe": {
+            "text": "Moduuli on asetettu pysyv\u00e4ksi"
+        },
+        "926c4c5bf92909f4225cafbe323a1ea9": {
+            "text": "Jotkin muut moduulit vaativat t\u00e4m\u00e4n moduulin asennuksen. N\u00e4m\u00e4 moduulit tulee poistaa ensin."
+        },
+        "d710b0151d568a1efa24617b78fa1f25": {
+            "text": "T\u00e4m\u00e4 moduuli on kentt\u00e4tyyppi (Fieldtype), ja se on yhden tai useamman kent\u00e4n k\u00e4yt\u00f6ss\u00e4"
+        },
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Moduulin %s konstruktorin ajaminen ei onnistunut"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "Moduulin %s ready-funktion ajaminen ei onnistunut"
+        },
+        "7ac5a75a8a79dc9b9e8d40dbed9c4124": {
+            "text": "Moduuli %s vaatii: %s"
+        },
+        "dc3fd488f03d423a04da27ce66274c1b": {
+            "text": "Varoitus!"
         }
     }
 }

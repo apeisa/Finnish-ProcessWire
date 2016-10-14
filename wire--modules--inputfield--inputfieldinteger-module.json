@@ -49,6 +49,15 @@
         },
         "6b2dbf9c383cf3fcf4cc27147020c3b5": {
             "text": "Kent\u00e4lle esiasetettu arvo."
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Kent\u00e4n koko"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "M\u00e4\u00e4rit\u00e4 kokoattribuutti kent\u00e4lle. Kirjoita 0 jos haluat t\u00e4yden leveyden."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "Oletusarvo: %d."
         }
     }
 }

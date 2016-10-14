@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Toistettavat kent\u00e4t"
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4t joita t\u00e4m\u00e4 toistaja k\u00e4ytt\u00e4\u00e4. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Lis\u00e4\u00e4 kentt\u00e4"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Kohteiden nimikkeet"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Kirjoita kent\u00e4n nimi jota k\u00e4ytet\u00e4\u00e4n nimikkein\u00e4, tai j\u00e4t\u00e4 tyhj\u00e4ksi luodaksesi nimikkeen automaattisesti"
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "K\u00e4ytt\u00e4\u00e4ksesi useita kentti\u00e4, tai luodaksesi oman muotoilun, ymp\u00e4r\u00f6i kent\u00e4n nimet {aaltosulkeilla}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Sis\u00e4llytt\u00e4\u00e4ksesi kohteen numeron nimikkeeseen, lis\u00e4\u00e4 muotoiluun \"#n\"."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Esimerkki: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Lis\u00e4yspainikkeen teksti"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Kirjoita teksti, jota haluat k\u00e4ytt\u00e4\u00e4 \"Lis\u00e4\u00e4 uusi\" -painikkeen nimikkeen\u00e4, tai j\u00e4t\u00e4 tyhj\u00e4ksi jos haluat k\u00e4ytt\u00e4\u00e4 oletusarvoa."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Osioiden n\u00e4kyvyys sivueditorissa"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Osiot voivat olla avoimia tai suljettuja (avaaminen vaatii klikkauksen). Suljettu tila on hy\u00f6dyllinen, jos kaikki osiot halutaan n\u00e4hd\u00e4 samalla kerralla tai niit\u00e4 halutaan lajitella."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Uudet osiot ovat avoimia, olemassa olevat suljettuja (suositellaan useimmissa tapauksissa)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Osiot ovat aina avoimia (olemassa olevien osioiden dynaaminen lataus ei ole k\u00e4yt\u00f6ss\u00e4)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Osiot ovat aina suljettuja"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Toistajan dynaaminen lataus (AJAX) sivueditorissa"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Mitk\u00e4 osiot tulisi ladata AJAXilla sivueditorissa? Jos toistaja k\u00e4ytt\u00e4\u00e4 kentt\u00e4\u00e4, joka ei tue dynaamista latausta, \u00e4l\u00e4 k\u00e4yt\u00e4 t\u00e4t\u00e4 toimintoa."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Olemassa olevat ja uudet osiot (suositeltu erityisesti sellaisille toistajille, joissa on PALJON osioita)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Vain uudet osiot (toistajille joissa on vain V\u00c4H\u00c4N osioita)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Muista mitk\u00e4 osiot ovat avoinna?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Jos valittu, avatut toistajan osiot pidet\u00e4\u00e4n avoinna tallennuksen tai sivueditorin uudelleen lataamisen j\u00e4lkeen (kunnes k\u00e4ytt\u00e4j\u00e4 sulkee osiot)."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Poista vanhat tai k\u00e4ytt\u00e4m\u00e4tt\u00f6m\u00e4t osiot?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Toistajassa on **%d** vanhaa tai k\u00e4ytt\u00e4m\u00e4t\u00f6nt\u00e4 osiota. Rastita t\u00e4m\u00e4 poistaaksesi ne."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Osio merkit\u00e4\u00e4n vanhaksi, jos se on ainakin 3 p\u00e4iv\u00e4\u00e4 vanha, ja sit\u00e4 ei ole t\u00e4ytetty tai julkaistu."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" toistajaan \"%2$s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "Poistettiin kentt\u00e4 \"%1$s\" toistajasta \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Poistettiin %d vanhaa tai k\u00e4ytt\u00e4m\u00e4t\u00f6nt\u00e4 osiota"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Yl\u00e4sivu %s on nyt irrotettu ja se on siirrett\u00e4viss\u00e4 tai muokattavissa."
+        }
+    }
+}

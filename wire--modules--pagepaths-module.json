@@ -7,6 +7,9 @@
         },
         "b198072961bf47ed9c790c1006f98372": {
             "text": "P\u00e4ivitettiin %d polkua"
+        },
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Poista moduulin Ydin > PagePaths asennus (moduuli ei ole yhteensopiva LanguageSupportPageNames-moduulin kanssa)"
         }
     }
 }

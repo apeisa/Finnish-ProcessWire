@@ -17,12 +17,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Kuvan tallentaminen"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Lis\u00e4\u00e4 t\u00e4m\u00e4 kuva"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Lis\u00e4\u00e4 toinen kuva"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "CKEditorin upotettu tila vaatii MarkupHTMLPurifier-moduulin. Normaali tila on k\u00e4yt\u00f6ss\u00e4."
         },
@@ -214,6 +208,15 @@
         },
         "08b808bc7661d755f526f70fbcc07e44": {
             "text": "Ainakin yksi liit\u00e4nn\u00e4inen tulee valita k\u00e4ytt\u00f6\u00f6n."
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Lis\u00e4\u00e4 kuva"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Valitse toinen"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Laskuri ei ole tuettu upotetuissa CKEditor-kentiss\u00e4."
         }
     }
 }

@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Kent\u00e4n tyyppi"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4n tyyppi, jota k\u00e4ytet\u00e4\u00e4n tiedon sy\u00f6tt\u00e4miseen (Textarea on oletusarvo). Huomaa, ett\u00e4 jos muutat t\u00e4t\u00e4 asetusta ja tallennat, \"Kentt\u00e4\"-v\u00e4lilehdell\u00e4 olevat asetukset voivat muuttua."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Merkkaus\/HTML"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Sis\u00e4ll\u00f6n tyyppi"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Tuntematon\/Teksti"
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Jos valitset [u]Tuntematon\/Teksti[\/u] -vaihtoehdon, turvallisuussyist\u00e4 on suositeltavaa ett\u00e4 otat k\u00e4ytt\u00f6\u00f6n \"HTML-entiteettikoodaimen\" yll\u00e4 olevassa [u]Tekstin muotoilut[\/u] -kent\u00e4ss\u00e4."
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "[u]Merkkaus\/HTML[\/u] -valintaa suositellaan kentille, joissa on k\u00e4yt\u00f6ss\u00e4 rich text -editori (kuten CKEditor), sek\u00e4 sellaisille kentille, jotka sis\u00e4lt\u00e4v\u00e4t HTML-merkkausta. Toiminto tekee merkkaukselle ajonaikaisia tarkistuksia ja suodatuksia laadun varmistamiseksi."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "[Katso lis\u00e4tietoja](%s) yll\u00e4 olevista valinnoista."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML-valinnat"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Seuraavat valinnat tarjoavat ajonaikaisia laadunvarmistustoimintoja HTML-merkkaukselle."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Huomaa:** N\u00e4m\u00e4 valinnat ovat t\u00e4ll\u00e4 hetkell\u00e4 kokeellisia."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Valinnat kirjoittavat mahdolliset virheet lokiin: Asetukset > Loki > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Linkin abstraktio"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "P\u00e4ivit\u00e4 href-attribuutit automaattisesti kun sis\u00e4inen linkki muuttuu"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "P\u00e4ivit\u00e4 kuvien alt-attribuutit"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Korvaa tyhj\u00e4t alt-attribuutit kuvan kuvaustekstill\u00e4"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Korjaa vialliset kuvat"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Poista img-tagit, jotka tuottavat 404-ilmoituksen, tai jos mahdollista, luo kuvat uudelleen"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Kuvan k\u00e4ytt\u00f6oikeushallinta:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Poista merkkauksesta kuvat, joihin k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei ole vaadittavia oikeuksia"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Ota k\u00e4ytt\u00f6\u00f6n HTML-valinnat nyt"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Rastita t\u00e4m\u00e4 ottaaksesi yll\u00e4 olevat valinnat k\u00e4ytt\u00f6\u00f6n kaikille olemassa oleville sivuille. Toiminto keskittyy l\u00e4hinn\u00e4 linkin abstraktioon."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Varoitus, t\u00e4m\u00e4 toiminto saattaa p\u00e4ivitt\u00e4\u00e4 mahdollisesti satoja sivuja (korkeintaan 300 sivua ajoa kohden) ja p\u00e4ivitt\u00e4\u00e4 sivujen muokkausajan. Jos sivustollasi on paljon sivuja, t\u00e4m\u00e4 toiminto saatetaan joutua ajamaan useita kertoja."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Varmuuden vuoksi on suositeltavaa ett\u00e4 varmuuskopioit tietokannan ennen t\u00e4m\u00e4n toiminnon k\u00e4ytt\u00e4mist\u00e4.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Valmis! HTML-asetukset ovat nyt otettu k\u00e4ytt\u00f6\u00f6n."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Jatkossa p\u00e4ivitykset tehd\u00e4\u00e4n automaattisesti kun sivu tallennetaan."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Sivuja on viel\u00e4 k\u00e4sittelem\u00e4tt\u00e4. Rastita ruutu ja k\u00e4ynnist\u00e4 toiminto uudelleen."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Haluatko k\u00e4sitell\u00e4 useampia sivuja kerrallaan? Voit muokata %s -asetusta \/site\/config.php -tiedostossa."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(katso %s -loki)"
+        }
+    }
+}

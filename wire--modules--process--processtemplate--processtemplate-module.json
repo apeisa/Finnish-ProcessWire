@@ -302,9 +302,6 @@
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Luo kopio sivupohjasta?"
         },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "Valitse t\u00e4m\u00e4 jos haluat luoda kopion t\u00e4st\u00e4 sivupohjasta. Kopio luodaan kun sivupohja tallennetaan. Jos sivupohjahakemisto on kirjoitustilassa ja sivupohjalla on tiedosto, my\u00f6s se kopioidaan."
-        },
         "7328590933d4202f89220d6b435b0e8f": {
             "text": "Sivukartassa n\u00e4kyv\u00e4t kent\u00e4t"
         },
@@ -695,9 +692,6 @@
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Tallennettiin sivupohja: %s"
         },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Luotiin kopio \"%2$s\" sivupohjasta \"%1$s\". Voit nimet\u00e4 kopion uudelleen muokkaamalla sivupohjaa \"%2$s\" ja valitsemalla \"Lis\u00e4asetukset\"-v\u00e4lilehden."
-        },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Sivupohjan kopioinnissa tapahtui virhe"
         },
@@ -890,9 +884,6 @@
         "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
             "text": "="
         },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi jos haluat t\u00e4m\u00e4n olevan pois k\u00e4yt\u00f6st\u00e4. Kirjoita \"title\" (ilman lainausmerkkej\u00e4) muodostaaksesi nimen sivun otsikosta. My\u00f6s muita muotoiluja, kuten p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4, on saatavilla. [Lue lis\u00e4\u00e4](https:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "9351544406147e2f9a081ce279e7f687": {
             "text": "Muokkaaksesi sivupohjien j\u00e4rjestyst\u00e4 pikavalintojen valikossa, katso [PageAdd-moduulin asetukset](%s)."
         },
@@ -913,6 +904,87 @@
         },
         "8b961334d86b2e4afdb29a825b7537f5": {
             "text": "Huomaa: muokkaus\/luonti\/lis\u00e4ys -valinnat ovat poissa k\u00e4yt\u00f6ss\u00e4 sellaisilta rooleilta, joilla ei ole \"page-edit\"-oikeutta."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Kirjoita uuden sivupohjan nimi. Kopio luodaan kun tallennat sivun. My\u00f6s sivupohjaan liitetty tiedosto kopioidaan, jos sivupohjahakemistoon voidaan kirjoittaa ja sivupohjalle on m\u00e4\u00e4ritetty tiedosto."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Pakolliseksi m\u00e4\u00e4ritetyn kent\u00e4n k\u00e4ytt\u00e4ytyminen"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Mit\u00e4 tehd\u00e4\u00e4n jos julkaistu sivu tallennetaan ja jonkin pakollisen kent\u00e4n arvo puuttuu?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Tulosta virheilmoitus (oletus)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Palauta kent\u00e4n edellinen arvo (jos mahdollista)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Poista sivun julkaisu k\u00e4yt\u00f6st\u00e4 (jos sallittu)"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Poista monikielisyyden tuki t\u00e4lt\u00e4 sivupohjalta?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Jos valittu, vain oletuskieli on k\u00e4yt\u00f6ss\u00e4 t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vill\u00e4 sivuilla."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ oletusarvo on 0."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Sivupohjan kopion nimi ei ole kelvollinen"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Sivupohjaa ei voitu kopioida, koska valittu nimi on toisen sivupohjan k\u00e4yt\u00f6ss\u00e4"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Luotiin kopio sivupohjasta \"%1$s\" nimell\u00e4 \"%2$s\"."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Sulje ja Lis\u00e4\u00e4"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "M\u00e4\u00e4ritt\u00e4\u00e4ksesi k\u00e4ytt\u00e4j\u00e4profiilissa muokattavat kent\u00e4t, katso [moduulin asetukset](%s)."
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jos et halua k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 ominaisuutta. Kirjoita \"title\" (ilman lainausmerkkej\u00e4) luodaksesi sivun nimen automaattisesti otsikosta. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4ss\u00e4 my\u00f6s esim. p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4. [Lue lis\u00e4\u00e4](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "K\u00e4yt\u00e4 k\u00e4\u00e4nnetty\u00e4 sivupohjatiedostoa?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, ProcessWire p\u00e4ivitt\u00e4\u00e4 sivupohjatiedostoon ProcessWiren nimiavaruuden ja ottaa k\u00e4ytt\u00f6\u00f6n asennetun FileCompiler-moduulin."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "K\u00e4ytt\u00f6\u00e4 suositellaan ainakin sellaisille sivupohjatiedostoille, joissa ei ole m\u00e4\u00e4ritetty ProcessWire-nimiavaruutta (esim. sellaiset sivupohjat, jotka ovat olleet k\u00e4yt\u00f6ss\u00e4 PW 2.x -sivustoilla)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Jos et ole varma valinnastasi, valitse \"Automaattinen\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(tiedostok\u00e4\u00e4nt\u00e4j\u00e4 ei k\u00e4yt\u00f6ss\u00e4)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Automaattinen (k\u00e4\u00e4nn\u00e4 tiedosto jos nimiavaruutta ei ole m\u00e4\u00e4ritetty)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(vain sivupohjatiedosto)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(sivupohjatiedosto ja sen sis\u00e4llytt\u00e4m\u00e4t muut tiedostot)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Tunnistettu sivupohjatiedoston nimiavaruus on \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "K\u00e4\u00e4nn\u00f6st\u00e4 suositellaan."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "K\u00e4\u00e4nt\u00e4minen ei ole tarpeellista, elleiv\u00e4t moduulit tai sis\u00e4llytetyt tiedostot vaadi sit\u00e4."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Virheellinen sijoitus kentt\u00e4ryhm\u00e4lle\/v\u00e4lilehdelle \"%s\" - korjaa asetus ja tallenna uudelleen"
         }
     }
 }

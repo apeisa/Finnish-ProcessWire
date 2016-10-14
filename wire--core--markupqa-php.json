@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/MarkupQA.php",
+    "textdomain": "wire--core--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "se on roskakorissa"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Linkin selvitt\u00e4minen sivun %1$s kent\u00e4ss\u00e4 \"%2$s\": %3$s ei onnistunut"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "Kuvavariaatio luotiin uudelleen"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "Kuvavariaation uudelleen luominen ei onnistunut"
+        }
+    }
+}

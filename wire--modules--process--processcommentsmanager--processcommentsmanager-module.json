@@ -2,15 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
     "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
     "translations": {
-        "787d5f05953ec39b108869dfdd7733e6": {
-            "text": "hyv\u00e4ksytty"
-        },
-        "7c6c2e5d48ab37a007cbf70d3ea25fa4": {
-            "text": "odottaa"
-        },
-        "099af53f601532dbd31e0ea99ffdeb64": {
-            "text": "poista"
-        },
         "98a0736c51255f757cf109bccfa1d7e2": {
             "text": "Kommenttikentt\u00e4\u00e4 ei ole asennettu"
         },
@@ -38,9 +29,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "muokkaa"
         },
-        "193cfc9be3b995831c6af2fea6650e60": {
-            "text": "Sivu"
-        },
         "44749712dbec183e983dcd78a7736c41": {
             "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
         },
@@ -50,14 +38,8 @@
         "4dfbb099eafd3c82e033bf92946d3ce6": {
             "text": "S\u00e4hk\u00f6posti"
         },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "Tyyppi"
-        },
         "c6e190b284633c48e39e55049da3cce8": {
             "text": "Verkkosivusto"
-        },
-        "7f319b8ccad7e92033b9492ddbc4b522": {
-            "text": "\u00c4\u00e4nest\u00e4"
         },
         "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
             "text": "Vastaus kommenttiin %s"
@@ -69,7 +51,7 @@
             "text": "\/ %d"
         },
         "30f29dc6505d24512de6f3189a5bda62": {
-            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 kohteita"
+            "text": "Ei kommentteja"
         },
         "43ffce869929998c02ec3de3dd218d03": {
             "text": "%d vastaus"
@@ -83,9 +65,6 @@
         "2d13df6f8b5e4c5af9f87e0dc39df69d": {
             "text": "Odottaa"
         },
-        "e09f6a7593f8ae3994ea57e1117f67ec": {
-            "text": "="
-        },
         "b718adec73e04ce3ec720dd11a06a308": {
             "text": "="
         },
@@ -94,6 +73,45 @@
         },
         "e9dfd31cc505d51fc26975250750deab": {
             "text": "="
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Poista"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "d M"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Tila"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "\u00c4\u00e4net"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Aseta tila:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "sivua kohden"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Valitse kaikki \/ poista valinta"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Ei valittuja kohteita"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Toiminnot (valituille kohteille)"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 (uusi\u2013vanha)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 (vanha\u2013uusi)"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Lajittele:"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Sinulla on tallentamattomia muutoksia!"
         }
     }
 }

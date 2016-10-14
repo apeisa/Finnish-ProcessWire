@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Ajoj\u00e4rjestys"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Ajoj\u00e4rjestys t\u00e4lle moduulille muihin FileCompiler-moduuleihin n\u00e4hden. Mit\u00e4 pienempi numero, sit\u00e4 aiemmin moduuli ajetaan."
+        }
+    }
+}

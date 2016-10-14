@@ -34,6 +34,15 @@
         },
         "d837cc5a72556c5e2abf4b9fe10ddef8": {
             "text": "Kirjaudu sis\u00e4\u00e4n"
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Varoitus: \/site\/config.php -tiedostolle m\u00e4\u00e4ritetyt oikeudet ovat liian sallivat useissa ymp\u00e4rist\u00f6iss\u00e4:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lue \"Securing file permissions\" saadaksesi lis\u00e4tietoja"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Poistaaksesi t\u00e4m\u00e4n varoituksen k\u00e4yt\u00f6st\u00e4, aseta $config->chmodWarn = false; tiedostossa \/site\/config.php."
         }
     }
 }
