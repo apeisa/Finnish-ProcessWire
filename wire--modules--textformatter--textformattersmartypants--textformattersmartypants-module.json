@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Korvaa k\u00e4ytt\u00e4en UTF-8-merkkej\u00e4 HTML-entiteettien sijaan?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Oletuksena SmartyPants lis\u00e4\u00e4\/korvaa merkkej\u00e4 k\u00e4ytt\u00e4en HTML-entiteettej\u00e4."
+        }
+    }
+}

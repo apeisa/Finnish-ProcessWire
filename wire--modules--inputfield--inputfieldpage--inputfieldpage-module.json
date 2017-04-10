@@ -136,6 +136,15 @@
         },
         "1cc510dea04a978b3bb88514582eea6c": {
             "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja valitse Lis\u00e4asetukset-v\u00e4lilehti."
+        },
+        "c2d679cd03ddd5e9453a985a64d843af": {
+            "text": "M\u00e4\u00e4rit\u00e4 useita valittavissa olevien sivujen sivupohjia?"
+        },
+        "c009b187ad795266bfaf2af44d20e3da": {
+            "text": "Voit halutessasi valita useita valittavissa olevien sivujen sivupohjia."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Kaikki kentt\u00e4tyypit eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 tue t\u00e4t\u00e4 toimintoa."
         }
     }
 }

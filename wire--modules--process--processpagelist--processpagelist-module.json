@@ -61,6 +61,15 @@
         },
         "f0ebf50a114d563bc9bd51eb8df08f5a": {
             "text": "Jos t\u00e4m\u00e4 asetus on j\u00e4tetty oletusarvoksi, sen voi m\u00e4\u00e4ritt\u00e4\u00e4 my\u00f6s $config->pageList -taulukossa."
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "N\u00e4yt\u00e4 kaikki"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d sivua)"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "+"
         }
     }
 }

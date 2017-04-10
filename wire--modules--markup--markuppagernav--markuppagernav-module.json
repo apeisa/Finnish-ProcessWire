@@ -7,6 +7,24 @@
         },
         "14230d11143a03f4330c6433d5032a9d": {
             "text": "Edellinen"
+        },
+        "5c1d7f6d68bcbbf58273c6bd4685f31e": {
+            "text": "Sivutuslinkit"
+        },
+        "ac05c22d44b97ccc6b944f5607204892": {
+            "text": "Sivu {n}"
+        },
+        "a6a79c8cb4b01a0f36837edd624423ff": {
+            "text": "Sivu {n}, nykyinen sivu"
+        },
+        "374bea6cf8bd1e8fd64570b629cc6562": {
+            "text": "Seuraava sivu"
+        },
+        "16ded2dc32322d80ce2362a47f4d7ef4": {
+            "text": "Edellinen sivu"
+        },
+        "91a57398737d46b75f1238775121271d": {
+            "text": "Sivu {n}, viimeinen sivu"
         }
     }
 }

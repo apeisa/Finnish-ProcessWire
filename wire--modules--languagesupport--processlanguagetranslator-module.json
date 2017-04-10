@@ -151,6 +151,12 @@
         },
         "569502b1966b126a6efe0caa41995ea1": {
             "text": "Luo hakuindeksi"
+        },
+        "b2d2f26148deb14bf22ab1fcd1d231a1": {
+            "text": "Jos k\u00e4\u00e4nn\u00f6st\u00e4 ei m\u00e4\u00e4ritet\u00e4, yleinen k\u00e4\u00e4nn\u00f6s \"%s\" otetaan k\u00e4ytt\u00f6\u00f6n."
+        },
+        "54380879a24d554e549d4d18f998dfa9": {
+            "text": "Kirjoita plus-merkki \"+\" merkit\u00e4ksesi t\u00e4m\u00e4n kent\u00e4n k\u00e4\u00e4nnetyksi."
         }
     }
 }
