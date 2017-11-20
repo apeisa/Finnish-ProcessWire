@@ -104,9 +104,6 @@
         "b67b49a021c8f28a0be44e276cdcb145": {
             "text": "T\u00e4m\u00e4n avulla voit muokata editorissa n\u00e4kyv\u00e4n sis\u00e4ll\u00f6n ulkoasua. M\u00e4\u00e4ritykset kattavat vain hallintapaneelin editorin ulkoasun, ei mahdollisesti sivustolla olevien editorien ulkoasua."
         },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "Katso [k\u00e4ytt\u00f6ohje](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file)."
-        },
         "c329380c093af757e030c47c58fc31ae": {
             "text": "Editorissa k\u00e4ytett\u00e4v\u00e4 CSS-tiedosto (tavallinen tila)"
         },
@@ -118,9 +115,6 @@
         },
         "749b7a2316f526ff2ec75692749211ad": {
             "text": "T\u00e4m\u00e4n avulla voit m\u00e4\u00e4ritt\u00e4\u00e4 editorissa k\u00e4ytett\u00e4v\u00e4t tyylit. Ty\u00f6kalupalkin asetuksissa tulee olla k\u00e4yt\u00f6ss\u00e4 \"Styles\" -valikko."
-        },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "Katso [k\u00e4ytt\u00f6ohje](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set)."
         },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
             "text": "Kirjoita yksi s\u00e4\u00e4nt\u00f6 rivi\u00e4 kohden muodossa **avain: arvo**, tai k\u00e4yt\u00e4 JSON-muotoa."
@@ -217,6 +211,12 @@
         },
         "fb946d5480a9eb75edd868079b14cfac": {
             "text": "Laskuri ei ole tuettu upotetuissa CKEditor-kentiss\u00e4."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Katso [k\u00e4ytt\u00f6ohje](%s)."
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "K\u00e4ytett\u00e4viss\u00e4 olevat ytimen ty\u00f6kalut:"
         }
     }
 }

@@ -77,17 +77,56 @@
         "2878ed508d1b136f7b170f593c0ff00f": {
             "text": "Osio merkit\u00e4\u00e4n vanhaksi, jos se on ainakin 3 p\u00e4iv\u00e4\u00e4 vanha, ja sit\u00e4 ei ole t\u00e4ytetty tai julkaistu."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" toistajaan \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Poistettiin kentt\u00e4 \"%1$s\" toistajasta \"%2$s\""
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "Poistettiin %d vanhaa tai k\u00e4ytt\u00e4m\u00e4t\u00f6nt\u00e4 osiota"
         },
         "0fe1cc90d79ebfffb11a259cc05d406d": {
             "text": "Yl\u00e4sivu %s on nyt irrotettu ja se on siirrett\u00e4viss\u00e4 tai muokattavissa."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Lis\u00e4ttiin kentt\u00e4 \"%1$s\" kohteeseen \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Poistettiin kentt\u00e4 \"%1$s\" kohteesta \"%2$s\""
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Suurin sallittu kohteiden m\u00e4\u00e4r\u00e4"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Kirjoita suurin sallittu kohteiden m\u00e4\u00e4r\u00e4 (0 = ei rajoitusta)."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Lis\u00e4\u00e4 kentti\u00e4 t\u00e4h\u00e4n toistajaan \"Asetukset\"-v\u00e4lilehdell\u00e4."
+        },
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Toistajakent\u00e4lle \"%s\" on m\u00e4\u00e4ritetty \"Pakollinen vain jos\"-asetus, joka ei ole tuettu toistajille."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Avaa vain yksi osio kerrallaan?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Jos valittu, vain yksi toistajan osio voi olla avoinna."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Osioiden minimim\u00e4\u00e4r\u00e4"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Kirjoita osioiden minimim\u00e4\u00e4r\u00e4 (0 = ei minimim\u00e4\u00e4r\u00e4\u00e4)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Osoiden syvyys"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Kirjoita suurin sallittu syvyys, tai j\u00e4t\u00e4 tyhj\u00e4ksi jos et halua k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Toistajaa muokatessa voit muuttaa osion syvyytt\u00e4 vet\u00e4m\u00e4ll\u00e4 osiota vasemmalle tai oikealle."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Syvyysasetuksen l\u00e4ht\u00f6arvo on 0, jolloin arvo 3 sallii syvyydet 0, 1, 2 ja 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Osion syvyyden tulostus API:n kautta: $item->depth."
         }
     }
 }

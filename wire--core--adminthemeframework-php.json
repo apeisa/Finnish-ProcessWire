@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Lis\u00e4\u00e4 uusi"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "N\u00e4yt\u00e4 sivusto"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiili"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Kirjaudu ulos"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Sulje kaikki"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "K\u00e4yt\u00e4 t\u00e4t\u00e4 teemaa kirjautumisn\u00e4kym\u00e4ss\u00e4?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, t\u00e4m\u00e4 teema on k\u00e4yt\u00f6ss\u00e4 kun k\u00e4ytt\u00e4j\u00e4 kirjautuu sis\u00e4\u00e4n."
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "="
+        }
+    }
+}

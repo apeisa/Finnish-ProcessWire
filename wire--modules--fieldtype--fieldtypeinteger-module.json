@@ -9,10 +9,7 @@
             "text": "T\u00e4m\u00e4 vaikuttaa siihen, kuinka ProcessWire l\u00f6yt\u00e4\u00e4 sivuja tietokantahauilla."
         },
         "07be370e5cef3ea5961cdf07cb34f390": {
-            "text": "Jos 0 ja tyhj\u00e4 arvo tarkoittavat samaa, haku **kentta=0** ja **kentta=\"\"** tuottavat saman hakutuloksen."
-        },
-        "33865caeae8ea654a7fef819270e40b3": {
-            "text": "Jos 0 ja tyhj\u00e4 arvo eiv\u00e4t tarkoita samaa, haku **kentta=0** t\u00e4sm\u00e4\u00e4 vain sellaisiin sivuihin, joissa kentt\u00e4 sis\u00e4lt\u00e4\u00e4 arvon 0, ja haku **kentta=\"\"** t\u00e4sm\u00e4\u00e4 vain sivuihin, joissa kentt\u00e4 on tyhj\u00e4."
+            "text": "Jos 0 ja tyhj\u00e4 arvo tarkoittavat samaa, hakuehdot **kentta=0** ja **kentta=\"\"** tuottavat saman hakutuloksen."
         },
         "47ae95efefc63fa28854884d8c871228": {
             "text": "Esim. jos \"Kyll\u00e4\" on valittu, haku **kentta<1** t\u00e4sm\u00e4\u00e4 sivuihin, joissa kent\u00e4n arvo on 0 tai tyhj\u00e4, ja jos \"Ei\" on valittu, haku l\u00f6yt\u00e4\u00e4 vain sivut joissa kent\u00e4n arvo on 0."
@@ -28,6 +25,9 @@
         },
         "40adc22d3ad8d2d7a5e2b17a44ac2658": {
             "text": "T\u00e4m\u00e4 arvo asetetaan oletukseksi uutta sivua luodessa. Oletusarvoa ei aseteta aiemmin luoduille sivuille."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Jos ne eiv\u00e4t tarkoita samaa, hakuehto **kentta=0** t\u00e4sm\u00e4\u00e4 vain kenttiin, jotka sis\u00e4lt\u00e4v\u00e4t arvon 0, ja hakuehto **kentta=\"\"** t\u00e4sm\u00e4\u00e4 vain kenttiin, joille ei ole asetettu arvoa."
         }
     }
 }
