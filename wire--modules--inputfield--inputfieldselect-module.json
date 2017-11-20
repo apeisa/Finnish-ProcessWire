@@ -2,15 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldselect-module",
     "translations": {
-        "6b66a61fa66288a9a7ad6474d2e686ec": {
-            "text": "Oletusarvo"
-        },
-        "c37baf4e64db68f6887058399a37ad60": {
-            "text": "Valitaksesi yhden useamman oletusarvon, kirjoita arvot (1 rivi\u00e4 kohden). Jos arvo sis\u00e4lt\u00e4\u00e4 viittauksen johonkin sivuun, k\u00e4yt\u00e4 sivun ID-tunnistetta."
-        },
-        "d48cd2cb0f5c1d209800b28e019eb574": {
-            "text": "Oletusarvot ovat valittavissa, koska kentt\u00e4 on merkitty pakolliseksi."
-        },
         "dae8ace18bdcbcc6ae5aece263e14fe8": {
             "text": "Valinnat"
         },
@@ -34,6 +25,21 @@
         },
         "eed6fbc4de3755e7189b1461a4844bea": {
             "text": "Yksitt\u00e4isen arvon valinta pudotusvalikosta"
+        },
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Valitaksesi yhden tai useamman oletusarvon, kirjoita arvot (1 rivi\u00e4 kohden)."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Kirjoita kent\u00e4n oletusarvo."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Oletusarvo"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "K\u00e4yt\u00e4 sivun ID-tunnistetta m\u00e4\u00e4ritt\u00e4\u00e4ksesi jonkin sivun oletusarvoksi."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "T\u00c4RKE\u00c4\u00c4: Oletusarvoa ei k\u00e4ytet\u00e4, ellei kentt\u00e4\u00e4 ole asetettu pakolliseksi (katso \"Pakollinen\" -valinta t\u00e4ll\u00e4 sivulla)."
         }
     }
 }

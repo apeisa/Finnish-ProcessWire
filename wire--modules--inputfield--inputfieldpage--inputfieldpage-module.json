@@ -29,32 +29,11 @@
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(oletus)"
         },
-        "962f1366aaa6f1c636d3214e12322362": {
-            "text": "Valittavissa olevat sivut"
-        },
-        "21348aafc8733099a5b3c20e4a90e7b4": {
-            "text": "Valittavissa olevien sivujen yl\u00e4sivu"
-        },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
             "text": "Valitse valittavissa olevien sivujen yl\u00e4sivu"
         },
-        "dceea0994df5640514b906a18a43810f": {
-            "text": "Valittavissa olevien sivujen sivupohja"
-        },
-        "9f80067ff42d8e69d0c3a24b67ef4c85": {
-            "text": "Valitse t\u00e4ss\u00e4 kent\u00e4ss\u00e4 valittavissa olevien sivujen sivupohja. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
-        },
-        "53158583a607fba6e71f0f18d73a910b": {
-            "text": "Valitsin, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
-        },
-        "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valittavissa olevat sivut k\u00e4ytt\u00e4m\u00e4ll\u00e4 ProcessWiren valitsinta yll\u00e4 olevien yl\u00e4sivun tai sivupohjan valinnan sijaan, kirjoita t\u00e4h\u00e4n valitsin. T\u00e4ll\u00f6in kent\u00e4n valittavissa olevat sivut haetaan $pages->find(\"valitsin\"); -lausekkeen avulla. HUOM: T\u00e4m\u00e4 toiminto ei ole yhteensopiva PageListSelect -kentt\u00e4tyypin kanssa."
-        },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/tuotteet\/, template=tuote, sort=name"
-        },
-        "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "PHP-koodi, jota k\u00e4ytet\u00e4\u00e4n valittavissa olevien sivujen etsimiseen"
         },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "return $page->parent->parent->children(\"name=sijainnit\")->first()->children();"
@@ -65,29 +44,14 @@
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
             "text": "Kent\u00e4n tyyppi"
         },
-        "bcf331523fb730639bde7c2e8fc4f811": {
-            "text": "Valitse kent\u00e4n tyyppi, jota k\u00e4ytet\u00e4\u00e4n sivun valitsemiseen. Valitse tyyppi sen mukaan, tarvitseeko kent\u00e4n sis\u00e4lt\u00e4\u00e4 yksitt\u00e4isi\u00e4 vai useita sivuja."
-        },
-        "195a66e99428447940ac989366724b42": {
-            "text": "Kentt\u00e4tyypit jotka sis\u00e4lt\u00e4v\u00e4t t\u00e4htimerkin, ovat tarkoitettu useiden sivujen valintaan."
-        },
-        "54b79da80ed98094797b9e3ee68488a6": {
-            "text": "Kentt\u00e4tyypit jotka sis\u00e4lt\u00e4v\u00e4t plusmerkin, ovat tarkoitettu k\u00e4ytett\u00e4v\u00e4ksi vain silloin kun yl\u00e4sivuksi on asetettu sivukartan juurisivu."
-        },
         "8332fcbd80839cdcc617bee49529ad1e": {
             "text": "Salli uusien sivujen luominen kent\u00e4n kautta?"
         },
         "20463a1675fc256b438538124524746a": {
             "text": "Jos valittu, kentt\u00e4 sis\u00e4lt\u00e4\u00e4 valinnan uusien sivujen luomiseksi jos alla olevat ehdot t\u00e4yttyv\u00e4t."
         },
-        "7673446b991c59998763308c9f7f5d53": {
-            "text": "1. Sek\u00e4 yl\u00e4sivu ett\u00e4 sivupohja tulee olla valittuna."
-        },
         "65a208c6491dac4a6fb17f7a62f76658": {
             "text": "2. Sivua muokkaavalla k\u00e4ytt\u00e4j\u00e4ll\u00e4 tulee olla k\u00e4ytt\u00f6oikeus luoda\/julkaista n\u00e4it\u00e4 sivuja."
-        },
-        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
-            "text": "3. Nimikekentt\u00e4 tulee olla asetettu \"title (oletus)\""
         },
         "d9a5927aa49f1a766a15e692b69c1c91": {
             "text": "Kentt\u00e4moduulit, joita voidaan k\u00e4ytt\u00e4\u00e4 sivun valintaan"
@@ -103,9 +67,6 @@
         },
         "a9e792488572b1b5316720df20682ad3": {
             "text": "HUOM: Toiminto ei ole yhteensopiva PageListSelect tai Autocomplete -kentt\u00e4tyyppien kanssa."
-        },
-        "3d9e8a4318894ce247ba920c7961d5da": {
-            "text": "Vaikka toiminto yliajaa yll\u00e4 olevat m\u00e4\u00e4ritykset yl\u00e4sivulle ja sivupohjalle, niiden valintoja k\u00e4ytet\u00e4\u00e4n kent\u00e4n sy\u00f6tteen tarkitukseen (poista valinnat jos et halua kent\u00e4n k\u00e4ytt\u00e4ytyv\u00e4n n\u00e4in)."
         },
         "d8f9928df4675d892629c754932fad80": {
             "text": "Nimike"
@@ -125,9 +86,6 @@
         "190dcbcb68a0545eb0e38c4eca2961e0": {
             "text": "Esimerkki: {parent.title} - {title}, {date}"
         },
-        "ebd9ef41cdc1369f55f58b151390de31": {
-            "text": "Osa kent\u00e4n tyypeist\u00e4 sis\u00e4lt\u00e4v\u00e4t lis\u00e4asetuksia. Tallennuksen j\u00e4lkeen lis\u00e4asetukset tuodaan n\u00e4kyville t\u00e4m\u00e4n osion alapuolelle."
-        },
         "db62b7d9ccb858fb53481683f5d1d813": {
             "text": "T\u00e4m\u00e4n kent\u00e4n asetukset tulee m\u00e4\u00e4ritt\u00e4\u00e4 ennen k\u00e4ytt\u00f6\u00e4."
         },
@@ -137,14 +95,101 @@
         "1cc510dea04a978b3bb88514582eea6c": {
             "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja valitse Lis\u00e4asetukset-v\u00e4lilehti."
         },
-        "c2d679cd03ddd5e9453a985a64d843af": {
-            "text": "M\u00e4\u00e4rit\u00e4 useita valittavissa olevien sivujen sivupohjia?"
-        },
-        "c009b187ad795266bfaf2af44d20e3da": {
-            "text": "Voit halutessasi valita useita valittavissa olevien sivujen sivupohjia."
-        },
         "1bffba8c823b325ac5713f424da43182": {
             "text": "Kaikki kentt\u00e4tyypit eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 tue t\u00e4t\u00e4 toimintoa."
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Valittavissa olevat sivut"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "K\u00e4yt\u00e4 ainakin yht\u00e4 seuraavista vaihtoehdoista m\u00e4\u00e4ritt\u00e4\u00e4ksesi kent\u00e4ss\u00e4 valittavat sivut."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Yl\u00e4sivu"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sivupohja"
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "M\u00e4\u00e4rit\u00e4 valittavissa olevien sivujen sivupohja. T\u00e4m\u00e4 voidaan m\u00e4\u00e4ritt\u00e4\u00e4 yl\u00e4puolella valittavan yl\u00e4sivun sijaan tai sen lis\u00e4ksi."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Vaihtoehtoiset sivupohjat"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 valittavissa oleville sivuille my\u00f6s muita sivupohjia."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Lis\u00e4\u00e4 yksi tai useampi kentt\u00e4 luodaksesi valitsimen, joka etsii valittavissa olevat sivut."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Sivujen haku tapahtuu kent\u00e4n latauksen yhteydess\u00e4. Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 valitsimen k\u00e4sin, k\u00e4yt\u00e4 alla olevaa \"Valitsin\"-vaihtoehtoa."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Vaikka t\u00e4m\u00e4 toiminto yliajaa edell\u00e4 olevat m\u00e4\u00e4ritykset yl\u00e4sivulle ja sivupohjalle, niit\u00e4 kuitenkin k\u00e4ytet\u00e4\u00e4n sy\u00f6tteen tarkistukseen."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "Sivujen haku"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Lis\u00e4\u00e4 kentt\u00e4"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Valitsin"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 ProcessWiren valitsimen, jota k\u00e4ytet\u00e4\u00e4n sivujen hakuun. Valitsinta k\u00e4ytet\u00e4\u00e4n `$pages->find(\"valitsin\");` -metodin parametrin\u00e4."
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Lis\u00e4\u00e4 seuraava kiinnitys %s -tiedostoon ja muokkaa sit\u00e4 tarvittaessa. Koodi etsii ja palauttaa valittavat sivut PageArray-muodossa."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "K\u00e4yt\u00e4 %s paluttaaksesi muokattavana olevan sivun."
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "PHP-koodi"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4n tyyppi, jota k\u00e4ytet\u00e4\u00e4n sivujen valitsemiseen."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Useita sivuja"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Yksitt\u00e4inen sivu"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "lajiteltavissa"
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "M\u00e4\u00e4rit\u00e4 tyyppi yksitt\u00e4iselle tai useille sivuille riippuen \"Kent\u00e4n arvon tyyppi\" -m\u00e4\u00e4rityksest\u00e4 \"Asetukset\"-v\u00e4lilehdell\u00e4."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Mahdolliset tyyppiin liittyv\u00e4t lis\u00e4m\u00e4\u00e4ritykset n\u00e4ytet\u00e4\u00e4n tallennuksen j\u00e4lkeen t\u00e4m\u00e4n kent\u00e4n alla."
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "Huomautus liittyen \"Page list\" -kentt\u00e4tyyppiin"
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Olet valinnut kentt\u00e4tyypin, johon liittyy erityisvaatimuksia."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "M\u00e4\u00e4rit\u00e4 ainoastaan \"Yl\u00e4sivu\"-valinta kun m\u00e4\u00e4rit\u00e4t valittavissa olevia sivuja."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Huomaa, ett\u00e4 valittua yl\u00e4sivua k\u00e4ytet\u00e4\u00e4n kent\u00e4n sivukartan juurisivuna."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 kaikki sivut valittaviksi, j\u00e4t\u00e4 t\u00e4m\u00e4 valinta tyhj\u00e4ksi."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. Sek\u00e4 yl\u00e4sivu, ett\u00e4 sivupohja tulevat olla m\u00e4\u00e4ritetty yll\u00e4 olevassa \"Valittavissa olevat sivut\" -osiossa."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. \"Nimike\" tulee olla asetettu arvoon \"title (oletus)\"."
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Asetukset kentt\u00e4tyypille \"%s\""
         }
     }
 }

@@ -43,6 +43,9 @@
         },
         "00796cc045b871fe7b2867edef6aaaf7": {
             "text": "Poistaaksesi t\u00e4m\u00e4n varoituksen k\u00e4yt\u00f6st\u00e4, aseta $config->chmodWarn = false; tiedostossa \/site\/config.php."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Varoitus: palvelimen locale-m\u00e4\u00e4rityst\u00e4 ei ole tehty, mik\u00e4 voi aiheuttaa ongelmia."
         }
     }
 }

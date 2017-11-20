@@ -407,8 +407,8 @@
         "496fe18d4a1185b1236724440ed4ade6": {
             "text": "Alla oleva nappi poistaa k\u00e4\u00e4nnetyt moduuli- ja sivupohjatiedostot. K\u00e4\u00e4nn\u00f6kset luodaan uudelleen seuraavalla kerralla kun tiedostoja k\u00e4ytet\u00e4\u00e4n. Huomaa, ett\u00e4 tiedostojen k\u00e4\u00e4nt\u00e4minen uudelleen saattaa aiheuttaa v\u00e4liaikaisen viiveen."
         },
-        "cebc0576aea62c59ee4ab6b11793d0ab": {
-            "text": "Asentaminen saattaa aiheuttaa ongelmia. Haluatko varmasti asentaa?"
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "Moduulivaatimukset eiv\u00e4t t\u00e4yty, joten asentaminen saattaa aiheuttaa ongelmia. Haluatko varmasti jatkaa asennusta?"
         }
     }
 }
