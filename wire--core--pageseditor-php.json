@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Kent\u00e4n \"%s\" tallennus ei onnistunut"
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Sivupohjaa \u201c%s\u201d k\u00e4ytt\u00e4v\u00e4 sivu ei ole siirrett\u00e4viss\u00e4."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Valittu yl\u00e4sivu \u201c%1$s\u201d k\u00e4ytt\u00e4\u00e4 sivupohjaa \u201c%2$s\u201d, joka ei salli alasivuja."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Sivua \u201c%1$s\u201d ei voida siirt\u00e4\u00e4, koska sivun \u201c%3$s\u201d k\u00e4ytt\u00e4m\u00e4 sivupohja \u201c%2$s\u201d ei salli sivupohjaa \u201c%4$s\u201d k\u00e4ytt\u00e4vi\u00e4 alasivuja."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Sivua \u201c%1$s\u201d ei voida siirt\u00e4\u00e4, koska sen sivupohja \u201c%4$s\u201d ei salli uuden yl\u00e4sivun \u201c%3$s\u201d k\u00e4ytt\u00e4m\u00e4\u00e4 sivupohjaa \u201c%2$s\u201d."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Valittu yl\u00e4sivu \u201c%1$s\u201d sis\u00e4lt\u00e4\u00e4 jo \u201c%2$s\u201d-nimisen sivun."
         }
     }
 }
