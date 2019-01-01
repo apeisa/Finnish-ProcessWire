@@ -70,6 +70,18 @@
         },
         "ab848ea82288648eb2aabe4e9e2f4dc6": {
             "text": "Kun k\u00e4ytt\u00e4j\u00e4 kirjautuu hallintapaneeliin, ProcessWire kehoittaa k\u00e4ytt\u00e4ji\u00e4 ottamaan k\u00e4ytt\u00f6\u00f6n kaksivaiheisen tunnistautumisen."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Aseta locale-m\u00e4\u00e4rityksen \u201cC\u201d k\u00e4\u00e4nn\u00f6s kaikille kielille kohteessa %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Esimerkiksi locale-asetus US English on: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Lis\u00e4\u00e4 t\u00e4m\u00e4 asetus %1$s -tiedostoon (muokkaa \u201c%2$s\u201d tarpeen mukaan):"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "fi-FI"
         }
     }
 }

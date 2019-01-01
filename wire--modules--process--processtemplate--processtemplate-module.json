@@ -961,6 +961,24 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "%d kentt\u00e4\u00e4"
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Muokkausoikeuksien ja yliajojen lis\u00e4m\u00e4\u00e4ritykset"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Voit vapaaehtoisesti lis\u00e4t\u00e4 tai kumota roolien oikeuksia t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4viin sivuihin (tai sivuihin, jotka periv\u00e4t k\u00e4ytt\u00f6oikeusm\u00e4\u00e4ritykset t\u00e4lt\u00e4 sivupohjalta)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "N\u00e4ytett\u00e4v\u00e4t asetukset riippuvat yll\u00e4 m\u00e4\u00e4ritetyist\u00e4 \"Sivujen muokkaus\"-oikeuksista. Jos teet muutoksia yll\u00e4 oleviin \"Sivujen muokkaus\"-oikeuksiin, tallenna sivupohja, jolloin muutokset p\u00e4ivittyv\u00e4t t\u00e4h\u00e4n."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Lis\u00e4\u00e4 oikeuksia rooleittain"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Kumoa oikeuksia rooleittain"
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Valinnat n\u00e4ytet\u00e4\u00e4n muodossa \"rooli: oikeus\". L\u00f6yd\u00e4t lis\u00e4tietoa rooleista [klikkaamalla t\u00e4st\u00e4](%s)."
         }
     }
 }

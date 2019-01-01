@@ -211,6 +211,105 @@
         },
         "a6255d9c8319899dbe7c65dc74f9307a": {
             "text": "Tuontidata ei ole kelvollisessa muodossa"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Ei n\u00e4ytett\u00e4vi\u00e4 tietoja"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Sivupohjaa \u201c%s\u201d k\u00e4ytt\u00e4vi\u00e4 sivuja ei voida tuoda, koska kyseist\u00e4 sivupohjaa ei ole olemassa."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Valitse sivupohja, joka asetetaan k\u00e4ytt\u00f6\u00f6n n\u00e4ille sivuille."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: Korvataan sivupohja \u201c%1$s\u201d sivupohjalla \u201c%2$s\u201d"
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Valitse sivupohjalle \u201c%s\u201d korvaava sivupohja"
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Tuontidata sis\u00e4lt\u00e4\u00e4 kent\u00e4n \u201c%s\u201d, joka k\u00e4ytt\u00e4\u00e4 kentt\u00e4tyyppi\u00e4 %s, mutta kentt\u00e4tyyppi\u00e4 ei ole asennettu."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Jos haluat tuoda t\u00e4m\u00e4n kent\u00e4n, valitse korvaava kentt\u00e4."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: Korvataan kentt\u00e4 \u201c%1$s\u201d kent\u00e4ll\u00e4 \u201c%2$s\u201d"
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Valitse korvaava kentt\u00e4 kent\u00e4lle \u201c%s\u201d"
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "Potentiaaliset kent\u00e4t, joita k\u00e4ytet\u00e4\u00e4n korvaamiseen"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Muut kent\u00e4t (eiv\u00e4t ole v\u00e4ltt\u00e4m\u00e4tt\u00e4 yhteensopivia)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Valitse uusi yl\u00e4sivu"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Sivun \u201c%s\u201d alasivuja ei voida tuoda, koska kyseist\u00e4 sivua ei ole olemassa."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Valitse sivu, jota k\u00e4ytet\u00e4\u00e4n n\u00e4iden sivujen yl\u00e4sivuna."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: Korvataan yl\u00e4sivu \u201c%1$s\u201d sivulla \u201c%2$s\u201d"
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Valitse korvaava sivu yl\u00e4sivulle \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Ristiriidat"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Tuonnin yhteenveto"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Tuo sivut valitun sivun alasivuiksi ja s\u00e4ilyt\u00e4 sivukartan rakenne"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Tuo kaikki sivut valitun sivun suoriksi alasivuiksi"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Sivun nimi"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Sivun tila"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Sivun lajitteluindeksi"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Luo uusi sivu: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Sivupohja: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "T\u00e4ytetyt kent\u00e4t:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "Muutetut kent\u00e4t:"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Tuonti onnistui"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Tuo t\u00e4m\u00e4 sivu?"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "Tuotiin %d sivu"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Tuotiin %d sivua"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Testattiin %d sivun tuonti"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Testattiin %d sivun tuonti"
         }
     }
 }

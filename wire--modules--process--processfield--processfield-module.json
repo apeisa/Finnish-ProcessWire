@@ -601,6 +601,12 @@
         },
         "2452cab12330c0a3ce62f7974eb82ba6": {
             "text": "Poista konteksti-yliajot"
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "kun k\u00e4yt\u00f6ss\u00e4 on: %s"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Asetusten yliajot kent\u00e4n nimiavaruudelle: %s"
         }
     }
 }
