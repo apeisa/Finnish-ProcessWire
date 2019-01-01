@@ -82,6 +82,12 @@
         },
         "4106d43df925487225450293085f8bad": {
             "text": "Oikeus \u201c%1$s\u201d sivupohjalle \u201c%2$s\u201d ei ole sallittu (vaatii oikeuden \u201c%3$s\u201d)"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s lis\u00e4tty sivupohjalle %2$s, klikkaa muokataksesi"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s kumottu sivupohjasta %2$s, klikkaa muokataksesi"
         }
     }
 }
