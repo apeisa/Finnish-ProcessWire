@@ -15,7 +15,73 @@
             "text": "Hallitse k\u00e4ytt\u00e4j\u00e4rooleja ja niihin kytkett\u00e4vi\u00e4 oikeuksia"
         },
         "e0c8b59640bc35bac606431203d2d9b0": {
-            "text": "Tutustu [ohjeeseen](%s) saadaksesi lis\u00e4tietoa k\u00e4ytt\u00f6oikeuksien m\u00e4\u00e4ritt\u00e4misest\u00e4."
+            "text": "[Tutustu ohjeeseen](%s) saadaksesi lis\u00e4tietoa k\u00e4ytt\u00f6oikeuksien m\u00e4\u00e4ritt\u00e4misest\u00e4."
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Mink\u00e4 tyyppisi\u00e4 sivuja t\u00e4m\u00e4 rooli voi katsoa?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Mink\u00e4 tyyppisi\u00e4 sivuja t\u00e4m\u00e4 rooli voi muokata?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Mink\u00e4 tyyppisille sivuille t\u00e4m\u00e4 rooli voi lis\u00e4t\u00e4 alasivuja?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Mink\u00e4 tyyppisi\u00e4 sivuja t\u00e4m\u00e4 rooli voi luoda?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Jos haluat lis\u00e4t\u00e4 oikeuden {permission} vain tietyille sivupohjille, valitse sivupohjat t\u00e4ss\u00e4 ja j\u00e4t\u00e4 oikeus {permission} valitsematta."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "Oikeus {permission} on valittu, ja asetus vaikuttaa kaikkiin sivupohjiin, joita rooli voi muokata. Voit valita sivupohjat, joiden osalta oikeus {permission} kumotaan. Lis\u00e4t\u00e4ksesi oikeuden vain tiettyihin sivupohjiin, poista ensin oikeuden {permission} valinta."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Huomaa, ett\u00e4 roolille tulee olla asetettu page-edit -oikeus kaikille yll\u00e4 valittaville sivupohjille."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "Suurin osa sivupohjiin liittyvist\u00e4 oikeuksista vaatii, ett\u00e4 k\u00e4ytt\u00e4j\u00e4ll\u00e4 on page-edit -oikeus kyseiseen sivupohjaan. Jos haluttu sivupohja ei ole listalla, tulee sille ensin ottaa k\u00e4ytt\u00f6\u00f6n oikeuksien hallinta (katso \u201cK\u00e4ytt\u00f6oikeudet\u201d-v\u00e4lilehti sivupohjan muokkausn\u00e4kym\u00e4ss\u00e4)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "Toisin kuin useimpien oikeuksien kohdalla, sivupohjan page-edit -oikeus ei ole pakollinen t\u00e4lle oikeudelle."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Huomaa: superuser-roolilla on aina t\u00e4ydet k\u00e4ytt\u00f6oikeudet, joten oikeuksien m\u00e4\u00e4ritt\u00e4minen ei ole n\u00e4kyvill\u00e4."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nimi|kuvaus|"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Lis\u00e4\u00e4 alasivuja tietty\u00e4 sivupohjaa k\u00e4ytt\u00e4ville sivuille"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Luo sivuja k\u00e4ytt\u00e4en tietty\u00e4 sivupohjaa"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "T\u00e4m\u00e4 oikeus voidaan asettaa vain sivupohjakohtaisesti."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "T\u00e4m\u00e4 oikeus on vaadittu kaikille rooleille."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "asetus p\u00e4tee kaikkiin muokattaviin sivupohjiin"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Jos t\u00e4m\u00e4 valinta on k\u00e4yt\u00f6ss\u00e4, oikeus lis\u00e4t\u00e4\u00e4n kaikille muokattaville sivupohjille. Oikeus on kuitenkin m\u00e4\u00e4ritetty erikseen yhdelle tai useammalle sivupohjalle. Suosittelemme poistamaan erilliset valinnat n\u00e4ist\u00e4 sivupohjista. Haluatko varmasti ottaa t\u00e4m\u00e4n valinnan k\u00e4ytt\u00f6\u00f6n?"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Lis\u00e4\u00e4 sivupohjalle: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Kumoa sivupohjasta: %s"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(vaadittu, koska oikeus periytyy guest-roolilta)"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Klikkaa avataksesi\/sulkeaksesi oikeuksien m\u00e4\u00e4rittelyt"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Oikeus \u201c%1$s\u201d sivupohjalle \u201c%2$s\u201d ei ole sallittu (vaatii oikeuden \u201c%3$s\u201d)"
         }
     }
 }
