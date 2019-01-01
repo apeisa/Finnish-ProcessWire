@@ -67,6 +67,12 @@
         },
         "f4af86e3db12bdead0c6b4f370e361de": {
             "text": "(rivi %d tiedostossa %s)"
+        },
+        "65b0f2becffb61cb9f5fba232f7b9987": {
+            "text": "Vakava virhe"
+        },
+        "20fa2ae21e1e86068218568c8ed8619e": {
+            "text": "Strict-varoitus"
         }
     }
 }
