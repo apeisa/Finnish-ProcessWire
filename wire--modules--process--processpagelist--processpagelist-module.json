@@ -24,7 +24,7 @@
             "text": "Roskakori"
         },
         "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Voit halutessasi yliajaa t\u00e4m\u00e4n asetuksen sivupohjakohtaisesti kunkin sivupohjan \"lis\u00e4asetukset\" -v\u00e4lilehdell\u00e4."
+            "text": "Voit halutessasi yliajaa t\u00e4m\u00e4n asetuksen sivupohjakohtaisesti kunkin sivupohjan \"Lis\u00e4asetukset\" -v\u00e4lilehdell\u00e4."
         },
         "94d3f06b64640bda750ee1d7c7527fe4": {
             "text": "Animaation pituus (millisekunteina)"
@@ -70,6 +70,39 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "+"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Salli muiden kuin superuser-k\u00e4ytt\u00e4jien k\u00e4ytt\u00e4\u00e4 roskakoria?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Jos valittu, k\u00e4ytt\u00e4j\u00e4t voivat n\u00e4hd\u00e4 roskakorissa olevat sellaiset sivut, joihin k\u00e4ytt\u00e4jill\u00e4 on k\u00e4ytt\u00f6oikeus."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Asetus tuo k\u00e4ytt\u00f6\u00f6n my\u00f6s \"Siirr\u00e4 roskakoriin\"- ja \"Palauta\"-toiminnot, jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 on k\u00e4ytt\u00f6oikeus niihin."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Alasivujen m\u00e4\u00e4r\u00e4n n\u00e4ytt\u00e4minen"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Sivukartassa n\u00e4ytet\u00e4\u00e4n kunkin sivun kohdalla alasivujen m\u00e4\u00e4r\u00e4. Mitk\u00e4 alasivut lasketaan t\u00e4h\u00e4n m\u00e4\u00e4r\u00e4\u00e4n?"
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Vain v\u00e4litt\u00f6m\u00e4t alasivut (oletus)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Kaikki alasivut"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Molemmat: v\u00e4litt\u00f6m\u00e4t alasivut\/kaikki alasivut"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Molemmat: kaikki alasivut\/v\u00e4litt\u00f6m\u00e4t alasivut"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "N\u00e4yt\u00e4 sivun ID-tunniste alasivujen m\u00e4\u00e4r\u00e4n sijaan"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Jos n\u00e4ytet\u00e4\u00e4n kaikkien alasivujen m\u00e4\u00e4r\u00e4, se sis\u00e4lt\u00e4\u00e4 my\u00f6s sellaiset sivut, jotka eiv\u00e4t ole listattavissa k\u00e4ytt\u00e4j\u00e4lle."
         }
     }
 }

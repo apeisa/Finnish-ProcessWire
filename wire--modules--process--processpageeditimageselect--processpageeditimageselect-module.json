@@ -205,6 +205,12 @@
         },
         "575acda05a24ee8b606cee4f25024afe": {
             "text": "Sinulla ei ole oikeuksia muokata t\u00e4m\u00e4n sivun kuvia."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "\u00c4l\u00e4 aseta width-attibuutteja kuvatageille?"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Oletuksena moduuli asettaa width-attribuutin img-tagille. Toimintoa ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 tarvita responsiivisille kuville."
         }
     }
 }

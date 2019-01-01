@@ -17,9 +17,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Suodattimet"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Suodata kent\u00e4n mukaan"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "Valitse kentt\u00e4, jolloin vain kyseisen kent\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat n\u00e4ytet\u00e4\u00e4n"
         },
@@ -58,9 +55,6 @@
         },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Voit kirjoittaa useita nimi\u00e4 erottamalla ne toisistaan v\u00e4lily\u00f6nnill\u00e4."
-        },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "\u00c4l\u00e4 sis\u00e4llyt\u00e4 tiedostop\u00e4\u00e4tett\u00e4 nimeen"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Muokkaa sivupohjaa: %s"
@@ -200,9 +194,6 @@
         "18dec3122ea08276dd94476904bcef7b": {
             "text": "Sivupohjaa ei voi poistaa, koska sivupohjan kentt\u00e4ryhm\u00e4 on %d muun sivupohjan k\u00e4yt\u00f6ss\u00e4"
         },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Nimi on jo k\u00e4yt\u00f6ss\u00e4"
-        },
         "0968f67bf85224770756cc134016da2b": {
             "text": "Oletuksena kuhunkin sivupohjaan m\u00e4\u00e4ritet\u00e4\u00e4n sille kuuluvat kent\u00e4t. Jos haluat t\u00e4m\u00e4n sivupohjan k\u00e4ytt\u00e4v\u00e4n jonkin toisen sivupohjan kentti\u00e4, valitse sivupohja t\u00e4h\u00e4n."
         },
@@ -296,9 +287,6 @@
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Sivupohjan tiedosto ei ole kirjoitustilassa ja se tulee nimet\u00e4 uudelleen k\u00e4sin (ohjeet tulevat n\u00e4kyville tallennuksen j\u00e4lkeen)."
         },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Yhdistelm\u00e4 kirjaimia (a-z), numeroita (0-9), tavuviivoja ja alaviivoja (ei v\u00e4lily\u00f6ntej\u00e4). \u00c4l\u00e4 sis\u00e4llyt\u00e4 .php -tiedostop\u00e4\u00e4tett\u00e4 nimeen."
-        },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Luo kopio sivupohjasta?"
         },
@@ -323,41 +311,17 @@
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen sivupohjaa ei voi vaihtaa toiseen."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ Tai 0 poistaaksesi k\u00e4yt\u00f6st\u00e4"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "\u00c4l\u00e4 salli julkaisemattomia sivuja"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Jos valittu, vain julkaistut sivut ovat sallittuja, eik\u00e4 niiden julkaisua voida poistaa k\u00e4yt\u00f6st\u00e4."
         },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ Tai 0 poistaaksesi k\u00e4yt\u00f6st\u00e4"
-        },
         "6064635b0dec3189859052c02adc0fc5": {
             "text": "Salli 'luonut k\u00e4ytt\u00e4j\u00e4' -tiedon vaihtaminen?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Jos valittu, voi superuser-k\u00e4ytt\u00e4j\u00e4 vaihtaa 'luonut k\u00e4ytt\u00e4j\u00e4' -tiedon t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vill\u00e4 sivuilla. Lis\u00e4ksi $page->createdUser ja $page->created_users_id -kent\u00e4t ovat tallennettavissa API:n kautta."
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template-> allowChangeUser = 1; \/\/ Tai 0 poistaaksesi k\u00e4yt\u00f6st\u00e4"
-        },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Sivun nimen muotoilu"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 muotoilun sivuille, jota k\u00e4ytet\u00e4\u00e4n uutta sivua luodessa. T\u00e4m\u00e4 ohittaa \"Lis\u00e4\u00e4 uusi\" -osion uutta sivua luodessa. Jotta t\u00e4m\u00e4 ominaisuus toimisi, tulee yl\u00e4sivun sivupohjaan m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4m\u00e4 sivupohja ainoaksi sallituksi alasivuksi. (katso \"Perhe\"-v\u00e4lilehti yl\u00e4sivun k\u00e4ytt\u00e4m\u00e4n sivupohjan asetuksista)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "Voit kirjoittaa t\u00e4h\u00e4n mit\u00e4 tahansa teksti\u00e4. Jos uutta sivua luodessa nimi ei ole yksil\u00f6llinen, sen loppuun lis\u00e4t\u00e4\u00e4n numero jota kasvatetaan kunnes nimi on yksil\u00f6llinen."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "Jos haluat nimen koostuvan kent\u00e4st\u00e4 title: kirjoita \"title\" (ilman lainausmerkkej\u00e4)."
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "Jos haluat sivun nimen koostuvan luontip\u00e4iv\u00e4m\u00e4\u00e4r\u00e4st\u00e4 tai -ajasta, kirjoita [p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n muotoilu](http:\/\/www.php.net\/manual\/en\/function.date.php). Muotoilun tulee sis\u00e4lt\u00e4\u00e4 ainakin yksi ei-alfanumeerinen merkki (kuten kauttaviiva \"\/\" tai kaksoispiste \":\"), jotta se tunnistetaan p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4muotoiluksi. Esimerkki: \"Y\/m\/d H:i:s\" muodostaa sivun nimeksi \"2014-10-30-12-39-01\". Ei-alfanumeeriset merkit muunnetaan tavuviivoiksi."
         },
         "7de04564993d28e2b32be513c1575777": {
             "text": "K\u00e4ytt\u00f6oikeudet m\u00e4\u00e4ritetty"
@@ -514,9 +478,6 @@
         },
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Jos haluat est\u00e4\u00e4 sivujen siirt\u00e4misen (yl\u00e4sivun vaihtamisen), valitse t\u00e4m\u00e4."
-        },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ Tai 0 poistaaksesi k\u00e4yt\u00f6st\u00e4"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "Poista k\u00e4yt\u00f6st\u00e4 roskakoriin siirt\u00e4minen"
@@ -929,15 +890,6 @@
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "Jos valittu, vain oletuskieli on k\u00e4yt\u00f6ss\u00e4 t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vill\u00e4 sivuilla."
         },
-        "2ae2316266d64c1c1caa543c16fe62bc": {
-            "text": "API: $template->noLang = 1; \/\/ oletusarvo on 0."
-        },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Sivupohjan kopion nimi ei ole kelvollinen"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Sivupohjaa ei voitu kopioida, koska valittu nimi on toisen sivupohjan k\u00e4yt\u00f6ss\u00e4"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Luotiin kopio sivupohjasta \"%1$s\" nimell\u00e4 \"%2$s\"."
         },
@@ -982,6 +934,33 @@
         },
         "363b220544077dba6890921e123486dc": {
             "text": "Virheellinen sijoitus kentt\u00e4ryhm\u00e4lle\/v\u00e4lilehdelle \"%s\" - korjaa asetus ja tallenna uudelleen"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Sivupohjan nimi voi sis\u00e4lt\u00e4\u00e4 kirjaimia (a-z A-Z), numeroita (0-9), tavuviivoja ja alaviivoja."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Vain pienten kirjainten k\u00e4ytt\u00f6 on vapaaehtoista, mutta suositeltavaa."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "\u00c4l\u00e4 sis\u00e4llyt\u00e4 nimeen tiedoston p\u00e4\u00e4tett\u00e4."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Sivupohjan nimi ei vastaa vaadittua muotoilua."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Suodata kent\u00e4n mukaan"
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Jos lis\u00e4sit \u00e4skett\u00e4in kentti\u00e4 yl\u00e4puolella olevaan listaan, tallenna sivupohja, jolloin kent\u00e4t tulevat valittaviksi."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "m\u00e4\u00e4rit\u00e4 0 ottaaksesi asetuksen pois k\u00e4yt\u00f6st\u00e4"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d kentt\u00e4"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d kentt\u00e4\u00e4"
         }
     }
 }

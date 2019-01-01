@@ -14,9 +14,6 @@
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Pakollinen tieto puuttuu: nimi"
         },
-        "9e31eadc87a42dd9b75f4b4d141c192b": {
-            "text": "Valitsemasi sivun nimi on jo k\u00e4yt\u00f6ss\u00e4. Kirjoita toinen nimi."
-        },
         "9c99ecab6aa8967c077e01a0b3f51668": {
             "text": "Luotiin sivu %1$s k\u00e4ytt\u00e4en sivupohjaa: %2$s."
         },
@@ -34,9 +31,6 @@
         },
         "7d4be9f67818bd22d064880270a3e4af": {
             "text": "Tallenna + Julkaise"
-        },
-        "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Varoitus: Valittu nimi \"%1$s\" oli jo k\u00e4yt\u00f6ss\u00e4 ja vaihdettiin muotoon \"%2$s\"."
         },
         "bb8bbda58833ce19eef6193e1918e8cf": {
             "text": "Poista automaattinen julkaisu k\u00e4yt\u00f6st\u00e4"
@@ -82,6 +76,12 @@
         },
         "591d3e7786bdfa26890da22a5565f1f5": {
             "text": "Tallenna + Julkaise + Lis\u00e4\u00e4 uusi"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "Sivulle tulee m\u00e4\u00e4ritt\u00e4\u00e4 sivupohja"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Varoitus: Valittu nimi \"%1$s\" oli jo k\u00e4yt\u00f6ss\u00e4 ja vaihdettiin muotoon \"%2$s\"."
         }
     }
 }

@@ -25,6 +25,15 @@
         },
         "170635e560a679be3d1a532e2979d08c": {
             "text": "Ei rastitettu"
+        },
+        "abef8912ef3f167ed726c6a56288dce5": {
+            "text": "Rastitettavan ruudun nimike"
+        },
+        "ad96619d37c6ca42363be76aba496b26": {
+            "text": "Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 eri nimikkeet kent\u00e4lle ja rastitettavalle ruudulle, kirjoita t\u00e4h\u00e4n rastitettavan ruudun nimike."
+        },
+        "fee76a03fa4f7d7f0cbb391c9474316d": {
+            "text": "Oletuksena rastitettavalle ruudulle asetetaan sama nimike kuin kent\u00e4lle."
         }
     }
 }

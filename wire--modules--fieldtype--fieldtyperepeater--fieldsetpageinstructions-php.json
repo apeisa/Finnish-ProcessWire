@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Esimerkkiteksti"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Kent\u00e4n k\u00e4ytt\u00f6ohjeet"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4ryhm\u00e4 k\u00e4ytt\u00e4\u00e4 omaa erillist\u00e4 sivuaan (piilossa k\u00e4ytt\u00e4j\u00e4lt\u00e4), johon tallennetaan kenttien arvot."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Voit k\u00e4ytt\u00e4\u00e4 kentt\u00e4ryhm\u00e4n avulla uudelleen sellaisia kentti\u00e4, jotka ovat jo k\u00e4yt\u00f6ss\u00e4 sivupohjassa."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Esimerkiksi \"title\"-kentt\u00e4 voi olla jo k\u00e4yt\u00f6ss\u00e4 sivulla, mutta sama kentt\u00e4 voi olla k\u00e4yt\u00f6ss\u00e4 my\u00f6s kentt\u00e4ryhm\u00e4ss\u00e4."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "T\u00e4m\u00e4 on mahdollista, koska kentt\u00e4ryhm\u00e4n kent\u00e4t ovat omassa nimiavaruudessaan ja erotettuna sivusta."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Alla on esimerkkej\u00e4 kent\u00e4n k\u00e4yt\u00f6st\u00e4 sivupohjatiedostoissa API:n avulla."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Arvon noutaminen:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Arvon tulostaminen:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Arvon tulostaminen merkkaukseen:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Arvon asettaminen:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Arvon asettaminen ja tallennus:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "jos tarpeellista, asettaa tulostuksen muotoilun pois p\u00e4\u00e4lt\u00e4"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Kentt\u00e4ryhm\u00e4n osoittaminen toiseen (lyhyemp\u00e4\u00e4n) muuttujaan ja arvon tulostaminen:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Kentt\u00e4ryhm\u00e4n sis\u00e4lt\u00e4vien sivujen etsiminen, joissa kentt\u00e4 \u201c%s\u201d sis\u00e4lt\u00e4\u00e4 tekstin \"example\":"
+        }
+    }
+}

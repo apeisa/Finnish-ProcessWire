@@ -14,9 +14,6 @@
         "180efa8a9b1cfee25988715f7d673dbc": {
             "text": "Vaihtoehto A: front-endiss\u00e4 muokattavat kent\u00e4t"
         },
-        "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Valitut tekstikent\u00e4t ovat muokattavissa suoraan sivulta."
-        },
         "78badcbc932189f3c876e9f2f55350cd": {
             "text": "(ei suositella)"
         },
@@ -54,7 +51,7 @@
             "text": "Huomaa, ett\u00e4 jos edit-attribuutti on k\u00e4yt\u00f6ss\u00e4, kent\u00e4n muokkaus tapahtuu modaali-ikkunassa. Kaikki muut vaihtoehdot k\u00e4ytt\u00e4v\u00e4t upotettua editoria, jos sen k\u00e4ytt\u00f6 on tuettu."
         },
         "d0526ac74110f73ee2926fd2d650c4a9": {
-            "text": "**Ole varovainen jos k\u00e4yt\u00e4t t\u00e4t\u00e4 vaihtoehtoa:** Jos tulostat kent\u00e4n arvon useampaan kuin yhteen paikkaan samalla sivulla, sinun tulisi t\u00e4m\u00e4n sijaan k\u00e4ytt\u00e4\u00e4 vaihtoehtoa [Vaihtoehtoa B, C tai D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+            "text": "**Ole varovainen jos k\u00e4yt\u00e4t t\u00e4t\u00e4 vaihtoehtoa:** Jos tulostat kent\u00e4n arvon useampaan kuin yhteen paikkaan samalla sivulla, sinun tulisi t\u00e4m\u00e4n sijaan k\u00e4ytt\u00e4\u00e4 [Vaihtoehtoa B, C tai D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
         },
         "f16845125537677cf6b52cc53b2e1ee7": {
             "text": "Vaihtoehto A: editorin ulottuvuus"
@@ -115,6 +112,9 @@
         },
         "f1206f9fadc5ce41694f69129aecac26": {
             "text": "Muokkaa asetuksia"
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Valitut tekstikent\u00e4t ovat muokattavissa suoraan sivulta."
         }
     }
 }

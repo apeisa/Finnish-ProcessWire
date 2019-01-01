@@ -154,6 +154,87 @@
         },
         "98ebe60c452735dc2ef2249c835eddfe": {
             "text": "Asetus koskee vain palvelimella pienennett\u00e4vi\u00e4 kuvia."
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Kohdistuspiste"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "vaihda kohdistuspistett\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Toiminnot"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Toiminto suoritetaan tallennuksen yhteydess\u00e4."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Peilaa"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "pystysuuntaisesti"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "vaakasuuntaisesti"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "vaaka- ja pystysuuntaisesti"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Py\u00f6rit\u00e4"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Kopioi"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Poista variaatiot"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Luo variaatiot uudelleen"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Poista kohdistuspiste"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopioi"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Liit\u00e4"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "Harmaas\u00e4vy"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "Seepia"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Kopioitiin tiedosto %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "Suoritettiin toiminto \u201c%1$s\u201d tiedostoon %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Toiminnon \u201c%1$s\u201d suorittaminen tiedostoon %2$s ep\u00e4onnistui"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Kohdistuspisteen valinta"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Jos t\u00e4m\u00e4 toiminto on k\u00e4yt\u00f6ss\u00e4, k\u00e4ytt\u00e4j\u00e4 voi merkit\u00e4 kuvaan kohdistuspisteen, jonka mukaan kuvasta voidaan luoda erikokoisia rajauksia."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Kohdistuspisteen esikatselu n\u00e4ytet\u00e4\u00e4n, jos kent\u00e4n listaustavaksi on valittu \"Neli\u00f6t\"."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Kohdistuspiste"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Kohdistuspiste ja zoomaus"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "K\u00e4sittelij\u00e4\u00e4 toiminnolle \u201c%1$s\u201d ei l\u00f6ytynyt tiedostossa %2$s"
         }
     }
 }

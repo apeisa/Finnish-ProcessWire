@@ -1,0 +1,45 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Peruuta"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "K\u00e4yt\u00f6ss\u00e4"
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Tunnistautumiskoodin luominen tai l\u00e4hetys ei onnistunut"
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Tunnistautumiskoodi"
+        },
+        "c6996a9b16d74c744965162e5cf0a35e": {
+            "text": "Kirjoita tunnistautumiskoodi kirjautuaksesi sis\u00e4\u00e4n."
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Suurin sallittu yritysten m\u00e4\u00e4r\u00e4 on t\u00e4yttynyt"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Aikarajoitus on t\u00e4yttynyt"
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Koodi on vanhentunut"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Koodi on virheellinen"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Kaksivaiheinen tunnistautuminen on k\u00e4yt\u00f6ss\u00e4!"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "M\u00e4\u00e4rit\u00e4 asetukset"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Kaksivaiheisen tunnistautumisen tyyppi"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Muuttaaksesi asetuksia, valitse \"Ei mik\u00e4\u00e4n\"-valinta ja tallenna sivu."
+        }
+    }
+}

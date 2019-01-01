@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Kentt\u00e4ryhm\u00e4n sis\u00e4lt\u00e4m\u00e4t kent\u00e4t"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4t, jotka kuuluvat t\u00e4h\u00e4n kentt\u00e4ryhm\u00e4\u00e4n. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "Kentt\u00e4ryhm\u00e4 (Sivu)"
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Kentt\u00e4ryhm\u00e4, jonka kent\u00e4t ovat eristetty omaan nimiavaruuteensa (sivu)."
+        }
+    }
+}

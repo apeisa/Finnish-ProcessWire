@@ -217,6 +217,21 @@
         },
         "f05a8abeb447b6720621d879a9197d00": {
             "text": "K\u00e4ytett\u00e4viss\u00e4 olevat ytimen ty\u00f6kalut:"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Kuvakent\u00e4t joita k\u00e4ytet\u00e4\u00e4n editoriin raahattavien tai liitett\u00e4vien kuvien tallennukseen"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Jos kentti\u00e4 ei ole m\u00e4\u00e4ritetty, k\u00e4ytett\u00e4v\u00e4 kentt\u00e4 valitaan automaattisesti. Jos k\u00e4yt\u00f6ss\u00e4 on valinta \"Ei kuvakentti\u00e4\", ominaisuus ei ole k\u00e4yt\u00f6ss\u00e4."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Ei kuvakentti\u00e4 (kuvien raahaus tai liitt\u00e4minen editoriin ei k\u00e4yt\u00f6ss\u00e4)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Sivu jota k\u00e4ytet\u00e4\u00e4n kuvien\/tiedostojen s\u00e4ilytykseen"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Oletusarvoisesti palvelimelle ladatut kuvat tallennetaan muokattavan sivun tiedostoiksi. Voit halutessasi valita jonkin toisen sivun, jota k\u00e4ytet\u00e4\u00e4n tiedostojen s\u00e4ilytykseen."
         }
     }
 }

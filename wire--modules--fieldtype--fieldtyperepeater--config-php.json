@@ -90,10 +90,10 @@
             "text": "Poistettiin kentt\u00e4 \"%1$s\" kohteesta \"%2$s\""
         },
         "90ed744894b90ce9c561d6a428cad4ee": {
-            "text": "Suurin sallittu kohteiden m\u00e4\u00e4r\u00e4"
+            "text": "Osioiden maksimim\u00e4\u00e4r\u00e4"
         },
         "528f529d4617eb805a332c782f8666fe": {
-            "text": "Kirjoita suurin sallittu kohteiden m\u00e4\u00e4r\u00e4 (0 = ei rajoitusta)."
+            "text": "Kirjoita osioiden suurin sallittu m\u00e4\u00e4r\u00e4 (0 = ei maksimim\u00e4\u00e4r\u00e4\u00e4)."
         },
         "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
             "text": "Lis\u00e4\u00e4 kentti\u00e4 t\u00e4h\u00e4n toistajaan \"Asetukset\"-v\u00e4lilehdell\u00e4."
@@ -111,7 +111,7 @@
             "text": "Osioiden minimim\u00e4\u00e4r\u00e4"
         },
         "d167f14d9682362265c133aca323b335": {
-            "text": "Kirjoita osioiden minimim\u00e4\u00e4r\u00e4 (0 = ei minimim\u00e4\u00e4r\u00e4\u00e4)."
+            "text": "Kirjoita osioiden pienin sallittu m\u00e4\u00e4r\u00e4 (0 = ei minimim\u00e4\u00e4r\u00e4\u00e4)."
         },
         "d0deefb333b608453cbec94b81a136de": {
             "text": "Osoiden syvyys"

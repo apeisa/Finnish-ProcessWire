@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Seuraavat toimet"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Jatkaaksesi monikielisyystuen asentamista, suosittelemme seuraavien toimien suorittamista."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Linkit avautuvat uuteen v\u00e4lilehteen."
+        },
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Klikkaa asentaaksesi:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Lis\u00e4\u00e4 ja muokkaa olemassa olevia kieli\u00e4"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Vaihda \"title\"-kent\u00e4n tyypiksi \"Page Title (Multi-language)"
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Vaihda tarvittaessa muiden tekstikenttien tyypeiksi \"Text (Multi-language)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Vaihda tarvittaessa \"Textarea\"-kenttien tyypeiksi Textarea (Multi-language)\""
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Asenna \"LanguageSupportFields\"-moduuli ennen tekstikenttien tyypin vaihtamista."
+        }
+    }
+}

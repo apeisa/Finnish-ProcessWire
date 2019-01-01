@@ -250,6 +250,117 @@
         },
         "25ed18e06e982b711a80310caf119563": {
             "text": "Sivun katselu"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Poista"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Mitk\u00e4 sivut linkitt\u00e4v\u00e4t t\u00e4h\u00e4n sivuun?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Ei listattavissa"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "L\u00f6ydettiin %d sivua, jotka linkitt\u00e4v\u00e4t t\u00e4h\u00e4n sivuun Sivu-tyyppisten kenttien tai href-linkkien kautta."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(sivu-tyyppinen kentt\u00e4)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(href-linkki)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d sivua ei n\u00e4ytet\u00e4."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "T\u00e4h\u00e4n sivuun linkitt\u00e4vi\u00e4 sivuja ei l\u00f6ytynyt."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Mitk\u00e4 URL-osoitteet uudelleenohjaavat t\u00e4h\u00e4n sivuun?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Kun sivu siirret\u00e4\u00e4n, tai sen nimi muuttuu, sen alkuper\u00e4inen sijainti tai nimi tallennetaan uudelleenohjausta varten."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Allaolevassa listassa olevat URL-osoitteet (polut) uudelleenohjataan automaattisesti t\u00e4h\u00e4n sivuun k\u00e4ytt\u00e4en 301-uudelleenohjausta (permanent)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Voit poistaa polkuja\/URL-osoitteita tai lis\u00e4t\u00e4 uusia."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Ei uudelleenohjauksia"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Ei viel\u00e4"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Poistettiin uudelleenohjaus edellisest\u00e4 URL-osoitteesta: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Lis\u00e4\u00e4 uusia uudelleenohjauksia URL-osoitteista"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Kirjoita polkuja\/URL-osoitteita (yksi rivi\u00e4 kohden), joiden tulee uudelleenohjata t\u00e4lle sivulle."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Kirjoita pelkk\u00e4 polku (esim. \"\/hei\/maailma\/\"). \u00c4l\u00e4 sis\u00e4llyt\u00e4 m\u00e4\u00e4ritykseen skeemaa, domain-nime\u00e4, porttia, parametrej\u00e4 tai fragmentteja."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Polut ovat relatiivisia sivuston juureen, joten \u00e4l\u00e4 sis\u00e4llyt\u00e4 %s hakemistoa polun alkuun."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "M\u00e4\u00e4ritt\u00e4\u00e4ksesi uudelleenohjauksen kielen, lis\u00e4\u00e4 polun alkuun kielen nimi:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/kielen\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(kielelle %s)"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Palauta"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Siirr\u00e4 sivu pois roskakorista ja palauta se alkuper\u00e4iseen sijaintiinsa."
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Rastita t\u00e4m\u00e4 vahvistaaksesi sivun palauttamisen."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Sivu palautetaan sijaintiin: **%s.**"
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Alkuper\u00e4inen nimi **%1$s** vaihdetaan muotoon **%2$s**, jotta se on yksil\u00f6llinen."
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Lis\u00e4ttiin uudelleenohjaus: %s"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Palautettiin sivu: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Sivun palauttaminen ei onnistunut"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "URL-osoite"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Milloin?"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Kieli"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Yl\u00e4sivu"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Sivua ei voitu palauttaa, koska toiminnon suorittamisessa tapahtui virhe"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Uudelleenohjausta \"%s\" ei voitu lis\u00e4t\u00e4, koska se on ristiriidassa toisen polun kanssa"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Nykyinen"
         }
     }
 }
