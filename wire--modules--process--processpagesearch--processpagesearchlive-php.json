@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Hakusanaa ei ole m\u00e4\u00e4ritetty"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Sivut"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Roskakori"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduulit"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "N\u00e4yt\u00e4 kaikki"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "Hakutulokset"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "tai mik\u00e4 tahansa kent\u00e4n nimi"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "testi"
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "Hakee kohteesta \"%1$s\" hakusanalla: \"%2$s\""
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "Hakee ominaisuutta \"%1$s\" kohteesta \"%2$s\" hakusanalla: \"%3$s\""
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Esimerkit k\u00e4ytt\u00e4v\u00e4t \u201c=\u201d-operaattoria."
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "Joissakin tapauksissa voit k\u00e4ytt\u00e4\u00e4 my\u00f6s n\u00e4it\u00e4:"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "operaattorit:"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "asetukset"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Klikkaa t\u00e4st\u00e4 muuttaaksesi haun asetuksia"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "Sama kuin yll\u00e4 (lyhyempi syntaksi)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Rajoita tulokset koskemaan vain sivupohjaa: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Rajoita tulokset koskemaan vain kentt\u00e4\u00e4 %s jossakin sivupohjassa"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Etsi sivupohjat, jotka sis\u00e4lt\u00e4v\u00e4t kent\u00e4n: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Etsi kent\u00e4t, joiden asetuksissa on \u201cckeditor\u201d"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(vie hiiri t\u00e4h\u00e4n n\u00e4hd\u00e4ksesi lis\u00e4\u00e4)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Esimerkit"
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Voit my\u00f6s k\u00e4ytt\u00e4\u00e4 mit\u00e4 tahansa n\u00e4ist\u00e4 ominaisuuksista:"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "ominaisuudet"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "%s-ohjeet"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "%d kohdetta"
+        }
+    }
+}

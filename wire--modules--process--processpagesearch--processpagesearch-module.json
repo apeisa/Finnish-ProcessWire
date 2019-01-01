@@ -80,29 +80,8 @@
         "1da914fe3f639d8b3d977a006d2b0c69": {
             "text": "L\u00f6ytyi %1$d sivu seuraavalla haulla: %2$s"
         },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Kent\u00e4t"
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
-            "text": "Sivupohjat"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Moduulit"
-        },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Sivut"
-        },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Oletuskent\u00e4t joista etsit\u00e4\u00e4n"
-        },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Kirjoita yksi tai useampi tekstikent\u00e4n nimi v\u00e4lily\u00f6nnill\u00e4 eroteltuina."
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "Kentt\u00e4\/kent\u00e4t joista haetaan hallintapaneelin Ajax-hakutoiminnolla"
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "On suositeltavaa rajoittaa kenttien m\u00e4\u00e4r\u00e4 yhteen tai kahteen, koska tulokset n\u00e4ytet\u00e4\u00e4n hakusanaa kirjoitettaessa. Yleens\u00e4 haku kohdistuu sivun otsikkokentt\u00e4\u00e4n."
         },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Oletuskent\u00e4t jotka n\u00e4ytet\u00e4\u00e4n hakutuloksissa"
@@ -110,8 +89,71 @@
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "Jos m\u00e4\u00e4rit\u00e4t useita kentti\u00e4, erota ne toisistaan v\u00e4lily\u00f6nnill\u00e4."
         },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Oletus-hakuoperaattori"
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "Alkaa:"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "P\u00e4\u00e4ttyy:"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Hakutulosten j\u00e4rjestys"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Hallintapaneelin haku"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Haku kohdistuu seuraaviin ryhmiin."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Voit j\u00e4rjestell\u00e4 ryhm\u00e4t vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(ei sis\u00e4lly hakuun)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "\u00c4l\u00e4 sis\u00e4llyt\u00e4 seuraavia ryhmi\u00e4 hakuun"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Valitse ryhm\u00e4t, jotka haluat hyl\u00e4t\u00e4 hakutuloksista. Voit valita esimerkiksi sellaiset ryhm\u00e4t, joista ei tarvitse tehd\u00e4 usein hakuja."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Mit\u00e4 useampi ryhm\u00e4 on valittu hyl\u00e4tt\u00e4v\u00e4ksi, sit\u00e4 nopeammin haku toimii."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Hyl\u00e4tyist\u00e4 ryhmist\u00e4 voidaan tehd\u00e4 hakuja hakuoperaattorien avulla."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Jos olet valinnut hyl\u00e4tt\u00e4v\u00e4ksi \"trash\"-ryhm\u00e4n, voit tehd\u00e4 siit\u00e4 hakuja lis\u00e4\u00e4m\u00e4ll\u00e4 hakusanan eteen \"trash=\", kuten \"trash=hello\"."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Kent\u00e4t joihin haku kohdistetaan"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Asetus vaikuttaa vain tuloksiin \"pages\"- ja \"trash\"-ryhmist\u00e4."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Suosittelemme, ett\u00e4 rajoitat t\u00e4m\u00e4n asetuksen yhteen tai enint\u00e4\u00e4n kahteen kentt\u00e4\u00e4n varmistaaksesi ett\u00e4 haku toimii nopeasti. Normaalisti haku kohdistuu vain \"title\"-kentt\u00e4\u00e4n."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Kent\u00e4t joihin haku kohdistetaan, kun k\u00e4ytt\u00e4j\u00e4 painaa \"enter\"-n\u00e4pp\u00e4int\u00e4 hakulomakkeella"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Normaalisti t\u00e4m\u00e4 asetus on sama kuin yll\u00e4, mutta voit halutessasi lis\u00e4t\u00e4 muitakin kentti\u00e4."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Voit esimerkiksi kohdistaa haun \"title\"-kent\u00e4n lis\u00e4ksi my\u00f6s \"body\"-kentt\u00e4\u00e4n."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Oletushakuoperaattori hauille, joissa on yksitt\u00e4inen tai osittainen sana"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "*Hakuoperaattori tukee hakuja osittaisille sanoille"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Oletushakuoperaattori hauille, joissa on useita sanoja"
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(miss\u00e4 tahansa j\u00e4rjestyksess\u00e4)"
         }
     }
 }

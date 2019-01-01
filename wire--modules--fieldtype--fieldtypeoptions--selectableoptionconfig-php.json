@@ -46,6 +46,18 @@
         },
         "c766e5be484b0e0a2104bc2fe925000c": {
             "text": "Poista n\u00e4m\u00e4 valinnat"
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "API-esimerkki"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Tulosta yksitt\u00e4inen valinta:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Tulosta useita valintoja:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Jos haluat tulostaa valinnan arvon otsikon sijaan, vaihda esimerkkikoodissa ominaisuuden \"title\" tilalle \"value\"."
         }
     }
 }

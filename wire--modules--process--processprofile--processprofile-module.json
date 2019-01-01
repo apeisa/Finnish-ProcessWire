@@ -22,6 +22,48 @@
         },
         "85337e04345622f27e1230c61efa9fd0": {
             "text": "Mit\u00e4 kentti\u00e4 k\u00e4ytt\u00e4j\u00e4 voi muokata omissa tiedoissaan?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Nimike"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tyyppi"
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "K\u00e4ytt\u00e4j\u00e4nimi"
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "K\u00e4ytt\u00e4j\u00e4nimi voi sis\u00e4lt\u00e4\u00e4 pieni\u00e4 kirjaimia a-z, 0-9, tavuviivoja tai alaviivoja."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Virheellinen salasana"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Salasanaa ei kirjoitettu"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Ei sallittu"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Muutettiin muotoon \u201c%s\u201d, joka eroaa kirjoittamastasi"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Liian lyhyt"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Liian pitk\u00e4"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "On jo k\u00e4yt\u00f6ss\u00e4"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Turvallisuussyist\u00e4 kirjoita nykyinen salasanasi tallentaaksesi seuraavat muutokset:"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Ei saa sis\u00e4lt\u00e4\u00e4 per\u00e4kk\u00e4isi\u00e4 tavuviivoja, alaviivoja tai pisteit\u00e4"
         }
     }
 }

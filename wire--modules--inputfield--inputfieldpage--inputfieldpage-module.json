@@ -92,9 +92,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Sivua %1$s ei ole julkaistu, eik\u00e4 sit\u00e4 voida k\u00e4ytt\u00e4\u00e4 kent\u00e4ss\u00e4 \"%2$s\""
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja valitse Lis\u00e4asetukset-v\u00e4lilehti."
-        },
         "1bffba8c823b325ac5713f424da43182": {
             "text": "Kaikki kentt\u00e4tyypit eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 tue t\u00e4t\u00e4 toimintoa."
         },
@@ -190,6 +187,9 @@
         },
         "89f32c3a56b097c4da3f220687f2cad5": {
             "text": "Asetukset kentt\u00e4tyypille \"%s\""
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja muuta asetusta \"Asetukset\"-v\u00e4lilehdell\u00e4."
         }
     }
 }

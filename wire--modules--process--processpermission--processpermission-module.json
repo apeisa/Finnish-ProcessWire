@@ -12,7 +12,7 @@
             "text": "Asenna esim\u00e4\u00e4ritettyj\u00e4 j\u00e4rjestelm\u00e4n k\u00e4ytt\u00f6oikeuksia"
         },
         "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
-            "text": "Rastita ruutu asennettavan k\u00e4ytt\u00f6oikeuden kohdalta."
+            "text": "Valitse asennettavat k\u00e4ytt\u00f6oikeudet"
         },
         "349838fb1d851d3e2014b9fe39203275": {
             "text": "Asenna"
@@ -22,6 +22,15 @@
         },
         "baa866af125aefed417409d878f6d013": {
             "text": "Lis\u00e4ttiin k\u00e4ytt\u00f6oikeus: %s"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Jos oikeus on asennettu, k\u00e4ytt\u00e4j\u00e4ll\u00e4 tulee olla oikeus suorittaa kyseinen teht\u00e4v\u00e4."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Jos oikeutta EI ole asennettu, k\u00e4ytt\u00f6oikeus my\u00f6nnet\u00e4\u00e4n jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 on muokkausoikeus kyseiseen resurssiin."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Jos oikeus asennetaan, se saattaa poistaa olemassa olevan k\u00e4ytt\u00f6oikeuden k\u00e4ytt\u00e4j\u00e4lt\u00e4, ellei oikeutta ole liitetty k\u00e4ytt\u00e4j\u00e4n rooliin."
         }
     }
 }

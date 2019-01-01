@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Vie"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Tuo"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Nimike"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tyyppi"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Kyll\u00e4"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ei"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Mitk\u00e4 sivut haluat vied\u00e4?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Valitse sivut"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Sivut jotka sis\u00e4lt\u00e4v\u00e4t valitun yl\u00e4sivun"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Sivut jotka vastaavat hakua"
+        },
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Vienti\/tuonti on saatavilla vain superuser-k\u00e4ytt\u00e4jille"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Tuo sivut JSON-merkkijonosta"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Liit\u00e4 kentt\u00e4\u00e4n t\u00e4ll\u00e4 ty\u00f6kalulla aiemmin luotu JSON-merkkijono."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Tuo sivut lataamalla ZIP-tiedosto"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Jatka"
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "Vie kent\u00e4t"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "Oletuksena kaikki sivujen k\u00e4ytt\u00e4m\u00e4t tuetut kent\u00e4t sis\u00e4llytet\u00e4\u00e4n vientiin."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Jos haluat vied\u00e4 vain osan kentist\u00e4, valitse kent\u00e4t t\u00e4ss\u00e4."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Jos kentti\u00e4 ei valita, kaikki tuetut kent\u00e4t sis\u00e4llytet\u00e4\u00e4n vientiin."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Miten haluat tallentaa viennin?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Lataa ZIP-tiedosto"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "JSON-merkkijono"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Valitse aina ZIP-tiedosto, jos haluat sis\u00e4llytt\u00e4\u00e4 vientiin tiedostot ja kuvat."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Vie"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON-merkkijono (oletus)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "ZIP-tiedoston lataus"
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Lis\u00e4asetukset"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Sis\u00e4llyt\u00e4 m\u00e4\u00e4ritetty yl\u00e4sivu vientiin"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Rekursiivinen"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Sis\u00e4llyt\u00e4 piilotetut sivut"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Sis\u00e4llyt\u00e4 piilotetut ja julkaisemattomat sivut"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "M\u00e4\u00e4rit\u00e4 hakuehdot valitaksesi viet\u00e4v\u00e4t sivut"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Lis\u00e4\u00e4 yksi tai useampi hakuehto viet\u00e4vien sivujen m\u00e4\u00e4ritt\u00e4miseksi."
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Valitse sivut"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Valitse yksi tai useampi sivu"
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Valitse yl\u00e4sivu"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Valitse sivu, jonka alasivut sis\u00e4llytet\u00e4\u00e4n vientiin."
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Vie koko sivupuu, sis\u00e4llytt\u00e4en kaikki mahdolliset alasivut"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Viennin data"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Klikkaa kentt\u00e4\u00e4n valitaksesi tekstin kopiointia varten."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Voit k\u00e4ytt\u00e4\u00e4 kopioitua teksti\u00e4 tuodaksesi sivuja toiseen ProcessWire-asennukseen."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Tee uusi vienti"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "T\u00e4m\u00e4 vienti sis\u00e4lt\u00e4\u00e4 %d sivun."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "T\u00e4m\u00e4 vienti sis\u00e4lt\u00e4\u00e4 %d sivua."
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "L\u00f6ydettiin %d tuotava sivu"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "L\u00f6ydettiin %d tuotavaa sivua"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d uutta, %d olemassa olevaa"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Tuontitapa"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Luo uudet sivut ja p\u00e4ivit\u00e4 olemassa olevat"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Luo uudet sivut"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Ohita sivut jotka ovat jo olemassa"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "P\u00e4ivit\u00e4 olemassa olevat sivut"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Ohita uudet sivut"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Valitse yl\u00e4sivu tuotaville sivuille"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "Jos yl\u00e4sivu m\u00e4\u00e4ritet\u00e4\u00e4n, sivut tuodaan m\u00e4\u00e4ritetyn sivun alasivuiksi."
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Valitse yl\u00e4sivu"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "Tuotavat kent\u00e4t"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "Seuraavat kent\u00e4t l\u00f6ydettiin tuontidatasta."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Voit halutessasi ohittaa joidenkin kenttien tuonnin."
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Tuotavat sivut"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Sivu: %s \u2013 Ep\u00e4onnistui"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Sivu: %s"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Sivua ei voida tuoda"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Testaa tuonti"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Viimeistele tuonti"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "P\u00e4ivit\u00e4 olemassa oleva sivu: %s"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Muutoksia ei l\u00f6ytynyt"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Tuontidataa ei l\u00f6ytynyt"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "Tuontidata ei ole kelvollisessa muodossa"
+        }
+    }
+}

@@ -25,6 +25,12 @@
         },
         "ed6ad8c8924b2e836590cad9cc6c9328": {
             "text": "60 = 1 minuutti, 300 = 5 minuuttia, 600 = 10 minuuttia, 3600 = 1 tunti, 86400 = 1 p\u00e4iv\u00e4"
+        },
+        "1e1e8e326d1d9a6a539b91fbe60a702a": {
+            "text": "Kirjautuminen estettiin liiallisten kirjautumisyritysten vuoksi."
+        },
+        "8d20dfe684273bce0c81cab1de853cc9": {
+            "text": "Tallenna lokiin merkint\u00e4, kun k\u00e4ytt\u00e4j\u00e4\/IP-osoite estet\u00e4\u00e4n?"
         }
     }
 }

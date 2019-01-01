@@ -89,9 +89,6 @@
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Moduulin luokkanimi"
         },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Voit selata moduuleja moduulihakemistossa. Asentaaksesi moduulin, kirjoita tai liit\u00e4 moduulin \"class name \/ luokkanimi\" t\u00e4h\u00e4n."
-        },
         "3b0798392299a74418470d3f13b5eec2": {
             "text": "Moduulihakemiston l\u00f6yd\u00e4t osoitteesta [modules.processwire.com\/](http:\/\/modules.processwire.com\/)"
         },
@@ -409,6 +406,18 @@
         },
         "f83f6b012ba134e5168ab27e4587b2d3": {
             "text": "Moduulivaatimukset eiv\u00e4t t\u00e4yty, joten asentaminen saattaa aiheuttaa ongelmia. Haluatko varmasti jatkaa asennusta?"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Voit selata moduuleja moduulihakemistossa ja etsi\u00e4 moduulin, jonka haluat ladata ja asentaa."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Kirjoita tai liit\u00e4 moduulin luokkanimi, ja klikkaa \"%s\" jatkaaksesi."
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Hae moduulin tiedot"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Lataa moduuli"
         }
     }
 }

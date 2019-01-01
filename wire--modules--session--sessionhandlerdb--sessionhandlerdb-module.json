@@ -13,6 +13,18 @@
         },
         "703fdc8134134754f6630df73ee50572": {
             "text": "\"User Agent\" sis\u00e4lt\u00e4\u00e4 tietoa k\u00e4ytt\u00e4j\u00e4n selaimesta."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "\u00c4l\u00e4 salli rinnakkaisia istuntoja?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Jos toiminto on k\u00e4yt\u00f6ss\u00e4, onnistunut kirjautuminen p\u00e4\u00e4tt\u00e4\u00e4 kaikki muut kyseisen k\u00e4ytt\u00e4j\u00e4n istunnot muilla laitteilla\/selaimissa."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Rastittamalla t\u00e4m\u00e4n voit sallia k\u00e4ytt\u00e4j\u00e4lt\u00e4 vain yhden istunnon kerrallaan."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n \"%s\" edellinen istunto poistettiin."
         }
     }
 }
