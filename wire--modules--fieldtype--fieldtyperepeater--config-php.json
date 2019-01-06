@@ -127,6 +127,33 @@
         },
         "8b3964c39c4eb2db458965c40689f5a0": {
             "text": "Osion syvyyden tulostus API:n kautta: $item->depth."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Suurin sallittu osioiden m\u00e4\u00e4r\u00e4"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Kirjoita osioiden suurin sallittu m\u00e4\u00e4r\u00e4"
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Jos arvoksi asetetaan 0, osioiden m\u00e4\u00e4r\u00e4\u00e4 ei rajoiteta."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Normaalisti kentt\u00e4 palauttaa useita osioita [PageArray]. Jos arvoksi asetetaan 1, kentt\u00e4 palauttaa yksitt\u00e4isen osion [Page]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Huomaa, ett\u00e4 jos tulostuksen muotoilu (outputFormatting) on pois k\u00e4yt\u00f6st\u00e4, kentt\u00e4 palauttaa aina PageArrayn huolimatta t\u00e4ss\u00e4 m\u00e4\u00e4ritetyst\u00e4 asetuksesta."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Toistajan tyyppi"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Jos tyypiksi valitaan \"kiinnitetty\", toistaja hallinnoi omaan sivupohjaansa ja yl\u00e4sivuansa."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Jos tyypiksi valitaan \"irrotettu\", voit siirt\u00e4\u00e4 ja muokata toistajan yl\u00e4sivua ja sivupohjaa."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Huomaa, ett\u00e4 jos tyypiksi vaihdetaan \"irrotettu\", ProcessWire ei poista yl\u00e4sivua eik\u00e4 sivupohjaa jos kentt\u00e4 poistetaan."
         }
     }
 }

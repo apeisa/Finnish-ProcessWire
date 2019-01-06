@@ -88,6 +88,51 @@
         },
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(katso %s -loki)"
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Merkkauksen\/HTML:n laadunvarmistuksen yhteenveto:"
+        },
+        "91032d1254768e880dbbeede54e35a79": {
+            "text": "%d paikallista a[href] -tagia"
+        },
+        "5fcef18456ba78863a5a57e162279d2d": {
+            "text": "%d paikallista img[src] -tagia"
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "1 selvitt\u00e4m\u00e4t\u00f6nt\u00e4 a[href] -tagia"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d selvitt\u00e4m\u00e4t\u00f6nt\u00e4 img[src] -tagia"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "P\u00e4ivitettiin HTML-valinnat %1$d \/ %2$d sivulle."
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Muut HTML-valinnat otetaan k\u00e4ytt\u00f6\u00f6n ajonaikaisesti."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d ulkoista a[href] -tagia"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d sis\u00e4ist\u00e4\/abstraktia linkki\u00e4 sivulle"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d tiedostoviittausta"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d suhteellista a[href] -tagia p\u00e4ivitettiin"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d paikallista a[href] -tagia, jotka eiv\u00e4t viittaa sivuun tai ovat tunnistamattomia"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d ei-http a[href] -linkki\u00e4, kuten mailto, tel jne."
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d selvitt\u00e4m\u00e4t\u00f6nt\u00e4 ja korjattua img[src] -tagia"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d tyhj\u00e4\u00e4 img[alt] -tagia, jotka t\u00e4ytet\u00e4\u00e4n ajonaikaisesti"
         }
     }
 }

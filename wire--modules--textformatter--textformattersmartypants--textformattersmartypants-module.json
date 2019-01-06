@@ -16,6 +16,12 @@
         },
         "8265970592705983b3983796fe0bb408": {
             "text": "Kyll\u00e4 (kaikki)"
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Jos havaitset kaksinkertaisia enkoodauksia, kokeile ottaa k\u00e4ytt\u00f6\u00f6n korvaaminen UTF-8-merkeill\u00e4."
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Huomaa, ett\u00e4 jos valitset \"kaikki\", seuraavat enkoodatut merkit dekoodataan, vaikka ne eiv\u00e4t olisi SmartyPantsin lis\u00e4\u00e4mi\u00e4:"
         }
     }
 }
