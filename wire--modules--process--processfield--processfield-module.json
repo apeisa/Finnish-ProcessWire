@@ -607,6 +607,15 @@
         },
         "be777931cbea33cf8f3a5f5cd994ea93": {
             "text": "Asetusten yliajot kent\u00e4n nimiavaruudelle: %s"
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "**Varoitus:** moduulin tekij\u00e4 on saattanut m\u00e4\u00e4ritt\u00e4\u00e4 asetuksia, joiden yliajaminen t\u00e4ss\u00e4 ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi, tai voi aiheuttaa ongelmia."
+        },
+        "7ce33a363647f83aa612fc538dcb8214": {
+            "text": "Seuraavat asetukset yliajavat kent\u00e4n alkuper\u00e4iset asetukset, kun kentt\u00e4\u00e4 k\u00e4ytet\u00e4\u00e4n sivupohjan \"%s\" kontekstissa."
+        },
+        "b5781496c3e514537473d4edd038152a": {
+            "text": "Poistaaksesi jonkin yliajon (ja palauttaaksesi kent\u00e4n alkuper\u00e4isen arvon), rastita ruutu halutun asetuksen kohdalta."
         }
     }
 }
