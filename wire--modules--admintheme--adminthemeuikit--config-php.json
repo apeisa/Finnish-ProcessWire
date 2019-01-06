@@ -268,6 +268,30 @@
         },
         "127278ab533d9fcec53fa6c0947df913": {
             "text": "Toinen kentt\u00e4"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Navigointi (vasen) + sivukartta (oikea)"
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "Lis\u00e4\u00e4 pystysuuntainen v\u00e4listys KAIKKIIN kentt\u00e4tyyppeihin?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "Jos valittu, pystysuuntainen marginaali lis\u00e4t\u00e4\u00e4n jokaiseen kentt\u00e4\u00e4n."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Joissakin tapauksissa t\u00e4m\u00e4 voi tuoda selkeytt\u00e4 editointin\u00e4kym\u00e4\u00e4n, mutta vaatii enemm\u00e4n pystysuuntaista tilaa."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "Kentt\u00e4tyypit, joiden tulee k\u00e4ytt\u00e4\u00e4 \u201cCard\u201d-tyyli\u00e4"
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "T\u00e4m\u00e4 kentt\u00e4 toimii esimerkkin\u00e4 \"Card\"-tyylist\u00e4."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Asetus ei p\u00e4de kentt\u00e4tyyppeihin, joihin ei ole asetettu reunaviivaa k\u00e4ytt\u00f6\u00f6n."
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "Avaa yll\u00e4 oleva \u201c%s\u201d -kentt\u00e4 n\u00e4hd\u00e4ksesi esimerkin asetetusta kent\u00e4n leveydest\u00e4."
         }
     }
 }
