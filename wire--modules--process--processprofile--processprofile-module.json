@@ -64,6 +64,9 @@
         },
         "642249113906da67a3b9d3d446555c93": {
             "text": "Ei saa sis\u00e4lt\u00e4\u00e4 per\u00e4kk\u00e4isi\u00e4 tavuviivoja, alaviivoja tai pisteit\u00e4"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Ei voi alkaa tai loppua ei-alfanumeeriseen tai ei-numeraaliseen merkkiin."
         }
     }
 }
