@@ -361,6 +361,18 @@
         },
         "1443a205d4656be20da9f81a5b7a5da9": {
             "text": "Nykyinen"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "T\u00e4ll\u00e4 sivulla saattaa olla yksi tai useampi puutteellinen kentt\u00e4 (tallenna tai julkaise sivu saadaksesi lis\u00e4tietoja)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Uniikki: J\u00e4rjestelm\u00e4 ei salli toista sivua nimell\u00e4 \u201c%s\u201d"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(toiminto on k\u00e4yt\u00f6ss\u00e4 vain oletuskielelle)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Virhemerkint\u00e4 poistettiin sivulta, koska tallennuksen aikana ei ilmennyt virheit\u00e4"
         }
     }
 }

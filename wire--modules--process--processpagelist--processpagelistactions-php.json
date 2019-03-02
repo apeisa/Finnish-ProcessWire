@@ -28,6 +28,9 @@
         },
         "9e2e4fbd398b11af3aabb1866bbb3e25": {
             "text": "Ty\u00f6kalut eiv\u00e4t ole k\u00e4yt\u00f6ss\u00e4 demo-tilassa"
+        },
+        "b0af6f1b4969f0f41389c860f006ca6f": {
+            "text": "Toiminnon suorittamisessa tapahtui virhe: %s"
         }
     }
 }
