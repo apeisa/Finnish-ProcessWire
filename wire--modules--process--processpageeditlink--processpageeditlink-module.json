@@ -14,9 +14,6 @@
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "URL-tyyppi sivun linkeille"
         },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Absoluuttinen (oletus)"
-        },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "* Kokeellinen ominaisuus"
         },
@@ -118,6 +115,9 @@
         },
         "1da324557a591359538e1705e30b5dea": {
             "text": "Esimerkki: Arvo **_blank** m\u00e4\u00e4ritt\u00e4\u00e4 linkit avattavaksi uuteen v\u00e4lilehteen."
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "T\u00e4ysi\/absoluuttinen polku (oletus)"
         }
     }
 }

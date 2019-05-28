@@ -131,9 +131,6 @@
         "ed81bfff2c494916fd8a4f7f0526e14c": {
             "text": "Kenttien leveydet"
         },
-        "39e84864692943ca0ba0c69e5039ed9a": {
-            "text": "Valitse vaihtoehto B, jos kenttien leveysasetuksissa on ongelmia."
-        },
         "775d588dfe892290c0bfa5e56590577f": {
             "text": "Uikit uk-width -luokkanimet (6 palstaan asti)"
         },
@@ -292,6 +289,9 @@
         },
         "661262f88b0f998e147baacf8778d340": {
             "text": "Avaa yll\u00e4 oleva \u201c%s\u201d -kentt\u00e4 n\u00e4hd\u00e4ksesi esimerkin asetetusta kent\u00e4n leveydest\u00e4."
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Valitse vaihtoehto B, jos joidenkin kenttien leveyden asettaminen ei onnistu riitt\u00e4v\u00e4n tarkasti."
         }
     }
 }

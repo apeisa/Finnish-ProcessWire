@@ -77,8 +77,8 @@
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "Sivulle tulee m\u00e4\u00e4ritt\u00e4\u00e4 sivupohja"
         },
-        "6649c293aa8a0af33c071f946674fc31": {
-            "text": "Varoitus: Valittu nimi \"%1$s\" oli jo k\u00e4yt\u00f6ss\u00e4 ja vaihdettiin muotoon \"%2$s\"."
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Varoitus: valitsemasi nimi \"%1$s\" oli jo k\u00e4yt\u00f6ss\u00e4 ja vaihdettiin muotoon %2$s\"."
         }
     }
 }
