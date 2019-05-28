@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Jokin muu sivu k\u00e4ytt\u00e4\u00e4 nime\u00e4 \u201c%s\u201d, joka on asetettu globaalisti yksil\u00f6lliseksi."
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Saman yl\u00e4sivun alla sijaitseva toinen sivu k\u00e4ytt\u00e4\u00e4 jo nime\u00e4 \u201c%s\u201d"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Nime\u00e4 \u201c%s\u201d ei voida asettaa globaalisti yksil\u00f6lliseksi, koska se on jo yhden tai useamman sivun k\u00e4yt\u00f6ss\u00e4"
+        }
+    }
+}

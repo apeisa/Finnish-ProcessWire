@@ -82,6 +82,12 @@
         },
         "0d61f8370cad1d412f80b84d143e1257": {
             "text": "fi-FI"
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascriptin tarkistus ep\u00e4onnistui: ota Javascript k\u00e4ytt\u00f6\u00f6n kirjautuaksesi sis\u00e4\u00e4n."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Ev\u00e4steiden tarkistus ep\u00e4onnistui: ota ev\u00e4steet k\u00e4ytt\u00f6\u00f6n kirjautuaksesi sis\u00e4\u00e4n."
         }
     }
 }

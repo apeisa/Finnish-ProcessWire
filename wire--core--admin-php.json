@@ -25,6 +25,9 @@
         },
         "cfdf33cbd93768327b807066fb473750": {
             "text": "Ota k\u00e4ytt\u00f6\u00f6n kaksiosainen todentaminen"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Olet ylitt\u00e4nyt PHP:n \"max_input_vars\"-asetukselle m\u00e4\u00e4ritetyn arvon %d \u2014 kasvata arvoa."
         }
     }
 }
