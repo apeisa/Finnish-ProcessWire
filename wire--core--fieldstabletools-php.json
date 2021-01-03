@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/FieldsTableTools.php",
+    "textdomain": "wire--core--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "Poistettiin %d tyhj\u00e4\u00e4 rivi\u00e4 liittyen kentt\u00e4\u00e4n %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Yksil\u00f6llist\u00e4 indeksi\u00e4 ei voida viel\u00e4 lis\u00e4t\u00e4, koska taulussa on yksi tai useampi ei-yksil\u00f6llinen rivi:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Esiintyy %d kertaa"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(sivujen tunnisteet: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "Lis\u00e4ttiin yksil\u00f6llinen indeksi"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Poistettiin yksil\u00f6llinen indeksi"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Yksil\u00f6llinen"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "Jos valittu, kentt\u00e4\u00e4n on pakko sy\u00f6tt\u00e4\u00e4 yksil\u00f6llinen arvo, eik\u00e4 sama arvo voi olla k\u00e4yt\u00f6ss\u00e4 useammalla kuin yhdell\u00e4 sivulla."
+        }
+    }
+}

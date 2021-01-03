@@ -8,9 +8,6 @@
         "8d217dc9693abc1d1094fbc2c06a5605": {
             "text": "Uusi sivu"
         },
-        "654866693fd91ce8e9764a218f569918": {
-            "text": "Suositus"
-        },
         "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
             "text": "Kent\u00e4n hakuoperaattori"
         },
@@ -19,24 +16,6 @@
         },
         "ddc1a98a2c8309eab3292b5fda7e0506": {
             "text": "Jos et ole varma siit\u00e4, mit\u00e4 t\u00e4h\u00e4n tulisi m\u00e4\u00e4ritt\u00e4\u00e4, j\u00e4t\u00e4 arvo oletukseksi: *="
-        },
-        "6774b148e1f242760726e4c88d08931a": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 lauseen tai osittaisen sanan (k\u00e4ytt\u00e4en fulltext-indeksointia) - Suositus"
-        },
-        "10723caf0a8012a762b741f821060ea9": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 lauseen tai osittaisen sanan (k\u00e4ytt\u00e4en LIKE-operaattoria)"
-        },
-        "5aebeca1891bcef0142167dda686b4a7": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki [kokonaiset] sanat, vapaassa j\u00e4rjestyksess\u00e4"
-        },
-        "0626526d691a7bf48a099a2330fde59f": {
-            "text": "Alkaa sanalla\/lauseella"
-        },
-        "a606a68c3a2a799b75998b7be8d48aea": {
-            "text": "P\u00e4\u00e4ttyy sanalla\/lauseella"
-        },
-        "0a06fd6fea29497256d43910fde22cd3": {
-            "text": "On yht\u00e4 kuin [t\u00e4sm\u00e4llinen haku]"
         },
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Kent\u00e4t joihin haku kohdistetaan"

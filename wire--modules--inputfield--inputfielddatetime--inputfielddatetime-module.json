@@ -5,110 +5,17 @@
         "a1af5f0718bfae275ce162362d0e43c5": {
             "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
         },
-        "6f6cb72d544962fa333e2e34ce64f719": {
-            "text": "Koko"
-        },
-        "b69f42ea4444ae5aa888b53cf6045710": {
-            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-fi.js"
-        },
-        "49e0e66405106d4f9cf741207255476f": {
-            "text": "Kent\u00e4n leveys (merkkien lukum\u00e4\u00e4r\u00e4)."
-        },
-        "566235c7913fdded5a84d4578758515f": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n valinta"
-        },
-        "7962180f3333f0ccaa9e208cccaac049": {
-            "text": "Ei p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan valintaa"
-        },
-        "edcc19a354ad1b61e258b993a1ff09c4": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan valinta kun nappia klikataan"
-        },
-        "aa547f01eea89a5b845b6db3870ba757": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan valinta kun kentt\u00e4\u00e4n klikataan"
-        },
-        "c3119c40400e0c55178bba8a9b8e36d8": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 aina n\u00e4kyvill\u00e4 (ei kellonaikaa)"
-        },
-        "c1a4d7df2061b105045dc92d2dff78f2": {
-            "text": "Sallittu vaihteluv\u00e4li vuodelle"
-        },
-        "062e5153dad257d2a6a1560033719e9b": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4 valittaessa voidaan valita vuosi v\u00e4lilt\u00e4 -10 vuotta tai +10 vuotta nykyiseen vuoteen n\u00e4hden. Jos haluat kasvattaa tai pienent\u00e4\u00e4 vaihteluv\u00e4li\u00e4, m\u00e4\u00e4rit\u00e4 vuosien m\u00e4\u00e4r\u00e4 seuraavassa muodossa: \"-30:+20\"."
-        },
-        "26fe23eafa82406bc0d0cd216a734d73": {
-            "text": "Jos arvoa ei m\u00e4\u00e4ritet\u00e4, k\u00e4ytet\u00e4\u00e4n oletusarvoa \"-10:+10\"."
-        },
-        "53e628836cd60f6dbb5fe56320f776ef": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n\/kellonajan sy\u00f6tteen muotoilu"
-        },
-        "38322714c2bfe9eba81ea980714fd0a6": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n sy\u00f6tteen muotoilu"
-        },
-        "7656e28d6e435ffecc453794149e6a0d": {
-            "text": "M\u00e4\u00e4rit\u00e4 muotoilu, jota k\u00e4ytet\u00e4\u00e4n kun kentt\u00e4\u00e4n sy\u00f6tet\u00e4\u00e4n arvo. Alla olevat lis\u00e4m\u00e4\u00e4ritykset pohjaavat t\u00e4ss\u00e4 kent\u00e4ss\u00e4 valittuun muotoiluun."
-        },
-        "6adf97f83acf6453d4a6a4b1070f3754": {
-            "text": "Ei mit\u00e4\u00e4n"
-        },
-        "91c0a51785efc109b0fdb5d710a2656e": {
-            "text": "Ajan sy\u00f6tteen muotoilu"
-        },
-        "44d9d932f51a771c8c76c2dc6ff57e1f": {
-            "text": "Voit valita ajalle muotoilun, jota k\u00e4ytet\u00e4\u00e4n kun kentt\u00e4\u00e4n sy\u00f6tet\u00e4\u00e4n arvo. Jos valittu, p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4 valittaessa n\u00e4ytet\u00e4\u00e4n my\u00f6s valinta ajalle."
-        },
-        "4dc865ad9218b271e212f2656a4415e4": {
-            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n sy\u00f6tteen muotoilukoodi"
-        },
-        "20f706119fa58d0787ea397d413bf1e0": {
-            "text": "Muotoilu pohjaa yll\u00e4 olevan \"P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n sy\u00f6tteen muotoilu\" -kent\u00e4n arvoon."
-        },
-        "e87ce06927649f8cdfff9e27c4ac8e3d": {
-            "text": "Katso [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) -funktion dokumentaatiosta ohjeet muotoilun m\u00e4\u00e4ritt\u00e4miseksi."
-        },
-        "3668c3ec43f4b401c6de009e3abb73f9": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 muotoiluille eri kieliversiot. Jos jokin kieliversio j\u00e4tet\u00e4\u00e4n tyhj\u00e4ksi, k\u00e4ytet\u00e4\u00e4n oletusarvoa."
-        },
-        "b3641a0b694cd7a82856611ce58d4979": {
-            "text": "Ajan sy\u00f6tteen muotoilukoodi"
-        },
-        "3dd984b18a5880f9279e17ff2e53a5de": {
-            "text": "Muotoilu pohjaa yll\u00e4 olevan \"Ajan sy\u00f6tteen muotoilu\" -kent\u00e4n arvoon."
-        },
-        "be7e95b42b8aff2713adf794a2eb666b": {
-            "text": "K\u00e4yt\u00e4 oletusarvona nykyist\u00e4 p\u00e4iv\u00e4\u00e4?"
-        },
         "1feebee2f4ca4af215e8b47f37695f99": {
             "text": "Jos valittu, tyhj\u00e4n kent\u00e4n oletusarvona k\u00e4ytet\u00e4\u00e4n nykyist\u00e4 p\u00e4iv\u00e4\u00e4."
-        },
-        "6485c7641245873388f0170f472183c6": {
-            "text": "Ohjeteksti (placeholder)"
-        },
-        "70bf9b371944c2d5b1adf809a356f607": {
-            "text": "Vapaaehtoinen ohjeteksti, joka n\u00e4ytet\u00e4\u00e4n kent\u00e4ss\u00e4 jos se on tyhj\u00e4."
         },
         "d27357121209bd712604d8af46cd2460": {
             "text": "Kentt\u00e4 joka sis\u00e4lt\u00e4\u00e4 p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ja ajan"
         },
-        "7db50c3ca59f3f55260013a5e3481f47": {
-            "text": "timepicker\/i18n\/jquery-ui-timepicker-fi.js"
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Sy\u00f6tteen tyyppi"
         },
-        "40b99901bce42a7638315b36c0bec462": {
-            "text": "(suositus)"
-        },
-        "b4857dd659bf6e86731ccda0a3b581fb": {
-            "text": "(unix-aikaleima)"
-        },
-        "91c4223a8591eed0ecab28c3a1a880b2": {
-            "text": "Ajan sy\u00f6tt\u00f6tapa"
-        },
-        "08d3eb379def33331427b243c363eef5": {
-            "text": "K\u00e4ytt\u00e4j\u00e4 voi valita ajan liukus\u00e4\u00e4timill\u00e4 (oletusarvo) tai pudotusvalikosta."
-        },
-        "9ad46d2d4f10955abfc9ca97565bba87": {
-            "text": "Liukus\u00e4\u00e4timet"
-        },
-        "e0626222614bdee31951d84c64e5e9ff": {
-            "text": "Pudotusvalikko"
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "K\u00e4yt\u00e4 oletusarvona nykyist\u00e4 p\u00e4iv\u00e4\u00e4?"
         }
     }
 }

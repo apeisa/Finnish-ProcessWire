@@ -106,6 +106,12 @@
         },
         "43bce07bd160232ee31114541357640c": {
             "text": "Kirjoita tagit erotettuna toisistaan v\u00e4lily\u00f6nnill\u00e4. Tagit voivat sis\u00e4lt\u00e4\u00e4 kirjaimia, numeroita, alaviivoja tai tavuviivoja."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Sallitut kentt\u00e4tyyppimoduulit muokatuille kentille"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Yliviivatut kentt\u00e4tyypit eiv\u00e4t ole v\u00e4ltt\u00e4m\u00e4tt\u00e4 100 % yhteensopivia."
         }
     }
 }

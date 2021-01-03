@@ -614,12 +614,6 @@
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "N\u00e4yt\u00e4 kirjautumissivu: %s"
         },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Uudelleenohjaa toiseen osoitteeseen"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "T\u00e4m\u00e4 kentt\u00e4 huomioidaan vain jos valitset \"Uudelleenohjaa toiseen osoitteeseen\"."
-        },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 URL:ssa tagin \"{id}\" (esim. GET-muuttuja), jolloin se korvataan pyydetyn sivun ID-numerolla."
         },
@@ -821,9 +815,6 @@
         "173fc4509c54323d4c0da3ffea41742c": {
             "text": "%s -merkinn\u00e4n sis\u00e4lt\u00e4v\u00e4t sivupohjat ovat m\u00e4\u00e4ritetty sallimaan t\u00e4m\u00e4 sivupohja alasivuksi."
         },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Kirjoita URL tai sivun ID, johon haluat uudelleenohjata jos k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei ole k\u00e4ytt\u00f6oikeuksia"
-        },
         "13138fdee141d39a065f3fe82c0e0676": {
             "text": "Sivun \"Nimi\"-ominaisuuden nimike"
         },
@@ -979,6 +970,30 @@
         },
         "b50d7f1673d8d8694f84094c093718df": {
             "text": "Valinnat n\u00e4ytet\u00e4\u00e4n muodossa \"rooli: oikeus\". L\u00f6yd\u00e4t lis\u00e4tietoa rooleista [klikkaamalla t\u00e4st\u00e4](%s)."
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klikkaa, ved\u00e4 ja pudota muuttaakseksi kent\u00e4n leveytt\u00e4"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Tallenna sivupohja ennen kent\u00e4n leveyden muuttamista"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Uudelleenohjaa toiseen URL-osoitteeseen, tai n\u00e4yt\u00e4 sivu ID:n perusteella"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "URL-osoite, johon uudelleenohjataan, tai n\u00e4ytett\u00e4v\u00e4n sivun ID-tunniste"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Kirjoita URL-osoite, johon haluat uudelleenohjata TAI n\u00e4ytett\u00e4v\u00e4n sivun ID-tunniste. Uudelleenohjaus tehd\u00e4\u00e4n jos k\u00e4ytt\u00e4ll\u00e4 ei ole oikeuksia sivuun."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Jos m\u00e4\u00e4rit\u00e4t sivun ID-tunnisteen, huomaathan ett\u00e4 kyseinen sivu n\u00e4ytet\u00e4\u00e4n, vaikka k\u00e4ytt\u00e4j\u00e4ll\u00e4 ei olisi oikeuksia siihen."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "T\u00e4m\u00e4 toiminto on hy\u00f6dyllinen, jos kirjautumissivulle on asetettu k\u00e4ytt\u00f6oikeusrajoituksia."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "T\u00e4m\u00e4 asetus on voimassa vain jos olet valinnut vaihtoehdon \"C\" yll\u00e4 olevassa kent\u00e4ss\u00e4."
         }
     }
 }

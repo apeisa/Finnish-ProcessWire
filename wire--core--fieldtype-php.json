@@ -13,6 +13,9 @@
         },
         "ad1bc8634063998074151ecfaaf2e6a1": {
             "text": "Jos valittu, KAIKKIEN sivujen on pakko sis\u00e4lt\u00e4\u00e4 t\u00e4m\u00e4 kentt\u00e4. Kentt\u00e4 lis\u00e4t\u00e4\u00e4n automaattisesti kaikkiin kentt\u00e4ryhmiin ja sivupohjiin, joissa sit\u00e4 ei viel\u00e4 ole. Kent\u00e4lle ei kuitenkaan vaadita arvoa."
+        },
+        "5afefa68ee72cf2f670f570a15a81106": {
+            "text": "Arvo ei ole sallittu kent\u00e4lle \u201c%2$s\u201d, koska se on jo k\u00e4yt\u00f6ss\u00e4"
         }
     }
 }

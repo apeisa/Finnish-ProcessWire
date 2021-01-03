@@ -8,29 +8,14 @@
         "bdb19863504282bccbd04237092c8ecb": {
             "text": "Kirjanmerkki"
         },
-        "25f8473f61fb614f277d48e8bf5be8d2": {
-            "text": "Valitsin"
-        },
-        "cd765bc6c6872048db5bb4cb9181392f": {
-            "text": "Sarakkeet"
-        },
         "0a88328254c6d3104aaf5aa1416e5493": {
             "text": "K\u00e4ytt\u00f6oikeus"
-        },
-        "16f46652aa3bae21e3e051daba507193": {
-            "text": "Toiminto"
         },
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "kaikki"
         },
-        "fbfa318e948c32434209e9dec12f5342": {
-            "text": "Muokkaa"
-        },
         "624cb003e73151369680ecae1fe53f47": {
             "text": "Otsikko"
-        },
-        "369edfa695c186fc693c7cdfea26b6d2": {
-            "text": "Huomautus yll\u00e4pit\u00e4jille: muut k\u00e4ytt\u00e4j\u00e4t voivat k\u00e4ytt\u00e4\u00e4 kirjanmerkkej\u00e4, mutta eiv\u00e4t voi lis\u00e4t\u00e4 tai muokata niit\u00e4."
         },
         "1dd63dcbc0f27a97c60433bff0936901": {
             "text": "Muokkaa kirjanmerkki\u00e4"
@@ -44,17 +29,8 @@
         "644a574fca8608c6447c23ba5c9fb907": {
             "text": "Mitk\u00e4 roolit voivat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 kirjanmerkki\u00e4? Jos rooleja ei valita, kaikki roolit joilla on k\u00e4ytt\u00f6oikeus Lister-toimintoon, voivat k\u00e4ytt\u00e4\u00e4 kirjanmerkki\u00e4."
         },
-        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
-            "text": "Kirjanmerkkien j\u00e4rjestys"
-        },
         "bfa974ff994bf6af816d695d88659fda": {
             "text": "Poista kirjanmerkki?"
-        },
-        "33d64e5e020fcfcd6bf5b5edc3634211": {
-            "text": "Poistettiin kirjanmerkki: %s"
-        },
-        "d04ee192f5a72f20e89abe7acb7225f3": {
-            "text": "Tallennettiin kirjanmerkki: %s"
         },
         "8ca63fc5a95e5a226137f8dd03ad81f0": {
             "text": "Mit\u00e4 sivuja kirjanmerkin tulee n\u00e4ytt\u00e4\u00e4?"
@@ -65,8 +41,65 @@
         "a68194569adc7b00a73840fceb912c24": {
             "text": "K\u00e4ytt\u00f6oikeudet"
         },
-        "5979876e287f07dc59597ec2139675c2": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Peruuta"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "Kuvaus"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
             "text": "Poista"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "Kuvaus"
+        },
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Omat kirjanmerkit"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Julkiset kirjanmerkit"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "sin\u00e4"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Rastita ruutu vahvistaaksesi kirjanmerkin poistamisen"
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Kirjanmerkin tyyppi"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Yksityinen"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "Julkinen"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Toiminnot"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "N\u00e4yt\u00e4"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Muokkaa"
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Salli muiden k\u00e4ytt\u00e4jien katsella kirjanmerkki\u00e4 URL-osoitteen kautta?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Jos t\u00e4m\u00e4 on valittu ja l\u00e4het\u00e4t kirjanmerkin URL-osoitteen toiselle k\u00e4ytt\u00e4j\u00e4lle, joka on samanaikaisesti kirjautunut hallintapaneeliin, h\u00e4n voi katsella kirjanmerkki\u00e4."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "Jaettava kirjanmerkin URL-osoite: [N\u00e4yt\u00e4](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "J\u00e4rjestys"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Kirjanmerkki poistettiin"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Kirjanmerkin poistaminen ei ole mahdollista"
         }
     }
 }

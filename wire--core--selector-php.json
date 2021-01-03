@@ -1,0 +1,48 @@
+{
+    "file": "wire\/core\/Selector.php",
+    "textdomain": "wire--core--selector-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "On yht\u00e4 kuin"
+        },
+        "fca4ff540452f89822f15c83de8bb8c4": {
+            "text": "M\u00e4\u00e4ritetty arvo on sama kuin arvo johon verrataan."
+        },
+        "2fbafa06d82b006195754ddd3bf01edc": {
+            "text": "Ei ole yht\u00e4 kuin"
+        },
+        "1a865de2ca7e05f3fa1477b125a1eb3c": {
+            "text": "M\u00e4\u00e4ritetty arvo ei ole sama kuin arvo johon verrataan."
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "Suurempi kuin"
+        },
+        "acc783a86f7a99b039300bdc0205245f": {
+            "text": "Arvo johon verrataan on suurempi kuin m\u00e4\u00e4ritetty arvo"
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "Pienempi kuin"
+        },
+        "2172d09507f89b8199b4b6cbd100b141": {
+            "text": "Arvo johon verrataan on pienempi kuin m\u00e4\u00e4ritetty arvo"
+        },
+        "338131a3a3f4a2649c1d1ed2d2107589": {
+            "text": "Suurempi tai yht\u00e4 suuri kuin"
+        },
+        "2d7fc49398b2dadc319c632313444b1c": {
+            "text": "Arvo johon verrataan on suurempi tai yht\u00e4 suuri kuin m\u00e4\u00e4ritetty arvo."
+        },
+        "6d3fe9fca3f08ca0a55fd9c655f7b5cf": {
+            "text": "Pienempi tai yht\u00e4 suuri kuin"
+        },
+        "2b1e18ec3e770ce9cf5c0e74f893b653": {
+            "text": "Arvo johon verrataan on pienempi tai yht\u00e4 suuri kuin m\u00e4\u00e4ritetty arvo"
+        },
+        "ccb979faf1731ac84eacb61a8a30a309": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 lauseen"
+        },
+        "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
+            "text": "Arvo johon verrataan sis\u00e4lt\u00e4\u00e4 m\u00e4\u00e4ritetyn lauseen"
+        }
+    }
+}

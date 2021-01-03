@@ -8,14 +8,8 @@
         "a0bfb8e59e6c13fc8d990781f77694fe": {
             "text": "Jatka"
         },
-        "847549ae30061a6767a4b17c6fb4f53c": {
-            "text": "Kirjautuminen onnistui"
-        },
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Kirjautuminen ep\u00e4onnistui"
-        },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "Turvallisuusvaroitus: %s on olemassa ja se pit\u00e4isi poistaa mahdollisimman pian."
         },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "K\u00e4ytt\u00e4j\u00e4nimi"
@@ -32,26 +26,8 @@
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "Olet kirjautunut ulos"
         },
-        "d837cc5a72556c5e2abf4b9fe10ddef8": {
-            "text": "Kirjaudu sis\u00e4\u00e4n"
-        },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Varoitus: \/site\/config.php -tiedostolle m\u00e4\u00e4ritetyt oikeudet ovat liian sallivat useissa ymp\u00e4rist\u00f6iss\u00e4:"
-        },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Lue \"Securing file permissions\" saadaksesi lis\u00e4tietoja"
-        },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Poistaaksesi t\u00e4m\u00e4n varoituksen k\u00e4yt\u00f6st\u00e4, aseta $config->chmodWarn = false; tiedostossa \/site\/config.php."
-        },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Muokkaa k\u00e4ytt\u00e4j\u00e4tili\u00e4"
-        },
-        "60d0f1128804dfd5fa013c3d02c67012": {
-            "text": "Nykyinen locale-m\u00e4\u00e4ritys on \"%s\"."
-        },
-        "9cdeee8e8a463c558dc372434cc5dbb1": {
-            "text": "Nykyinen palvelimen locale-m\u00e4\u00e4ritys ei toimi odotetusti UTF-8-merkist\u00f6ll\u00e4, ja voi aiheuttaa ongelmia."
         },
         "8b10281154afa6312e3e8448c14f7134": {
             "text": "Kaksivaiheinen tunnistautuminen"
@@ -71,23 +47,110 @@
         "ab848ea82288648eb2aabe4e9e2f4dc6": {
             "text": "Kun k\u00e4ytt\u00e4j\u00e4 kirjautuu hallintapaneeliin, ProcessWire kehoittaa k\u00e4ytt\u00e4ji\u00e4 ottamaan k\u00e4ytt\u00f6\u00f6n kaksivaiheisen tunnistautumisen."
         },
-        "f8239d6a9013fae244731a805aa50b09": {
-            "text": "Aseta locale-m\u00e4\u00e4rityksen \u201cC\u201d k\u00e4\u00e4nn\u00f6s kaikille kielille kohteessa %s"
-        },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "Esimerkiksi locale-asetus US English on: %s"
-        },
-        "7ca79a1980d88028a56fcee7c711685e": {
-            "text": "Lis\u00e4\u00e4 t\u00e4m\u00e4 asetus %1$s -tiedostoon (muokkaa \u201c%2$s\u201d tarpeen mukaan):"
-        },
-        "0d61f8370cad1d412f80b84d143e1257": {
-            "text": "fi-FI"
-        },
         "d03d931ed70198dc13af35410030754c": {
             "text": "Javascriptin tarkistus ep\u00e4onnistui: ota Javascript k\u00e4ytt\u00f6\u00f6n kirjautuaksesi sis\u00e4\u00e4n."
         },
         "355f835c4f5fd628f83983152533363c": {
             "text": "Ev\u00e4steiden tarkistus ep\u00e4onnistui: ota ev\u00e4steet k\u00e4ytt\u00f6\u00f6n kirjautuaksesi sis\u00e4\u00e4n."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Tyyppi"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "S\u00e4hk\u00f6postiosoite"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Kirjautuminen ei ole mahdollista t\u00e4ll\u00e4 s\u00e4hk\u00f6postiosoitteella."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Virheellinen k\u00e4ytt\u00e4j\u00e4tunnus"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "K\u00e4ytt\u00e4j\u00e4nimi tai s\u00e4hk\u00f6postiosoite"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Kirjautumisen j\u00e4lkeen teht\u00e4v\u00e4t j\u00e4rjestelm\u00e4tarkistukset ohitettiin, koska seuraavat p\u00e4ivitykset otettiin k\u00e4ytt\u00f6\u00f6n: %s"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Kirjautumistapa"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "K\u00e4ytt\u00e4j\u00e4nimi"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "S\u00e4hk\u00f6postiosoite"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "K\u00e4ytt\u00e4j\u00e4nimi tai s\u00e4hk\u00f6postiosoite"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "K\u00e4ytt\u00e4\u00e4ksesi kirjautumista s\u00e4hk\u00f6postiosoitteella, [aseta \u201cyksil\u00f6llinen\u201d-asetus k\u00e4ytt\u00f6\u00f6n](%s) s\u00e4hk\u00f6postikent\u00e4lle."
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(klikkaa muuttaaksesi asetuksia)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "Pakollinen kaksivaiheinen tunnistautuminen"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "T\u00e4h\u00e4n kentt\u00e4\u00e4n valittu Tfa-moduuli otetaan automaattisesti k\u00e4ytt\u00f6\u00f6n sellaisille k\u00e4ytt\u00e4jille, joilla ei ole k\u00e4yt\u00f6ss\u00e4 kaksivaiheista tunnistautumista."
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Valitse roolit, joille kaksivaiheinen tunnistautuminen on pakollista. Jos rooleja ei valita, pakollisuus on voimassa KAIKILLE rooleille (jos mahdollista)."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Salli k\u00e4ytt\u00e4jien ohittaa koodin sy\u00f6tt\u00f6, jos k\u00e4ytt\u00e4j\u00e4 on valinnut selaimensa muistettavaksi?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, k\u00e4ytt\u00e4j\u00e4lle tarjotaan kirjautumislomakkeella rastitettava kentt\u00e4 \"Muista t\u00e4m\u00e4 tietokone?\"."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Kirjoita p\u00e4ivien m\u00e4\u00e4r\u00e4, joka on suurin sallittu aika k\u00e4ytt\u00e4j\u00e4n kirjautumisen muistamiseksi, tai kirjoita 0 poistaaksesi toiminnon k\u00e4yt\u00f6st\u00e4."
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "\u00c4l\u00e4 salli k\u00e4ytt\u00e4j\u00e4n ohittaa koodin sy\u00f6tt\u00f6\u00e4, jos jokin n\u00e4ist\u00e4 ominaisuuksista muuttuu"
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "K\u00e4ytt\u00e4j\u00e4agentti (selain, alusta ja niiden eri versiot)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Ei-versioitu k\u00e4ytt\u00e4j\u00e4agentti (selain ja alusta ilman versiotarkistusta)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Accept header (k\u00e4ytt\u00e4j\u00e4n selaimen sallimat sis\u00e4lt\u00f6tyypit)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Protokolla (HTTP tai HTTPS)"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Palvelimen is\u00e4nt\u00e4nimi (asetuksen $config->httpHost arvo)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n IP-osoite (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "K\u00e4ytt\u00e4j\u00e4n uudelleenohjattu IP-osoite (HTTP_X_FORWARDED_FOR or HTTP_CLIENT_IP)"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Muutokset k\u00e4ytt\u00e4j\u00e4n salasanassa, k\u00e4ytt\u00e4j\u00e4nimess\u00e4, salasanassa tai satunnaisessa ev\u00e4steess\u00e4 vaativat aina uuden koodin sy\u00f6tt\u00e4misen kirjautumisen yhteydess\u00e4."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Lis\u00e4ksi muutokset seuraavissa tekij\u00f6iss\u00e4 vaativat uuden koodin sy\u00f6tt\u00e4misen."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "N\u00e4m\u00e4 ominaisuudet muodostavat sormenj\u00e4ljen k\u00e4ytt\u00e4j\u00e4n selaimesta."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "T\u00e4m\u00e4 asetus on voimassa vain jos k\u00e4ytt\u00e4j\u00e4n selaimen muistaminen on sallittua."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Kirjaudu sis\u00e4\u00e4n"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Roolit"
         }
     }
 }

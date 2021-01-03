@@ -38,33 +38,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "muokkaa"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "On yht\u00e4 kuin"
-        },
-        "3255c386f4276b5c66f12d216ec71906": {
-            "text": "Ei ole yht\u00e4 kuin"
-        },
-        "05824b7be006782aaefd1fdb97c71e06": {
-            "text": "On suurempi kuin"
-        },
-        "798fe01fcb2754a295b6937ed885a69a": {
-            "text": "On suurempi tai yht\u00e4suuri kuin"
-        },
-        "ad647e4ae904c7ed54ee93040d8298c7": {
-            "text": "On pienempi kuin"
-        },
-        "28d1141142e2cbb29e657b69a044ddf4": {
-            "text": "On pienempi tai yht\u00e4suuri kuin"
-        },
-        "45fc43a01c15bc63159695441dfacd63": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 lauseen tai osittaisen sanan"
-        },
-        "e44edbd140708c448e991cde9d8dc0b2": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 lauseen\/sanan k\u00e4ytt\u00e4en LIKE-hakua"
-        },
-        "593e63d42f95f6ad96cf700f80c2fe2c": {
-            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat"
-        },
         "29e9d8e295b1d5b3002d2d3d5baa4c37": {
             "text": "Pikavalinnat"
         },
@@ -88,12 +61,6 @@
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "Jos m\u00e4\u00e4rit\u00e4t useita kentti\u00e4, erota ne toisistaan v\u00e4lily\u00f6nnill\u00e4."
-        },
-        "13a4a02c365a44407beebb73dddbc554": {
-            "text": "Alkaa:"
-        },
-        "6950a77d131f284826099392fd57701c": {
-            "text": "P\u00e4\u00e4ttyy:"
         },
         "d1032e06eff58a781d56ae06b0ebeb85": {
             "text": "Hakutulosten j\u00e4rjestys"
@@ -146,14 +113,11 @@
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "Oletushakuoperaattori hauille, joissa on yksitt\u00e4inen tai osittainen sana"
         },
-        "5187ed7cdf401218d2ae7263781350b8": {
-            "text": "*Hakuoperaattori tukee hakuja osittaisille sanoille"
-        },
         "bbeff731bf48359f60959f600e6240c2": {
             "text": "Oletushakuoperaattori hauille, joissa on useita sanoja"
         },
-        "3aaf625865081e0b0f1f8d001a9a06be": {
-            "text": "(miss\u00e4 tahansa j\u00e4rjestyksess\u00e4)"
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(asetukset sivujen hakuun)"
         }
     }
 }

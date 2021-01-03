@@ -44,14 +44,32 @@
         "e7df9a3e1460bdfcaabe5b2e451a6594": {
             "text": "Latauksia ei l\u00f6ytynyt"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "Tiedoston lataaminen palvelimelta ei onnistunut"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "Virheellinen lataus-URL"
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Ladattiin ZIP-tiedosto: %s (%d tavua)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Moduulin asennus \u201c%s\u201d"
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Moduulien asennus on poistettu k\u00e4yt\u00f6st\u00e4."
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Ottaaksesi asennuksen k\u00e4ytt\u00f6\u00f6n, muokkaa tiedostoa %1$s ja aseta: %2$s \u2026tai\u2026 %3$s"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "salliaksesi asennuksen aina"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "salliaksesi asennuksen vain kehitystilassa"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "v\u00e4liaikaisesti"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Moduulien asennus on asetettu sallituksi vain kehitystilassa."
         }
     }
 }
