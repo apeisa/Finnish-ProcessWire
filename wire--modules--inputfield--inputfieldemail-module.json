@@ -25,6 +25,12 @@
         },
         "3918809b01dd88b1c1c892aec102512b": {
             "text": "S\u00e4hk\u00f6postiosoite, jonka muoto tarkistetaan"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "S\u00e4hk\u00f6postiosoite \u201c%s\u201d on jo k\u00e4yt\u00f6ss\u00e4. K\u00e4yt\u00e4 jotakin toista s\u00e4hk\u00f6postiosoitetta."
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "S\u00e4hk\u00f6postiosoite ylitt\u00e4\u00e4 suurimman sallitun merkkim\u00e4\u00e4r\u00e4n, %d merkki\u00e4"
         }
     }
 }

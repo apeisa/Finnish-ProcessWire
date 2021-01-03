@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Kent\u00e4n tulostusarvon muotoilu"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "Valitse k\u00e4ytett\u00e4v\u00e4 muotoilu, kun kent\u00e4n arvo palautetaan k\u00e4ytt\u00e4en %s."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Katso my\u00f6s \"Kentt\u00e4\"-v\u00e4lilehdelt\u00e4 muut kentt\u00e4\u00e4n liittyv\u00e4t asetukset."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "**Kokonaisluku:** 0=ei, 1=kyll\u00e4 (ei muotoilua)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "**Totuusarvomuuttuja:** true=kyll\u00e4, false=ei."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "**Merkkijono:** K\u00e4yt\u00e4 \"Kentt\u00e4\"-v\u00e4lilehdell\u00e4 asetettuja valintojen nimikkeit\u00e4"
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "**Entiteetit:** Sama kuin yll\u00e4 (merkkijonot), mutta entiteettikoodattuna."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Valinta (kyll\u00e4\/ei)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Muokattava kyll\u00e4\/ei -valintakentt\u00e4, jossa on mukana vapaaehtoinen \"muu\"-valinta."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Ei-valinta palautetaan aina tyhj\u00e4n\u00e4 merkkijonona."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Jos kolmas\/muu -valinta on k\u00e4yt\u00f6ss\u00e4, se palautetaan kokonaislukuna 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Jos sivun tulostuksen muotoilu on pois k\u00e4yt\u00f6st\u00e4, arvo palautetaan aina kokonaislukuna 0, 1 tai 2 (ei, kyll\u00e4, muu), tai tyhj\u00e4n\u00e4 merkkijonona jos kentt\u00e4\u00e4n ei ole valittu arvoa."
+        }
+    }
+}

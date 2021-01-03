@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeSelect.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimeselect-php",
+    "translations": {
+        "e45be5a84fb046a2901a141feca36774": {
+            "text": "Erilliset valinnat kuukaudelle, p\u00e4iv\u00e4lle ja vuodelle (lis\u00e4ksi vapaaehtoisesti ajan valinta)"
+        },
+        "7cbb885aa1164b390a0bc050a64e1812": {
+            "text": "Kuukausi"
+        },
+        "537c66b24ef5c83b7382cdc3f34885f2": {
+            "text": "Vuosi"
+        },
+        "03727ac48595a24daed975559c944a44": {
+            "text": "P\u00e4iv\u00e4"
+        },
+        "38d0bdaf4659579f129657667b2c9eca": {
+            "text": "Virheellinen p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4 \u201c%1$s\u201d vaihdettiin muotoon \u201c%2$s\u201d"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ei mit\u00e4\u00e4n"
+        },
+        "8d7893980db01e78e3ca1cc8c9c5fdb2": {
+            "text": "(lyhennetty)"
+        },
+        "73a63277825cde533cd60a9f84349f20": {
+            "text": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n valinnan muotoilu"
+        },
+        "f4b3993e8447bd72f668dd7b50c08475": {
+            "text": "Kuukausien nimet perustuvat palvelimen kieliasetukseen"
+        },
+        "01a0290039c2bbaa8b164a2f05e537a3": {
+            "text": "Ajan valinnan muotoilu"
+        },
+        "d50069df39408c10d40fd64c39f501b6": {
+            "text": "Ensimm\u00e4inen valittavissa oleva vuosi"
+        },
+        "99b44505fea9c1c1907b502024fa9dc8": {
+            "text": "Viimeinen valittavissa oleva vuosi"
+        },
+        "b5ca52e96e16f944580f12d90986d514": {
+            "text": "Rajoita valinta n\u00e4ihin vuosiin?"
+        }
+    }
+}

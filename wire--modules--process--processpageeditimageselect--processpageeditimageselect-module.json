@@ -211,6 +211,12 @@
         },
         "522779383d7b7d46168fcc8ae1c5d4a5": {
             "text": "Oletuksena moduuli asettaa width-attribuutin img-tagille. Toimintoa ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 tarvita responsiivisille kuville."
+        },
+        "0a52da7a03a6de3beefe54f8c03ad80d": {
+            "text": "Alkuper\u00e4inen"
+        },
+        "4ea9ef823adbf374c74a5ef6316a18e2": {
+            "text": "%s yll\u00e4olevista"
         }
     }
 }

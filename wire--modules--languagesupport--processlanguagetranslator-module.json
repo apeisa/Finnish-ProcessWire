@@ -157,6 +157,9 @@
         },
         "54380879a24d554e549d4d18f998dfa9": {
             "text": "Kirjoita plus-merkki \"+\" merkit\u00e4ksesi t\u00e4m\u00e4n kent\u00e4n k\u00e4\u00e4nnetyksi."
+        },
+        "201cd1463929afbbd095c4803262ceae": {
+            "text": "Fallback: jos t\u00e4t\u00e4 teksti\u00e4 ei ole k\u00e4\u00e4nnetty, k\u00e4ytet\u00e4\u00e4n teksti\u00e4 \u201c%1$s\u201d, joka on k\u00e4\u00e4nnetty kohteesta \u201c%2$s\u201d."
         }
     }
 }

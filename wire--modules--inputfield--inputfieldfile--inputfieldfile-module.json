@@ -82,6 +82,15 @@
         },
         "96baacdc276036c2b8fb65264750a3b4": {
             "text": "Valitse tiedostoja"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Tiedostomuotoa ei tueta. Tuetut tiedostomuodot: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Tiedosto on liian suuri - suurin sallittu koko on MAX_KB kt"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Kentt\u00e4\u00e4 \u201c%1$s\u201d (tyyppi: \u201c%2$s\u201d) ei ole tuettu k\u00e4ytett\u00e4v\u00e4ksi kent\u00e4ss\u00e4 \u201c%3$s\u201d"
         }
     }
 }

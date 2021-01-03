@@ -378,7 +378,7 @@
             "text": "Asetusten yliajot sivupohjissa"
         },
         "62d09c342e50351059153e99a2fdbb47": {
-            "text": "Muokataksesi yliajoa tai yliajaaksesi muita asetuksia, klikkaa sivupohjaa ja klikkaa kent\u00e4n nime\u00e4 kentt\u00e4listalla."
+            "text": "Muokataksesi yliajoa tai yliajaaksesi muita asetuksia, muokkaa sivupohjaa ja klikkaa kent\u00e4n nime\u00e4 kentt\u00e4listalla."
         },
         "94109d0b682a5ee9086924792ab5d349": {
             "text": "Haluatko m\u00e4\u00e4ritt\u00e4\u00e4 k\u00e4ytt\u00f6oikeudet t\u00e4lle kent\u00e4lle?"
@@ -466,15 +466,6 @@
         },
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Asetus"
-        },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
-            "text": "Alkuper\u00e4inen"
-        },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "Yliajo"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Poista asetus"
         },
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "K\u00e4ytt\u00f6oikeudet"
@@ -569,9 +560,6 @@
         "9fc8691fab39cc1433cd39430edb0501": {
             "text": "Lis\u00e4\u00e4 uusi tagi"
         },
-        "89fa758424367d5caeb355f904d5bfc1": {
-            "text": "Sallitut yliajot"
-        },
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Kent\u00e4n asetuksia ei ole t\u00e4ll\u00e4 hetkell\u00e4 yliajettu yhdess\u00e4k\u00e4\u00e4n sivupohjassa."
         },
@@ -599,23 +587,41 @@
         "07f32475d23721446e940087c7e26b53": {
             "text": "M\u00e4\u00e4ritys ei toimi, koska arvojen tulee olla sivujen tunnisteita (ID)"
         },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Poista konteksti-yliajot"
-        },
         "4b170345be16c4cee0984c08ab54614d": {
             "text": "kun k\u00e4yt\u00f6ss\u00e4 on: %s"
         },
         "be777931cbea33cf8f3a5f5cd994ea93": {
             "text": "Asetusten yliajot kent\u00e4n nimiavaruudelle: %s"
         },
-        "c4d3fb0af8e800de549531cccd8a19f8": {
-            "text": "**Varoitus:** moduulin tekij\u00e4 on saattanut m\u00e4\u00e4ritt\u00e4\u00e4 asetuksia, joiden yliajaminen t\u00e4ss\u00e4 ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi, tai voi aiheuttaa ongelmia."
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "kun k\u00e4yt\u00f6ss\u00e4 on sivupohja \u201c%1$s\u201d kontekstissa \u201c%2$s\u201d"
         },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "Seuraavat asetukset yliajavat kent\u00e4n alkuper\u00e4iset asetukset, kun kentt\u00e4\u00e4 k\u00e4ytet\u00e4\u00e4n sivupohjan \"%s\" kontekstissa."
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Sallitut asetusten yliajot sivupohjissa"
         },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Poistaaksesi jonkin yliajon (ja palauttaaksesi kent\u00e4n alkuper\u00e4isen arvon), rastita ruutu halutun asetuksen kohdalta."
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Valitaksesi asetukset, joiden yliajo sallitaan, katso alla oleva kentt\u00e4."
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**VAROITUS:** jos valitset yliajettaviksi sellaisia asetuksia, jotka eiv\u00e4t kentt\u00e4tyyppi- tai kentt\u00e4moduulin itsens\u00e4 m\u00e4\u00e4ritt\u00e4mi\u00e4, asetus ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi, tai voi aiheuttaa ongelmia."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Jos teet n\u00e4ihin asetuksiin muutoksia, suosittelemme niiden testaamista ensin kehitysymp\u00e4rist\u00f6ss\u00e4."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Huomautus:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "**lihavoidut** asetukset ovat sellaisia, jotka kentt\u00e4tyyppi- tai kentt\u00e4moduuli on sallinut yliajettaviksi."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Muut asetukset eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi oikein yliajettaessa."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Poista k\u00e4yt\u00f6st\u00e4 sellaiset valinnat, jotka eiv\u00e4t toimi, tai aiheuttavat ongelmia."
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Muutokset"
         }
     }
 }

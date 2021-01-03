@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Useita ongelmia tunnistettiin:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Huomaathan, ett\u00e4 juuressa oleva tiedosto %s ei ole ajan tasalla nykyisen ProcessWiren version kanssa. P\u00e4ivit\u00e4 kyseinen tiedosto."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Hiljent\u00e4\u00e4ksesi t\u00e4m\u00e4n varoituksen, korvaa tai lis\u00e4\u00e4 seuraava rivi .htaccess-tiedoston alkuun:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Tervetuloa ProcessWireen!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Jos t\u00e4t\u00e4 asennusta k\u00e4ytet\u00e4\u00e4n kehitykseen tai testaamiseen, suosittelemme kehitystilan k\u00e4ytt\u00f6\u00f6nottoa."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Kehitystilassa kaikki virheilmoitukset ovat n\u00e4kyvill\u00e4. T\u00e4m\u00e4 helpottaa kehityst\u00e4 ja ongelmien etsint\u00e4\u00e4."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Jos kehitystila on k\u00e4yt\u00f6ss\u00e4, hallintapaneelissa n\u00e4ytet\u00e4\u00e4n kehitt\u00e4jille tarkoitettuja lis\u00e4tietoja."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Voit ottaa kehitystilan k\u00e4ytt\u00f6\u00f6n muokkaamalla %s -tiedostoa, ja lis\u00e4\u00e4m\u00e4ll\u00e4 seuraavan rivin:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Huomautus: t\u00e4t\u00e4 ilmoitusta ei n\u00e4ytet\u00e4 en\u00e4\u00e4 uudelleen. Muista poistaa kehitystila k\u00e4yt\u00f6st\u00e4, kun siirr\u00e4t sivuston tuotantoon\/julkiseksi."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Turvallisuusvaroitus: tiedosto '%s' on olemassa. Poista kyseinen tiedosto."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Varoitus: tiedosto '%s' m\u00e4\u00e4ritt\u00e4\u00e4 tiedostoihin liittyv\u00e4t oikeudet, jotka ovat liian sallivat:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lue \"Securing file permissions\"-artikkeli saadaksesi lis\u00e4tietoa"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Hiljent\u00e4\u00e4ksesi t\u00e4m\u00e4n varoituksen, lis\u00e4\u00e4 seuraava rivi %s -tiedoston alkuun:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Varoitus: j\u00e4rjestelm\u00e4\u00e4n on lis\u00e4tty kentt\u00e4 \"published\", jonka nimi on ristiriidassa sivujen \"published\"-ominaisuuden kanssa."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Aseta kent\u00e4lle toinen nimi, ja p\u00e4ivit\u00e4 kaikki kentt\u00e4\u00e4 k\u00e4ytt\u00e4v\u00e4t sivupohjat."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Locale-asetuksesi on \u201c%s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Huomautus: nykyinen palvelimesi locale-asetus ei toimi odotetulla tavalla UTF-8-merkist\u00f6n kanssa, ja saattaa aiheuttaa ongelmia."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Aseta k\u00e4\u00e4nn\u00f6s kunkin kielen \u201cC\u201d-locale-asetukselle kohteessa %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Esim. locale-asetus kielelle US English on: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Lis\u00e4\u00e4 t\u00e4m\u00e4 %1$s -tiedostoon (muokkaa arvoa \u201c%2$s\u201d tarpeen mukaan):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Sivusto on kehitystilassa"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Jos sivusto on julkinen\/tuotannossa, poista kehitystila k\u00e4yt\u00f6st\u00e4 muokkaamalla tiedostoa %1$s seuraavasti: %2$s"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Vaadittu versio: %1$s, tunnistettu versio: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Vaadittua tiedostoa ei l\u00f6ytynyt: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
+        }
+    }
+}

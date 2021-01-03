@@ -76,6 +76,12 @@
         },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
             "text": "Palstan leveys (%d%%)"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Ota k\u00e4ytt\u00f6\u00f6n my\u00f6s HTML5 \"required\" -attribuutti?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "K\u00e4yt\u00e4 t\u00e4t\u00e4 toimintoa vain sellaisille kentille, jotka ovat *aina* n\u00e4kyvill\u00e4 k\u00e4ytt\u00e4j\u00e4lle."
         }
     }
 }

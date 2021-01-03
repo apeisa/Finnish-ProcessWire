@@ -89,9 +89,6 @@
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Moduulin luokkanimi"
         },
-        "3b0798392299a74418470d3f13b5eec2": {
-            "text": "Moduulihakemiston l\u00f6yd\u00e4t osoitteesta [modules.processwire.com\/](http:\/\/modules.processwire.com\/)"
-        },
         "def68ae90aac3e065c37457bc36d22f8": {
             "text": "ModuulinLuokkanimi"
         },
@@ -418,6 +415,30 @@
         },
         "3c6392d21eded83348fcd9ba6fbf3784": {
             "text": "Lataa moduuli"
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Lis\u00e4\u00e4 moduuli manuaalisesti"
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Moduulihakemiston sijainti: %s"
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "ModuulinNimi"
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Kopioi moduulin tiedostot palvelimelle uuteen hakemistoon %s."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Klikkaa alla olevaa \u201c%s\u201d-nappia, joka etsii uuden moduulin."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Etsi uusi moduuli listalta, ja klikkaa \u201c%s\u201d-nappia."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Korvaa \u201c%s\u201d moduulin nimell\u00e4, joka on tavallisesti moduulin PHP-luokkanimi."
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Moduuli: %s"
         }
     }
 }

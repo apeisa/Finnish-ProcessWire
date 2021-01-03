@@ -88,6 +88,12 @@
         },
         "37ef521112472af77d381e834922a7af": {
             "text": "%1$s kumottu sivupohjasta %2$s, klikkaa muokataksesi"
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "T\u00e4hdell\u00e4 (*) merkityille sivupohjille on asetettu muokkausoikeuksia, jotka periytyv\u00e4t rekursiivisesti my\u00f6s alasivuille, kunnes jokin toinen samassa haarassa oleva sivupohja mahdollisesti asettaa omat muokkausoikeutensa."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "T\u00e4m\u00e4 k\u00e4ytt\u00f6oikeus periytyy rekursiivisesti my\u00f6s alasivuille, kunnes jokin toinen samassa haarassa oleva sivupohja yliajaa asetuksen."
         }
     }
 }
