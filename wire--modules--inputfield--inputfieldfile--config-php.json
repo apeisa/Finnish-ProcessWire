@@ -1,5 +1,54 @@
 {
     "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
     "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
-    "translations": []
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Sallitut tiedostop\u00e4\u00e4tteet"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Pura ZIP-paketit?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Jos valittu, ZIP-paketit puretaan ja kaikki kent\u00e4n tukemat tiedostot ladataan palvelimelle (jos palvelin tukee t\u00e4t\u00e4 ominaisuutta). Jotta ZIP-lataukset toimivat, kent\u00e4n tiedostom\u00e4\u00e4r\u00e4n rajoitus tulee poistaa k\u00e4yt\u00f6st\u00e4."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Korvaa olemassa olevat tiedostot?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Jos valittu, ladattava tiedosto korvaa palvelimella olevan samannimisen tiedoston (kuvaus- ja tagitiedot s\u00e4ilytet\u00e4\u00e4n). Jos t\u00e4m\u00e4 ei ole valittu, palvelimelle ladattavat tiedostot nimet\u00e4\u00e4n tarvittaessa yksil\u00f6llisiksi."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Huomaa, ett\u00e4 jos t\u00e4m\u00e4 on valittu, AJAX:n kautta ladattavat tiedostot tallentuvat sivuun v\u00e4litt\u00f6m\u00e4sti latauksen j\u00e4lkeen. Oletusarvoisesti tiedostot tallennetaan sivun tallennuksen yhteydess\u00e4."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Tiedostojen kuvaukset"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Rivien m\u00e4\u00e4r\u00e4 kuvauskent\u00e4ss\u00e4?"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Yksi tai useampi tiedostop\u00e4\u00e4te eroteltuna v\u00e4lily\u00f6nnill\u00e4."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Suurin sallittu tiedostom\u00e4\u00e4r\u00e4"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0 = Ei rajoitusta"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Tiedostojen lataus (upload)"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Kirjoita rivien m\u00e4\u00e4r\u00e4 tiedoston kuvauskent\u00e4lle, tai kirjoita 0, jos et halua kuvauskentt\u00e4\u00e4."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Poista k\u00e4yt\u00f6st\u00e4 monikieliset kuvaustekstit?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Oletuksena kuvaustekstit ovat monikielisi\u00e4 jos Language Support -moduuli on asennettu."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Valitse t\u00e4m\u00e4, jos haluat monikieliset kuvaustekstit pois k\u00e4yt\u00f6st\u00e4."
+        }
+    }
 }

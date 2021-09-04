@@ -17,9 +17,6 @@
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Salli julkaisemattomat sivut?"
         },
-        "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Jos valittu, julkaisemattomat sivut sallitaan valittavaksi kentt\u00e4\u00e4n. Julkaisemattomat sivut n\u00e4kyv\u00e4t sivustolla vain niille, joilla on sivuihin muokkausoikeus."
-        },
         "393e717c8215abdbe581b21180abfa2b": {
             "text": "Sivua ei l\u00f6ytynyt"
         },
@@ -52,6 +49,9 @@
         },
         "0a7cd2620545065d49a8ca58f5fc0b28": {
             "text": "Lis\u00e4tietoja %s -metodista."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Jos t\u00e4m\u00e4 on valittu, julkaisemattomat sivut ovat valittavissa ja sallittuja kent\u00e4n *muotoilemattomassa* arvossa. Julkaisemattomia sivuja ei sis\u00e4llytet\u00e4 kent\u00e4n *muotoiltuun* arvoon."
         }
     }
 }

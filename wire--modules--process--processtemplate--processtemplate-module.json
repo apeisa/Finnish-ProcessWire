@@ -92,20 +92,11 @@
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Lis\u00e4\u00e4 kentt\u00e4"
         },
-        "71bb941583eef6e3e5ed3eaad39cc315": {
-            "text": "Kopioi kent\u00e4t toisesta sivupohjasta"
-        },
-        "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Valitse toinen sivupohja, jonka kent\u00e4t haluat kopioida t\u00e4lle sivupohjalle. T\u00e4lle sivupohjalle jo aiemmin m\u00e4\u00e4ritetyt kent\u00e4t s\u00e4ilytet\u00e4\u00e4n."
-        },
         "3f8255a0588417dee11d58e2b92c59b4": {
             "text": "Sivupohjat joissa on k\u00e4yt\u00f6ss\u00e4 kentt\u00e4: %s"
         },
         "244561833b6ce4599891cf9e33fb33d6": {
             "text": "Vapaaehtoiset lis\u00e4asetukset"
-        },
-        "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Tuo kent\u00e4t toisesta sivupohjasta"
         },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Perustiedot"
@@ -130,9 +121,6 @@
         },
         "08b4ed72628b718cbe3158eb2eaf10a2": {
             "text": "J\u00e4rjestelm\u00e4"
-        },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Tuo"
         },
         "b2a6343356c7cf0f4c1aae50c2cac1b7": {
             "text": "Poista"
@@ -266,17 +254,11 @@
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Jokainen tagi tulee koostua yhdest\u00e4 sanasta (tavuviivan k\u00e4ytt\u00f6 on sallittua)."
         },
-        "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "Jos haluat osion olevan suljettu kentt\u00e4listalla, lis\u00e4\u00e4 tagin eteen tavuviiva. Esim. -osio"
-        },
         "f578ef5a7330291e151dc6052fe85bfe": {
             "text": "Voit vapaaehtoisesti m\u00e4\u00e4ritt\u00e4\u00e4 \"Sis\u00e4lt\u00f6\"-v\u00e4lilehden nimikkeen."
         },
         "5fda5af59d211bd673998a69f051c3f2": {
             "text": "Voit vapaaehtoisesti m\u00e4\u00e4ritt\u00e4\u00e4 \"Alasivut\"-v\u00e4lilehden nimikkeen."
-        },
-        "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "Nime\u00e4 sivupohja uudelleen"
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "Nimi jota k\u00e4ytet\u00e4\u00e4n viittaamaan t\u00e4h\u00e4n sivupohjaan. T\u00e4m\u00e4 on my\u00f6s oletusarvoinen tiedostonimi sivupohjan tiedostolle (.php -tiedostop\u00e4\u00e4tteell\u00e4) hakemistossa \/site\/templates\/."
@@ -286,9 +268,6 @@
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Sivupohjan tiedosto ei ole kirjoitustilassa ja se tulee nimet\u00e4 uudelleen k\u00e4sin (ohjeet tulevat n\u00e4kyville tallennuksen j\u00e4lkeen)."
-        },
-        "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Luo kopio sivupohjasta?"
         },
         "7328590933d4202f89220d6b435b0e8f": {
             "text": "Sivukartassa n\u00e4kyv\u00e4t kent\u00e4t"
@@ -713,9 +692,6 @@
         "2d234a37f1f09a868ff9e51cbec93c0a": {
             "text": "Rakenne\/Protokolla"
         },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "M\u00e4\u00e4rit\u00e4 kent\u00e4t, jotka otetaan k\u00e4ytt\u00f6\u00f6n t\u00e4lle sivupohjalle. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla. [Luo uusi kentt\u00e4](..\/field\/add)."
-        },
         "817434295a673aed431435658b65d9a7": {
             "text": "Kuvake"
         },
@@ -994,6 +970,105 @@
         },
         "793e0cc1771feadd7a91c0031e7ad663": {
             "text": "T\u00e4m\u00e4 asetus on voimassa vain jos olet valinnut vaihtoehdon \"C\" yll\u00e4 olevassa kent\u00e4ss\u00e4."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Nimike"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tyyppi"
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "Hallinnoi tageja"
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Toiminto ei ole k\u00e4ytett\u00e4viss\u00e4 alla olevasta syyst\u00e4"
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "M\u00e4\u00e4rit\u00e4 muokattavat kent\u00e4t kohteelle \"%s\". Muiden asetusten m\u00e4\u00e4ritt\u00e4minen t\u00e4ss\u00e4 n\u00e4kym\u00e4ss\u00e4 ei ole tarpeellista."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "Valitse sivupohjan k\u00e4ytt\u00e4m\u00e4t kent\u00e4t. Voit j\u00e4rjestell\u00e4 kentti\u00e4 vet\u00e4m\u00e4ll\u00e4 ja pudottamalla."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Voit my\u00f6s klikata lis\u00e4tyn kent\u00e4n nime\u00e4 tai nimikett\u00e4 muokataksesi kent\u00e4n asetuksia t\u00e4m\u00e4n sivupohjan kontekstissa.  Klikkaa ja ved\u00e4 kent\u00e4n prosentuaalisen leveysmerkinn\u00e4n kohdalta muuttaaksesi kent\u00e4n leveytt\u00e4. Voit my\u00f6s [luoda uuden kent\u00e4n](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Tallenna sivupohja muokataksesi \u00e4skett\u00e4in lis\u00e4ttyj\u00e4 kentti\u00e4."
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "Nime\u00e4 sivupohja uudelleen"
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Luo kopio sivupohjasta"
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Kopioi kent\u00e4t toisesta sivupohjasta"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Toiminnot"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Valitse toinen sivupohja, jonka kent\u00e4t haluat kopioida t\u00e4lle sivupohjalle. T\u00e4lle sivupohjalle jo aiemmin m\u00e4\u00e4ritetyt kent\u00e4t s\u00e4ilytet\u00e4\u00e4n."
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Est\u00e4 suora p\u00e4\u00e4sy sivupohjaa k\u00e4ytt\u00e4vien sivujen tiedostoihin?"
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "Kun suora p\u00e4\u00e4sy tiedostoon hakemistossa [u]\/site\/assets\/files\/[\/u] on estetty, ProcessWire hallinnoi tiedoston jakelua Apachen sijaan."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "Toiminnon avulla sivun tiedostojen k\u00e4ytt\u00f6oikeudet hallitaan samalla tavalla kuin itse sivunkin, ja tiedostot k\u00e4ytt\u00e4v\u00e4t alkuper\u00e4isi\u00e4 URL-osoitteitaan."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Huomaa ett\u00e4 tiedostojen jakelu t\u00e4ll\u00e4 tavalla kuormittaa palvelinta enemm\u00e4n, joten valitse \"Aina\"-valinta vain jos se on tarpeellista."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "Testaa ett\u00e4 k\u00e4ytt\u00f6oikeuksien hallinta toimii odotetusti lataamalla suojattuja tiedostoja selaimellasi."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "Testaa lataamista sek\u00e4 kirjautuneena, ett\u00e4 kirjautumattomana k\u00e4ytt\u00e4j\u00e4n\u00e4."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(k\u00e4yt\u00e4 sivuston yleist\u00e4 asetusta)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "Kyll\u00e4, jos sivu on julkaisematon, roskakorissa, tai jos sivu ei ole julkisesti n\u00e4kyvill\u00e4"
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Aina, riippumatta sivun tilasta tai k\u00e4ytt\u00f6oikeuksista"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "Uudelleennimettin %d tiedoston polku tiedostojen oikeusasetuksen muutoksen johdosta"
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Muutos tiedostojen oikeusasetukseen otetaan k\u00e4ytt\u00f6\u00f6n kun kunkin %d toimintoon liittyv\u00e4n sivun tiedosto- tai kuvakent\u00e4t ladataan."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Huomaa, ett\u00e4 t\u00e4m\u00e4 toimenpide voi kest\u00e4\u00e4 jonkin aikaa. Ottaaksesi muutoksen k\u00e4ytt\u00f6\u00f6n heti, aja seuraava API-koodi sivupohjan tiedostossa:"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "Valitse sivupohjat joille t\u00e4m\u00e4 tagi otetaan k\u00e4ytt\u00f6\u00f6n"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "N\u00e4yt\u00e4 tagiosio suljettuna sivupohjalistalla?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "Poistaaksesi tagin, poista se k\u00e4yt\u00f6st\u00e4 kaikista sivupohjista."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "Lis\u00e4ttiin tagi \u201c%1$s\u201d sivupohjaan: %2$s"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Poistettiin tagi \u201c%1$s\u201d sivupohjasta: %2$s"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Tagien avulla voit lajitella sivupohjia listausn\u00e4kym\u00e4ss\u00e4."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Lis\u00e4\u00e4 uusi tagi"
         }
     }
 }
