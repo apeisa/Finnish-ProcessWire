@@ -439,6 +439,57 @@
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Moduuli: %s"
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Puuttuva moduulin tiedosto kohteessa: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Puuttuvat"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Asennetut tietokannassa olevat moduulit, joita ei l\u00f6ytynyt tiedostoj\u00e4rjestelm\u00e4st\u00e4. Klikkaa moduulin nime\u00e4 korjataksesi ongelman."
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "Moduulin tiedostoa ei l\u00f6ytynyt"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Moduuli \u201c%s\u201d l\u00f6ytyy tietokannasta, mutta ei tiedostoj\u00e4rjestelm\u00e4st\u00e4."
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Lis\u00e4\u00e4 moduulin tiedostot kohteeseen %s tai poista moduuli tietokannasta."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Poista moduuli tietokannasta?"
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "Moduulin luokan tulee k\u00e4ytt\u00e4\u00e4 \u201cProcessWire\\Module\u201d-rajapintaa."
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Poistettiin moduuli tietokannasta"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "P\u00e4ivitettiin moduuli %1$s k\u00e4ytt\u00e4m\u00e4\u00e4n tiedostoa: %2$s"
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "asenna k\u00e4\u00e4nn\u00f6ksi\u00e4"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Moduulin k\u00e4\u00e4nn\u00f6stiedostoja ei ole saatavilla"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Moduulin kielik\u00e4\u00e4nn\u00f6kset"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "Tuo k\u00e4\u00e4nn\u00f6kset moduulille %s"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Tuo kohteeseen %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "CSV-tiedostoa ei l\u00f6ytynyt"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Kieliversiot"
         }
     }
 }

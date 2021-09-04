@@ -123,7 +123,7 @@
             "text": "Toistajaa muokatessa voit muuttaa osion syvyytt\u00e4 vet\u00e4m\u00e4ll\u00e4 osiota vasemmalle tai oikealle."
         },
         "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
-            "text": "Syvyysasetuksen l\u00e4ht\u00f6arvo on 0, jolloin arvo 3 sallii syvyydet 0, 1, 2 ja 3."
+            "text": "Syvyysasetuksen l\u00e4ht\u00f6arvo on 0, jolloin arvo 3 sallii syvyystasot 0, 1, 2 ja 3."
         },
         "8b3964c39c4eb2db458965c40689f5a0": {
             "text": "Osion syvyyden tulostus API:n kautta: $item->depth."
@@ -154,6 +154,18 @@
         },
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Huomaa, ett\u00e4 jos tyypiksi vaihdetaan \"irrotettu\", ProcessWire ei poista yl\u00e4sivua eik\u00e4 sivupohjaa jos kentt\u00e4 poistetaan."
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Ota k\u00e4ytt\u00f6\u00f6n syvyyteen perustuvat osioiden suhteet"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Jos t\u00e4m\u00e4 toiminto on k\u00e4yt\u00f6ss\u00e4, osiot muodostavat syvyyteen perustuvat yl\u00e4- ja alaosiosuhteet."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "T\u00e4m\u00e4 tarkoittaa sit\u00e4, ett\u00e4 kun osiota siirret\u00e4\u00e4n, mukana siirtyv\u00e4t my\u00f6s kyseisen osion alaosiot."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Toiminto est\u00e4\u00e4 my\u00f6s alaosioiden syvyyden tarpeettoman ylitt\u00e4misen."
         }
     }
 }

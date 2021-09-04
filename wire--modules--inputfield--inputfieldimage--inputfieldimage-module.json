@@ -5,32 +5,11 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Kuva pienennettiin suurimpaan sallittuun kokoon"
         },
-        "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 ladattavien kuvien maksimileveyden ja\/tai -korkeuden. Mik\u00e4li n\u00e4m\u00e4 ylittyv\u00e4t, kuva pienennet\u00e4\u00e4n lis\u00e4ysvaiheessa. T\u00e4m\u00e4 ei vaikuta olemassa oleviin kuviin, eik\u00e4 kuviin jotka lis\u00e4t\u00e4\u00e4n API:n kautta."
-        },
-        "e69ccb31941d2fd7923c6b0c01957db3": {
-            "text": "Kuvien maksimileveys"
-        },
-        "c58e466902d0ff945d0677114e41682b": {
-            "text": "Kuvien maksimikorkeus"
-        },
         "126b21ce46c39d12c24058791a236777": {
             "text": "Kuvatiedosto ei kelpaa"
         },
         "41cfe40655c4b51507eff9d22bd777f2": {
             "text": "Kuva %s ei t\u00e4yt\u00e4 kokovaatimuksia"
-        },
-        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Kirjoita pikseleiden lukum\u00e4\u00e4r\u00e4 tai j\u00e4t\u00e4 tyhj\u00e4ksi, jos et halua rajoitusta."
-        },
-        "a195023920e6ece61b6211755c9af27f": {
-            "text": "Voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 ladattavien kuvien minimileveyden- ja\/tai korkeuden. Mik\u00e4li n\u00e4m\u00e4 alittuvat, kuvaa ei ladata palvelimelle."
-        },
-        "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Kuvien minimileveys"
-        },
-        "b477617de997199bdd26761085aea486": {
-            "text": "Kuvien minimikorkeus"
         },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Kuvat"
@@ -40,9 +19,6 @@
         },
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Kuvan %s tiedostokoko ylitt\u00e4\u00e4 sallitun rajoituksen"
-        },
-        "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Hylk\u00e4\u00e4 kuvat jotka ylitt\u00e4v\u00e4t maksimimitat?"
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Rajaa"
@@ -74,86 +50,11 @@
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
             "text": "Esikatselukuvien vanhoja versioita l\u00f6ytynyt \u2013 rastita t\u00e4m\u00e4 luodaksesi ne uudelleen."
         },
-        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
-            "text": "Listaustavan oletusarvo"
-        },
-        "c53c009277b900e7292c4b49f07ddaec": {
-            "text": "Kuvat listataan oletuksena t\u00e4ss\u00e4 m\u00e4\u00e4ritelt\u00e4v\u00e4n tavan mukaisesti. K\u00e4ytt\u00e4j\u00e4 voi koska tahansa muuttaa listaustapaa klikkaamalla kent\u00e4n oikeassa yl\u00e4kulmassa olevia kuvakkeita."
-        },
-        "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Jos olet l\u00e4hiaikoina k\u00e4ytt\u00e4nyt t\u00e4t\u00e4 kuvakentt\u00e4\u00e4, sinun tulee tyhjent\u00e4\u00e4 selaimen ev\u00e4steet n\u00e4hd\u00e4ksesi muutokset."
-        },
-        "a188c29fb8020eee47113073e366f78e": {
-            "text": "Neli\u00f6t"
-        },
-        "06d5ddb736061086ad90f364eca1c56d": {
-            "text": "Suhteellinen ruudukko"
-        },
-        "fa996d5ac4351e7e603f3ab1b9f77afe": {
-            "text": "Pystysuuntainen lista"
-        },
         "f4795ac01103c68bc75e637665b7bd12": {
             "text": "T\u00e4m\u00e4 kuvakentt\u00e4 saattaa sis\u00e4lt\u00e4\u00e4 tallentamattomia muutoksia, jotka menetet\u00e4\u00e4n t\u00e4t\u00e4 toimintoa k\u00e4ytett\u00e4ess\u00e4. Tallenna sivu ennen rajaamista, tai klikkaa nappia jatkaaksesi."
         },
         "36400352f439e8894099e79dc33fada1": {
             "text": "Vanhat esikatselukuvat luotiin uudelleen"
-        },
-        "a39e1de5e7b995d90322ab7d047428bc": {
-            "text": "Ota k\u00e4ytt\u00f6\u00f6n k\u00e4\u00e4nteiset minimi- ja maksimimitat pystysuuntaisille kuville?"
-        },
-        "7f3d934927a1c106f5191c01b36c7766": {
-            "text": "Jos t\u00e4m\u00e4 on valittu, minimi- ja maksimimitat vaihdetaan kesken\u00e4\u00e4n pystysuuntaisille kuville."
-        },
-        "84a327773a9172357f703ebdbb28680b": {
-            "text": "Kuvien maksimimitat"
-        },
-        "16e3e850ce20fe9fa8340e6d27693f61": {
-            "text": "Toiminto koskee JPG-, PNG- tai GIF-kuvatiedostoja."
-        },
-        "9fdc5bac96032d0465aa6cc6543d1871": {
-            "text": "Kuvakoon muutostapa"
-        },
-        "434352c2b6134b909827f386b3644f0f": {
-            "text": "Kuva voidaan pienent\u00e4\u00e4 etuk\u00e4teen selaimessa, jolloin palvelimelle siirrett\u00e4v\u00e4 tiedosto on pienempi."
-        },
-        "edcf99dacdc6160d6eb8d2efb90ee189": {
-            "text": "Pienenn\u00e4 kuvat selaimessa, jos selain tukee t\u00e4t\u00e4 ominaisuutta"
-        },
-        "4421a363b922af1808ae2b258c9d11bb": {
-            "text": "Pienenn\u00e4 kuvat palvelimella"
-        },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "Jos valitset kuvien pienent\u00e4misen selaimessa, m\u00e4\u00e4rit\u00e4 sek\u00e4 maksimileveys, ett\u00e4 maksimikorkeus yll\u00e4 oleviin kenttiin, tai m\u00e4\u00e4rit\u00e4 suurin sallittu megapikselien m\u00e4\u00e4r\u00e4 alla olevaan kentt\u00e4\u00e4n."
-        },
-        "41d833b452340b52caa65fdcfe181945": {
-            "text": "Suurin sallittu kuvien megapikselien m\u00e4\u00e4r\u00e4"
-        },
-        "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 leveyden\/korkeuden sijaan megapikselien m\u00e4\u00e4r\u00e4n. Kirjoita arvo desimaalilukuna."
-        },
-        "bd035d6e1aa04d38e61f36c27150e39d": {
-            "text": "T\u00e4m\u00e4 asetus toimii vain jos kuvat on asetettu pienennett\u00e4v\u00e4ksi selaimessa."
-        },
-        "fe64c68c1aa30e687be4aa011b33f15f": {
-            "text": "Sopiva arvo verkkosivustoille on 1.7, joka on n. 1600x1000 pikseli\u00e4. T\u00e4ll\u00f6in kuvan korkeus tai leveys voi olla 1600 tai 1000 pikseli\u00e4."
-        },
-        "c719e0f0e40f5193e0bbe6f9afc408e5": {
-            "text": "Muita esimerkkej\u00e4:"
-        },
-        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
-            "text": "JPEG-tiedoston laatu selaimessa pienennett\u00e4ville kuville"
-        },
-        "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "M\u00e4\u00e4rit\u00e4 arvo v\u00e4lilt\u00e4 10 (alhaisin laatu \/ pienin tiedostokoko) ja 100 (korkein laatu \/ suurin tiedostokoko). Oletusarvo: 90."
-        },
-        "2d77facadb02370d5dd7c076b5afbee7": {
-            "text": "Kuvien minimimitat"
-        },
-        "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Jos t\u00e4m\u00e4 on valittu, palvelimelle ei ladata kuvia jotka ylitt\u00e4v\u00e4t maksimileveyden tai -korkeuden, ja joita ei voida pienent\u00e4\u00e4 selaimessa."
-        },
-        "98ebe60c452735dc2ef2249c835eddfe": {
-            "text": "Asetus koskee vain palvelimella pienennett\u00e4vi\u00e4 kuvia."
         },
         "e24ee2487879116dcab772c0ac4fe341": {
             "text": "Kohdistuspiste"
@@ -214,24 +115,6 @@
         },
         "a45c16f718396868c97a72efcc571842": {
             "text": "Toiminnon \u201c%1$s\u201d suorittaminen tiedostoon %2$s ep\u00e4onnistui"
-        },
-        "b9f5c797ebbf55adccdd8539a65a0241": {
-            "text": "Ei k\u00e4yt\u00f6ss\u00e4"
-        },
-        "e0f4085735da81540154c2c351147301": {
-            "text": "Kohdistuspisteen valinta"
-        },
-        "f6a9e8b3977d98dd0e4b7b13720c858b": {
-            "text": "Jos t\u00e4m\u00e4 toiminto on k\u00e4yt\u00f6ss\u00e4, k\u00e4ytt\u00e4j\u00e4 voi merkit\u00e4 kuvaan kohdistuspisteen, jonka mukaan kuvasta voidaan luoda erikokoisia rajauksia."
-        },
-        "17450a5a8844e5a36f3911d94bea2b72": {
-            "text": "Kohdistuspisteen esikatselu n\u00e4ytet\u00e4\u00e4n, jos kent\u00e4n listaustavaksi on valittu \"Neli\u00f6t\"."
-        },
-        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
-            "text": "Kohdistuspiste"
-        },
-        "2d07823e1de7d7eb6f09477f9070524f": {
-            "text": "Kohdistuspiste ja zoomaus"
         },
         "ac8883f9998c8b328a96855575eebcc5": {
             "text": "K\u00e4sittelij\u00e4\u00e4 toiminnolle \u201c%1$s\u201d ei l\u00f6ytynyt tiedostossa %2$s"

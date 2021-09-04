@@ -292,6 +292,45 @@
         },
         "5d6497b7aaafbba82795cd9626c2f508": {
             "text": "Valitse vaihtoehto B, jos joidenkin kenttien leveyden asettaminen ei onnistu riitt\u00e4v\u00e4n tarkasti."
+        },
+        "03bc7984b022876df391184e362104c2": {
+            "text": "Jos k\u00e4yt\u00e4t SVG-tiedostoa, voit vaihtoehtoisesti lis\u00e4t\u00e4 polkuun \"?uk-svg\" lis\u00e4t\u00e4ksesi [uk-svg -attribuutin](%s)."
+        },
+        "28fb66ed224d7a166862203d74cacb8b": {
+            "text": "Edistyneimm\u00e4t asetukset ovat m\u00e4\u00e4ritett\u00e4viss\u00e4 `$config->AdminThemeUikit`-taulukkoon."
+        },
+        "c03e0af8dbd18d53753b92b02753e865": {
+            "text": "L\u00f6yd\u00e4t sen tiedostosta \/wire\/config.php. Kopioi taulukko \/site\/config.php -tiedostoon muokataksesi asetuksia."
+        },
+        "59a3041f943c85af8edcf623308809e0": {
+            "text": "Varoitus: t\u00e4m\u00e4 yliajaa `$config->AdminThemeUikit`-taulukkoon m\u00e4\u00e4ritetyt asetukset, pohjatyylit ja itse m\u00e4\u00e4ritetyt tyylit."
+        },
+        "d63e134e027a638f911ac2e099758c3e": {
+            "text": "Kent\u00e4n nimikkeen klikkauksen toimintamalli"
+        },
+        "eb6d8ae6f20283755b339c0dc273988b": {
+            "text": "Tavallinen"
+        },
+        "30a61870b0726430151d669fd3459ac1": {
+            "text": "Yhdenmukainen"
+        },
+        "be91d7f8b5e6fd1f0c5cdca8d18a04b5": {
+            "text": "ProcessWiress\u00e4 kent\u00e4t voivat olla avoimia tai suljettuja."
+        },
+        "0dcb71ef852b35149ab9c3445b480953": {
+            "text": "T\u00e4ll\u00e4 asetuksella voit m\u00e4\u00e4ritt\u00e4\u00e4, mit\u00e4 tapahtuu kun k\u00e4ytt\u00e4j\u00e4 klikkaa kent\u00e4n nimikett\u00e4, joka n\u00e4ytet\u00e4\u00e4n kent\u00e4n yl\u00e4laidassa."
+        },
+        "7675e95bb6ab79a2b07bc1d32530e20d": {
+            "text": "Jos \"Tavallinen\" on valittu, klikattaessa nimikett\u00e4 fokus siirret\u00e4\u00e4n sy\u00f6tt\u00f6kentt\u00e4\u00e4n, kuten HTML-lomakkeissa yleens\u00e4kin."
+        },
+        "08f2a1074dae6032681157b928a93dac": {
+            "text": "T\u00e4ll\u00f6in klikattaessa suljetun kent\u00e4n nimikett\u00e4 kentt\u00e4 avautuu, fokus siirret\u00e4\u00e4n sy\u00f6tt\u00f6kentt\u00e4\u00e4n, ja kentt\u00e4 suljetaan klikattaessa nimikett\u00e4 uudelleen."
+        },
+        "b18ca92e72ab16203ccf67e4cfffb1c0": {
+            "text": "Jos \"Yhdenmukainen\" on valittu, kent\u00e4n nimikkeen klikkaus aina avaa tai sulkee kent\u00e4n riippumatta siit\u00e4, miss\u00e4 tilassa kentt\u00e4 klikkaushetkell\u00e4 on."
+        },
+        "c5fb3c81ba85771e0f107fc5a57efc62": {
+            "text": "Kent\u00e4n oikeassa laidassa oleva avaa\/sulje -painike toimii normaaliin tapaan riippumatta t\u00e4ss\u00e4 teht\u00e4v\u00e4st\u00e4 valinnasta."
         }
     }
 }

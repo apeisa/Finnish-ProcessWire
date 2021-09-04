@@ -41,12 +41,6 @@
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Editorin tila"
         },
-        "0e0da14bdea5e80af97115d05779bdc4": {
-            "text": "Tavallinen"
-        },
-        "9f1f94725c69ad201b156e002476104c": {
-            "text": "Upotettu"
-        },
         "f4bbbce516de30f80d2025ca9cc9a595": {
             "text": "Jos upotettu tila on k\u00e4yt\u00f6ss\u00e4, editoria ei ladata ennen kuin klikkaat tekstikentt\u00e4\u00e4n. T\u00e4m\u00e4 nopeuttaa lataamista silloin kun sivulla on useita CKEditor -kentti\u00e4. Jotkut ominaisuudet saattavat puuttua editorin upotetusta tilasta."
         },
@@ -232,6 +226,21 @@
         },
         "d17026399e4b0283ab382defdc5ac109": {
             "text": "Oletusarvoisesti palvelimelle ladatut kuvat tallennetaan muokattavan sivun tiedostoiksi. Voit halutessasi valita jonkin toisen sivun, jota k\u00e4ytet\u00e4\u00e4n tiedostojen s\u00e4ilytykseen."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Upotettu editori"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Tavallinen editori"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(korkeus k\u00e4ytt\u00e4j\u00e4n muokattavissa)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(korkeus asetetaan sis\u00e4ll\u00f6n mukaan)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(kiinte\u00e4 korkeus, joka asetetaan rivim\u00e4\u00e4r\u00e4asetuksen mukaisesti)"
         }
     }
 }

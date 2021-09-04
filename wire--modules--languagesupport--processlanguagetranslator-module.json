@@ -160,6 +160,12 @@
         },
         "201cd1463929afbbd095c4803262ceae": {
             "text": "Fallback: jos t\u00e4t\u00e4 teksti\u00e4 ei ole k\u00e4\u00e4nnetty, k\u00e4ytet\u00e4\u00e4n teksti\u00e4 \u201c%1$s\u201d, joka on k\u00e4\u00e4nnetty kohteesta \u201c%2$s\u201d."
+        },
+        "24e75fc33422e42d84ba0fc01cdc8579": {
+            "text": "Voit my\u00f6s [ladata](%1$s) tai [n\u00e4ytt\u00e4\u00e4](%2$s) CSV-tiedoston, joka sis\u00e4lt\u00e4\u00e4 n\u00e4m\u00e4 k\u00e4\u00e4nn\u00f6kset. Tuo k\u00e4ytt\u00f6\u00f6n k\u00e4\u00e4nn\u00f6kset tiedostosta [l\u00e4hett\u00e4m\u00e4ll\u00e4 CSV-tiedosto](%3$s)."
+        },
+        "45f6644c6b04fc718813131f29eb414f": {
+            "text": "Textdomain t\u00e4lle tiedostolle on: %s"
         }
     }
 }

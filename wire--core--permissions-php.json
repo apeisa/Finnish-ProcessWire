@@ -18,7 +18,7 @@
             "text": "K\u00e4ytt\u00e4jien hallinnointi (mik\u00e4 tahansa rooli, paitsi superuser)"
         },
         "eecc2e81896b43d7a7fad8cd165a8107": {
-            "text": "K\u00e4ytt\u00e4jien hallinnointi (rooli: %s)"
+            "text": "Hallinnoi k\u00e4ytt\u00e4ji\u00e4 joilla on rooli: %s"
         },
         "8048bbf682a36eb44e24af9d4996ba3d": {
             "text": "Muokkaa monikielisi\u00e4 kentti\u00e4: %s"
@@ -37,6 +37,15 @@
         },
         "021ae36974d48cf90a6b204c4abe221b": {
             "text": "Yksikielisten kenttien muokkaus monikielisell\u00e4 sivulla"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 saa n\u00e4hd\u00e4 kaikkien roolien k\u00e4ytt\u00e4j\u00e4t (my\u00f6s superuser-k\u00e4ytt\u00e4j\u00e4t)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "K\u00e4ytt\u00e4j\u00e4 saa n\u00e4hd\u00e4 oman k\u00e4ytt\u00e4j\u00e4tilins\u00e4 (jos jokin muu oikeus ei jo salli sit\u00e4)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "N\u00e4yt\u00e4 k\u00e4ytt\u00e4j\u00e4t joilla on rooli: %s"
         }
     }
 }

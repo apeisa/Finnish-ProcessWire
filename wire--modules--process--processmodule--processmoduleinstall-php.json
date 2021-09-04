@@ -70,6 +70,15 @@
         },
         "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
             "text": "Moduulien asennus on asetettu sallituksi vain kehitystilassa."
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Purettiin: %s"
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Purettiin %d tiedosto"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Purettiin %d tiedostoa"
         }
     }
 }

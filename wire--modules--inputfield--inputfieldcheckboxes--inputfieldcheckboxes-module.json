@@ -8,11 +8,32 @@
         "632ae34b804c1914c3a51af327a3379d": {
             "text": "Useita rastitettavia ruutuja"
         },
-        "d3f3236393ce7a48198cde99acaed365": {
-            "text": "Valintojen palstoitus"
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Valintojen palstaleveys"
         },
-        "50bad9e0658dd79a35545ebcd18f92ac": {
-            "text": "Jos haluat valinnat n\u00e4ytett\u00e4v\u00e4ksi palstoina (p\u00e4\u00e4llekk\u00e4in listauksen sijaan), kirjoita palstojen m\u00e4\u00e4r\u00e4 (korkeintaan 10). N\u00e4ytt\u00e4\u00e4ksesi valinnat per\u00e4kk\u00e4in, kirjoita 1."
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "K\u00e4yt\u00e4 t\u00e4t\u00e4 toimintoa listataksesi valinnat kiinte\u00e4levyisiss\u00e4 palstoissa, jotka rivittyv\u00e4t riippuen n\u00e4yt\u00f6n leveydest\u00e4."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "M\u00e4\u00e4rit\u00e4 arvo CSS-yhteensopivana leveyten\u00e4, kuten `100px` tai `10em`. Jos mittayksikk\u00f6\u00e4 ei m\u00e4\u00e4ritet\u00e4, mittayksikk\u00f6n\u00e4 k\u00e4ytet\u00e4\u00e4n `px` (pikseli)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Jos kirjoitat numeron `1`, palstalle lasketaan automaattisesti sopiva leveys ajon aikana."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "On suositeltavaa asettaa arvoksi leveys, johon kent\u00e4ss\u00e4 oleva merkkim\u00e4\u00e4r\u00e4lt\u00e4\u00e4n pisin valinta mahtuu ilman rivityst\u00e4. Voit my\u00f6s kirjoittaa `1`, jolloin leveys lasketaan automaattisesti."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Valintojen palstam\u00e4\u00e4r\u00e4"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Jos haluat listata valinnat palstoissa, kirjoita palstojen m\u00e4\u00e4r\u00e4 (korkeintaan 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "N\u00e4ytt\u00e4\u00e4ksesi valinnat per\u00e4kk\u00e4in, kirjoita `1`."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Huomaa ett\u00e4 \"Valintojen palstaleveys\"-asetus toimii luotettavammin eri n\u00e4yt\u00f6nleveyksill\u00e4."
         }
     }
 }

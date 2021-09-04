@@ -92,12 +92,6 @@
         "8a64cae4f29b541d3e532599d513e04e": {
             "text": "Merkkauksen\/HTML:n laadunvarmistuksen yhteenveto:"
         },
-        "91032d1254768e880dbbeede54e35a79": {
-            "text": "%d paikallista a[href] -tagia"
-        },
-        "5fcef18456ba78863a5a57e162279d2d": {
-            "text": "%d paikallista img[src] -tagia"
-        },
         "a0b71249600398fd6f497273a8fbd0c6": {
             "text": "1 selvitt\u00e4m\u00e4t\u00f6nt\u00e4 a[href] -tagia"
         },
@@ -133,6 +127,12 @@
         },
         "bf488dca57621015b17e715b49053f72": {
             "text": "%d tyhj\u00e4\u00e4 img[alt] -tagia, jotka t\u00e4ytet\u00e4\u00e4n ajonaikaisesti"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d paikallista a[href] -tagia"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d paikallista img[src] -tagia"
         }
     }
 }

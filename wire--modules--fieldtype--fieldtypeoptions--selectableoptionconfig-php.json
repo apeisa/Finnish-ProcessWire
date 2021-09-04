@@ -35,12 +35,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Alla n\u00e4et esikatselun valintatyypist\u00e4 (%s) ja valittavissa olevista arvoista."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Huom: t\u00e4ss\u00e4 teht\u00e4v\u00e4t valinnat eiv\u00e4t ole voimassa, koska kent\u00e4lle ei ole asetettu arvoa pakolliseksi. Katso \"Pakollinen\"-valinta Kentt\u00e4-v\u00e4lilehdell\u00e4."
-        },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "T\u00e4ss\u00e4 teht\u00e4v\u00e4t valinnat ovat voimassa, koska kent\u00e4lle on asetettu pakollinen arvo."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Poista t\u00e4m\u00e4 valinta"
         },
@@ -58,6 +52,15 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Jos haluat tulostaa valinnan arvon otsikon sijaan, vaihda esimerkkikoodissa ominaisuuden \"title\" tilalle \"value\"."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Useita lajiteltavia arvoja"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Huomaathan, ett\u00e4 m\u00e4\u00e4ritetty esivalinta ei ole k\u00e4yt\u00f6ss\u00e4, koska kentt\u00e4\u00e4 ei ole asetettu pakolliseksi. Voit asettaa kent\u00e4n pakolliseksi kentt\u00e4-v\u00e4lilehdell\u00e4."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "T\u00e4m\u00e4 esivalinta on k\u00e4yt\u00f6ss\u00e4, koska kentt\u00e4 on asetettu pakolliseksi."
         }
     }
 }

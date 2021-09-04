@@ -101,9 +101,6 @@
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(kaikki)"
         },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Oikeudet on m\u00e4\u00e4ritetty t\u00e4m\u00e4n sivun sivupohjassa: %s"
-        },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "Oikeudet on peritty sivulta \"%1$s\" ja m\u00e4\u00e4ritetty sivupohjassa %2$s"
         },
@@ -373,6 +370,18 @@
         },
         "c71458ba699635fcdbc6a15dd2b81c4c": {
             "text": "Virhemerkint\u00e4 poistettiin sivulta, koska tallennuksen aikana ei ilmennyt virheit\u00e4"
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "K\u00e4ytt\u00f6oikeudet ovat m\u00e4\u00e4ritetty t\u00e4m\u00e4n sivun sivupohjassa: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Jos sivulle luodaan sivupohjatiedosto (t\u00e4ll\u00e4 hetkell\u00e4 tiedostoa ei ole), sivu on katseltavissa URL-osoitteellaan."
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Lis\u00e4ttiin tila: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Poistettiin tila: %s"
         }
     }
 }
