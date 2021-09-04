@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tekstitagit"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Mahdollistaa omien tagien sy\u00f6tt\u00e4misen tai tagien sy\u00f6tt\u00e4misen esim\u00e4\u00e4ritetyist\u00e4 valinnoista."
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Valittavissa olevien valintojen\/tagien l\u00e4hde"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "M\u00e4\u00e4rit\u00e4 t\u00e4ss\u00e4"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Lataa URL-osoitteesta (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "K\u00e4yt\u00e4 ajaxilla ladattavia valintoja\/sivuja?"
+        },
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Poistettin ei-kelvollinen tagin arvo: %s"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Jos valittu, kent\u00e4ss\u00e4 k\u00e4ytet\u00e4\u00e4n ennakoivaa hakua."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "="
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "M\u00e4\u00e4rit\u00e4 my\u00f6s alla olevaan \"Ajax URL\"-kentt\u00e4\u00e4n (n\u00e4kyvill\u00e4 kun \"Kyll\u00e4\" on valittu) osoite, johon kysely l\u00e4hetet\u00e4\u00e4n. Esimerkkikoodi l\u00f6ytyy kent\u00e4n yhteydest\u00e4."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Jos t\u00e4m\u00e4 toiminto ei ole k\u00e4yt\u00f6ss\u00e4, kaikki valittavissa olevat valinnat haetaan ajon aikana."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Jos valintojen\/sivujen m\u00e4\u00e4r\u00e4 on suuri, on suositeltua hakea ne ajaxilla."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Harkitse t\u00e4m\u00e4n toiminnon k\u00e4ytt\u00e4mist\u00e4 jos valintoja on useita satoja tai enemm\u00e4n."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Esim\u00e4\u00e4ritetyt valinnat\/tagit"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Kirjoita kukin tagi omalle rivilleen. Jos haluat m\u00e4\u00e4ritt\u00e4\u00e4 tagille erillisen arvon ja nimikkeen, kirjoita riville `arvo=nimike`."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "M\u00e4\u00e4ritt\u00e4\u00e4ksesi eri kieliversioille oman nimikkeen, kirjoita `arvo=nimike` kullekin kieliversiolle siten, ett\u00e4 arvo s\u00e4ilyy samana kaikilla kielill\u00e4."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "T\u00e4ss\u00e4 asetetut arvot eiv\u00e4t voi sis\u00e4lt\u00e4\u00e4 my\u00f6hemmin m\u00e4\u00e4ritelt\u00e4v\u00e4\u00e4 erotinmerkki\u00e4, mutta erotinmerkin voi kirjoittaa nimikkeelle."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Salli k\u00e4ytt\u00e4j\u00e4n lis\u00e4t\u00e4 omia tageja?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Sulje pudotusvalikko tagin valinnan j\u00e4lkeen?"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Tagin erotinmerkki"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "V\u00e4lily\u00f6nti"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Pilkku"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Putkimerkki"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Suurin sallittu tagien\/valintojen m\u00e4\u00e4r\u00e4"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Kirjoita suurin sallittu lukum\u00e4\u00e4r\u00e4, tai kirjoita 0 jos et halua rajoitusta."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Huomaa, ett\u00e4 jos lukum\u00e4\u00e4r\u00e4ksi on valittu 1, kentt\u00e4 tulostetaan pudotusvalikkona tekstikent\u00e4n sijaan."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Esimerkkiteksti"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Vapaaehtoinen ohjeteksti, joka n\u00e4ytet\u00e4\u00e4n kent\u00e4ss\u00e4 jos se on tyhj\u00e4."
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(yksisanaisille tageille)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(monisanaisille tageille)"
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Ajax URL:in tulee sis\u00e4lt\u00e4\u00e4 paikkamerkki {q}."
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Kysely l\u00e4hetet\u00e4\u00e4n t\u00e4h\u00e4n kentt\u00e4\u00e4n kirjoitettavaan URL-osoitteeseen ja kent\u00e4ss\u00e4 k\u00e4ytet\u00e4\u00e4n ennakoivaa sy\u00f6tett\u00e4."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Osoitteen tulee sis\u00e4lt\u00e4\u00e4 paikkamerkki `{q}`, johon sijoitetaan k\u00e4ytt\u00e4j\u00e4n kentt\u00e4\u00e4n kirjoittama arvo."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Voit m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4yden http\/https-osoitteen, tai suhteellisen URL-osoitteen."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Jos m\u00e4\u00e4rit\u00e4t suhteellisen URL-osoitteen (ilman skeemaa\/is\u00e4nt\u00e4\u00e4), nykyinen skeema, is\u00e4nt\u00e4 ja juurisivun URL lis\u00e4t\u00e4\u00e4n osoitteeseen ajon aikana."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "URL-osoitteelle tulee lis\u00e4t\u00e4 alla olevan esimerkin tapainen k\u00e4sittely."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "URL-polku `%s` on vain esimerkki, ja voit korvata sen haluamallasi."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Esimerkki URL-k\u00e4sittelij\u00e4st\u00e4 tiedostossa %s osoitteelle %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Kopioi ja liit\u00e4 t\u00e4m\u00e4 URL yll\u00e4 olevaan kentt\u00e4\u00e4n, jos haluat kokeilla t\u00e4t\u00e4 esimerkkikoodia."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "T\u00e4m\u00e4 esimerkki hakee otsikot sivuista ja k\u00e4ytt\u00e4\u00e4 niit\u00e4 tageina, mutta voit k\u00e4ytt\u00e4\u00e4 my\u00f6s muuta tietol\u00e4hdett\u00e4."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "haluttu sivujen hakuvalitsin"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Huomaa, ett\u00e4 jos muutat \"Valittavissa olevat sivut\"-kent\u00e4n arvoja, tai nimikett\u00e4 joka n\u00e4ytet\u00e4\u00e4n valituista sivuista, sinun tulee p\u00e4ivitt\u00e4\u00e4 URL-k\u00e4sittelij\u00e4n koodia n\u00e4iden tietojen osalta."
+        }
+    }
+}

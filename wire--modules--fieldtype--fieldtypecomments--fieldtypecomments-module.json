@@ -235,6 +235,12 @@
         },
         "043cab853d189bb505d101c3c7ab3176": {
             "text": "="
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "N\u00e4yt\u00e4 kommentin teksti ilmoituksissa?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Jos valittu, s\u00e4hk\u00f6posti-ilmoituksessa n\u00e4ytet\u00e4\u00e4n kommentin teksti. Muussa tapauksessa n\u00e4ytet\u00e4\u00e4n linkki kommenttiin."
         }
     }
 }

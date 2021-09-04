@@ -23,11 +23,11 @@
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "Oletusarvo"
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "T\u00e4m\u00e4 arvo asetetaan oletukseksi uutta sivua luodessa. Oletusarvoa ei aseteta aiemmin luoduille sivuille."
-        },
         "b4e4ee05aeb0d5812f77886c29c4bb53": {
             "text": "Jos ne eiv\u00e4t tarkoita samaa, hakuehto **kentta=0** t\u00e4sm\u00e4\u00e4 vain kenttiin, jotka sis\u00e4lt\u00e4v\u00e4t arvon 0, ja hakuehto **kentta=\"\"** t\u00e4sm\u00e4\u00e4 vain kenttiin, joille ei ole asetettu arvoa."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "T\u00e4t\u00e4 arvoa k\u00e4ytet\u00e4\u00e4n kent\u00e4n oletusarvona sivuille, joilla kentt\u00e4 on tyhj\u00e4."
         }
     }
 }

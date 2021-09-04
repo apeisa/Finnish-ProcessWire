@@ -2,14 +2,35 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
     "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
     "translations": {
-        "82829c5912f395b029a87c565359835c": {
-            "text": "Tekstin muotoilut"
-        },
-        "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "Voit valita yhden tai useamman automaattisen muotoilun kent\u00e4n tulosteelle. Jos valitset useamman kuin yhden, voit valita niiden k\u00e4ytt\u00f6j\u00e4rjestyksen raahaamalla."
-        },
         "ed0f8be4615cf14dc76c1bb2629edf41": {
             "text": "Sellaisille kentille, jotka eiv\u00e4t sis\u00e4ll\u00e4 HTML:\u00e4\u00e4 tai muuta merkkausta, suosittelemme ottamaan k\u00e4ytt\u00f6\u00f6n **HTML-entiteettikoodaimen**"
+        },
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Tekstiasetukset"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Tekstin muotoilut"
+        },
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Voit valita yhden tai useamman automaattisen muotoilun kent\u00e4n tulosteelle."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Jos valitset useamman kuin yhden, voit valita niiden k\u00e4ytt\u00f6j\u00e4rjestyksen raahaamalla."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Voit ladata lis\u00e4\u00e4 muotoilumoduuleita [moduulihakemistosta](%s)."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Oletus"
+        },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "Sy\u00f6temoduuli"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "Tallenna kentt\u00e4 muutoksen j\u00e4lkeen n\u00e4hd\u00e4ksesi \"Kentt\u00e4\"-v\u00e4lilehdell\u00e4 n\u00e4kyv\u00e4t p\u00e4ivittyneet asetukset."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Teksti"
         }
     }
 }

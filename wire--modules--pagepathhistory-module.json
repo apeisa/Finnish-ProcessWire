@@ -6,10 +6,25 @@
             "text": "Sivun minimi-ik\u00e4 (sekunteja)"
         },
         "6f6974b30b7af85a0b0b8e3382fc9345": {
-            "text": "Sivun historian tallennus aloitetaan kun minimi-ik\u00e4 t\u00e4yttyy. Pienin suositeltu minimi-ik\u00e4 on 2 sekuntia."
+            "text": "Sivun polkuhistorian tallennus aloitetaan kun minimi-ik\u00e4 t\u00e4yttyy. Pienin suositeltu minimi-ik\u00e4 on 2 sekuntia."
         },
         "b26126a5fdfea23d379aa813c392d533": {
             "text": "Oletusarvo: %s"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Oletko varma?"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Poistettin %d sivupolkua historiasta"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Tyhjenn\u00e4 kaikkien sivujen polkuhistoria?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Tietokannassa on t\u00e4ll\u00e4 hetkell\u00e4 %d polkuhistoriamerkint\u00e4(\u00e4)."
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "N\u00e4it\u00e4 tietoja k\u00e4ytet\u00e4\u00e4n mm. automaattiseen uudelleenohjaukseen. Tietoja ei voida palauttaa. Valitse t\u00e4m\u00e4 jos olet varma ett\u00e4 haluat tyhjent\u00e4\u00e4 sivujen polkuhistorian."
         }
     }
 }

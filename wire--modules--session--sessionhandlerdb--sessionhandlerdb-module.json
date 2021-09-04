@@ -25,6 +25,15 @@
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
             "text": "K\u00e4ytt\u00e4j\u00e4n \"%s\" edellinen istunto poistettiin."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Istuntolukon aikakatkaisu (sekunteja)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Jos istunnon lukkotiedon noutaminen tietokannasta ei onnistu kentt\u00e4\u00e4n m\u00e4\u00e4ritettyyn aikaan menness\u00e4, l\u00e4hetet\u00e4\u00e4n virhe \u201c%s\u201d ja pyydet\u00e4\u00e4n k\u00e4ytt\u00e4j\u00e4\u00e4 yritt\u00e4m\u00e4\u00e4n uudelleen %d sekunnin kuluttua."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "="
         }
     }
 }

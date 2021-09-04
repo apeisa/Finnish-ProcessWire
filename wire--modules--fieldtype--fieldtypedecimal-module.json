@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "P\u00e4ivitettiin kent\u00e4n \"%1$s\" skeema: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Esimerkki:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Numeroiden m\u00e4\u00e4r\u00e4 yhteens\u00e4"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Lukum\u00e4\u00e4r\u00e4 sis\u00e4lt\u00e4\u00e4 ennen desimaalierotinta ja sen j\u00e4lkeen tulevat numerot."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999.99 sis\u00e4lt\u00e4\u00e4 5 numeroa, joten t\u00e4ss\u00e4 tapauksessa vaadittu lukum\u00e4\u00e4r\u00e4 on 5 tai suurempi."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Numeroiden m\u00e4\u00e4r\u00e4 desimaalierottimen j\u00e4lkeen"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "T\u00e4m\u00e4 arvo tulisi olla pienempi tai sama, kuin numeroiden m\u00e4\u00e4r\u00e4 yhteens\u00e4."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999.99 ja 100.00 sis\u00e4lt\u00e4\u00e4 2 numeroa desimaalierottimen j\u00e4lkeen"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Desimaali"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Kentt\u00e4 joka sis\u00e4lt\u00e4\u00e4 desimaaliluvun"
+        }
+    }
+}
