@@ -42,7 +42,16 @@
             "text": "Sis\u00e4lt\u00e4\u00e4 lauseen"
         },
         "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
-            "text": "Arvo johon verrataan sis\u00e4lt\u00e4\u00e4 m\u00e4\u00e4ritetyn lauseen"
+            "text": "Arvo johon verrataan sis\u00e4lt\u00e4\u00e4 m\u00e4\u00e4ritetyn tekstin"
+        },
+        "694fa795bb560275200877a98153bf50": {
+            "text": "Arvo johon verrataan sis\u00e4lt\u00e4\u00e4 m\u00e4\u00e4ritetyn lauseen tai sanan"
+        },
+        "5aa919e6d2b38f2462d83fd9b2513257": {
+            "text": "Arvo johon verrataan alkaa m\u00e4\u00e4ritetyll\u00e4 sanalla tai lauseella"
+        },
+        "8e272ff6747ebe4eb258cb9a94b56902": {
+            "text": "Arvo johon verrataan loppuu m\u00e4\u00e4ritettyyn sanaan tai lauseeseen"
         }
     }
 }

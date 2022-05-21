@@ -15,7 +15,7 @@
             "text": "Kohdetta voidaan muokata kun sivu on tallennettu."
         },
         "d3b3350cb648f345b0a21a048df0cf45": {
-            "text": "Toistin"
+            "text": "Toistaja"
         },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "Toistaa toisen sivunpohjan kentt\u00e4sarjoja."
@@ -30,7 +30,7 @@
             "text": "Varoitus: vain %d ensimm\u00e4ist\u00e4 osiota k\u00e4ytet\u00e4\u00e4n."
         },
         "44a3084a1ce251fb76ba7fe540a18863": {
-            "text": "T\u00e4m\u00e4 toiminto ei ole k\u00e4yt\u00f6ss\u00e4, koska toistimen osioille on m\u00e4\u00e4ritetty minimi- ja\/tai maksimim\u00e4\u00e4r\u00e4t."
+            "text": "T\u00e4m\u00e4 toiminto ei ole k\u00e4yt\u00f6ss\u00e4, koska toistajan osioille on m\u00e4\u00e4ritetty minimi- ja\/tai maksimim\u00e4\u00e4r\u00e4t."
         },
         "84b9f1e68847c185ca36db3bc2f8de18": {
             "text": "Klikkaa poistaaksesi t\u00e4m\u00e4n osion, tai kaksoisklikkaa poistaaksesi kaikki osiot"
@@ -40,9 +40,6 @@
         },
         "485c9b5a61ede20a8ccc332f120da1f9": {
             "text": "Klikkaa poistaaksesi osion k\u00e4yt\u00f6st\u00e4, tai kaksoisklikkaa avataksesi\/sulkeaksesi kaikki osiot"
-        },
-        "60f5703a75c6e7fa21be4247f0626dfb": {
-            "text": "Kopioi t\u00e4m\u00e4 osio?"
         },
         "b5fab487adaf66b676d31b8fd16af85b": {
             "text": "Avaa kaikki osiot?"
@@ -55,6 +52,45 @@
         },
         "2ca001ee3992ee08c53099d65cbde4eb": {
             "text": "N\u00e4yt\u00e4 asetukset?"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Liit\u00e4"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Kloonaa\/kopioi\/liit\u00e4 -toiminnot"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Lis\u00e4\u00e4 uusi osio ennen t\u00e4t\u00e4 osiota"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Lis\u00e4\u00e4 uusi osio t\u00e4m\u00e4n osion j\u00e4lkeen"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Lis\u00e4\u00e4 uusi osio t\u00e4h\u00e4n"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "Valitse toiminto t\u00e4lle osiolle"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "KOPIOI osio muistiin liitt\u00e4\u00e4ksesi sen muualle"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Muistissa oleva osio"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "KLOONAA osio ja liit\u00e4 t\u00e4m\u00e4n osion YL\u00c4PUOLELLE"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "KLOONAA osio ja liit\u00e4 t\u00e4m\u00e4n osion ALAPUOLELLE"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "LIIT\u00c4 kopioitu osio t\u00e4m\u00e4n osion YL\u00c4PUOLELLE"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "LIIT\u00c4 kopioitu osio t\u00e4m\u00e4n osion ALAPUOLELLE"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "TYHJENN\u00c4 kopioitu osio muistista"
         }
     }
 }

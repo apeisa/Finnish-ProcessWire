@@ -490,6 +490,63 @@
         },
         "1ce6b5b21ba628d92d00fd22b0c87730": {
             "text": "Kieliversiot"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Tallenna"
+        },
+        "8a59745d5142e82bd08e3d1291f7ab8e": {
+            "text": "Edistynyt"
+        },
+        "6b658422a653aec6309a2e82dab97431": {
+            "text": "%s -moduulin tiedot"
+        },
+        "77abd48d0a4b2599252746283cf415bd": {
+            "text": "Moduulin tiedot"
+        },
+        "a2c1d1243d90b2513936d42ad566ac16": {
+            "text": "(tavallinen)"
+        },
+        "ed1c9d7b961f93beba3c196821a7f26e": {
+            "text": "(laajennettu)"
+        },
+        "e48e0e0aeb991df7402dc118d2567c9b": {
+            "text": "N\u00e4m\u00e4 tiedot tulevat moduulilta, tai ne ovat m\u00e4\u00e4ritetty ajonaikaisesti, joten niit\u00e4 ei voida muokata t\u00e4ss\u00e4."
+        },
+        "8c0375d91ede4cf009a02a855d5b5f79": {
+            "text": "%s -moduulin asetusten raakatiedot"
+        },
+        "baa3355dc6e921ef113ec3a5aed662e0": {
+            "text": "T\u00e4ll\u00e4 moduulilla ei ole asetusdataa"
+        },
+        "490f8475055b941d956558bdd4184b1f": {
+            "text": "\u00e4l\u00e4 poista t\u00e4t\u00e4"
+        },
+        "1e99d98a261b2989a7bb70ac5dfeece1": {
+            "text": "Moduulin asetusdata (raaka\/JSON)"
+        },
+        "03ca76fd12db5f3ef297c5d5fe385fa3": {
+            "text": "Asetusten raakatiedot"
+        },
+        "9256bf7bb7a45066e51b9d36771ce930": {
+            "text": "Raakatiedot"
+        },
+        "d4f92a77a92921fb8ffedd71039834c6": {
+            "text": "Valinnat ovat saatavilla vain kehitystilassa."
+        },
+        "b662bf6fb6b77c6d4fc74b1445ea2362": {
+            "text": "Tallennus ei onnistunut, koska JSON-datan j\u00e4sentely ei onnistunut (virheellinen JSON)"
+        },
+        "5f8e05386fa3c540298134279669bd25": {
+            "text": "Tallennus ei onnistunut, koska JSON-dataa ei tunnistettu kelvolliseksi t\u00e4lle moduulille"
+        },
+        "fcb02bc2c95c6a16020b5ba42bc7f8f4": {
+            "text": "Moduulin asetusdata p\u00e4ivitettiin"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Muutoksia ei l\u00f6ydetty"
+        },
+        "7c5ba2ccfa62e3851cd8896260765e58": {
+            "text": "Tuntematon moduuli"
         }
     }
 }

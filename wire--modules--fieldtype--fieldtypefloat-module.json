@@ -10,6 +10,9 @@
         },
         "21ddca6ecb798f48a109c2289ff413ec": {
             "text": "Kentt\u00e4 joka sis\u00e4lt\u00e4\u00e4 liukuluvun"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Kirjoita negatiivinen luku, kuten `-1` poistaaksesi py\u00f6ristyksen k\u00e4yt\u00f6st\u00e4."
         }
     }
 }

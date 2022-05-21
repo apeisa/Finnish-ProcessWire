@@ -43,6 +43,18 @@
         },
         "1177fb816ddc2935c2a8bc55d22b93b1": {
             "text": "Tyhj\u00e4n arvon tyyppi"
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Moduulin t\u00e4sm\u00e4ytystapa"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "Etuliite"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Periytyminen"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "\"Etuliite\"-valinta on suositeltu suorituskykysyist\u00e4. Jos t\u00e4sm\u00e4ytt\u00e4minen ei toimi odotetusti t\u00e4ll\u00e4 valinnalla, valitse \"Periytyminen\"."
         }
     }
 }

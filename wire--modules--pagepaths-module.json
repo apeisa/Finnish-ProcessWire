@@ -8,8 +8,26 @@
         "b198072961bf47ed9c790c1006f98372": {
             "text": "P\u00e4ivitettiin %d polkua"
         },
-        "0e620fb070fcc5279681b61f5720fb6e": {
-            "text": "Poista moduulin Ydin > PagePaths asennus (moduuli ei ole yhteensopiva LanguageSupportPageNames-moduulin kanssa)"
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Rakenna uudelleen sivupolkujen indeksi %d sivulle"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Rakenna uudelleen"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Arvioitu uudelleenrakennusaika 1000 sivulle on 5 sekuntia."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "J\u00e4rjestelm\u00e4ss\u00e4 on %d k\u00e4sitelt\u00e4v\u00e4\u00e4 sivua."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Tietokannassa on %d moduulin tallentamaa rivi\u00e4 (sivupolkuja ja niiden eri versioita)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Valitse \"Rakenna uudelleen\" luodaksesi indeksin sivupoluista."
+        },
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Sivupolkujen indeksi rakennettiin uudelleen %d sekunnissa."
         }
     }
 }

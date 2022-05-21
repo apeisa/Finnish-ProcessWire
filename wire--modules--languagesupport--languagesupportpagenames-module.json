@@ -28,6 +28,24 @@
         },
         "d5af3f8c985a3592422462cce67bc86c": {
             "text": "Nimi \"%2$s\" on jo rinnakkaisen sivun (id=%1$d) k\u00e4yt\u00f6ss\u00e4, kielell\u00e4 %3$s"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "K\u00e4ytt\u00e4ytyminen kun sivu ei ole saatavilla pyydetyll\u00e4 kielell\u00e4 (mutta on saatavilla oletuskielell\u00e4)"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "T\u00e4m\u00e4 asetus ei ole voimassa, jos sivu on k\u00e4ytt\u00e4j\u00e4n muokattavissa ja on t\u00e4ll\u00f6in my\u00f6s esikatseltavissa."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Palauta 404-virhe (sivua ei l\u00f6ytynyt) - Oletusarvo"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Salli sivun n\u00e4ytt\u00e4minen pyydetyll\u00e4 kielell\u00e4 (jos sivu ladataan suoraan URL-osoitteella)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Uudelleenohjaa 301-ohjauksella (lopullinen) sivuun oletuskielell\u00e4"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Uudelleenohjaa 302-ohjauksella (v\u00e4liaikainen) sivuun oletuskielell\u00e4"
         }
     }
 }

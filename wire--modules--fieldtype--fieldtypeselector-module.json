@@ -10,6 +10,15 @@
         },
         "4795bb99893dc26981eb889746b21499": {
             "text": "Esimerkki: sivupohja=tuote"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Esikatselun sarakkeet"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Kirjoita esikatseltavien sivujen sarakkeiden\/kenttien nimet CSV-muodossa."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Esimerkki: name, template, parent, id"
         }
     }
 }

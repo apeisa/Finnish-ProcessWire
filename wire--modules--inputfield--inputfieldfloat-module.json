@@ -10,6 +10,9 @@
         },
         "211efcb1aa9b0567969d0ce5a18d850c": {
             "text": "Py\u00f6ristystarkkuus. Kirjoita desimaalien lukum\u00e4\u00e4r\u00e4."
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Kirjoita negatiivinen luku, kuten `-1` poistaaksesi py\u00f6ristyksen k\u00e4yt\u00f6st\u00e4."
         }
     }
 }

@@ -190,6 +190,21 @@
         },
         "1f6147d9cbae7fa8c3e213824bce6405": {
             "text": "Salliaksesi julkaisemattomien sivujen k\u00e4yt\u00f6n, muokkaa kentt\u00e4\u00e4 \"%s\" ja muuta asetusta \"Asetukset\"-v\u00e4lilehdell\u00e4."
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Arvon tyyppi"
+        },
+        "2486017626b5debfccb828303675e52c": {
+            "text": "="
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(toimii kaikissa k\u00e4ytt\u00f6tapauksissa, mutta on pakollinen kentille joihin voi valita useita sivuja)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "="
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(vapaaehtoinen yksitt\u00e4isen sivun valinnalle)"
         }
     }
 }

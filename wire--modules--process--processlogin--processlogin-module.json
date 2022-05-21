@@ -86,9 +86,6 @@
         "9e70a5d3dab1960c04b55a29f310331e": {
             "text": "K\u00e4ytt\u00e4j\u00e4nimi tai s\u00e4hk\u00f6postiosoite"
         },
-        "d619a734f94b65d5137233c7d9a8fe69": {
-            "text": "K\u00e4ytt\u00e4\u00e4ksesi kirjautumista s\u00e4hk\u00f6postiosoitteella, [aseta \u201cyksil\u00f6llinen\u201d-asetus k\u00e4ytt\u00f6\u00f6n](%s) s\u00e4hk\u00f6postikent\u00e4lle."
-        },
         "ef8f23f26034e25bcf827a963aa8c8b7": {
             "text": "(klikkaa muuttaaksesi asetuksia)"
         },
@@ -151,6 +148,18 @@
         },
         "eb85010d3dccc246aa17a0a4671be4a4": {
             "text": "Roolit"
+        },
+        "0300fd7b40fcdc00704dac9cff1a831f": {
+            "text": "K\u00e4ytt\u00e4\u00e4ksesi \"S\u00e4hk\u00f6postiosoite\"-kirjautumistapaa:"
+        },
+        "5682f33e4050198546baa582422d61aa": {
+            "text": "S\u00e4hk\u00f6postikent\u00e4lle tulee ottaa k\u00e4ytt\u00f6\u00f6n [\"yksil\u00f6llinen\"-asetus](%s)"
+        },
+        "59a4a5414d86131a42c9e2715b82bb21": {
+            "text": "Kaikille superuser-k\u00e4ytt\u00e4jille tulee asettaa s\u00e4hk\u00f6postiosoite"
+        },
+        "190c0e4ccd74444bc05cda57fa0465fe": {
+            "text": "Katso alla oleva huomautus ottaaksesi asetuksen k\u00e4ytt\u00f6\u00f6n"
         }
     }
 }

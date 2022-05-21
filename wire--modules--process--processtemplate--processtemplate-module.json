@@ -65,12 +65,6 @@
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "Vapaaehtoinen nimike t\u00e4lle sivupohjalle"
         },
-        "b5b8f523cefee8895f19a223c85f431f": {
-            "text": "Hallitse sivupohjan k\u00e4ytt\u00f6oikeuksia"
-        },
-        "23f23b8b2e4cc5c8517468a6d001b3fd": {
-            "text": "Tulosteen v\u00e4limuistitus"
-        },
         "0d4ca2b82aa1381b25348c8509009839": {
             "text": "Poista sivupohja"
         },
@@ -95,9 +89,6 @@
         "3f8255a0588417dee11d58e2b92c59b4": {
             "text": "Sivupohjat joissa on k\u00e4yt\u00f6ss\u00e4 kentt\u00e4: %s"
         },
-        "244561833b6ce4599891cf9e33fb33d6": {
-            "text": "Vapaaehtoiset lis\u00e4asetukset"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Perustiedot"
         },
@@ -121,9 +112,6 @@
         },
         "08b4ed72628b718cbe3158eb2eaf10a2": {
             "text": "J\u00e4rjestelm\u00e4"
-        },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Poista"
         },
         "d5778a8b84efb3233d070016adb93326": {
             "text": "Tallenna"
@@ -176,17 +164,8 @@
         "957ba77c721f931f1ad38ed47b98fd0d": {
             "text": "%d sivua k\u00e4ytt\u00e4\u00e4 sivupohjaa"
         },
-        "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Sivupohjaa ei voi poistaa, koska sivupohjan kentt\u00e4ryhm\u00e4 on 1 muun sivupohjan k\u00e4yt\u00f6ss\u00e4"
-        },
-        "18dec3122ea08276dd94476904bcef7b": {
-            "text": "Sivupohjaa ei voi poistaa, koska sivupohjan kentt\u00e4ryhm\u00e4 on %d muun sivupohjan k\u00e4yt\u00f6ss\u00e4"
-        },
         "0968f67bf85224770756cc134016da2b": {
             "text": "Oletuksena kuhunkin sivupohjaan m\u00e4\u00e4ritet\u00e4\u00e4n sille kuuluvat kent\u00e4t. Jos haluat t\u00e4m\u00e4n sivupohjan k\u00e4ytt\u00e4v\u00e4n jonkin toisen sivupohjan kentti\u00e4, valitse sivupohja t\u00e4h\u00e4n."
-        },
-        "b6b0afb901a4db116f6b8403cf434280": {
-            "text": "Lista t\u00e4m\u00e4n sivupohjan k\u00e4ytt\u00e4mist\u00e4 kentist\u00e4. T\u00e4m\u00e4 sivupohjan k\u00e4ytt\u00e4m\u00e4t kent\u00e4t on m\u00e4\u00e4ritetty sivupohjassa '%s'."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
             "text": "M\u00e4\u00e4rit\u00e4 t\u00e4m\u00e4n sivupohjan v\u00e4limuistin voimassaoloaika sekunteina. V\u00e4limuistitus voi nopeuttaa huomattavasti sivujen tulostusaikaa etenkin runsaasti resursseja k\u00e4ytt\u00e4vill\u00e4 sivuilla. V\u00e4limuistitusta ei kuitenkaan tulisi k\u00e4ytt\u00e4\u00e4 sivupohjissa, joiden tulee k\u00e4sitell\u00e4 jatkuvasti muuttuvaa tietoa, kuten lomakkeita tai session-tietoa. Huomaa, ett\u00e4 URL-segmentit ovat v\u00e4limuistitettavissa, mutta GET- ja POST -muuttujat eiv\u00e4t ole."
@@ -566,14 +545,8 @@
         "ab6b38f8849f9837a2fbb24721ab5e99": {
             "text": "\u00c4l\u00e4 lataa tiedostoa %s ennen sivupohjan tiedostoa"
         },
-        "07bbc1cae53fb8d26759b5564e6a5824": {
-            "text": "T\u00e4m\u00e4 toiminto poistaa k\u00e4yt\u00f6st\u00e4 $config->prependTemplateFile -asetuksen \/site\/config.php -tiedostossa t\u00e4m\u00e4n sivupohjan osalta."
-        },
         "95dac43782405c335b194c4f4ff28436": {
             "text": "\u00c4l\u00e4 lataa tiedostoa %s sivupohjan tiedoston j\u00e4lkeen"
-        },
-        "438f365e84607c69184559ff2e9d974b": {
-            "text": "T\u00e4m\u00e4 toiminto poistaa k\u00e4yt\u00f6st\u00e4 $config->appendTemplateFile -asetuksen \/site\/config.php -tiedostossa t\u00e4m\u00e4n sivupohjan osalta."
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "Haluatko asettaa luku- ja kirjoitusoikeudet t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4ville sivuille?"
@@ -659,9 +632,6 @@
         "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
             "text": "Poista kent\u00e4t sivupohjasta"
         },
-        "5dd56426fff182e0610cc0bf9d389437": {
-            "text": "J\u00e4rjestelm\u00e4\u00e4n liittyv\u00e4t sivupohjan asetukset"
-        },
         "c69da3a709ad376098eb517be436a12b": {
             "text": "Olet pyyt\u00e4nyt kentt\u00e4ryhm\u00e4n vaihtamista ryhm\u00e4st\u00e4 \"%1$s\" ryhm\u00e4\u00e4n \"%2$s\"."
         },
@@ -673,12 +643,6 @@
         },
         "297401f75a53c46e41a44c9d91738f1e": {
             "text": "Olet pyyt\u00e4nyt yhden tai useamman kent\u00e4n poistamista sivupohjasta. T\u00e4m\u00e4 toiminto poistaa kenttiin sy\u00f6tetyn tiedon lopullisesti. Jos poistettavissa kentiss\u00e4 on paljon tietoa, toiminnon suorittaminen voi kest\u00e4\u00e4 jonkin aikaa. Jos haluat jatkaa, rastita alla oleva kentt\u00e4 ja klikkaa \"Poista kent\u00e4t\"."
-        },
-        "7a91f878f0e4c02c502a8d0583b0c6be": {
-            "text": "Vapaaehtoiset asetukset sivun k\u00e4yt\u00f6lle ja asettelulle sivukartassa"
-        },
-        "501dba7089bbfb45c7c1a733477bcdc5": {
-            "text": "Vapaaehtoiset asetukset t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4vien sivujen URL-osoitteille"
         },
         "cac7796ca8e88c31d8b23733cb7aaf03": {
             "text": "*Suorituskyvyn maksimoimiseksi v\u00e4limuistitiedostot vanhenevat ryhm\u00e4n\u00e4, eiv\u00e4t yksitellen."
@@ -704,20 +668,11 @@
         "991dba5ecf8a850b42ffc2e6d0697c2b": {
             "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut tukevat sivunumerointia."
         },
-        "4ee65b65a7329e4d76cce40b69075c2d": {
-            "text": "Voit noutaa nykyisen sivunumeron sivupohjatiedostossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->pageNum."
-        },
         "4295c2949c604273ad18a82924a06684": {
             "text": "Jos valittu, t\u00e4t\u00e4 sivupohjaa k\u00e4ytt\u00e4v\u00e4t sivut tukevat URL-segmenttej\u00e4 sivun URL-osoitteen j\u00e4lkeen."
         },
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
             "text": "Sivupohjan nime\u00e4minen uudelleen ohitettiin"
-        },
-        "b0349bb2d18f943c6aa52c5c038850a0": {
-            "text": "Jos k\u00e4yt\u00e4t [ProCache-moduulia](%s), v\u00e4limuistin asetuksia ei tarvitse m\u00e4\u00e4ritt\u00e4\u00e4 t\u00e4ss\u00e4."
-        },
-        "3f967ce93af0de3a0457071f3d743f14": {
-            "text": "Voit noutaa nykyiset URL-segmentit sivupohjatiedostossa k\u00e4ytt\u00e4m\u00e4ll\u00e4 $input->urlSegmentStr."
         },
         "70445e42e2f9089020b0ba1c23063287": {
             "text": "Tyhjenn\u00e4 tallennettujen sivujen v\u00e4limuisti, sek\u00e4 v\u00e4limuistit muilta sivuilta, jotka vastaavat valitsinta..."
@@ -862,9 +817,6 @@
         },
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Sulje ja Lis\u00e4\u00e4"
-        },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jos et halua k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 ominaisuutta. Kirjoita \"title\" (ilman lainausmerkkej\u00e4) luodaksesi sivun nimen automaattisesti otsikosta. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4ss\u00e4 my\u00f6s esim. p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4. [Lue lis\u00e4\u00e4](http:\/\/processwire.com\/api\/modules\/process-template\/)"
         },
         "3797b58404902683867d788211ac5ce2": {
             "text": "K\u00e4yt\u00e4 k\u00e4\u00e4nnetty\u00e4 sivupohjatiedostoa?"
@@ -1069,6 +1021,24 @@
         },
         "9fc8691fab39cc1433cd39430edb0501": {
             "text": "Lis\u00e4\u00e4 uusi tagi"
+        },
+        "6a0219d2a4cc5325013a373b1da9fa8f": {
+            "text": "T\u00e4m\u00e4 on lista sivupohjan k\u00e4ytt\u00e4mist\u00e4 kentist\u00e4. Sivupohja k\u00e4ytt\u00e4\u00e4 \"%s\"-sivupohjan kentti\u00e4."
+        },
+        "9fbbf36953078c8761263aac49cbcc76": {
+            "text": "J\u00e4t\u00e4 kentt\u00e4 tyhj\u00e4ksi, jos et halua k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 ominaisuutta. Kirjoita \u201ctitle\u201d (ilman lainausmerkkej\u00e4) luodaksesi sivun nimen automaattisesti otsikosta. [Tutustu ohjeisiin](%s) saadaksesi lis\u00e4tietoa kenttien k\u00e4yt\u00f6st\u00e4 ja p\u00e4iv\u00e4m\u00e4\u00e4rien muotoilusta."
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Tagin nimi"
+        },
+        "91f0d9531bc0864da763086363af90e5": {
+            "text": "Voit k\u00e4ytt\u00e4\u00e4 kirjaimia, numeroita, tavuviivoja ja alaviivoja."
+        },
+        "482957b0d6d5c5d4c8de3dd316750d04": {
+            "text": "T\u00e4m\u00e4n sivupohjan kentt\u00e4ryhm\u00e4 on k\u00e4yt\u00f6ss\u00e4 toisessa sivupohjassa."
+        },
+        "19403f055f2e2c7f03b5dab680880b3d": {
+            "text": "T\u00e4m\u00e4n sivupohjan kentt\u00e4ryhm\u00e4 on k\u00e4yt\u00f6ss\u00e4 %d muussa sivupohjassa."
         }
     }
 }

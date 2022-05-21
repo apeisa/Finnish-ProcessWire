@@ -79,6 +79,12 @@
         },
         "aeb9dc1c219e430958416b2390306776": {
             "text": "Purettiin %d tiedostoa"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Polkuun %s ei voida kirjoittaa."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Polun kirjoitusoikeudet tulee sallia ProcessWirelle ennen kuin voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 asennustapaa."
         }
     }
 }

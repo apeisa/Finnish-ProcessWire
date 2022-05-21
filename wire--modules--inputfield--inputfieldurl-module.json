@@ -2,20 +2,20 @@
     "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
-        "34b4cb36f08c1d976a2e58d37d81ce49": {
-            "text": "Aloita paikalliset osoitteet \"\/\" merkill\u00e4 ja j\u00e4t\u00e4 pois \"%s\"."
-        },
         "31d3da8cb2ee3f26243a6157ce0e5634": {
             "text": "Virhe l\u00f6ydetty - tarkista osoitteen muoto."
-        },
-        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
-            "text": "http:\/\/ lis\u00e4ttiin osoitteeseen."
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "Verkkosivun osoite (URL)"
         },
         "1a30197ddff7dc9d65d91f285125cdc2": {
             "text": "URL-osoite, jonka kirjoitusasu tarkistetaan"
+        },
+        "5edb7300e25ff8ec5431cabe04c82592": {
+            "text": "Aloita paikalliset osoitteet \"\/\" merkill\u00e4 ja j\u00e4t\u00e4 pois \"%s\"."
+        },
+        "d3900709c4f1a95486e071e072d412c5": {
+            "text": "Huomaa, ett\u00e4 %s lis\u00e4ttiin osoitteeseen."
         }
     }
 }
