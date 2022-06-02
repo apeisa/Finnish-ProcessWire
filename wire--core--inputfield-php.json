@@ -42,7 +42,7 @@
             "text": "Avoinna jos ei ole tyhj\u00e4 + Suljettu jos on tyhj\u00e4"
         },
         "e75c5e5c17a86f893fac8d2b7b7a3762": {
-            "text": "Avoinna jos ei ole tyhj\u00e4 + Suljettu jos on tyhj\u00e4 + Lataa kentt\u00e4 vain avattaessa (AJAX)"
+            "text": "Avoinna jos ei ole tyhj\u00e4 + Suljettu jos on tyhj\u00e4 + Lataa vain avattaessa (AJAX)"
         },
         "3a28674fd51f34234723d80de10c6382": {
             "text": "Avoinna jos ei ole tyhj\u00e4 + Suljettu jos on tyhj\u00e4 + Lukittu (ei muokattavissa)"
@@ -57,7 +57,7 @@
             "text": "Suljettu + Lukittu (ei muokattavissa)"
         },
         "9101591614e0d079e052d9cbf4e1c203": {
-            "text": "Suljettu + Lataa kentt\u00e4 vain avattaessa (AJAX)"
+            "text": "Suljettu + Lataa vain avattaessa (AJAX)"
         },
         "cb6df4e080dea0319f74d565e587c2b5": {
             "text": "Valinnat jotka sis\u00e4lt\u00e4v\u00e4t merkinn\u00e4n %s eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 toimi kaikilla kentt\u00e4tyypeill\u00e4. Testaa ja varmista yhteensopivuus."
@@ -85,6 +85,15 @@
         },
         "f89871ce31a971990070c480d4c257a6": {
             "text": "Avoinna + lukittu (ei muokattavissa)"
+        },
+        "5c6ba25104401c9ee0650230fc6ba413": {
+            "text": "V\u00e4lilehti"
+        },
+        "8b046be7dfb9e9164cec9e405df4f690": {
+            "text": "V\u00e4lilehti + Lataa vain klikattaessa (AJAX)"
+        },
+        "9e7fc336ff0486af8f5a7ac2f0d99fc8": {
+            "text": "V\u00e4lilehti + Lukittu (ei muokattavissa)"
         }
     }
 }

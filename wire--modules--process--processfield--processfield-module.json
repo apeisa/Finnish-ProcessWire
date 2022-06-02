@@ -643,6 +643,15 @@
         },
         "6809fda0cf4fa4c12e63de08c0aa8b45": {
             "text": "T\u00e4m\u00e4 on j\u00e4rjestelm\u00e4kentt\u00e4. K\u00e4ytt\u00f6oikeuksien m\u00e4\u00e4rittely\u00e4 EI suositella."
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "V\u00e4lilehden nimike"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Jos kentt\u00e4 n\u00e4ytet\u00e4\u00e4n omana v\u00e4lilehten\u00e4\u00e4n, voit halutessasi m\u00e4\u00e4ritt\u00e4\u00e4 v\u00e4lilehdelle kent\u00e4n nimikkeest\u00e4 poikkeavan nimikkeen."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "V\u00e4lilehden nimike tulisi olla lyhyt, esim. vain yhden sanan pituinen."
         }
     }
 }
