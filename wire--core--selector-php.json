@@ -52,6 +52,111 @@
         },
         "8e272ff6747ebe4eb258cb9a94b56902": {
             "text": "Arvo johon verrataan loppuu m\u00e4\u00e4ritettyyn sanaan tai lauseeseen"
+        },
+        "e0df0786238e11ca0d41f67eaf6d3701": {
+            "text": "Laajenna sis\u00e4lt\u00e4m\u00e4\u00e4n mahdolliset liittyv\u00e4t termit ja sanavariaatiot."
+        },
+        "64c83a96645ef7012024814ec8667639": {
+            "text": "Kaikki sanat l\u00f6ytyv\u00e4t arvosta johon verrataan, miss\u00e4 tahansa j\u00e4rjestyksess\u00e4."
+        },
+        "9e71a2e4d3bd54f1b6474e5f5d8cb130": {
+            "text": "Mik\u00e4 tahansa sanoista l\u00f6ytyy arvosta johon verrataan, miss\u00e4 tahansa j\u00e4rjestyksess\u00e4."
+        },
+        "33a59aa39e09c5978b2b2d141957c557": {
+            "text": "Mitk\u00e4 tahansa sanoista l\u00f6ytyv\u00e4t arvosta johon verrataan."
+        },
+        "40fb05e192ca57e10d5c3493ac87ce9a": {
+            "text": "Vertaa kokonaisia sanoja."
+        },
+        "bbb78155a83a765a9db9a5a62b5aef13": {
+            "text": "Vertaa kokonaisia tai osittaisia sanoja."
+        },
+        "e669879b2f0030034d4e297c9be34893": {
+            "text": "Huomioi osittaiset osumat miss\u00e4 tahansa kohtaa sanoja."
+        },
+        "4d0a9e1a622db2b78f0c76fe3dc69e89": {
+            "text": "Huomioi osittaiset osumat sanojen alusta."
+        },
+        "e9663b6a6cd4707c7c9878be874b384b": {
+            "text": "Huomioi osittaiset osumat annetun arvon viimeisess\u00e4 sanassa."
+        },
+        "8fe723f4bcc806144c8521349ae0d4c4": {
+            "text": "K\u00e4ytt\u00e4\u00e4 \"fulltext\" -indeksi\u00e4."
+        },
+        "b95c9268b2e2bd8bf23ac47accef8675": {
+            "text": "K\u00e4ytt\u00e4\u00e4 \"like\" -vertailua."
+        },
+        "5e6b838ff481a8b752ac3b3884880c26": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 osumat riippumatta erotinmerkeist\u00e4 (kuten \"like\")."
+        },
+        "b7afa694212b1d893f5322e280dcb0ff": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 sanat ja laajennetut osumat"
+        },
+        "aa85104e4a4fe9ab184b7535d9b5267f": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 tekstin"
+        },
+        "d9e14c66bbffdeccdde58be4d05eb381": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat"
+        },
+        "b6c1660ddf4644820efed7c7341462f2": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki osittaiset sanat"
+        },
+        "417f745a9fafc021d1ba351c61410a46": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat (\"like\")"
+        },
+        "c7dd4f730f3141e14060ef64d9d620bf": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat alkaen"
+        },
+        "53fe09cda48fac70e10b3770b0d03669": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 kaikki sanat ja laajennetut osumat"
+        },
+        "24f687d4a2739cb2fa454527c5bcaa94": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 mink\u00e4 tahansa sanan"
+        },
+        "06a1edb024c5ba42ef55fc00a9a69172": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 mitk\u00e4 tahansa osittaiset sanat"
+        },
+        "d37f826e5014cdf5c92bb5e9d4a6e3fa": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 mink\u00e4 tahansa sanan (\"like\")"
+        },
+        "60349069f28257eaf778759dd771316e": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 mitk\u00e4 tahansa sanat ja laajennetut osumat"
+        },
+        "5bd610060ed9f4ff92d6dbabc797255a": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 osuman"
+        },
+        "470da3795c671e23b14b97ec714912bb": {
+            "text": "Sis\u00e4lt\u00e4\u00e4 osuman ja laajennetut osumat"
+        },
+        "86a004f4206d0f2133e3aa81d0247c3c": {
+            "text": "Kehittynyt tekstihaku"
+        },
+        "be60d8e8a8aafeefb880343bcaddb16e": {
+            "text": "Vertaa arvoja komennoilla: +Sana PIT\u00c4\u00c4 l\u00f6yty\u00e4, -SANA EI SAA l\u00f6yty\u00e4, Sana ilman etumerkki\u00e4 SAATTAA l\u00f6yty\u00e4."
+        },
+        "9004a4ff1e6a2ceda507ea1986986057": {
+            "text": "Lis\u00e4\u00e4 asteriski niin saat osittaiset osumat: Lat* tai +Lat* hakee lat, lato, latoja; -Lat* puolestaan rajaa ne pois."
+        },
+        "1fb86755a88f3b2c83a11aaaaef0d6ad": {
+            "text": "K\u00e4yt\u00e4 lainausmerkkej\u00e4 jos haluat hakea lauseita: +(Pit\u00e4\u00e4 l\u00f6yty\u00e4), -(Ei saa l\u00f6yty\u00e4), tai (Voi l\u00f6yty\u00e4)"
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "Alkaa"
+        },
+        "7048f4b88df4ffb23ad8175fc2237e22": {
+            "text": "Alkaa (\"like\")"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "P\u00e4\u00e4ttyy"
+        },
+        "0fdd2feb1a1625a723ebb9d9ec57533e": {
+            "text": "P\u00e4\u00e4ttyy (\"like\")"
+        },
+        "4ec9dc2c71f12f57dfccfc105045a3e0": {
+            "text": "Bittioperaatio AND"
+        },
+        "ca03f0701dadffbc2a9b6b25da2792d3": {
+            "text": "Vertaa arvoksi annettua kokonaislukua AND-bittioperaatiolla vertailtavaan kokonaislukuun."
         }
     }
 }
